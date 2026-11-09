@@ -1,0 +1,717 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-novel-grimoire",
+  "seriesUrl": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard",
+  "checkedAt": "2026-10-11T18:12:44.738169+00:00",
+  "chapterCount": 101,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Let's Become a Wizard (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/1",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 2,
+      "title": "Let's Become a Wizard (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/2",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 3,
+      "title": "Let's Become a Wizard (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/3",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 4,
+      "title": "Let's Learn Magic (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/4",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 5,
+      "title": "Let's Learn Magic (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/5",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 6,
+      "title": "Let's Learn Magic (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/6",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 7,
+      "title": "Let's Learn Magic (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/7",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 8,
+      "title": "Let's Learn Magic (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/8",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 9,
+      "title": "Boogie Boogie Boogie (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/9",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 10,
+      "title": "Boogie Boogie Boogie (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/10",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 11,
+      "title": "Boogie Boogie Boogie (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/11",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 12,
+      "title": "Boogie Boogie Boogie (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/12",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 13,
+      "title": "Boogie Boogie Boogie (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/13",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 14,
+      "title": "Boogie Boogie Boogie (6)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/14",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 15,
+      "title": "Cleaning Up (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/15",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 16,
+      "title": "Cleaning Up (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/16",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 17,
+      "title": "Ghostbuster (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/17",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 18,
+      "title": "Ghostbuster (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/18",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 19,
+      "title": "Ghostbuster (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/19",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 20,
+      "title": "Ghostbuster (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/20",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 21,
+      "title": "Ghostbuster (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/21",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 22,
+      "title": "Ghostbuster (6)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/22",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 23,
+      "title": "Ghostbuster (7)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/23",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 24,
+      "title": "Ghostbuster (8)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/24",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 25,
+      "title": "Ghostbuster (9)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/25",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 26,
+      "title": "Ghostbuster (10)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/26",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 27,
+      "title": "Ghostbuster (11)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/27",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 28,
+      "title": "Ghostbuster (12)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/28",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 29,
+      "title": "Master of the Grimoire (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/29",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 30,
+      "title": "Master of the Grimoire (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/30",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 31,
+      "title": "Master of the Grimoire (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/31",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 32,
+      "title": "Master of the Grimoire (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/32",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 33,
+      "title": "Yohan's Bizarre Vacation (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/33",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 34,
+      "title": "Yohan's Bizarre Vacation (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/34",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 35,
+      "title": "Yohan's Bizarre Vacation (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/35",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 36,
+      "title": "Yohan's Bizarre Vacation (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/36",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 37,
+      "title": "Yohan's Bizarre Vacation (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/37",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 38,
+      "title": "Yohan's Bizarre Vacation (6)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/38",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 39,
+      "title": "Yohan's Bizarre Vacation (7)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/39",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 40,
+      "title": "Yohan's Bizarre Vacation (8)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/40",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 41,
+      "title": "Just a Vacation (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/41",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 42,
+      "title": "Just a Vacation (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/42",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 43,
+      "title": "Just a Vacation (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/43",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 44,
+      "title": "Mephistopheles (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/44",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 45,
+      "title": "Mephistopheles (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/45",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 46,
+      "title": "Mephistopheles (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/46",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 47,
+      "title": "Mephistopheles (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/47",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 48,
+      "title": "Mephistopheles (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/48",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 49,
+      "title": "Now, Whoever Sees This— (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/49",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 50,
+      "title": "Now, Whoever Sees This— (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/50",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 51,
+      "title": "Now, Whoever Sees This— (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/51",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 52,
+      "title": "Now, Whoever Sees This— (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/52",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 53,
+      "title": "Now, Whoever Sees This— (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/53",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 54,
+      "title": "Now, Whoever Sees This— (6)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/54",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 55,
+      "title": "Now, Whoever Sees This— (7)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/55",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 56,
+      "title": "Now, Whoever Sees This— (8)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/56",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 57,
+      "title": "The Great One (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/57",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 58,
+      "title": "The Great One (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/58",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 59,
+      "title": "The Great One (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/59",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 60,
+      "title": "The Great One (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/60",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 61,
+      "title": "The Great One (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/61",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 62,
+      "title": "The Great One (6)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/62",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 63,
+      "title": "The Great One (7)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/63",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 64,
+      "title": "The Great One (8)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/64",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 65,
+      "title": "The Great One (9)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/65",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 66,
+      "title": "The Great One (10)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/66",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 67,
+      "title": "The Net Closes In (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/67",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 68,
+      "title": "The Net Closes In (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/68",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 69,
+      "title": "The Net Closes In (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/69",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 70,
+      "title": "The Net Closes In (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/70",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 71,
+      "title": "The Net Closes In (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/71",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 72,
+      "title": "Power-Up (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/72",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 73,
+      "title": "Best Condition (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/73",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 74,
+      "title": "Best Condition (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/74",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 75,
+      "title": "Best Condition (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/75",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 76,
+      "title": "Best Condition (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/76",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 77,
+      "title": "Best Condition (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/77",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 78,
+      "title": "Power-Up! (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/78",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 79,
+      "title": "Power-Up! (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/79",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 80,
+      "title": "Power-Up! (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/80",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 81,
+      "title": "Battle City (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/81",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 82,
+      "title": "Battle City (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/82",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 83,
+      "title": "Battle City (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/83",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 84,
+      "title": "Battle City (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/84",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 85,
+      "title": "Battle City (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/85",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 86,
+      "title": "Battle City (6)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/86",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 87,
+      "title": "Battle City (7)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/87",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 88,
+      "title": "Home for the Lost (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/88",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 89,
+      "title": "Home for the Lost (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/89",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 90,
+      "title": "Home for the Lost (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/90",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 91,
+      "title": "Home for the Lost (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/91",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 92,
+      "title": "Home for the Lost (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/92",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 93,
+      "title": "Wild Hunt (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/93",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 94,
+      "title": "Wild Hunt (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/94",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 95,
+      "title": "Wild Hunt (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/95",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 96,
+      "title": "Wild Hunt (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/96",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 97,
+      "title": "Wild Hunt (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/97",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 98,
+      "title": "You Die (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/98",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 99,
+      "title": "You Die (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/99",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 100,
+      "title": "You Die (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/100",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 101,
+      "title": "You Die (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/101",
+      "premium": false,
+      "publishedAt": null
+    }
+  ]
+}

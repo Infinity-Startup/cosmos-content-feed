@@ -1,0 +1,488 @@
+[
+  {
+    "id": "regressor-blind-saint",
+    "title": "The Regressor and the Blind Saint",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/52"
+  },
+  {
+    "id": "asura-novel-first-prince",
+    "title": "I Became the First Prince: Legend of Sword's Song",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song"
+  },
+  {
+    "id": "asura-novel-raising-villains",
+    "title": "Raising Villains the Right Way",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/raising-villains-the-right-way"
+  },
+  {
+    "id": "asura-novel-black-badger",
+    "title": "Black Badger",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/black-badger"
+  },
+  {
+    "id": "asura-novel-demon-king",
+    "title": "The Demon King Overrun by Heroes",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes"
+  },
+  {
+    "id": "asura-novel-copying-skills",
+    "title": "Copying Skills with Affinity!",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/copying-skills-with-affinity"
+  },
+  {
+    "id": "asura-novel-ode-brave",
+    "title": "Ode of the Brave",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/ode-of-the-brave"
+  },
+  {
+    "id": "asura-novel-solo-swordmaster",
+    "title": "Solo Swordmaster",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/solo-swordmaster"
+  },
+  {
+    "id": "asura-novel-star-swordmaster",
+    "title": "Star-Embracing Swordmaster",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/star-embracing-swordmaster"
+  },
+  {
+    "id": "asura-novel-regressing-knight",
+    "title": "Eternally Regressing Knight",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/eternally-regressing-knight"
+  },
+  {
+    "id": "asura-novel-shepherd-wizard",
+    "title": "The Shepherd Wizard",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-shepherd-wizard"
+  },
+  {
+    "id": "asura-manhwa-barbarian",
+    "title": "Surviving The Game as a Barbarian",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-regressed-mercenary",
+    "title": "The Regressed Mercenary's Machinations",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-pick-me-up",
+    "title": "Pick Me Up, Infinite Gacha",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-overgeared",
+    "title": "Overgeared",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/overgeared-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-suicide-hunter",
+    "title": "SSS-Class Suicide Hunter",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-myst-might-mayhem",
+    "title": "Myst, Might, Mayhem",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-mount-hua",
+    "title": "Return of the Mount Hua Sect",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-deadbeat-noble",
+    "title": "Reformation of the Deadbeat Noble",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-swordmaster-son",
+    "title": "Swordmaster’s Youngest Son",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/swordmasters-youngest-son-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-estate-developer",
+    "title": "The Greatest Estate Developer",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-infinite-mage",
+    "title": "Infinite Mage",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-nano-machine",
+    "title": "Nano Machine",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/nano-machine-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-absolute-sword-sense",
+    "title": "Absolute Sword Sense",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/absolute-sword-sense-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-iron-blooded-sword-hound",
+    "title": "Revenge of the Iron-Blooded Sword Hound",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-helmut",
+    "title": "Helmut: The Forsaken Child",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8"
+  },
+  {
+    "id": "asura-novel-grimoire",
+    "title": "Pick Up a Grimoire, Become a Mage",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard"
+  },
+  {
+    "id": "asura-novel-cultivation-demon-extermination",
+    "title": "The Tale of Cultivation and Demon Extermination",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination"
+  },
+  {
+    "id": "asura-novel-martial-genius",
+    "title": "The Martial Genius Who Remembers Everything",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything"
+  },
+  {
+    "id": "asura-novel-girlfriend-dragon",
+    "title": "My Girlfriend Returned as a Dragon",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon"
+  },
+  {
+    "id": "asura-novel-newbie-civil-servant",
+    "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home"
+  },
+  {
+    "id": "asura-manhwa-childhood-zenith",
+    "title": "Childhood Friend of the Zenith",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-1bb35e56"
+  },
+  {
+    "id": "asura-manhwa-star-swordmaster",
+    "title": "Star-Embracing Swordmaster",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-extras-academy",
+    "title": "The Extra’s Academy Survival Guide",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-returned-player",
+    "title": "Player Who Returned 10,000 Years Later",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-bd5bdaf8"
+  },
+  {
+    "id": "asura-manhwa-steel-eating",
+    "title": "Steel-Eating Player",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8"
+  },
+  {
+    "id": "asura-novel-scheming-demon",
+    "title": "Whispers of a Scheming Demon",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon"
+  },
+  {
+    "id": "asura-novel-limitless-predation",
+    "title": "Limitless Predation",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/limitless-predation"
+  },
+  {
+    "id": "asura-novel-gallery-wild",
+    "title": "Got a Gallery in the Wild",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild"
+  },
+  {
+    "id": "asura-novel-dungeon-painter",
+    "title": "A Painter Who Draws Dungeons",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/a-painter-who-draws-dungeons"
+  },
+  {
+    "id": "asura-novel-roleplayer",
+    "title": "Is It Bad That the Main Character’s a Roleplayer?",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer"
+  },
+  {
+    "id": "asura-manhwa-murim-login",
+    "title": "Murim Login",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/murim-login-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-absolute-regression",
+    "title": "Absolute Regression",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/absolute-regression-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-reincarnation-of-the-fist-king",
+    "title": "Reincarnation of the Fist King",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-return-of-the-unrivaled-spear-knight",
+    "title": "Return of The Unrivaled Spear Knight",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/return-of-the-unrivaled-spear-knight-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-regressing-with-the-kings-power",
+    "title": "Regressing with the King’s Power",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/regressing-with-the-kings-power-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-logging-10000-years-into-the-future",
+    "title": "Logging 10,000 Years into the Future",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/logging-10000-years-into-the-future-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-the-return-of-the-crazy-demon",
+    "title": "The Return of the Crazy Demon",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-return-of-the-crazy-demon-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-the-hero-returns",
+    "title": "The Hero Returns",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-hero-returns-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-doctors-rebirth",
+    "title": "Doctor’s Rebirth",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/doctors-rebirth-ab39de10"
+  },
+  {
+    "id": "asura-manhwa-terminally-ill-genius-dark-knight",
+    "title": "Terminally-Ill Genius Dark Knight",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/terminally-ill-genius-dark-knight-ab39de10"
+  },
+  {
+    "id": "asura-novel-cyberpunk-chivalry",
+    "title": "Cyberpunk Chivalry",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/cyberpunk-chivalry"
+  },
+  {
+    "id": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
+    "title": "Got Dropped into a Ghost Story, Still Gotta Work",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work"
+  },
+  {
+    "id": "asura-novel-this-regression-is-too-much",
+    "title": "This Regression is Too Much",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/this-regression-is-too-much"
+  },
+  {
+    "id": "asura-novel-solo-leveling-ragnarok",
+    "title": "Solo Leveling: Ragnarok",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/solo-leveling-ragnarok"
+  },
+  {
+    "id": "asura-novel-logging-out-is-too-hard",
+    "title": "Logging Out Is Too Hard",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/logging-out-is-too-hard"
+  },
+  {
+    "id": "asura-novel-murim-psychopath",
+    "title": "Murim Psychopath",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/murim-psychopath"
+  },
+  {
+    "id": "asura-novel-reincarnated-sword-demon",
+    "title": "Reincarnated Sword Demon",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/reincarnated-sword-demon"
+  },
+  {
+    "id": "asura-novel-prince-rage",
+    "title": "Prince Rage",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/prince-rage"
+  },
+  {
+    "id": "asura-novel-the-academy-s-weapon-replicator",
+    "title": "The Academy’s Weapon Replicator",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/the-academy-s-weapon-replicator"
+  },
+  {
+    "id": "asura-novel-damn-reincarnation",
+    "title": "Damn Reincarnation",
+    "category": "Novels",
+    "sourceUrl": "https://asurascans.com/novels/damn-reincarnation"
+  },
+  {
+    "id": "asura-manhwa-cyberpunk-chivalry",
+    "title": "Cyberpunk Chivalry",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582"
+  },
+  {
+    "id": "asura-manhwa-killer-pietro",
+    "title": "Killer Pietro",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/killer-pietro-f212c582"
+  },
+  {
+    "id": "asura-manhwa-regressor-of-the-fallen-family",
+    "title": "Regressor of the Fallen family",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582"
+  },
+  {
+    "id": "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group",
+    "title": "The Youngest Son of the Eunhae Merchant Group",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582"
+  },
+  {
+    "id": "asura-manhwa-got-a-gallery-in-the-wild",
+    "title": "Got a Gallery in the Wild",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582"
+  },
+  {
+    "id": "asura-manhwa-30-years-since-the-prologue",
+    "title": "30 Years Since the Prologue",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582"
+  },
+  {
+    "id": "asura-manhwa-sword-devouring-swordmaster",
+    "title": "Sword-Devouring Swordmaster",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582"
+  },
+  {
+    "id": "asura-manhwa-margraves-bastard-son-was-the-emperor",
+    "title": "Margrave’s Bastard Son was The Emperor",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582"
+  },
+  {
+    "id": "asura-manhwa-star-instructor-master-baek",
+    "title": "Star Instructor, Master Baek",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/star-instructor-master-baek-f212c582"
+  },
+  {
+    "id": "asura-manhwa-the-dark-swordsman-returns",
+    "title": "The Dark Swordsman Returns",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582"
+  },
+  {
+    "id": "asura-manhwa-solo-max-level-newbie",
+    "title": "Solo Max-Level Newbie",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/solo-max-level-newbie-f212c582"
+  },
+  {
+    "id": "asura-manhwa-trash-of-the-counts-family",
+    "title": "Trash of the Count’s Family",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582"
+  },
+  {
+    "id": "asura-manhwa-dungeon-odyssey",
+    "title": "Dungeon Odyssey",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/dungeon-odyssey-f212c582"
+  },
+  {
+    "id": "asura-manhwa-the-player-hides-his-past",
+    "title": "The Player Hides His Past",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-player-hides-his-past-f212c582"
+  },
+  {
+    "id": "asura-manhwa-the-ultimate-shut-in",
+    "title": "The Ultimate Shut-In",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582"
+  },
+  {
+    "id": "asura-manhwa-academys-genius-swordmaster",
+    "title": "Academy's Genius Swordmaster",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/academys-genius-swordmaster-f212c582"
+  },
+  {
+    "id": "asura-manhwa-bad-born-blood",
+    "title": "Bad Born Blood",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/bad-born-blood-f212c582"
+  },
+  {
+    "id": "asura-manhwa-the-reincarnated-assassin-is-a-genius-swordsman",
+    "title": "The Reincarnated Assassin is a Genius Swordsman",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-reincarnated-assassin-is-a-genius-swordsman-f212c582"
+  },
+  {
+    "id": "asura-manhwa-the-s-classes-that-i-raised",
+    "title": "The S-Classes That I Raised",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/the-s-classes-that-i-raised-f212c582"
+  },
+  {
+    "id": "asura-manhwa-return-of-the-disaster-class-hero",
+    "title": "Return of the Disaster-Class Hero",
+    "category": "Comics",
+    "sourceUrl": "https://asurascans.com/comics/return-of-the-disaster-class-hero-f212c582"
+  }
+]

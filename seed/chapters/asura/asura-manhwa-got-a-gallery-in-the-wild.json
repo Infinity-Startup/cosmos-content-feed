@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-got-a-gallery-in-the-wild",
+  "seriesUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582",
+  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "chapterCount": 14,
+  "chapters": [
+    {
+      "number": 0.5,
+      "title": "Promo Chapter",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/0.5",
+      "premium": false,
+      "publishedAt": "2026-09-02T21:57:16.199Z"
+    },
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-09-20T16:18:27.108Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-09-20T16:18:44.28Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-09-20T16:19:05.043Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-09-20T16:19:45.232251Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-09-20T16:20:23.056575Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-09-20T16:21:04.395166Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/7",
+      "premium": false,
+      "publishedAt": "2026-09-27T17:45:30.241666Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/8",
+      "premium": false,
+      "publishedAt": "2026-10-04T20:31:06.772092Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/9",
+      "premium": false,
+      "publishedAt": "2026-10-11T15:24:46.808807Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/10",
+      "premium": false,
+      "publishedAt": "2026-10-19T23:28:29.51204Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/11",
+      "premium": false,
+      "publishedAt": "2026-10-25T16:52:46.239061Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/12",
+      "premium": false,
+      "publishedAt": "2026-11-02T18:03:49.781622Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/13",
+      "premium": true,
+      "publishedAt": "2026-11-09T03:19:26.849249Z"
+    }
+  ]
+}

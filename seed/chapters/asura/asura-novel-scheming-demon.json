@@ -1,0 +1,990 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-novel-scheming-demon",
+  "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
+  "checkedAt": "2026-10-12T00:37:14.160082+00:00",
+  "chapterCount": 140,
+  "chapters": [
+    {
+      "number": 0,
+      "title": "The Demon Whispers",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/0",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 1,
+      "title": "The Demon Whispers",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/1",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 2,
+      "title": "The Demon's Sword and Shield",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/2",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 3,
+      "title": "The Damned Half-Breed",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/3",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 4,
+      "title": "Traveling with Another Kind",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/4",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 5,
+      "title": "Ilea",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/5",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 6,
+      "title": "The Blind Boy and the Demon",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/6",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 7,
+      "title": "Raguel Miyatro",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/7",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 8,
+      "title": "The Baronial House’s Forbidden Library",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/8",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 9,
+      "title": "The Witch",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/9",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 10,
+      "title": "The Demon and the Witch (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/10",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 11,
+      "title": "The Demon and the Witch (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/11",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 12,
+      "title": "The Demon and the Witch (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/12",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 13,
+      "title": "The Unhallowed Array's Sacrifice",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/13",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 14,
+      "title": "Evolution",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/14",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 15,
+      "title": "Growth",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/15",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 16,
+      "title": "Yohan Miyatro (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/16",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 17,
+      "title": "Yohan Miyatro (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/17",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 18,
+      "title": "Yohan Miyatro (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/18",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 19,
+      "title": "Taking Control (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/19",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 20,
+      "title": "Taking Control (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/20",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 21,
+      "title": "Shaperia",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/21",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 22,
+      "title": "Kril Miyatro",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/22",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 23,
+      "title": "Resolve",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/23",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 24,
+      "title": "The Attack (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/24",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 25,
+      "title": "The Attack (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/25",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 26,
+      "title": "The Attack (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/26",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 27,
+      "title": "Apostle Beris (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/27",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 28,
+      "title": "Apostle Beris (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/28",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 29,
+      "title": "Apostle and Angel (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/29",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 30,
+      "title": "Apostle and Angel (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/30",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 31,
+      "title": "Sacred Relic (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/31",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 32,
+      "title": "Sacred Relic (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/32",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 33,
+      "title": "The Book of Doom (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/33",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 34,
+      "title": "The Book of Doom (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/34",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 35,
+      "title": "The Book of Doom (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/35",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 36,
+      "title": "The Scribe of the Book of Doom (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/36",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 37,
+      "title": "The Scribe of the Book of Doom (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/37",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 38,
+      "title": "Gawain (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/38",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 39,
+      "title": "Gawain (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/39",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 40,
+      "title": "Confusion",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/40",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 41,
+      "title": "Petty Spirit",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/41",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 42,
+      "title": "An Uncomfortable Reunion (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/42",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 43,
+      "title": "An Uncomfortable Reunion (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/43",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 44,
+      "title": "An Uncomfortable Reunion (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/44",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 45,
+      "title": "A Welcome Reunion (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/45",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 46,
+      "title": "A Welcome Reunion (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/46",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 47,
+      "title": "The Count's Knights (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/47",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 48,
+      "title": "The Count's Knights (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/48",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 49,
+      "title": "Apostle Garnish",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/49",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 50,
+      "title": "The Count's Knights (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/50",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 51,
+      "title": "The Count's Knights (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/51",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 52,
+      "title": "In Another's Shoes",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/52",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 53,
+      "title": "Choice and Resolve",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/53",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 54,
+      "title": "Maphel’tan (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/54",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 55,
+      "title": "Maphel’tan (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/55",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 56,
+      "title": "Kembel (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/56",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 57,
+      "title": "Kembel (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/57",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 58,
+      "title": "Bound for the Abyss",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/58",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 59,
+      "title": "The Mausoleum of Moonshadow (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/59",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 60,
+      "title": "The Mausoleum of Moonshadow (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/60",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 61,
+      "title": "The Mausoleum of Moonshadow (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/61",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 62,
+      "title": "The Mausoleum of Moonshadow (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/62",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 63,
+      "title": "The Mausoleum of Moonshadow (5)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/63",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 64,
+      "title": "The Mausoleum of Moonshadow (6)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/64",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 65,
+      "title": "The Mausoleum of Moonshadow (7)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/65",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 66,
+      "title": "The Mausoleum of Moonshadow (8)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/66",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 67,
+      "title": "Attack on the Royal Capital (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/67",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 68,
+      "title": "Attack on the Royal Capital (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/68",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 69,
+      "title": "Attack on the Royal Capital (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/69",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 70,
+      "title": "Demonic Core",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/70",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 71,
+      "title": "The Count’s Domain (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/71",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 72,
+      "title": "The Count’s Domain (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/72",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 73,
+      "title": "The Count’s Domain (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/73",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 74,
+      "title": "The Count’s Domain (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/74",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 75,
+      "title": "The Count’s Domain (5)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/75",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 76,
+      "title": "The Count’s Domain (6)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/76",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 77,
+      "title": "The Count’s Domain (7)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/77",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 78,
+      "title": "The Count’s Domain (8)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/78",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 79,
+      "title": "The Count’s Domain (9)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/79",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 80,
+      "title": "The Count’s Domain (10)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/80",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 81,
+      "title": "Cromwell Staviana (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/81",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 82,
+      "title": "Cromwell Staviana (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/82",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 83,
+      "title": "Cromwell Staviana (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/83",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 84,
+      "title": "Training",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/84",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 85,
+      "title": "Father and Son (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/85",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 86,
+      "title": "Father and Son (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/86",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 87,
+      "title": "A Complication (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/87",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 88,
+      "title": "A Complication (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/88",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 89,
+      "title": "Battle (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/89",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 90,
+      "title": "Battle (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/90",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 91,
+      "title": "Battle (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/91",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 92,
+      "title": "A Visit",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/92",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 93,
+      "title": "A Way Out",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/93",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 94,
+      "title": "Exploitation",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/94",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 95,
+      "title": "Deception",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/95",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 96,
+      "title": "Misapprehension",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/96",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 97,
+      "title": "Talent",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/97",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 98,
+      "title": "Decision",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/98",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 99,
+      "title": "Notice",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/99",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 100,
+      "title": "To the Capital",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/100",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 101,
+      "title": "Wolfgang de Eisenfeld",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/101",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 102,
+      "title": "Taking Measure",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/102",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 103,
+      "title": "Wolfgang",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/103",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 104,
+      "title": "A Difference of Opinion",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/104",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 105,
+      "title": "Deathshadow's Cleaner",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/105",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 106,
+      "title": "The Royal Capital",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/106",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 107,
+      "title": "An Unexpected Diversion",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/107",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 108,
+      "title": "Suspicion",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/108",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 109,
+      "title": "Horentz Marcano",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/109",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 110,
+      "title": "Horentz Marcano (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/110",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 111,
+      "title": "Serena Marcano",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/111",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 112,
+      "title": "Serena Marcano (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "Haman",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "Berdan",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "The Butler",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/115",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 116,
+      "title": "The Butler (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/116",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 117,
+      "title": "An Unwelcome Guest",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/117",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 118,
+      "title": "An Unwelcome Guest (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 119,
+      "title": "Roderick",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/119",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 120,
+      "title": "Roderick (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/120",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 121,
+      "title": "The Archmage",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "The Archmage (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "Muel",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/123",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 124,
+      "title": "Muel (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "Muel (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "Muel (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "Lumina",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "Lumina (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/128",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 129,
+      "title": "Allies",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/129",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 130,
+      "title": "Mind-Piercing Eye",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/130",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 131,
+      "title": "Mind-Piercing Eye (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/131",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 132,
+      "title": "Serin",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "Serin (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "Serin (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/134",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 135,
+      "title": "Serin (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/135",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 136,
+      "title": "Serin (5)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/136",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 137,
+      "title": "Engagement",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/137",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 138,
+      "title": "Engagement (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/138",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 139,
+      "title": "Mirrors",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/139",
+      "premium": false,
+      "publishedAt": null
+    }
+  ]
+}

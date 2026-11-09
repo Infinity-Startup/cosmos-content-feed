@@ -1,0 +1,745 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-novel-newbie-civil-servant",
+  "seriesUrl": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home",
+  "checkedAt": "2026-10-11T18:12:44.841504+00:00",
+  "chapterCount": 105,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Do You Offer the Four Major Social Insurance Plans?",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/1",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 2,
+      "title": "I'm Looking for a Job",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/2",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 3,
+      "title": "I'm Looking for a Job (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/3",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 4,
+      "title": "I'm the New Recruit",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/4",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 5,
+      "title": "I'm the New Recruit (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/5",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 6,
+      "title": "I'm the New Recruit (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/6",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 7,
+      "title": "Recruitment",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/7",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 8,
+      "title": "Recruitment (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/8",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 9,
+      "title": "A Familiar Face",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/9",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 10,
+      "title": "A Familiar Face (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/10",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 11,
+      "title": "Let's Put It in Writing",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/11",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 12,
+      "title": "Let's Put It in Writing (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/12",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 13,
+      "title": "Don't Get Cocky",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/13",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 14,
+      "title": "Don't Get Cocky (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/14",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 15,
+      "title": "I Don't Like Persistence",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/15",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 16,
+      "title": "I Don't Like Persistence (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/16",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 17,
+      "title": "I've Been Kidnapped",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/17",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 18,
+      "title": "I've Been Kidnapped (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/18",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 19,
+      "title": "I've Got It!",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/19",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 20,
+      "title": "I've Got It! (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/20",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 21,
+      "title": "What Are We Moving?",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/21",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 22,
+      "title": "What Are We Moving? (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/22",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 23,
+      "title": "Found You",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/23",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 24,
+      "title": "Found You (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/24",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 25,
+      "title": "Why Is This Here?",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/25",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 26,
+      "title": "Why Is This Here? (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/26",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 27,
+      "title": "Seeing the Answer First",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/27",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 28,
+      "title": "Seeing the Answer First (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/28",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 29,
+      "title": "That Won’t Work",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/29",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 30,
+      "title": "That Won’t Work (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/30",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 31,
+      "title": "Street Casting",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/31",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 32,
+      "title": "Street Casting (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/32",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 33,
+      "title": "So It's You",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/33",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 34,
+      "title": "So It's You (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/34",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 35,
+      "title": "So It's You (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/35",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 36,
+      "title": "Festival",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/36",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 37,
+      "title": "Festival (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/37",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 38,
+      "title": "Festival (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/38",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 39,
+      "title": "Bombs Are Not Art",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/39",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 40,
+      "title": "Bombs Are Not Art (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/40",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 41,
+      "title": "Bombs Are Not Art (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/41",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 42,
+      "title": "Bombs Are Not Art (4)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/42",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 43,
+      "title": "Unlocked",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/43",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 44,
+      "title": "Here Goes One",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/44",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 45,
+      "title": "Here Goes One (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/45",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 46,
+      "title": "Here Goes One (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/46",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 47,
+      "title": "It Always Starts With the Little Things",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/47",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 48,
+      "title": "It Always Starts With the Little Things (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/48",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 49,
+      "title": "It Always Starts With the Little Things (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/49",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 50,
+      "title": "Special Prison for Criminals",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/50",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 51,
+      "title": "Special Prison for Criminals (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/51",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 52,
+      "title": "Special Prison for Criminals (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/52",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 53,
+      "title": "A Change in Perspective",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/53",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 54,
+      "title": "A Change in Perspective (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/54",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 55,
+      "title": "A Change in Perspective (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/55",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 56,
+      "title": "The Experimental Site",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/56",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 57,
+      "title": "Shh",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/57",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 58,
+      "title": "Shh (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/58",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 59,
+      "title": "Shh (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/59",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 60,
+      "title": "Infiltration",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/60",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 61,
+      "title": "Infiltration (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/61",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 62,
+      "title": "Infiltration (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/62",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 63,
+      "title": "I Thought You Wouldn't Know",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/63",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 64,
+      "title": "I Thought You Wouldn't Know (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/64",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 65,
+      "title": "I Thought You Wouldn't Know (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/65",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 66,
+      "title": "Extra Pay",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/66",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 67,
+      "title": "Extra Pay (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/67",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 68,
+      "title": "Extra Pay (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/68",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 69,
+      "title": "Welcome Party",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/69",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 70,
+      "title": "Welcome Party (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/70",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 71,
+      "title": "Welcome Party (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/71",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 72,
+      "title": "Something Always Happens on a Day Off",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/72",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 73,
+      "title": "Something Always Happens on a Day Off (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/73",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 74,
+      "title": "Testing the Waters",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/74",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 75,
+      "title": "Testing the Waters (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/75",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 76,
+      "title": "Stab",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/76",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 77,
+      "title": "Stab (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/77",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 78,
+      "title": "Stab (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/78",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 79,
+      "title": "Misgivings",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/79",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 80,
+      "title": "Misgivings (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/80",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 81,
+      "title": "All Sorts of Pests Running Wild",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/81",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 82,
+      "title": "All Sorts of Pests Running Wild (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/82",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 83,
+      "title": "All Sorts of Pests Running Wild (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/83",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 84,
+      "title": "A Cup of Tea, a Slice of Cake",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/84",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 85,
+      "title": "A Cup of Tea, a Slice of Cake (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/85",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 86,
+      "title": "A Cup of Tea, a Slice of Cake (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/86",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 87,
+      "title": "One More",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/87",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 88,
+      "title": "One More (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/88",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 89,
+      "title": "I Know You",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/89",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 90,
+      "title": "I Know You (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/90",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 91,
+      "title": "I Know You (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/91",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 92,
+      "title": "You're Going to Give Me a Heart Attack",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/92",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 93,
+      "title": "You're Going to Give Me a Heart Attack (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/93",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 94,
+      "title": "You Said I Could Smash It",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/94",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 95,
+      "title": "You Said I Could Smash It (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/95",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 96,
+      "title": "You Said I Could Smash It (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/96",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 97,
+      "title": "Cosmetics Made from Blood",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/97",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 98,
+      "title": "Cosmetics Made from Blood (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/98",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 99,
+      "title": "Cosmetics Made from Blood (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/99",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 100,
+      "title": "Cosmetics Made from Blood (4)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/100",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 101,
+      "title": "A Terrible Day",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/101",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 102,
+      "title": "A Terrible Day (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/102",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 103,
+      "title": "Amusement Park",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/103",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 104,
+      "title": "Amusement Park (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/104",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 105,
+      "title": "Amusement Park (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/105",
+      "premium": false,
+      "publishedAt": null
+    }
+  ]
+}

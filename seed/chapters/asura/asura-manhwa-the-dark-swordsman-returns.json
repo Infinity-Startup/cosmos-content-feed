@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-the-dark-swordsman-returns",
+  "seriesUrl": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582",
+  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "chapterCount": 73,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/1",
+      "premium": false,
+      "publishedAt": "2025-06-14T23:12:38Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/2",
+      "premium": false,
+      "publishedAt": "2025-06-14T23:44:37Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/3",
+      "premium": false,
+      "publishedAt": "2025-06-14T23:54:39Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/4",
+      "premium": false,
+      "publishedAt": "2025-06-15T14:32:54Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/5",
+      "premium": false,
+      "publishedAt": "2025-06-15T14:33:04Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/6",
+      "premium": false,
+      "publishedAt": "2025-06-15T19:19:36Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/7",
+      "premium": false,
+      "publishedAt": "2025-06-15T19:19:42Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/8",
+      "premium": false,
+      "publishedAt": "2025-06-16T20:18:32Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/9",
+      "premium": false,
+      "publishedAt": "2025-06-25T02:48:37Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/10",
+      "premium": false,
+      "publishedAt": "2025-07-06T08:08:34Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/11",
+      "premium": false,
+      "publishedAt": "2025-07-13T00:45:56Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/12",
+      "premium": false,
+      "publishedAt": "2025-07-17T01:14:33Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/13",
+      "premium": false,
+      "publishedAt": "2025-07-24T11:31:01Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/14",
+      "premium": false,
+      "publishedAt": "2025-08-03T00:20:13Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/15",
+      "premium": false,
+      "publishedAt": "2025-09-12T02:46:19Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/16",
+      "premium": false,
+      "publishedAt": "2025-09-24T00:10:13Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/17",
+      "premium": false,
+      "publishedAt": "2025-09-30T20:10:40Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/18",
+      "premium": false,
+      "publishedAt": "2025-10-12T10:52:14Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/19",
+      "premium": false,
+      "publishedAt": "2025-10-16T00:15:13Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/20",
+      "premium": false,
+      "publishedAt": "2025-10-21T03:28:44Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/21",
+      "premium": false,
+      "publishedAt": "2025-10-31T02:37:19Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/22",
+      "premium": false,
+      "publishedAt": "2025-11-05T21:35:37Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/23",
+      "premium": false,
+      "publishedAt": "2025-11-18T23:42:18Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/24",
+      "premium": false,
+      "publishedAt": "2025-11-19T16:33:15Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/25",
+      "premium": false,
+      "publishedAt": "2025-11-25T23:35:26Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/26",
+      "premium": false,
+      "publishedAt": "2025-12-03T02:07:14Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/27",
+      "premium": false,
+      "publishedAt": "2025-12-09T22:04:13Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/28",
+      "premium": false,
+      "publishedAt": "2025-12-16T01:18:12Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/29",
+      "premium": false,
+      "publishedAt": "2025-12-31T22:29:14Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/30",
+      "premium": false,
+      "publishedAt": "2025-12-31T22:30:11Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/31",
+      "premium": false,
+      "publishedAt": "2026-01-06T08:12:55Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/32",
+      "premium": false,
+      "publishedAt": "2026-01-15T15:05:14Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/33",
+      "premium": false,
+      "publishedAt": "2026-01-20T15:40:44Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/34",
+      "premium": false,
+      "publishedAt": "2026-01-27T04:24:14Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/35",
+      "premium": false,
+      "publishedAt": "2026-02-04T06:26:13Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/36",
+      "premium": false,
+      "publishedAt": "2026-02-11T18:44:13Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/37",
+      "premium": false,
+      "publishedAt": "2026-02-17T03:46:16Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/38",
+      "premium": false,
+      "publishedAt": "2026-02-25T05:06:00Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/39",
+      "premium": false,
+      "publishedAt": "2026-03-02T01:21:15Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/40",
+      "premium": false,
+      "publishedAt": "2026-03-10T23:11:18Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/41",
+      "premium": false,
+      "publishedAt": "2026-03-17T23:16:30Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/42",
+      "premium": false,
+      "publishedAt": "2026-03-22T19:23:05.522Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/43",
+      "premium": false,
+      "publishedAt": "2026-03-30T19:37:07.814Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/44",
+      "premium": false,
+      "publishedAt": "2026-04-09T07:18:13.107Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/45",
+      "premium": false,
+      "publishedAt": "2026-04-13T16:01:29.519Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/46",
+      "premium": false,
+      "publishedAt": "2026-04-23T00:05:28.531Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/47",
+      "premium": false,
+      "publishedAt": "2026-04-28T16:53:55.37Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/48",
+      "premium": false,
+      "publishedAt": "2026-05-05T16:25:59.867Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/49",
+      "premium": false,
+      "publishedAt": "2026-05-14T01:21:50.472Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/50",
+      "premium": false,
+      "publishedAt": "2026-05-17T19:10:04.003Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/51",
+      "premium": false,
+      "publishedAt": "2026-05-26T09:41:56.148Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/52",
+      "premium": false,
+      "publishedAt": "2026-06-01T20:18:26.271894Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/53",
+      "premium": false,
+      "publishedAt": "2026-06-08T19:33:32.877386Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/54",
+      "premium": false,
+      "publishedAt": "2026-06-15T06:53:21.615525Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/55",
+      "premium": false,
+      "publishedAt": "2026-06-29T17:46:29.889704Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/56",
+      "premium": false,
+      "publishedAt": "2026-07-06T09:18:24.145319Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/57",
+      "premium": false,
+      "publishedAt": "2026-07-14T19:53:11.278937Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/58",
+      "premium": false,
+      "publishedAt": "2026-07-19T18:01:38.751562Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/59",
+      "premium": false,
+      "publishedAt": "2026-07-27T04:21:44.180512Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/60",
+      "premium": false,
+      "publishedAt": "2026-08-03T06:56:43.045998Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/61",
+      "premium": false,
+      "publishedAt": "2026-08-09T13:03:20.623964Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/62",
+      "premium": false,
+      "publishedAt": "2026-08-16T14:32:26.778209Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/63",
+      "premium": false,
+      "publishedAt": "2026-08-30T08:32:50.577889Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/64",
+      "premium": false,
+      "publishedAt": "2026-09-06T20:55:19.78427Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/65",
+      "premium": false,
+      "publishedAt": "2026-09-13T16:01:04.119147Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/66",
+      "premium": false,
+      "publishedAt": "2026-09-21T00:18:42.142858Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/67",
+      "premium": false,
+      "publishedAt": "2026-09-28T02:17:10.707664Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/68",
+      "premium": false,
+      "publishedAt": "2026-10-05T00:35:45.075601Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/69",
+      "premium": false,
+      "publishedAt": "2026-10-10T18:10:47.193406Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/70",
+      "premium": false,
+      "publishedAt": "2026-10-18T12:01:50.986936Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/71",
+      "premium": false,
+      "publishedAt": "2026-10-25T17:55:21.553722Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/72",
+      "premium": false,
+      "publishedAt": "2026-10-31T21:38:22.860984Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582/chapter/73",
+      "premium": false,
+      "publishedAt": "2026-11-08T22:48:52.923726Z"
+    }
+  ]
+}

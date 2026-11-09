@@ -1,0 +1,1095 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-suicide-hunter",
+  "seriesUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8",
+  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
+  "chapterCount": 155,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/1",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:19:22Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/2",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:19:33Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/3",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:19:56Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/4",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:20:10Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/5",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:20:15Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/6",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:20:23Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/7",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:20:43Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/8",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:20:45Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/9",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:21:06Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/10",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:21:03Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/11",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:28:46Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/12",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:28:53Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/13",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:29:18Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/14",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:29:31Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/15",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:31:07Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/16",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:31:49Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/17",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:32:47Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/18",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:32:58Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/19",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:33:04Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/20",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:33:09Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/21",
+      "premium": false,
+      "publishedAt": "2022-04-28T12:33:13Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/22",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:19Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/23",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:22Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/24",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:22Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/25",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:22Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/26",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:23Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/27",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:23Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/28",
+      "premium": false,
+      "publishedAt": "2023-03-13T22:37:23Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/29",
+      "premium": false,
+      "publishedAt": "2022-04-28T21:52:14Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/30",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:05:14Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/31",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:05:19Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/32",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:05:27Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/33",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:29Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/34",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:31Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/35",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:33Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/36",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:35Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/37",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:36Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/38",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:38Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/39",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:20:40Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/40",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:30:20Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/41",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:30:22Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/42",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:30:24Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/43",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:30:25Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/44",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:51:05Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/45",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:51:20Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/46",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:00:20Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/47",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:00:14Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/48",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:59:28Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/49",
+      "premium": false,
+      "publishedAt": "2022-04-28T14:59:21Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/50",
+      "premium": false,
+      "publishedAt": "2022-04-30T22:08:24Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/51",
+      "premium": false,
+      "publishedAt": "2022-04-30T22:09:35Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/52",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:02:10Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/53",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:02:47Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/54",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:03:10Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/55",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:04:09Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/56",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:04:40Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/57",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:04:57Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/58",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:05:16Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/59",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:05:36Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/60",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:05:50Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/61",
+      "premium": false,
+      "publishedAt": "2022-04-29T00:41:49Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/62",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:06:39Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/63",
+      "premium": false,
+      "publishedAt": "2022-04-29T08:53:49Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/64",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:07:11Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/65",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:07:25Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/66",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:08:02Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/67",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:08:17Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/68",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:08:33Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/69",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:08:50Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/70",
+      "premium": false,
+      "publishedAt": "2022-04-28T15:09:10Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/71",
+      "premium": false,
+      "publishedAt": "2022-04-28T19:37:03Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/72",
+      "premium": false,
+      "publishedAt": "2022-06-23T15:52:09Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/73",
+      "premium": false,
+      "publishedAt": "2022-05-12T13:59:15Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/74",
+      "premium": false,
+      "publishedAt": "2022-05-26T14:43:44Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/75",
+      "premium": false,
+      "publishedAt": "2022-06-02T14:05:01Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/76",
+      "premium": false,
+      "publishedAt": "2022-06-09T14:16:12Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/77",
+      "premium": false,
+      "publishedAt": "2022-06-16T20:45:40Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/78",
+      "premium": false,
+      "publishedAt": "2022-06-24T11:58:25Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/79",
+      "premium": false,
+      "publishedAt": "2022-07-07T22:29:45Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/80",
+      "premium": false,
+      "publishedAt": "2022-07-14T16:51:40Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/81",
+      "premium": false,
+      "publishedAt": "2023-05-25T16:21:05Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/82",
+      "premium": false,
+      "publishedAt": "2023-05-25T16:21:08Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/83",
+      "premium": false,
+      "publishedAt": "2023-06-01T14:03:34Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/84",
+      "premium": false,
+      "publishedAt": "2023-06-08T14:09:06Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/85",
+      "premium": false,
+      "publishedAt": "2023-06-15T20:52:25Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/86",
+      "premium": false,
+      "publishedAt": "2023-06-22T14:04:54Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/87",
+      "premium": false,
+      "publishedAt": "2023-07-06T14:07:44Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/88",
+      "premium": false,
+      "publishedAt": "2023-07-13T14:50:39Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/89",
+      "premium": false,
+      "publishedAt": "2023-07-20T15:53:16Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/90",
+      "premium": false,
+      "publishedAt": "2023-07-27T14:17:20Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/91",
+      "premium": false,
+      "publishedAt": "2023-08-17T14:41:18Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/92",
+      "premium": false,
+      "publishedAt": "2023-08-17T14:30:57Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/93",
+      "premium": false,
+      "publishedAt": "2023-08-24T14:23:48Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/94",
+      "premium": false,
+      "publishedAt": "2023-09-02T19:45:18Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/95",
+      "premium": false,
+      "publishedAt": "2023-09-07T14:13:33Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/96",
+      "premium": false,
+      "publishedAt": "2023-09-14T13:54:13Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/97",
+      "premium": false,
+      "publishedAt": "2023-10-05T14:42:22Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/98",
+      "premium": false,
+      "publishedAt": "2023-10-12T15:12:23Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/99",
+      "premium": false,
+      "publishedAt": "2023-10-19T15:26:18Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/100",
+      "premium": false,
+      "publishedAt": "2023-10-26T16:22:23Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/101",
+      "premium": false,
+      "publishedAt": "2023-11-11T22:03:34Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/102",
+      "premium": false,
+      "publishedAt": "2023-11-16T15:17:52Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/103",
+      "premium": false,
+      "publishedAt": "2023-11-23T14:55:53Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/104",
+      "premium": false,
+      "publishedAt": "2023-12-01T21:57:34Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/105",
+      "premium": false,
+      "publishedAt": "2023-12-07T15:00:22Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/106",
+      "premium": false,
+      "publishedAt": "2023-12-21T14:58:43Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/107",
+      "premium": false,
+      "publishedAt": "2023-12-28T19:53:50Z"
+    },
+    {
+      "number": 108,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/108",
+      "premium": false,
+      "publishedAt": "2024-01-04T15:33:36Z"
+    },
+    {
+      "number": 109,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/109",
+      "premium": false,
+      "publishedAt": "2024-01-11T14:27:59Z"
+    },
+    {
+      "number": 110,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/110",
+      "premium": false,
+      "publishedAt": "2024-01-27T21:57:54Z"
+    },
+    {
+      "number": 111,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/111",
+      "premium": false,
+      "publishedAt": "2024-02-01T15:42:42Z"
+    },
+    {
+      "number": 112,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/112",
+      "premium": false,
+      "publishedAt": "2024-02-08T15:58:32Z"
+    },
+    {
+      "number": 113,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/113",
+      "premium": false,
+      "publishedAt": "2024-02-22T14:59:34Z"
+    },
+    {
+      "number": 114,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/114",
+      "premium": false,
+      "publishedAt": "2024-03-01T02:06:20Z"
+    },
+    {
+      "number": 115,
+      "title": "{S3 END}",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/115",
+      "premium": false,
+      "publishedAt": "2024-03-08T06:19:26Z"
+    },
+    {
+      "number": 116,
+      "title": "{S4 Start}",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/116",
+      "premium": false,
+      "publishedAt": "2024-12-05T13:51:45Z"
+    },
+    {
+      "number": 117,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/117",
+      "premium": false,
+      "publishedAt": "2024-12-05T14:46:51Z"
+    },
+    {
+      "number": 118,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/118",
+      "premium": false,
+      "publishedAt": "2024-12-05T15:35:03Z"
+    },
+    {
+      "number": 119,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/119",
+      "premium": false,
+      "publishedAt": "2024-12-12T15:04:46Z"
+    },
+    {
+      "number": 120,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/120",
+      "premium": false,
+      "publishedAt": "2024-12-19T19:36:22Z"
+    },
+    {
+      "number": 121,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/121",
+      "premium": false,
+      "publishedAt": "2024-12-26T15:32:58Z"
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/122",
+      "premium": false,
+      "publishedAt": "2025-01-02T14:22:56Z"
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/123",
+      "premium": false,
+      "publishedAt": "2025-01-16T14:41:48Z"
+    },
+    {
+      "number": 124,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/124",
+      "premium": false,
+      "publishedAt": "2025-01-23T14:59:19Z"
+    },
+    {
+      "number": 125,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/125",
+      "premium": false,
+      "publishedAt": "2025-01-30T14:00:42Z"
+    },
+    {
+      "number": 126,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/126",
+      "premium": false,
+      "publishedAt": "2025-02-06T15:40:02Z"
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/127",
+      "premium": false,
+      "publishedAt": "2025-02-13T13:54:02Z"
+    },
+    {
+      "number": 128,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/128",
+      "premium": false,
+      "publishedAt": "2025-02-27T13:48:02Z"
+    },
+    {
+      "number": 129,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/129",
+      "premium": false,
+      "publishedAt": "2025-03-06T14:11:02Z"
+    },
+    {
+      "number": 130,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/130",
+      "premium": false,
+      "publishedAt": "2025-03-13T14:37:02Z"
+    },
+    {
+      "number": 131,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/131",
+      "premium": false,
+      "publishedAt": "2025-03-20T14:46:01Z"
+    },
+    {
+      "number": 132,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/132",
+      "premium": false,
+      "publishedAt": "2025-03-27T14:09:02Z"
+    },
+    {
+      "number": 133,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/133",
+      "premium": false,
+      "publishedAt": "2025-04-10T15:04:02Z"
+    },
+    {
+      "number": 134,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/134",
+      "premium": false,
+      "publishedAt": "2025-04-17T14:21:02Z"
+    },
+    {
+      "number": 135,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/135",
+      "premium": false,
+      "publishedAt": "2025-04-24T13:53:02Z"
+    },
+    {
+      "number": 136,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/136",
+      "premium": false,
+      "publishedAt": "2025-05-01T14:09:02Z"
+    },
+    {
+      "number": 137,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/137",
+      "premium": false,
+      "publishedAt": "2025-05-08T14:15:02Z"
+    },
+    {
+      "number": 138,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/138",
+      "premium": false,
+      "publishedAt": "2025-05-22T14:01:02Z"
+    },
+    {
+      "number": 139,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/139",
+      "premium": false,
+      "publishedAt": "2025-05-29T14:21:21Z"
+    },
+    {
+      "number": 140,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/140",
+      "premium": false,
+      "publishedAt": "2025-06-05T14:19:21Z"
+    },
+    {
+      "number": 141,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/141",
+      "premium": false,
+      "publishedAt": "2025-06-12T14:17:32Z"
+    },
+    {
+      "number": 142,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/142",
+      "premium": false,
+      "publishedAt": "2025-06-19T15:47:14Z"
+    },
+    {
+      "number": 143,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/143",
+      "premium": false,
+      "publishedAt": "2025-07-03T14:45:58Z"
+    },
+    {
+      "number": 144,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/144",
+      "premium": false,
+      "publishedAt": "2025-07-10T14:25:44Z"
+    },
+    {
+      "number": 145,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/145",
+      "premium": false,
+      "publishedAt": "2025-07-17T17:57:36Z"
+    },
+    {
+      "number": 146,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/146",
+      "premium": false,
+      "publishedAt": "2025-07-24T15:10:26Z"
+    },
+    {
+      "number": 147,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/147",
+      "premium": false,
+      "publishedAt": "2025-07-31T15:05:09Z"
+    },
+    {
+      "number": 148,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/148",
+      "premium": false,
+      "publishedAt": "2025-08-14T16:48:05Z"
+    },
+    {
+      "number": 149,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/149",
+      "premium": false,
+      "publishedAt": "2025-08-21T15:12:14Z"
+    },
+    {
+      "number": 150,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/150",
+      "premium": false,
+      "publishedAt": "2025-08-28T15:23:11Z"
+    },
+    {
+      "number": 151,
+      "title": "-S4 END-",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/151",
+      "premium": false,
+      "publishedAt": "2025-09-05T11:18:48Z"
+    },
+    {
+      "number": 152,
+      "title": "{Season 5 Start}",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/152",
+      "premium": false,
+      "publishedAt": "2026-09-25T16:08:52.467797Z"
+    },
+    {
+      "number": 153,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/153",
+      "premium": false,
+      "publishedAt": "2026-09-25T16:56:22.259625Z"
+    },
+    {
+      "number": 154,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/154",
+      "premium": false,
+      "publishedAt": "2026-10-01T15:07:15.447678Z"
+    },
+    {
+      "number": 155,
+      "title": "",
+      "url": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/155",
+      "premium": false,
+      "publishedAt": "2026-10-08T15:02:51.503294Z"
+    }
+  ]
+}

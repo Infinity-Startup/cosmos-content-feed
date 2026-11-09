@@ -1,0 +1,4614 @@
+{
+  "titleId": "asura-manhwa-steel-eating",
+  "revision": 5,
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/2-portrait-v5-0652b20ee564.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "d223781ab45d6e78",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          410,
+          1012,
+          668,
+          1270
+        ],
+        "sourceSize": [
+          800,
+          16231
+        ],
+        "detectedFace": [
+          439.648,
+          1046.289,
+          198.828,
+          188.672
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1315.88,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/4/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/4-portrait-v5-e581d3bac0cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8721,
+        "faceHash": "95a43a07e1fa69d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          114,
+          10090,
+          375,
+          10351
+        ],
+        "sourceSize": [
+          800,
+          14855
+        ],
+        "detectedFace": [
+          153.369,
+          10120.117,
+          183.105,
+          200.391
+        ],
+        "outsideFaceWhiteFraction": 0.0011,
+        "largestWhiteRegion": 0.00085,
+        "sharpness": 2808.94,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/5/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/5-portrait-v5-797b2e99426d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "d4296f72a5e9308d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          373,
+          10530,
+          629,
+          10786
+        ],
+        "sourceSize": [
+          800,
+          13217
+        ],
+        "detectedFace": [
+          407.617,
+          10568.262,
+          187.109,
+          179.883
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2959.15,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/6/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/6-portrait-v5-fb5dda1fb7e3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "9b840c9fb7303f29",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          233,
+          12744,
+          501,
+          13012
+        ],
+        "sourceSize": [
+          800,
+          14685
+        ],
+        "detectedFace": [
+          267.48,
+          12774.609,
+          198.633,
+          206.25
+        ],
+        "outsideFaceWhiteFraction": 0.02753,
+        "largestWhiteRegion": 0.0105,
+        "sharpness": 2945.06,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/7/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/7-portrait-v5-77804a23837e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "d3133b9a84f907e1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          439,
+          11670,
+          754,
+          11985
+        ],
+        "sourceSize": [
+          800,
+          12718
+        ],
+        "detectedFace": [
+          475.781,
+          11707.715,
+          242.188,
+          240.039
+        ],
+        "outsideFaceWhiteFraction": 0.00098,
+        "largestWhiteRegion": 0.00031,
+        "sharpness": 2908.21,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/8/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/8-portrait-v5-dd317cccc86d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "d0957a93d13d268d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          395,
+          4302,
+          651,
+          4558
+        ],
+        "sourceSize": [
+          800,
+          14840
+        ],
+        "detectedFace": [
+          442.383,
+          4339.062,
+          161.328,
+          182.422
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1468.22,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/9/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/9-portrait-v5-dbb3a49c7d3f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "87607a9bf58c523c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          492,
+          5895,
+          748,
+          6151
+        ],
+        "sourceSize": [
+          800,
+          14130
+        ],
+        "detectedFace": [
+          532.617,
+          5942.188,
+          173.828,
+          160.938
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 526.22,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/103/84eebd.webp?v=1784756434",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/103-portrait-v5-32f52dc650a5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "ce336a81b16c735c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          193,
+          9355,
+          449,
+          9611
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          229.944,
+          9400.562,
+          181.714,
+          163.916
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 655.26,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/104/ac4c8a.webp?v=1785381714",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/104-portrait-v5-2b33c1ba23a4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "92653c82b1a8777b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          338,
+          7451,
+          594,
+          7707
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          383.752,
+          7500.751,
+          165.015,
+          156.335
+        ],
+        "outsideFaceWhiteFraction": 0.0004,
+        "largestWhiteRegion": 0.00038,
+        "sharpness": 1381.59,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/106/df7c11.webp?v=1786548218",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/106-portrait-v5-f259dac0d608.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "85f45a932a0f6d6c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          487,
+          1503,
+          842,
+          1858
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          528.003,
+          1548.083,
+          272.9,
+          263.892
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1712.15,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/13/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/13-portrait-v5-a8ed72b6404e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "81f46dc7e06c7b0c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          213,
+          3896,
+          480,
+          4163
+        ],
+        "sourceSize": [
+          800,
+          12863
+        ],
+        "detectedFace": [
+          248.828,
+          3926.758,
+          195.312,
+          205.078
+        ],
+        "outsideFaceWhiteFraction": 0.00087,
+        "largestWhiteRegion": 0.00017,
+        "sharpness": 3687.44,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/14/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/14-portrait-v5-724b83fbc332.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "d3133b9e30f963c0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          470,
+          2206,
+          800,
+          2536
+        ],
+        "sourceSize": [
+          800,
+          9808
+        ],
+        "detectedFace": [
+          546.875,
+          2244.531,
+          234.375,
+          253.906
+        ],
+        "outsideFaceWhiteFraction": 0.00565,
+        "largestWhiteRegion": 0.00485,
+        "sharpness": 2524.08,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/15/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/15-portrait-v5-298c59119001.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "94206aeb4f8d2f9c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          376,
+          13834,
+          666,
+          14124
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          415.625,
+          13867.871,
+          210.938,
+          222.852
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1880.24,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/16/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/16-portrait-v5-07963fa27a98.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "c1693f16a6666666",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          457,
+          932,
+          722,
+          1197
+        ],
+        "sourceSize": [
+          800,
+          13355
+        ],
+        "detectedFace": [
+          494.141,
+          963.086,
+          189.844,
+          203.516
+        ],
+        "outsideFaceWhiteFraction": 0.00066,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2945.6,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/17/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/17-portrait-v5-551696d650b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8408,
+        "faceHash": "94703f6a75c8ca99",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          118,
+          8699,
+          374,
+          8955
+        ],
+        "sourceSize": [
+          800,
+          14295
+        ],
+        "detectedFace": [
+          163.281,
+          8732.422,
+          165.625,
+          188.281
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 3858.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/18/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/18-portrait-v5-9741175c0e95.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "94041e675b9b71cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          391,
+          4078,
+          728,
+          4415
+        ],
+        "sourceSize": [
+          800,
+          13600
+        ],
+        "detectedFace": [
+          444.531,
+          4117.188,
+          230.469,
+          259.375
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1720.63,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/19/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/19-portrait-v5-2ecc37d25106.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "95e478cfc1386738",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          264,
+          9193,
+          520,
+          9449
+        ],
+        "sourceSize": [
+          800,
+          13286
+        ],
+        "detectedFace": [
+          299.121,
+          9235.938,
+          185.742,
+          169.141
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2153.19,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/20-portrait-v5-6c1c388d0009.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "d5a62ac59dcb6143",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          55,
+          8176,
+          349,
+          8470
+        ],
+        "sourceSize": [
+          800,
+          13275
+        ],
+        "detectedFace": [
+          96.484,
+          8210.352,
+          211.719,
+          226.172
+        ],
+        "outsideFaceWhiteFraction": 0.00377,
+        "largestWhiteRegion": 0.00117,
+        "sharpness": 6294.54,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/21/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/21-portrait-v5-838095ece632.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "c0f05ec7390e37e8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          134,
+          10700,
+          390,
+          10956
+        ],
+        "sourceSize": [
+          800,
+          11884
+        ],
+        "detectedFace": [
+          168.994,
+          10734.766,
+          185.059,
+          186.719
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1014.37,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/22-portrait-v5-954a651adc54.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8789,
+        "faceHash": "93217bc6e03c6769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          92,
+          8598,
+          348,
+          8854
+        ],
+        "sourceSize": [
+          800,
+          14995
+        ],
+        "detectedFace": [
+          140.625,
+          8644.531,
+          158.984,
+          162.109
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 810.98,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/23/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/23-portrait-v5-5a437f7764d2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "86c72bcee438352d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          167,
+          6057,
+          423,
+          6313
+        ],
+        "sourceSize": [
+          800,
+          14725
+        ],
+        "detectedFace": [
+          212.207,
+          6099.561,
+          164.648,
+          171.777
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1506.27,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/24/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/24-portrait-v5-742c620a9bf2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "93ba3d92b0cd630d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          169,
+          13913,
+          425,
+          14169
+        ],
+        "sourceSize": [
+          800,
+          14990
+        ],
+        "detectedFace": [
+          203.711,
+          13949.658,
+          187.109,
+          182.715
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1415.49,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/25/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/25-portrait-v5-9d1496003c59.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "8a007f6d5e546d53",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          123,
+          5124,
+          441,
+          5442
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          160.156,
+          5160.84,
+          244.531,
+          244.727
+        ],
+        "outsideFaceWhiteFraction": 0.01582,
+        "largestWhiteRegion": 0.01338,
+        "sharpness": 3303.72,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/26/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/26-portrait-v5-a08b0a32099e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "fad506ea00ef205f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          205,
+          5563,
+          565,
+          5923
+        ],
+        "sourceSize": [
+          800,
+          13605
+        ],
+        "detectedFace": [
+          246.387,
+          5612.891,
+          276.758,
+          260.938
+        ],
+        "outsideFaceWhiteFraction": 0.00162,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 4370.64,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/27/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/27-portrait-v5-bff6c5885455.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "dd780996bfa022e5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          453,
+          11836,
+          759,
+          12142
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          469.141,
+          11871.68,
+          231.25,
+          235.547
+        ],
+        "outsideFaceWhiteFraction": 0.01216,
+        "largestWhiteRegion": 0.00676,
+        "sharpness": 3636.14,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/28/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/28-portrait-v5-313c532bc6a3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "80bd3ba6d49f601e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          426,
+          9855,
+          682,
+          10111
+        ],
+        "sourceSize": [
+          800,
+          13385
+        ],
+        "detectedFace": [
+          483.008,
+          9898.438,
+          142.578,
+          169.141
+        ],
+        "outsideFaceWhiteFraction": 0.00127,
+        "largestWhiteRegion": 0.00047,
+        "sharpness": 3961.81,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/29/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/29-portrait-v5-1a2127ff4426.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "d3676bc2b1ba2609",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          171,
+          10726,
+          451,
+          11006
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          210.84,
+          10758.789,
+          200.586,
+          215.234
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2116.24,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/31/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/31-portrait-v5-7a617bfc17f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "c4787fc3d08b329c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          134,
+          8943,
+          392,
+          9201
+        ],
+        "sourceSize": [
+          800,
+          14144
+        ],
+        "detectedFace": [
+          164.014,
+          8986.719,
+          198.535,
+          171.094
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 721.48,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/32/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/32-portrait-v5-7e2ca5beba6c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "d4257bd2f0d83619",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          144,
+          4196,
+          548,
+          4600
+        ],
+        "sourceSize": [
+          800,
+          14030
+        ],
+        "detectedFace": [
+          190.137,
+          4244.727,
+          310.742,
+          305.859
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1972.34,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/33/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/33-portrait-v5-570e79881500.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "81256ec7e58a77a8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          89,
+          1917,
+          400,
+          2228
+        ],
+        "sourceSize": [
+          800,
+          12133
+        ],
+        "detectedFace": [
+          140.625,
+          1952.539,
+          208.203,
+          239.453
+        ],
+        "outsideFaceWhiteFraction": 0.00162,
+        "largestWhiteRegion": 0.00162,
+        "sharpness": 1174.08,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/34-portrait-v5-f873a8a1837d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "85381b67d9df6190",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          218,
+          8702,
+          604,
+          9088
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          280.762,
+          8746.289,
+          261.133,
+          297.266
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2279.49,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/35/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/35-portrait-v5-3efc67adb12c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "85692bc7819f21f5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          275,
+          10824,
+          531,
+          11080
+        ],
+        "sourceSize": [
+          800,
+          12852
+        ],
+        "detectedFace": [
+          331.445,
+          10873.389,
+          142.578,
+          156.934
+        ],
+        "outsideFaceWhiteFraction": 0.00235,
+        "largestWhiteRegion": 0.00061,
+        "sharpness": 2312.35,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/36-portrait-v5-a41259c3f04b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "966668cd619936b9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          364,
+          3864,
+          620,
+          4120
+        ],
+        "sourceSize": [
+          800,
+          14800
+        ],
+        "detectedFace": [
+          421.68,
+          3909.277,
+          141.016,
+          165.82
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 921.58,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/99/ec325a.webp?v=1782412084",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/99-portrait-v5-9fca2c1fa926.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "de25299235cd36b8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          491,
+          4979,
+          837,
+          5325
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          530.42,
+          5023.279,
+          266.309,
+          257.739
+        ],
+        "outsideFaceWhiteFraction": 0.00917,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 964.34,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/101/065787.webp?v=1783530999",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/101-portrait-v5-a1877109dea6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "819c2f53a56b33cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          523,
+          13536,
+          779,
+          13792
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          567.114,
+          13570.972,
+          168.311,
+          186.108
+        ],
+        "outsideFaceWhiteFraction": 0.01007,
+        "largestWhiteRegion": 0.00575,
+        "sharpness": 1297.17,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/102/5ed4b1.webp?v=1784131681",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/102-portrait-v5-e64634934511.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "803b783f80bdcee1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          162,
+          2060,
+          448,
+          2346
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          212.476,
+          2078.394,
+          226.318,
+          248.511
+        ],
+        "outsideFaceWhiteFraction": 0.03831,
+        "largestWhiteRegion": 0.01736,
+        "sharpness": 1856.1,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/107/792e1a.webp?v=1787170453",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/107-portrait-v5-8462f778d881.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "902e3ff02e4b6cc9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          387,
+          4401,
+          839,
+          4853
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          407.593,
+          4469.128,
+          347.607,
+          315.747
+        ],
+        "outsideFaceWhiteFraction": 0.0051,
+        "largestWhiteRegion": 0.00485,
+        "sharpness": 1835.92,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/108/e84684.webp?v=1787761836",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/108-portrait-v5-8bbbcd263452.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "94356ec67d09694d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          72,
+          10189,
+          392,
+          10509
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          108.545,
+          10233.875,
+          246.094,
+          230.933
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 957.42,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/109/b827e1.webp?v=1788474938",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/109-portrait-v5-5b2d77ed48d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "923e3ef126cc2969",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          413,
+          8208,
+          675,
+          8470
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          443.738,
+          8253.534,
+          201.489,
+          170.178
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 627.64,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/110/a2926e.webp?v=1788972150",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/110-portrait-v5-2f6ffd315083.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8745,
+        "faceHash": "d53c6a96655a5b18",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          31,
+          825,
+          287,
+          1081
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          82.123,
+          871.985,
+          154.138,
+          161.06
+        ],
+        "outsideFaceWhiteFraction": 0.00049,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 1298.7,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/111/82d0d1.webp?v=1789579100",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/111-portrait-v5-dc0c853100d9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "942a6b956796ce92",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          161,
+          8944,
+          417,
+          9200
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          198.578,
+          8984.454,
+          179.846,
+          175.671
+        ],
+        "outsideFaceWhiteFraction": 0.04393,
+        "largestWhiteRegion": 0.01094,
+        "sharpness": 2028.74,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/113/198a89.webp?v=1790761493",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/113-portrait-v5-0ba0a17afed1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "956a7ea5b895c903",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          219,
+          11253,
+          631,
+          11665
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          297.839,
+          11326.245,
+          253.784,
+          265.869
+        ],
+        "outsideFaceWhiteFraction": 0.0161,
+        "largestWhiteRegion": 0.01599,
+        "sharpness": 1347.58,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/114/8da154.webp?v=1791726945",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/114-portrait-v5-d708b2036358.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "86693bd2b09e255e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          322,
+          14687,
+          667,
+          15032
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          362.219,
+          14730.029,
+          265.21,
+          259.277
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1073.48,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/37/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/37-portrait-v5-11f5750a04d9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "9ce16bcf72742492",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          177,
+          3978,
+          433,
+          4234
+        ],
+        "sourceSize": [
+          800,
+          11623
+        ],
+        "detectedFace": [
+          231.348,
+          4038.867,
+          147.461,
+          133.984
+        ],
+        "outsideFaceWhiteFraction": 0.00157,
+        "largestWhiteRegion": 0.00064,
+        "sharpness": 3456.91,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/38-portrait-v5-af27ab797f9a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "95b13d92963c366c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          349,
+          12943,
+          605,
+          13199
+        ],
+        "sourceSize": [
+          800,
+          14505
+        ],
+        "detectedFace": [
+          397.266,
+          12996.094,
+          159.375,
+          150.0
+        ],
+        "outsideFaceWhiteFraction": 0.00038,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 2316.58,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/39/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/39-portrait-v5-8117fa8547fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "96ed3ac7d48c0e49",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          218,
+          8487,
+          539,
+          8808
+        ],
+        "sourceSize": [
+          800,
+          12968
+        ],
+        "detectedFace": [
+          254.98,
+          8526.562,
+          246.68,
+          241.016
+        ],
+        "outsideFaceWhiteFraction": 0.00511,
+        "largestWhiteRegion": 0.00061,
+        "sharpness": 6869.76,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/40/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/40-portrait-v5-db3c058ed505.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "912c68969199e7f9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          402,
+          8210,
+          690,
+          8498
+        ],
+        "sourceSize": [
+          800,
+          13014
+        ],
+        "detectedFace": [
+          405.273,
+          8228.125,
+          237.891,
+          250.781
+        ],
+        "outsideFaceWhiteFraction": 0.00156,
+        "largestWhiteRegion": 0.00108,
+        "sharpness": 2769.04,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/41/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/41-portrait-v5-c51bed9ec33c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8364,
+        "faceHash": "80f01eb3cf1b318f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          172,
+          7244,
+          616,
+          7688
+        ],
+        "sourceSize": [
+          800,
+          14805
+        ],
+        "detectedFace": [
+          220.605,
+          7220.508,
+          347.07,
+          431.25
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 3356.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/42/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/42-portrait-v5-c403c372d820.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "88dc2ee581b7743c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          73,
+          11962,
+          329,
+          12218
+        ],
+        "sourceSize": [
+          800,
+          14345
+        ],
+        "detectedFace": [
+          135.352,
+          12017.773,
+          130.469,
+          144.922
+        ],
+        "outsideFaceWhiteFraction": 0.00214,
+        "largestWhiteRegion": 0.00098,
+        "sharpness": 1413.5,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/43/003.webp?v=1785670553",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/43-portrait-v5-7760dc6e50c0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "946a3b53f08ce64d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          150,
+          6576,
+          455,
+          6881
+        ],
+        "sourceSize": [
+          800,
+          11545
+        ],
+        "detectedFace": [
+          184.668,
+          6614.16,
+          234.961,
+          229.492
+        ],
+        "outsideFaceWhiteFraction": 0.01407,
+        "largestWhiteRegion": 0.00717,
+        "sharpness": 3069.92,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/44/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/44-portrait-v5-f7c5b841b580.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "d0b43b1f323a27c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          230,
+          8159,
+          570,
+          8499
+        ],
+        "sourceSize": [
+          800,
+          13744
+        ],
+        "detectedFace": [
+          268.652,
+          8210.156,
+          261.914,
+          237.5
+        ],
+        "outsideFaceWhiteFraction": 0.00047,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 4206.2,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/46/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/46-portrait-v5-e27d9726e56f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "d62c3b66619a64d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          86,
+          11827,
+          342,
+          12083
+        ],
+        "sourceSize": [
+          800,
+          13211
+        ],
+        "detectedFace": [
+          129.98,
+          11863.086,
+          167.773,
+          183.203
+        ],
+        "outsideFaceWhiteFraction": 0.00685,
+        "largestWhiteRegion": 0.00685,
+        "sharpness": 2273.0,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/47/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/47-portrait-v5-575bd5093d2f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.856,
+        "faceHash": "9d357ad6244cc699",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          403,
+          6545,
+          646,
+          6788
+        ],
+        "sourceSize": [
+          800,
+          13333
+        ],
+        "detectedFace": [
+          406.25,
+          6537.5,
+          235.938,
+          225.781
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2861.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/48/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/48-portrait-v5-4c4c0307dafa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "87b52ccf33786648",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          363,
+          4127,
+          664,
+          4428
+        ],
+        "sourceSize": [
+          800,
+          13695
+        ],
+        "detectedFace": [
+          398.047,
+          4180.664,
+          231.25,
+          193.359
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 496.61,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/49/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/49-portrait-v5-7e3bab5caa2a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "d2383fe3c0cf039c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          451,
+          1057,
+          714,
+          1320
+        ],
+        "sourceSize": [
+          800,
+          14315
+        ],
+        "detectedFace": [
+          490.43,
+          1087.695,
+          184.766,
+          201.953
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2319.68,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/50/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/50-portrait-v5-07bd50659646.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "92206e87b4b9dbcc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          89,
+          3007,
+          345,
+          3263
+        ],
+        "sourceSize": [
+          800,
+          12492
+        ],
+        "detectedFace": [
+          149.17,
+          3065.234,
+          135.645,
+          140.039
+        ],
+        "outsideFaceWhiteFraction": 0.00227,
+        "largestWhiteRegion": 0.0016,
+        "sharpness": 3624.23,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/51/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/51-portrait-v5-f4207d73f97c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "f86a94c121fe35cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          272,
+          10147,
+          528,
+          10403
+        ],
+        "sourceSize": [
+          800,
+          13045
+        ],
+        "detectedFace": [
+          321.777,
+          10189.258,
+          156.055,
+          170.703
+        ],
+        "outsideFaceWhiteFraction": 0.00471,
+        "largestWhiteRegion": 0.00247,
+        "sharpness": 1609.58,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/52-portrait-v5-b7748d5bc982.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "c1b9298a94df336c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          29,
+          10697,
+          306,
+          10974
+        ],
+        "sourceSize": [
+          800,
+          13585
+        ],
+        "detectedFace": [
+          71.094,
+          10729.492,
+          193.359,
+          212.891
+        ],
+        "outsideFaceWhiteFraction": 0.01411,
+        "largestWhiteRegion": 0.00803,
+        "sharpness": 3363.98,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/53/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/53-portrait-v5-7250d602bff4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "973928c6957a3789",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          69,
+          13331,
+          325,
+          13587
+        ],
+        "sourceSize": [
+          800,
+          14995
+        ],
+        "detectedFace": [
+          109.326,
+          13370.752,
+          174.902,
+          177.246
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1323.45,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/55/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/55-portrait-v5-ce566a13ac6f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "c091ff1794cf60d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          80,
+          7169,
+          398,
+          7487
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          147.949,
+          7225.293,
+          183.008,
+          205.469
+        ],
+        "outsideFaceWhiteFraction": 0.05281,
+        "largestWhiteRegion": 0.00928,
+        "sharpness": 2887.19,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/57/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/57-portrait-v5-ee832422c618.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "96e16a8d3936669a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          270,
+          11058,
+          555,
+          11343
+        ],
+        "sourceSize": [
+          800,
+          14620
+        ],
+        "detectedFace": [
+          309.668,
+          11090.234,
+          206.445,
+          219.531
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1392.6,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/59/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/59-portrait-v5-004eb0816268.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "95a17cd2a57a2669",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          480,
+          9780,
+          736,
+          10036
+        ],
+        "sourceSize": [
+          800,
+          14635
+        ],
+        "detectedFace": [
+          528.32,
+          9816.992,
+          159.766,
+          181.25
+        ],
+        "outsideFaceWhiteFraction": 0.00899,
+        "largestWhiteRegion": 0.00316,
+        "sharpness": 3156.44,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/60-portrait-v5-46fd85f551ea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "97656aa3952d271c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          239,
+          7786,
+          495,
+          8042
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          295.703,
+          7835.889,
+          142.969,
+          155.762
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1123.45,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/61/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/61-portrait-v5-6b8cd32711d2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "9c586b8764f0762b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          87,
+          12632,
+          390,
+          12935
+        ],
+        "sourceSize": [
+          800,
+          13919
+        ],
+        "detectedFace": [
+          121.973,
+          12680.566,
+          233.398,
+          206.25
+        ],
+        "outsideFaceWhiteFraction": 0.00969,
+        "largestWhiteRegion": 0.00858,
+        "sharpness": 2619.97,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/62/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/62-portrait-v5-07468dc2ef31.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "973b3a97a54c62d0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          445,
+          5214,
+          701,
+          5470
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          490.82,
+          5244.531,
+          164.453,
+          194.531
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 795.82,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/63/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/63-portrait-v5-6e43dfdcd0cb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "85203e97e55bd299",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          544,
+          11661,
+          800,
+          11917
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          633.203,
+          11720.215,
+          140.625,
+          138.477
+        ],
+        "outsideFaceWhiteFraction": 0.00522,
+        "largestWhiteRegion": 0.00284,
+        "sharpness": 1085.92,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/65-portrait-v5-b7153d6883c3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "d1793b12959a6699",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          445,
+          8313,
+          737,
+          8605
+        ],
+        "sourceSize": [
+          800,
+          14575
+        ],
+        "detectedFace": [
+          489.844,
+          8346.875,
+          202.344,
+          225.0
+        ],
+        "outsideFaceWhiteFraction": 0.00165,
+        "largestWhiteRegion": 0.00153,
+        "sharpness": 1170.33,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/66/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/66-portrait-v5-ea640085f403.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "c5bc6b5221787789",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          268,
+          6805,
+          540,
+          7077
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          305.273,
+          6836.719,
+          197.266,
+          208.984
+        ],
+        "outsideFaceWhiteFraction": 0.00412,
+        "largestWhiteRegion": 0.00098,
+        "sharpness": 2651.86,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/68/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/68-portrait-v5-90584ac159f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "95e61a6769d86338",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          396,
+          9755,
+          758,
+          10117
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          448.633,
+          9796.387,
+          255.859,
+          278.32
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2161.32,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/69/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/69-portrait-v5-f842b16a7e55.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "ca603e96f1c9c6b4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          64,
+          6217,
+          369,
+          6522
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          99.414,
+          6259.668,
+          234.375,
+          220.508
+        ],
+        "outsideFaceWhiteFraction": 0.0018,
+        "largestWhiteRegion": 0.0018,
+        "sharpness": 1729.49,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/70/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/70-portrait-v5-c18779c2f198.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "c3343ac36c3eb2d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          341,
+          4327,
+          597,
+          4583
+        ],
+        "sourceSize": [
+          800,
+          14945
+        ],
+        "detectedFace": [
+          381.152,
+          4372.363,
+          175.195,
+          166.211
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 974.26,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/71/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/71-portrait-v5-a22ce7d9980b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "d5bd6bc260cd0d0d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          105,
+          7932,
+          361,
+          8188
+        ],
+        "sourceSize": [
+          800,
+          11895
+        ],
+        "detectedFace": [
+          137.5,
+          7967.969,
+          190.625,
+          183.203
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 835.8,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/1/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/1-portrait-v5-95ee43d59e21.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8008,
+        "faceHash": "c06f2c93ec4b35ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          303,
+          4865,
+          778,
+          5340
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          337.695,
+          4840.234,
+          405.859,
+          460.938
+        ],
+        "outsideFaceWhiteFraction": 0.00468,
+        "largestWhiteRegion": 0.00183,
+        "sharpness": 2637.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/3/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/3-portrait-v5-6303a88a1115.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.834,
+        "faceHash": "d5306ac1e19f61d6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          155,
+          14116,
+          359,
+          14320
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          160.986,
+          14109.473,
+          192.48,
+          191.211
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1634.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/10-portrait-v5-bb2a6e67e6d5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8418,
+        "faceHash": "c46e4ec7d56528c6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          235,
+          2530,
+          523,
+          2818
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          267.969,
+          2578.564,
+          221.484,
+          190.137
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2021.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/11-portrait-v5-262ecf60b859.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "87276ec77998382c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          177,
+          5746,
+          525,
+          6094
+        ],
+        "sourceSize": [
+          690,
+          9760
+        ],
+        "detectedFace": [
+          217.562,
+          5791.022,
+          267.678,
+          257.908
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 1708.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/12/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/12-portrait-v5-7a8fbf347d42.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7925,
+        "faceHash": "c08d4f5a4d6b3ca5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          363,
+          492,
+          713,
+          842
+        ],
+        "sourceSize": [
+          800,
+          12173
+        ],
+        "detectedFace": [
+          403.32,
+          542.383,
+          269.141,
+          249.609
+        ],
+        "outsideFaceWhiteFraction": 0.00031,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 2928.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/30-portrait-v5-1aa0d7f9e3da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "93256a87f11ee19c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          248,
+          12792,
+          741,
+          13285
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          329.199,
+          12849.219,
+          329.883,
+          378.906
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 3714.95,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/45-portrait-v5-4f5b0a21dbc8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7036,
+        "faceHash": "d0237f03c5c833f5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          130,
+          9204,
+          651,
+          9725
+        ],
+        "sourceSize": [
+          800,
+          14550
+        ],
+        "detectedFace": [
+          190.43,
+          9266.797,
+          400.391,
+          396.094
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2254.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/56-portrait-v5-794bc69297ef.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8013,
+        "faceHash": "9e7469cb71724c38",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          335,
+          1223,
+          597,
+          1485
+        ],
+        "sourceSize": [
+          800,
+          14775
+        ],
+        "detectedFace": [
+          390.723,
+          1253.32,
+          151.367,
+          201.562
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1513.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/58/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/58-portrait-v5-8a14543ff2c0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8369,
+        "faceHash": "b53d312498f66eb0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          248,
+          591,
+          463,
+          806
+        ],
+        "sourceSize": [
+          800,
+          14495
+        ],
+        "detectedFace": [
+          251.172,
+          579.102,
+          176.172,
+          208.984
+        ],
+        "outsideFaceWhiteFraction": 0.00449,
+        "largestWhiteRegion": 0.00397,
+        "sharpness": 2602.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/64/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/64-portrait-v5-ea8f45a152ca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "97206b16d55976c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          248,
+          11426,
+          504,
+          11682
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          303.516,
+          11487.5,
+          145.312,
+          133.203
+        ],
+        "outsideFaceWhiteFraction": 0.01999,
+        "largestWhiteRegion": 0.00356,
+        "sharpness": 4932.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/67/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/67-portrait-v5-3e8ec5cc891d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8037,
+        "faceHash": "c43e4e06e48af4db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          284,
+          1346,
+          799,
+          1861
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          307.617,
+          1388.086,
+          466.797,
+          500.391
+        ],
+        "outsideFaceWhiteFraction": 0.0024,
+        "largestWhiteRegion": 0.00139,
+        "sharpness": 3493.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/90/003.webp?v=1782648157",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/90-portrait-v5-78c58280b8b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8242,
+        "faceHash": "cced6c82f0b97219",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          258,
+          6108,
+          589,
+          6439
+        ],
+        "sourceSize": [
+          800,
+          13414
+        ],
+        "detectedFace": [
+          296.094,
+          6150.977,
+          254.688,
+          245.703
+        ],
+        "outsideFaceWhiteFraction": 0.02602,
+        "largestWhiteRegion": 0.00645,
+        "sharpness": 1644.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/91/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/91-portrait-v5-7affc2f33d8f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8418,
+        "faceHash": "91ed0ec0d9326ccf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          166,
+          13551,
+          540,
+          13925
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          215.918,
+          13594.434,
+          273.633,
+          287.695
+        ],
+        "outsideFaceWhiteFraction": 0.00026,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 3788.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/92/62b7b1.webp?v=1779887078",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/92-portrait-v5-0ec2bae21481.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8345,
+        "faceHash": "82756b82f587606f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          311,
+          2414,
+          759,
+          2862
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          377.71,
+          2465.112,
+          315.088,
+          344.971
+        ],
+        "outsideFaceWhiteFraction": 0.00505,
+        "largestWhiteRegion": 0.00157,
+        "sharpness": 1417.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/93/928b80.webp?v=1779898956",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/93-portrait-v5-69385b0bb691.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "c0643d97e1ea7615",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          139,
+          13774,
+          790,
+          14425
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          214.233,
+          13878.809,
+          500.537,
+          442.09
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1749.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/94/fb3e07.webp?v=1779899180",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/94-portrait-v5-a07eb25ef95f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8242,
+        "faceHash": "f02f0fc0b4cb708f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          361,
+          15461,
+          900,
+          16000
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          515.259,
+          15556.372,
+          383.643,
+          414.404
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1254.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/95/cab9c1.webp?v=1779901359",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/95-portrait-v5-76111cf70210.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7129,
+        "faceHash": "bfe2bfaa20c28075",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          85,
+          8907,
+          793,
+          9615
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          166.992,
+          9017.358,
+          544.922,
+          488.232
+        ],
+        "outsideFaceWhiteFraction": 0.00095,
+        "largestWhiteRegion": 0.00078,
+        "sharpness": 1869.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/96/fd5c1e.webp?v=1780507349",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/96-portrait-v5-69b946e792c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8726,
+        "faceHash": "94216e95b5ce70cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          366,
+          8752,
+          651,
+          9037
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          398.694,
+          8799.829,
+          219.507,
+          189.404
+        ],
+        "outsideFaceWhiteFraction": 0.00616,
+        "largestWhiteRegion": 0.0036,
+        "sharpness": 1396.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/97/6b1b51.webp?v=1781112395",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/97-portrait-v5-3cf646c59603.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8291,
+        "faceHash": "9078f895b8d6359a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          174,
+          10526,
+          430,
+          10782
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          212.421,
+          10561.816,
+          179.407,
+          184.57
+        ],
+        "outsideFaceWhiteFraction": 0.01396,
+        "largestWhiteRegion": 0.01396,
+        "sharpness": 3706.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/98/470bc8.webp?v=1781711525",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/98-portrait-v5-eaf8b6511617.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7739,
+        "faceHash": "96397a67489f609c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          54,
+          15365,
+          689,
+          16000
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          145.02,
+          15453.979,
+          453.076,
+          488.232
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1982.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/105/af00ab.webp?v=1785939262",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/105-portrait-v5-73579c7e797b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8491,
+        "faceHash": "c6646cc6b4e97269",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          240,
+          11486,
+          659,
+          11905
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          288.171,
+          11557.507,
+          322.339,
+          275.977
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1520.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/112/1de3e6.webp?v=1790229277",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/112-portrait-v5-f2c10b6acfbc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8374,
+        "faceHash": "85376bca688d3c65",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          3387,
+          644,
+          3834
+        ],
+        "sourceSize": [
+          900,
+          16357
+        ],
+        "detectedFace": [
+          248.291,
+          3477.393,
+          343.652,
+          265.43
+        ],
+        "outsideFaceWhiteFraction": 0.00168,
+        "largestWhiteRegion": 0.00043,
+        "sharpness": 1854.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/72/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/72-portrait-v5-859d882402d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8242,
+        "faceHash": "91b93892e54b7369",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          205,
+          9161,
+          726,
+          9682
+        ],
+        "sourceSize": [
+          800,
+          12997
+        ],
+        "detectedFace": [
+          285.449,
+          9221.484,
+          360.352,
+          400.781
+        ],
+        "outsideFaceWhiteFraction": 0.00027,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 2673.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/73/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/73-portrait-v5-2e3abcadaf44.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8413,
+        "faceHash": "d12c3bc6b858c3d6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          121,
+          5050,
+          531,
+          5460
+        ],
+        "sourceSize": [
+          800,
+          13055
+        ],
+        "detectedFace": [
+          168.262,
+          5112.305,
+          315.43,
+          286.328
+        ],
+        "outsideFaceWhiteFraction": 0.00452,
+        "largestWhiteRegion": 0.00208,
+        "sharpness": 3915.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/74-portrait-v5-cf47a381ab1a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8574,
+        "faceHash": "80b50dc0e5e37a5f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          214,
+          12406,
+          470,
+          12662
+        ],
+        "sourceSize": [
+          800,
+          14230
+        ],
+        "detectedFace": [
+          257.422,
+          12438.477,
+          169.531,
+          190.234
+        ],
+        "outsideFaceWhiteFraction": 0.00067,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 3711.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/75/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/75-portrait-v5-5b0d4d5a243e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.812,
+        "faceHash": "82693e8394cf32dd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          207,
+          896,
+          655,
+          1344
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          263.867,
+          947.363,
+          334.766,
+          344.336
+        ],
+        "outsideFaceWhiteFraction": 0.00209,
+        "largestWhiteRegion": 0.00056,
+        "sharpness": 2005.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/76/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/76-portrait-v5-f94d0812bdb3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.79,
+        "faceHash": "d0207f43fccf2a23",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          132,
+          9092,
+          713,
+          9673
+        ],
+        "sourceSize": [
+          800,
+          13704
+        ],
+        "detectedFace": [
+          199.023,
+          9171.094,
+          447.266,
+          422.656
+        ],
+        "outsideFaceWhiteFraction": 0.00221,
+        "largestWhiteRegion": 0.002,
+        "sharpness": 2756.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/77/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/77-portrait-v5-6053b2f53978.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7896,
+        "faceHash": "85d06a4fcb2a37b2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          8975,
+          450,
+          9425
+        ],
+        "sourceSize": [
+          800,
+          14360
+        ],
+        "detectedFace": [
+          24.805,
+          9035.449,
+          346.094,
+          328.32
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2894.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/78/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/78-portrait-v5-4457e780a3ab.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7812,
+        "faceHash": "d6a46bc3e934349c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          379,
+          12543,
+          774,
+          12938
+        ],
+        "sourceSize": [
+          800,
+          13365
+        ],
+        "detectedFace": [
+          446.289,
+          12588.633,
+          261.328,
+          303.711
+        ],
+        "outsideFaceWhiteFraction": 0.00052,
+        "largestWhiteRegion": 0.00052,
+        "sharpness": 2210.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/79/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/79-portrait-v5-7c818dd7a32f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8232,
+        "faceHash": "c13b38e6e1cc278d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          199,
+          8973,
+          631,
+          9405
+        ],
+        "sourceSize": [
+          800,
+          14245
+        ],
+        "detectedFace": [
+          248.535,
+          9025.293,
+          332.617,
+          328.125
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 4679.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/80/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/80-portrait-v5-329db73767d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "d5a928b2a5c276cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          210,
+          3652,
+          582,
+          4024
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          254.297,
+          3694.824,
+          284.375,
+          286.133
+        ],
+        "outsideFaceWhiteFraction": 0.00076,
+        "largestWhiteRegion": 0.00055,
+        "sharpness": 3896.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/81/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/81-portrait-v5-23cb9708f3a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8452,
+        "faceHash": "82703dc2d4ab76cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          544,
+          8210,
+          800,
+          8466
+        ],
+        "sourceSize": [
+          800,
+          14540
+        ],
+        "detectedFace": [
+          600.586,
+          8258.008,
+          178.516,
+          158.984
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1466.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/82/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/82-portrait-v5-2caef4e812c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7812,
+        "faceHash": "d5bd0ab09f8264cb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          26,
+          3205,
+          537,
+          3716
+        ],
+        "sourceSize": [
+          800,
+          13540
+        ],
+        "detectedFace": [
+          142.48,
+          3263.867,
+          338.477,
+          393.359
+        ],
+        "outsideFaceWhiteFraction": 0.01601,
+        "largestWhiteRegion": 0.01601,
+        "sharpness": 3543.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/83/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/83-portrait-v5-2e8aec3adc2d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8179,
+        "faceHash": "81752b62dd9f3152",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          250,
+          5612,
+          685,
+          6047
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          300.0,
+          5685.449,
+          334.375,
+          287.695
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1426.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/84/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/84-portrait-v5-d0a73105e88a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "c5666a4ee4f86e0c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          120,
+          3841,
+          649,
+          4370
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          181.445,
+          3916.211,
+          407.031,
+          379.297
+        ],
+        "outsideFaceWhiteFraction": 0.00029,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 3138.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/85-portrait-v5-9b1dec7e65ee.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8672,
+        "faceHash": "95474e7138cb392d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          261,
+          6768,
+          526,
+          7033
+        ],
+        "sourceSize": [
+          800,
+          14955
+        ],
+        "detectedFace": [
+          304.297,
+          6798.73,
+          178.516,
+          204.102
+        ],
+        "outsideFaceWhiteFraction": 0.00055,
+        "largestWhiteRegion": 0.00037,
+        "sharpness": 2353.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/86/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/86-portrait-v5-58e97c8a7233.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "84ac6cc6f17c6659",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          444,
+          8497,
+          700,
+          8753
+        ],
+        "sourceSize": [
+          800,
+          10010
+        ],
+        "detectedFace": [
+          494.531,
+          8549.365,
+          154.688,
+          150.488
+        ],
+        "outsideFaceWhiteFraction": 0.00162,
+        "largestWhiteRegion": 0.00049,
+        "sharpness": 2702.69,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/87/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/87-portrait-v5-32ba6d406cec.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8472,
+        "faceHash": "91693f86a26c6bcc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          411,
+          7124,
+          667,
+          7380
+        ],
+        "sourceSize": [
+          800,
+          12336
+        ],
+        "detectedFace": [
+          444.531,
+          7164.062,
+          188.281,
+          175.781
+        ],
+        "outsideFaceWhiteFraction": 0.0018,
+        "largestWhiteRegion": 0.00079,
+        "sharpness": 3669.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/88/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/88-portrait-v5-322a27b43a68.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "87e56e46c19a64dc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          215,
+          1201,
+          660,
+          1646
+        ],
+        "sourceSize": [
+          800,
+          13175
+        ],
+        "detectedFace": [
+          268.359,
+          1252.734,
+          338.281,
+          342.188
+        ],
+        "outsideFaceWhiteFraction": 0.00194,
+        "largestWhiteRegion": 0.00052,
+        "sharpness": 2505.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/89/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/89-portrait-v5-256c5071d2c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "c1302fc3d8c769d6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          212,
+          13433,
+          689,
+          13910
+        ],
+        "sourceSize": [
+          800,
+          14720
+        ],
+        "detectedFace": [
+          266.895,
+          13499.414,
+          366.992,
+          343.359
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 4163.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/54/003.webp?v=1784230068",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/54-portrait-v5-f57871c4fc3a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7793,
+        "faceHash": "883c4fce24ea5a9b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          337,
+          4483,
+          541,
+          4687
+        ],
+        "sourceSize": [
+          800,
+          14805
+        ],
+        "detectedFace": [
+          374.512,
+          4528.516,
+          129.102,
+          113.672
+        ],
+        "outsideFaceWhiteFraction": 0.00246,
+        "largestWhiteRegion": 0.00095,
+        "sharpness": 390.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/100/03fa03.webp?v=1782943028",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/100-portrait-v5-c5499567d7ea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "c16e6c1ea53d3358",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          139,
+          167,
+          343,
+          371
+        ],
+        "sourceSize": [
+          1200,
+          800
+        ],
+        "detectedFace": [
+          188.672,
+          212.915,
+          104.297,
+          111.475
+        ],
+        "outsideFaceWhiteFraction": 0.01506,
+        "largestWhiteRegion": 0.0027,
+        "sharpness": 1595.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

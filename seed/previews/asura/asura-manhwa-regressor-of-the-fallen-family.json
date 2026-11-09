@@ -1,0 +1,6018 @@
+{
+  "titleId": "asura-manhwa-regressor-of-the-fallen-family",
+  "revision": 5,
+  "previews": {
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/5-portrait-v5-57c992b50378.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8057,
+        "faceHash": "f0403f0b744f637a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          168,
+          4353,
+          783,
+          4968
+        ],
+        "sourceSize": [
+          800,
+          14394
+        ],
+        "detectedFace": [
+          255.664,
+          4423.828,
+          438.672,
+          473.438
+        ],
+        "outsideFaceWhiteFraction": 0.00464,
+        "largestWhiteRegion": 0.0023,
+        "sharpness": 939.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/7/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/7-portrait-v5-c0da4ac573a3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8271,
+        "faceHash": "c5673f52b098b368",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          90,
+          5061,
+          490,
+          5461
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          166.406,
+          5043.164,
+          411.328,
+          434.766
+        ],
+        "outsideFaceWhiteFraction": 0.00745,
+        "largestWhiteRegion": 0.00732,
+        "sharpness": 2073.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/6/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/6-portrait-v5-bdc30dda0c64.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "d4b57816e26c6a69",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          255,
+          12807,
+          532,
+          13084
+        ],
+        "sourceSize": [
+          800,
+          14284
+        ],
+        "detectedFace": [
+          271.484,
+          12791.797,
+          243.75,
+          269.141
+        ],
+        "outsideFaceWhiteFraction": 0.00162,
+        "largestWhiteRegion": 0.00067,
+        "sharpness": 2058.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/8-portrait-v5-43c343277d23.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8066,
+        "faceHash": "c56a5bc0ac5f3558",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          171,
+          3202,
+          655,
+          3686
+        ],
+        "sourceSize": [
+          800,
+          13325
+        ],
+        "detectedFace": [
+          226.562,
+          3270.117,
+          372.656,
+          348.047
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 451.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/9-portrait-v5-6888209bfa1c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7397,
+        "faceHash": "d43803f08eeb1bcb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          230,
+          6703,
+          800,
+          7273
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          302.734,
+          6774.609,
+          438.281,
+          426.562
+        ],
+        "outsideFaceWhiteFraction": 0.00732,
+        "largestWhiteRegion": 0.00618,
+        "sharpness": 1071.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/10-portrait-v5-591d74e7cd47.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7842,
+        "faceHash": "f09e066948dde1d3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          1774,
+          462,
+          2236
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          79.98,
+          1827.539,
+          293.164,
+          355.469
+        ],
+        "outsideFaceWhiteFraction": 0.00044,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 2395.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/11-portrait-v5-23bfc9937293.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7915,
+        "faceHash": "c4b49dd3d785e00e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          85,
+          2938,
+          697,
+          3550
+        ],
+        "sourceSize": [
+          800,
+          13304
+        ],
+        "detectedFace": [
+          200.293,
+          3008.789,
+          382.227,
+          471.094
+        ],
+        "outsideFaceWhiteFraction": 0.02208,
+        "largestWhiteRegion": 0.00926,
+        "sharpness": 2767.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "148": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/148",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/148/10d9c8.webp?v=1787422132",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/148-portrait-v5-80c7f8548b5d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "81f53f960d8f6348",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          51,
+          9115,
+          448,
+          9512
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          110.413,
+          9161.169,
+          278.833,
+          305.2
+        ],
+        "outsideFaceWhiteFraction": 0.02122,
+        "largestWhiteRegion": 0.01082,
+        "sharpness": 2784.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "147": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/147",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/147/42aea8.webp?v=1786798246",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/147-portrait-v5-59af3bdbd35d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "82327ec15c896beb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          146,
+          15120,
+          350,
+          15324
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          172.54,
+          15123.621,
+          184.46,
+          172.595
+        ],
+        "outsideFaceWhiteFraction": 0.0042,
+        "largestWhiteRegion": 0.00333,
+        "sharpness": 375.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "149": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/149",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/149/9c75b9.webp?v=1787993034",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/149-portrait-v5-81f1714f5d07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7681,
+        "faceHash": "b21c49fa5491d4bd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          380,
+          9082,
+          636,
+          9338
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          428.906,
+          9101.953,
+          192.48,
+          215.771
+        ],
+        "outsideFaceWhiteFraction": 0.01717,
+        "largestWhiteRegion": 0.01482,
+        "sharpness": 1689.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/12/002.webp?v=1793963665",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/12-portrait-v5-846103c2a504.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "82c11fc794ce67d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          457,
+          7648,
+          661,
+          7852
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          499.023,
+          7671.094,
+          147.266,
+          182.812
+        ],
+        "outsideFaceWhiteFraction": 0.05301,
+        "largestWhiteRegion": 0.01289,
+        "sharpness": 486.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "150": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/150",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/150/f9b19b.webp?v=1788664491",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/150-portrait-v5-cd74e3d3b045.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7979,
+        "faceHash": "9d73685067cb360d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          226,
+          9606,
+          643,
+          10023
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          224.011,
+          9675.659,
+          421.216,
+          463.623
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 979.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "152": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/152",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/152/c0c06b.webp?v=1789875370",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/152-portrait-v5-abb7f68a31b5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "859c5ed8f8497a64",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          325,
+          9604,
+          792,
+          10071
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          359.802,
+          9578.979,
+          398.364,
+          453.516
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1170.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "153": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/153",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/153/4ef7bd.webp?v=1790391411",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/153-portrait-v5-12f169b8004a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "8aa13d97d3ccc718",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          51,
+          3953,
+          307,
+          4209
+        ],
+        "sourceSize": [
+          900,
+          16167
+        ],
+        "detectedFace": [
+          103.491,
+          3998.804,
+          150.952,
+          163.916
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1214.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "151": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/151",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/151/a50fcd.webp?v=1789219075",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/151-portrait-v5-2fef8b72ec16.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.834,
+        "faceHash": "95f47a1a362f2585",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6753,
+          436,
+          7189
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          53.833,
+          6803.503,
+          294.653,
+          335.742
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1422.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "154": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/154",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/154/ca3dcb.webp?v=1791163175",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/154-portrait-v5-c7c046a0dbe6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8052,
+        "faceHash": "91c66ac5651f36b8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          217,
+          1810,
+          627,
+          2220
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          333.984,
+          1857.349,
+          175.342,
+          315.088
+        ],
+        "outsideFaceWhiteFraction": 0.00101,
+        "largestWhiteRegion": 0.00101,
+        "sharpness": 864.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "156": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/156",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/156/ea883d.webp?v=1792241947",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/156-portrait-v5-5270c37006ce.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7637,
+        "faceHash": "c4c64ec7c7817173",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          357,
+          6184,
+          900,
+          6727
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          232.251,
+          6169.043,
+          590.186,
+          572.168
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1456.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "157": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/157",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/157/1c07a3.webp?v=1792854307",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/157-portrait-v5-dc7e8da8da04.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7783,
+        "faceHash": "85c1fa6a53b4343e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          148,
+          6492,
+          404,
+          6748
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          218.024,
+          6543.677,
+          115.466,
+          153.369
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2001.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "158": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/158",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/158/7ed2cb.webp?v=1793457200",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/158-portrait-v5-0f92d520a925.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "d0c4d3c7f91c2b64",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          294,
+          3663,
+          564,
+          3933
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          333.984,
+          3694.043,
+          189.404,
+          207.422
+        ],
+        "outsideFaceWhiteFraction": 0.00571,
+        "largestWhiteRegion": 0.00566,
+        "sharpness": 600.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "155": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/155",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/155/650fc3.webp?v=1791696124",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/155-portrait-v5-72a0b1453603.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8237,
+        "faceHash": "948b6bd89e0e9c63",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          114,
+          13183,
+          320,
+          13389
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          140.405,
+          13171.289,
+          152.49,
+          200.391
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 683.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/13/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/13-portrait-v5-504afe51a65e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "82873fc41d8d66da",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          292,
+          9983,
+          634,
+          10325
+        ],
+        "sourceSize": [
+          800,
+          14250
+        ],
+        "detectedFace": [
+          313.965,
+          9964.355,
+          297.852,
+          332.227
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1573.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/14/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/14-portrait-v5-334bfea6f8d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "95b53e50a0797369",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          251,
+          7303,
+          552,
+          7604
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          312.012,
+          7338.086,
+          178.32,
+          231.641
+        ],
+        "outsideFaceWhiteFraction": 0.01358,
+        "largestWhiteRegion": 0.00896,
+        "sharpness": 1713.71,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/15/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/15-portrait-v5-f0fdc715274e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7842,
+        "faceHash": "91346e0c4e9771db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          170,
+          2045,
+          616,
+          2491
+        ],
+        "sourceSize": [
+          800,
+          13345
+        ],
+        "detectedFace": [
+          209.668,
+          2020.898,
+          365.82,
+          433.203
+        ],
+        "outsideFaceWhiteFraction": 0.00198,
+        "largestWhiteRegion": 0.00198,
+        "sharpness": 2503.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/16-portrait-v5-5654595a6852.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7954,
+        "faceHash": "95911bb6f0cb2473",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          208,
+          2730,
+          669,
+          3191
+        ],
+        "sourceSize": [
+          800,
+          13072
+        ],
+        "detectedFace": [
+          273.926,
+          2783.789,
+          329.492,
+          354.297
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2081.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/17-portrait-v5-a5b74ec7aac6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8198,
+        "faceHash": "81d119d781de7719",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          161,
+          4487,
+          630,
+          4956
+        ],
+        "sourceSize": [
+          800,
+          13298
+        ],
+        "detectedFace": [
+          219.531,
+          4517.773,
+          352.344,
+          407.422
+        ],
+        "outsideFaceWhiteFraction": 0.01741,
+        "largestWhiteRegion": 0.01468,
+        "sharpness": 1681.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/18/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/18-portrait-v5-11f3acd59911.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8203,
+        "faceHash": "c50f6acd2bb1a5a1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          146,
+          583,
+          660,
+          1097
+        ],
+        "sourceSize": [
+          800,
+          14455
+        ],
+        "detectedFace": [
+          237.012,
+          734.863,
+          331.445,
+          210.742
+        ],
+        "outsideFaceWhiteFraction": 0.0386,
+        "largestWhiteRegion": 0.01654,
+        "sharpness": 1313.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/19/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/19-portrait-v5-d45278e1c3b7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "89d53b82f75a2269",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          229,
+          6821,
+          617,
+          7209
+        ],
+        "sourceSize": [
+          800,
+          15478
+        ],
+        "detectedFace": [
+          222.266,
+          6885.352,
+          402.344,
+          430.859
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2549.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/20-portrait-v5-212c600a4efd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8418,
+        "faceHash": "81955786456b3add",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          337,
+          3797,
+          652,
+          4112
+        ],
+        "sourceSize": [
+          800,
+          14870
+        ],
+        "detectedFace": [
+          373.828,
+          3837.891,
+          242.188,
+          232.422
+        ],
+        "outsideFaceWhiteFraction": 0.00206,
+        "largestWhiteRegion": 0.00121,
+        "sharpness": 1386.69,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/21-portrait-v5-785886c722e7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7842,
+        "faceHash": "82343efe99133b07",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          100,
+          6592,
+          552,
+          7044
+        ],
+        "sourceSize": [
+          800,
+          13762
+        ],
+        "detectedFace": [
+          164.453,
+          6628.906,
+          393.359,
+          378.906
+        ],
+        "outsideFaceWhiteFraction": 0.03323,
+        "largestWhiteRegion": 0.01271,
+        "sharpness": 3502.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/22-portrait-v5-78990dd1e1e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8408,
+        "faceHash": "f4153f0390dee24e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          243,
+          7995,
+          614,
+          8366
+        ],
+        "sourceSize": [
+          800,
+          12075
+        ],
+        "detectedFace": [
+          296.68,
+          8037.402,
+          262.891,
+          285.352
+        ],
+        "outsideFaceWhiteFraction": 0.01132,
+        "largestWhiteRegion": 0.0034,
+        "sharpness": 2169.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/23-portrait-v5-5718fddfddf6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "90542f43cdeb32cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          96,
+          1278,
+          606,
+          1788
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          162.891,
+          1336.621,
+          375.781,
+          391.992
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 3284.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/24-portrait-v5-78a8ff7c8a4a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.854,
+        "faceHash": "87d768da64983a39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          185,
+          6863,
+          463,
+          7141
+        ],
+        "sourceSize": [
+          800,
+          14025
+        ],
+        "detectedFace": [
+          230.078,
+          6895.312,
+          187.109,
+          214.062
+        ],
+        "outsideFaceWhiteFraction": 0.01006,
+        "largestWhiteRegion": 0.0062,
+        "sharpness": 1935.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/26-portrait-v5-adbfd801b4ae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8633,
+        "faceHash": "81f13ac6362c3e6d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          329,
+          3815,
+          533,
+          4019
+        ],
+        "sourceSize": [
+          800,
+          12955
+        ],
+        "detectedFace": [
+          368.848,
+          3835.547,
+          124.805,
+          143.359
+        ],
+        "outsideFaceWhiteFraction": 0.0405,
+        "largestWhiteRegion": 0.01245,
+        "sharpness": 1227.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/27-portrait-v5-12c8a8a920fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7905,
+        "faceHash": "da081fc9fd99603a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          8789,
+          800,
+          9324
+        ],
+        "sourceSize": [
+          800,
+          14670
+        ],
+        "detectedFace": [
+          336.133,
+          8823.633,
+          373.828,
+          465.625
+        ],
+        "outsideFaceWhiteFraction": 0.03625,
+        "largestWhiteRegion": 0.01758,
+        "sharpness": 2028.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/29/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/29-portrait-v5-6ec88d91cf77.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "91133f86f4dc6278",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          88,
+          4688,
+          364,
+          4964
+        ],
+        "sourceSize": [
+          800,
+          14500
+        ],
+        "detectedFace": [
+          130.42,
+          4719.922,
+          191.895,
+          212.5
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 579.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/25-portrait-v5-885d0cba7ea2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "d3116bf6662c2e68",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          328,
+          12405,
+          540,
+          12617
+        ],
+        "sourceSize": [
+          800,
+          14495
+        ],
+        "detectedFace": [
+          329.492,
+          12394.141,
+          177.734,
+          205.469
+        ],
+        "outsideFaceWhiteFraction": 0.01686,
+        "largestWhiteRegion": 0.00787,
+        "sharpness": 1466.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/28/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/28-portrait-v5-9b64957d94c6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7695,
+        "faceHash": "c5a53f9a948f6268",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          459,
+          5013,
+          800,
+          5354
+        ],
+        "sourceSize": [
+          800,
+          14780
+        ],
+        "detectedFace": [
+          641.211,
+          5040.918,
+          158.984,
+          331.445
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 474.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/30-portrait-v5-d90c63e9ea07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7871,
+        "faceHash": "83464a57cfcb358c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          172,
+          3160,
+          655,
+          3643
+        ],
+        "sourceSize": [
+          800,
+          11791
+        ],
+        "detectedFace": [
+          222.559,
+          3191.992,
+          324.414,
+          419.922
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 680.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/31/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/31-portrait-v5-1d6af42d1bde.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7915,
+        "faceHash": "d5875c812a9c2fda",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          1427,
+          518,
+          1748
+        ],
+        "sourceSize": [
+          800,
+          12285
+        ],
+        "detectedFace": [
+          243.262,
+          1480.469,
+          279.102,
+          214.844
+        ],
+        "outsideFaceWhiteFraction": 0.04276,
+        "largestWhiteRegion": 0.0157,
+        "sharpness": 1204.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/32/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/32-portrait-v5-9a4fadcedb19.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8149,
+        "faceHash": "92373f4c74c963c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          4591,
+          446,
+          5037
+        ],
+        "sourceSize": [
+          800,
+          13885
+        ],
+        "detectedFace": [
+          3.027,
+          4641.992,
+          277.734,
+          343.359
+        ],
+        "outsideFaceWhiteFraction": 0.0099,
+        "largestWhiteRegion": 0.0099,
+        "sharpness": 1509.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/33-portrait-v5-e44d0e9d3341.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.853,
+        "faceHash": "c79f4ad8b8881a6d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          205,
+          5230,
+          572,
+          5597
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          260.059,
+          5272.266,
+          256.055,
+          282.031
+        ],
+        "outsideFaceWhiteFraction": 0.00658,
+        "largestWhiteRegion": 0.00346,
+        "sharpness": 1034.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/34-portrait-v5-bdbfca2a2eb1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7954,
+        "faceHash": "93b52f8624397669",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          166,
+          6304,
+          563,
+          6701
+        ],
+        "sourceSize": [
+          800,
+          13340
+        ],
+        "detectedFace": [
+          235.352,
+          6287.695,
+          431.641,
+          429.297
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 951.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/35/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/35-portrait-v5-20528031f3ea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "94143e6a6b4be3c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          11,
+          8229,
+          267,
+          8485
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          56.201,
+          8275.195,
+          165.527,
+          162.891
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1029.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/36-portrait-v5-057566e8487e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "835669d3c5c932cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          534,
+          856,
+          754,
+          1076
+        ],
+        "sourceSize": [
+          800,
+          11286
+        ],
+        "detectedFace": [
+          507.031,
+          846.777,
+          195.312,
+          238.867
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 827.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/37/766d65.webp?v=1782648881",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/37-portrait-v5-92d44aeb96f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "83873f863c9e62d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          452,
+          4763,
+          708,
+          5019
+        ],
+        "sourceSize": [
+          800,
+          14098
+        ],
+        "detectedFace": [
+          501.367,
+          4807.031,
+          157.422,
+          167.969
+        ],
+        "outsideFaceWhiteFraction": 0.01619,
+        "largestWhiteRegion": 0.00882,
+        "sharpness": 2452.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/39/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/39-portrait-v5-c0e566810344.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7739,
+        "faceHash": "c5c068f8913b9797",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          370,
+          5011,
+          757,
+          5398
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          387.402,
+          5105.469,
+          297.852,
+          197.656
+        ],
+        "outsideFaceWhiteFraction": 0.01387,
+        "largestWhiteRegion": 0.00758,
+        "sharpness": 2061.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/38-portrait-v5-996d40506ec3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7607,
+        "faceHash": "d5d40f27d89a619a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          164,
+          8415,
+          651,
+          8902
+        ],
+        "sourceSize": [
+          800,
+          13655
+        ],
+        "detectedFace": [
+          229.688,
+          8471.484,
+          356.25,
+          374.609
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1009.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/40/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/40-portrait-v5-28c48dd3a0e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "94433787a35d6b58",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          6459,
+          533,
+          6773
+        ],
+        "sourceSize": [
+          800,
+          11002
+        ],
+        "detectedFace": [
+          285.938,
+          6444.922,
+          301.562,
+          341.406
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1262.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/42/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/42-portrait-v5-645e66aaa241.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8057,
+        "faceHash": "d0a08e83853f67db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          181,
+          4896,
+          472,
+          5187
+        ],
+        "sourceSize": [
+          800,
+          14725
+        ],
+        "detectedFace": [
+          235.156,
+          4937.988,
+          223.828,
+          207.617
+        ],
+        "outsideFaceWhiteFraction": 0.02231,
+        "largestWhiteRegion": 0.01515,
+        "sharpness": 1094.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/43-portrait-v5-e1d21017158c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8394,
+        "faceHash": "d52d6af37293602c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          296,
+          4075,
+          605,
+          4384
+        ],
+        "sourceSize": [
+          800,
+          13321
+        ],
+        "detectedFace": [
+          344.727,
+          4110.938,
+          210.547,
+          237.5
+        ],
+        "outsideFaceWhiteFraction": 0.00317,
+        "largestWhiteRegion": 0.00317,
+        "sharpness": 543.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/45-portrait-v5-3632917d82c7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8599,
+        "faceHash": "d6162d52e58c968f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          173,
+          9353,
+          433,
+          9613
+        ],
+        "sourceSize": [
+          800,
+          14910
+        ],
+        "detectedFace": [
+          228.418,
+          9382.812,
+          182.227,
+          200.0
+        ],
+        "outsideFaceWhiteFraction": 0.02464,
+        "largestWhiteRegion": 0.01791,
+        "sharpness": 818.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/41/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/41-portrait-v5-d4fe89771cdf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7886,
+        "faceHash": "d5015a36cb9a3dc9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          268,
+          6197,
+          664,
+          6593
+        ],
+        "sourceSize": [
+          800,
+          12539
+        ],
+        "detectedFace": [
+          336.621,
+          6242.969,
+          258.008,
+          304.688
+        ],
+        "outsideFaceWhiteFraction": 0.00069,
+        "largestWhiteRegion": 0.00031,
+        "sharpness": 717.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/46/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/46-portrait-v5-c8b846f634b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.833,
+        "faceHash": "955138d6f7e86c48",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          347,
+          3361,
+          708,
+          3722
+        ],
+        "sourceSize": [
+          800,
+          13145
+        ],
+        "detectedFace": [
+          391.504,
+          3384.766,
+          272.461,
+          314.062
+        ],
+        "outsideFaceWhiteFraction": 0.04213,
+        "largestWhiteRegion": 0.01671,
+        "sharpness": 992.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/47/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/47-portrait-v5-f09e8ece6b32.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7471,
+        "faceHash": "c0f26ac6e09f339c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          129,
+          3003,
+          663,
+          3537
+        ],
+        "sourceSize": [
+          800,
+          11440
+        ],
+        "detectedFace": [
+          217.871,
+          3064.453,
+          355.273,
+          410.938
+        ],
+        "outsideFaceWhiteFraction": 0.02693,
+        "largestWhiteRegion": 0.01468,
+        "sharpness": 1328.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/48/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/48-portrait-v5-94a4326174e1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7881,
+        "faceHash": "d584682ad3d13a7d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          52,
+          7059,
+          308,
+          7315
+        ],
+        "sourceSize": [
+          800,
+          13269
+        ],
+        "detectedFace": [
+          93.359,
+          7094.531,
+          173.633,
+          184.375
+        ],
+        "outsideFaceWhiteFraction": 0.00119,
+        "largestWhiteRegion": 0.0006,
+        "sharpness": 904.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/44/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/44-portrait-v5-f77fce3631b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8398,
+        "faceHash": "9d0c28ca75e92e6d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7493,
+          318,
+          7811
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          49.902,
+          7514.062,
+          255.664,
+          276.562
+        ],
+        "outsideFaceWhiteFraction": 0.0134,
+        "largestWhiteRegion": 0.01256,
+        "sharpness": 1005.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/49/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/49-portrait-v5-d2f7df431aa8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8345,
+        "faceHash": "9d59295ae6696668",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          171,
+          3085,
+          451,
+          3365
+        ],
+        "sourceSize": [
+          800,
+          12962
+        ],
+        "detectedFace": [
+          181.25,
+          3107.812,
+          258.594,
+          272.266
+        ],
+        "outsideFaceWhiteFraction": 0.01471,
+        "largestWhiteRegion": 0.01471,
+        "sharpness": 1199.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/51/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/51-portrait-v5-a1a698343bcd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8281,
+        "faceHash": "84d56bc2a866736d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          355,
+          2185,
+          746,
+          2576
+        ],
+        "sourceSize": [
+          800,
+          13802
+        ],
+        "detectedFace": [
+          406.445,
+          2230.273,
+          288.672,
+          300.391
+        ],
+        "outsideFaceWhiteFraction": 0.02396,
+        "largestWhiteRegion": 0.00699,
+        "sharpness": 763.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/52-portrait-v5-f3c599bca6ca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.876,
+        "faceHash": "900b785e636c6e7c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          270,
+          5904,
+          526,
+          6160
+        ],
+        "sourceSize": [
+          800,
+          13095
+        ],
+        "detectedFace": [
+          311.328,
+          5941.406,
+          173.828,
+          182.031
+        ],
+        "outsideFaceWhiteFraction": 0.03902,
+        "largestWhiteRegion": 0.01089,
+        "sharpness": 1316.0,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/50/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/50-portrait-v5-99feb1f378ea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.854,
+        "faceHash": "82f47bc3c50d72e8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          234,
+          9933,
+          562,
+          10261
+        ],
+        "sourceSize": [
+          800,
+          13515
+        ],
+        "detectedFace": [
+          250.781,
+          9915.43,
+          295.312,
+          318.359
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1453.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/53/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/53-portrait-v5-5e1aa688a856.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.856,
+        "faceHash": "82067d9de17b6370",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          260,
+          9078,
+          516,
+          9334
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          337.5,
+          9129.883,
+          123.047,
+          151.953
+        ],
+        "outsideFaceWhiteFraction": 0.04939,
+        "largestWhiteRegion": 0.01707,
+        "sharpness": 786.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/54/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/54-portrait-v5-ca9c262c7891.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "81153d96f299671b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          233,
+          5093,
+          584,
+          5444
+        ],
+        "sourceSize": [
+          800,
+          14050
+        ],
+        "detectedFace": [
+          287.012,
+          5133.887,
+          243.945,
+          269.727
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 920.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/55/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/55-portrait-v5-546c8182051c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8047,
+        "faceHash": "db256bc6b13a27c0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          193,
+          6592,
+          615,
+          7014
+        ],
+        "sourceSize": [
+          800,
+          14875
+        ],
+        "detectedFace": [
+          233.496,
+          6618.945,
+          340.039,
+          367.188
+        ],
+        "outsideFaceWhiteFraction": 0.02971,
+        "largestWhiteRegion": 0.01221,
+        "sharpness": 2019.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/56-portrait-v5-d5c35dd797ff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "959e1ed2ea6068cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          200,
+          2840,
+          596,
+          3236
+        ],
+        "sourceSize": [
+          800,
+          13475
+        ],
+        "detectedFace": [
+          246.094,
+          2917.188,
+          304.297,
+          241.406
+        ],
+        "outsideFaceWhiteFraction": 0.03281,
+        "largestWhiteRegion": 0.01137,
+        "sharpness": 2038.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/57/002.webp?v=1790093361",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/57-portrait-v5-353b77b6e958.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "d11268f3e58a32dd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          272,
+          6884,
+          800,
+          7412
+        ],
+        "sourceSize": [
+          800,
+          13825
+        ],
+        "detectedFace": [
+          453.32,
+          6945.117,
+          341.797,
+          405.859
+        ],
+        "outsideFaceWhiteFraction": 0.02528,
+        "largestWhiteRegion": 0.00246,
+        "sharpness": 2612.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/58/230573.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/58-portrait-v5-8c59da47517f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7983,
+        "faceHash": "c0812f9236cf7acd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          111,
+          1357,
+          714,
+          1960
+        ],
+        "sourceSize": [
+          800,
+          14740
+        ],
+        "detectedFace": [
+          210.547,
+          1426.172,
+          403.906,
+          464.062
+        ],
+        "outsideFaceWhiteFraction": 0.00494,
+        "largestWhiteRegion": 0.00494,
+        "sharpness": 2408.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/59/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/59-portrait-v5-dec974b4e351.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.873,
+        "faceHash": "87243ad7c1cc6b69",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          52,
+          6715,
+          308,
+          6971
+        ],
+        "sourceSize": [
+          800,
+          14685
+        ],
+        "detectedFace": [
+          100.781,
+          6752.197,
+          159.18,
+          180.762
+        ],
+        "outsideFaceWhiteFraction": 0.02812,
+        "largestWhiteRegion": 0.01562,
+        "sharpness": 1022.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/60-portrait-v5-e7dfb1b249eb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "d5870f90901e3aef",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          301,
+          3080,
+          632,
+          3411
+        ],
+        "sourceSize": [
+          800,
+          13645
+        ],
+        "detectedFace": [
+          339.258,
+          3119.531,
+          254.297,
+          251.172
+        ],
+        "outsideFaceWhiteFraction": 0.00073,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 2018.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/61/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/61-portrait-v5-f16e8ddd2f1d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8496,
+        "faceHash": "83666bd3a51b3d18",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          153,
+          2432,
+          469,
+          2748
+        ],
+        "sourceSize": [
+          800,
+          14660
+        ],
+        "detectedFace": [
+          222.363,
+          2468.457,
+          176.758,
+          243.359
+        ],
+        "outsideFaceWhiteFraction": 0.00087,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 1141.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/62/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/62-portrait-v5-465210b2167a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7891,
+        "faceHash": "cf453e0a9a5c63b4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          207,
+          321,
+          706,
+          820
+        ],
+        "sourceSize": [
+          800,
+          14226
+        ],
+        "detectedFace": [
+          248.633,
+          294.531,
+          415.234,
+          484.375
+        ],
+        "outsideFaceWhiteFraction": 0.01773,
+        "largestWhiteRegion": 0.01515,
+        "sharpness": 2397.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/63/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/63-portrait-v5-de4217613130.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7764,
+        "faceHash": "cb41b41f03751f99",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          328,
+          1066,
+          643,
+          1381
+        ],
+        "sourceSize": [
+          800,
+          14707
+        ],
+        "detectedFace": [
+          365.527,
+          1102.344,
+          239.258,
+          242.188
+        ],
+        "outsideFaceWhiteFraction": 0.03804,
+        "largestWhiteRegion": 0.01459,
+        "sharpness": 708.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/65-portrait-v5-1ce603a75cdf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7998,
+        "faceHash": "84df9d24d0d86778",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          168,
+          13274,
+          570,
+          13676
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          220.215,
+          13252.246,
+          297.852,
+          390.43
+        ],
+        "outsideFaceWhiteFraction": 0.00299,
+        "largestWhiteRegion": 0.00131,
+        "sharpness": 1282.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/67/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/67-portrait-v5-b6463eebc034.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "94053f1cc3d84e7b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          154,
+          6138,
+          548,
+          6532
+        ],
+        "sourceSize": [
+          800,
+          14940
+        ],
+        "detectedFace": [
+          180.859,
+          6170.703,
+          341.016,
+          382.812
+        ],
+        "outsideFaceWhiteFraction": 0.00117,
+        "largestWhiteRegion": 0.00078,
+        "sharpness": 1441.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/64/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/64-portrait-v5-8944809b39c8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7935,
+        "faceHash": "f4511483d42f1f2f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          138,
+          4177,
+          643,
+          4682
+        ],
+        "sourceSize": [
+          800,
+          13230
+        ],
+        "detectedFace": [
+          145.117,
+          4209.961,
+          490.234,
+          385.547
+        ],
+        "outsideFaceWhiteFraction": 0.02063,
+        "largestWhiteRegion": 0.01649,
+        "sharpness": 1379.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/68/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/68-portrait-v5-7117a918fe1b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.856,
+        "faceHash": "97807f9ba8b9502d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          443,
+          5681,
+          721,
+          5959
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          492.578,
+          5713.281,
+          178.906,
+          214.062
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1070.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/66/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/66-portrait-v5-9656fe8efcd0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "949d3b16f4796b08",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          172,
+          4266,
+          376,
+          4470
+        ],
+        "sourceSize": [
+          800,
+          14353
+        ],
+        "detectedFace": [
+          202.637,
+          4309.766,
+          143.555,
+          135.352
+        ],
+        "outsideFaceWhiteFraction": 0.02643,
+        "largestWhiteRegion": 0.01262,
+        "sharpness": 986.18,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/69/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/69-portrait-v5-4482721658a4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8037,
+        "faceHash": "95346ccd316ed866",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          83,
+          7399,
+          368,
+          7684
+        ],
+        "sourceSize": [
+          800,
+          14150
+        ],
+        "detectedFace": [
+          116.211,
+          7433.594,
+          219.531,
+          216.016
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 710.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/70/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/70-portrait-v5-0cf06ab5c2db.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8345,
+        "faceHash": "93f12f806ccb7217",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          113,
+          3926,
+          394,
+          4207
+        ],
+        "sourceSize": [
+          800,
+          13910
+        ],
+        "detectedFace": [
+          162.012,
+          3958.594,
+          183.398,
+          216.406
+        ],
+        "outsideFaceWhiteFraction": 0.0215,
+        "largestWhiteRegion": 0.01085,
+        "sharpness": 1473.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/71/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/71-portrait-v5-9885795d8dbf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7734,
+        "faceHash": "836f68dac891b56c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          3727,
+          396,
+          4123
+        ],
+        "sourceSize": [
+          800,
+          14608
+        ],
+        "detectedFace": [
+          6.25,
+          3772.949,
+          279.297,
+          304.492
+        ],
+        "outsideFaceWhiteFraction": 0.00053,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 2045.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/72/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/72-portrait-v5-8d38f61c6e02.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8115,
+        "faceHash": "c06c0fde26c676c3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          389,
+          3083,
+          756,
+          3450
+        ],
+        "sourceSize": [
+          800,
+          14575
+        ],
+        "detectedFace": [
+          447.266,
+          3125.391,
+          250.0,
+          282.422
+        ],
+        "outsideFaceWhiteFraction": 0.0182,
+        "largestWhiteRegion": 0.01009,
+        "sharpness": 1748.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/73/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/73-portrait-v5-c91c51b74677.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8354,
+        "faceHash": "84cd4fd5aad22c3a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          451,
+          8649,
+          728,
+          8926
+        ],
+        "sourceSize": [
+          800,
+          12965
+        ],
+        "detectedFace": [
+          493.164,
+          8681.152,
+          192.578,
+          213.086
+        ],
+        "outsideFaceWhiteFraction": 0.00189,
+        "largestWhiteRegion": 0.00189,
+        "sharpness": 1133.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/75/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/75-portrait-v5-c38090847a08.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8213,
+        "faceHash": "d86d4a963d784395",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          110,
+          8990,
+          380,
+          9260
+        ],
+        "sourceSize": [
+          800,
+          14805
+        ],
+        "detectedFace": [
+          156.055,
+          9021.387,
+          177.734,
+          208.008
+        ],
+        "outsideFaceWhiteFraction": 0.00026,
+        "largestWhiteRegion": 0.00026,
+        "sharpness": 546.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/74-portrait-v5-df49c9cf4cbc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8047,
+        "faceHash": "86236f1cf59d9298",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          362,
+          9091,
+          736,
+          9465
+        ],
+        "sourceSize": [
+          800,
+          14645
+        ],
+        "detectedFace": [
+          416.016,
+          9153.32,
+          266.406,
+          415.234
+        ],
+        "outsideFaceWhiteFraction": 0.0052,
+        "largestWhiteRegion": 0.0052,
+        "sharpness": 1405.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/77/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/77-portrait-v5-220453b34e62.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8677,
+        "faceHash": "94b95b46466e586e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          232,
+          1185,
+          593,
+          1546
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          273.828,
+          1228.516,
+          277.344,
+          273.438
+        ],
+        "outsideFaceWhiteFraction": 0.0105,
+        "largestWhiteRegion": 0.00238,
+        "sharpness": 2411.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/76/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/76-portrait-v5-e0d8ac4e123d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8286,
+        "faceHash": "85cf1e63cc96619a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          291,
+          11008,
+          550,
+          11267
+        ],
+        "sourceSize": [
+          800,
+          14724
+        ],
+        "detectedFace": [
+          306.738,
+          10994.434,
+          227.93,
+          250.977
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1207.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/78/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/78-portrait-v5-3b6fdc2e6c83.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7959,
+        "faceHash": "ab036a2e635465bb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          173,
+          12183,
+          641,
+          12651
+        ],
+        "sourceSize": [
+          800,
+          13536
+        ],
+        "detectedFace": [
+          196.68,
+          12157.422,
+          419.922,
+          454.688
+        ],
+        "outsideFaceWhiteFraction": 0.00688,
+        "largestWhiteRegion": 0.00688,
+        "sharpness": 1461.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/79/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/79-portrait-v5-953052eae871.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7979,
+        "faceHash": "80647b4fd71b14d5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          82,
+          9714,
+          477,
+          10109
+        ],
+        "sourceSize": [
+          800,
+          13760
+        ],
+        "detectedFace": [
+          121.094,
+          9693.359,
+          316.797,
+          383.203
+        ],
+        "outsideFaceWhiteFraction": 0.01392,
+        "largestWhiteRegion": 0.00671,
+        "sharpness": 1555.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/80/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/80-portrait-v5-257907532255.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7974,
+        "faceHash": "b5852aa6d4fa720d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6083,
+          444,
+          6527
+        ],
+        "sourceSize": [
+          800,
+          14585
+        ],
+        "detectedFace": [
+          57.324,
+          6112.012,
+          354.883,
+          385.742
+        ],
+        "outsideFaceWhiteFraction": 0.02698,
+        "largestWhiteRegion": 0.01305,
+        "sharpness": 2489.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/82/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/82-portrait-v5-73be25407377.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "9e123c8fe0ce4f38",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          323,
+          5396,
+          619,
+          5692
+        ],
+        "sourceSize": [
+          800,
+          14156
+        ],
+        "detectedFace": [
+          349.219,
+          5415.332,
+          242.969,
+          257.422
+        ],
+        "outsideFaceWhiteFraction": 0.05151,
+        "largestWhiteRegion": 0.01511,
+        "sharpness": 2763.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/83/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/83-portrait-v5-6428b77d3b64.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7271,
+        "faceHash": "9167489374abd2cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          232,
+          2034,
+          800,
+          2602
+        ],
+        "sourceSize": [
+          800,
+          12626
+        ],
+        "detectedFace": [
+          310.156,
+          2100.391,
+          436.719,
+          434.375
+        ],
+        "outsideFaceWhiteFraction": 0.00285,
+        "largestWhiteRegion": 0.00154,
+        "sharpness": 2270.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/81-portrait-v5-bf0e0a4b5718.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "92331dcce569cb49",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          196,
+          4526,
+          405,
+          4735
+        ],
+        "sourceSize": [
+          800,
+          14510
+        ],
+        "detectedFace": [
+          210.645,
+          4542.969,
+          178.711,
+          203.125
+        ],
+        "outsideFaceWhiteFraction": 0.03293,
+        "largestWhiteRegion": 0.01773,
+        "sharpness": 648.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/85-portrait-v5-bdef0c0d323a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7974,
+        "faceHash": "a1973887c09d77b8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          141,
+          2520,
+          532,
+          2911
+        ],
+        "sourceSize": [
+          800,
+          13130
+        ],
+        "detectedFace": [
+          226.562,
+          2503.125,
+          367.188,
+          425.0
+        ],
+        "outsideFaceWhiteFraction": 0.00104,
+        "largestWhiteRegion": 0.00098,
+        "sharpness": 2238.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/84/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/84-portrait-v5-7568448f0fb1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7773,
+        "faceHash": "a9292d48786b73e9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          313,
+          4486,
+          534,
+          4707
+        ],
+        "sourceSize": [
+          800,
+          13815
+        ],
+        "detectedFace": [
+          335.645,
+          4474.219,
+          176.367,
+          214.453
+        ],
+        "outsideFaceWhiteFraction": 0.00539,
+        "largestWhiteRegion": 0.00415,
+        "sharpness": 577.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/86/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/86-portrait-v5-b734918c5ddd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8154,
+        "faceHash": "95b13bd3e0ce604d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          188,
+          2515,
+          596,
+          2923
+        ],
+        "sourceSize": [
+          800,
+          14235
+        ],
+        "detectedFace": [
+          222.656,
+          2492.578,
+          338.672,
+          396.484
+        ],
+        "outsideFaceWhiteFraction": 0.02461,
+        "largestWhiteRegion": 0.01535,
+        "sharpness": 2923.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/87/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/87-portrait-v5-4ed71da01d2e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "f05d2bd21cd83d68",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          529,
+          11006,
+          733,
+          11210
+        ],
+        "sourceSize": [
+          800,
+          12585
+        ],
+        "detectedFace": [
+          551.562,
+          11001.465,
+          158.594,
+          187.305
+        ],
+        "outsideFaceWhiteFraction": 0.00075,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 725.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/88/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/88-portrait-v5-5771a061162b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8232,
+        "faceHash": "c4343b9ac9c96b59",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          124,
+          146,
+          559,
+          581
+        ],
+        "sourceSize": [
+          800,
+          12160
+        ],
+        "detectedFace": [
+          150.684,
+          122.266,
+          382.617,
+          422.656
+        ],
+        "outsideFaceWhiteFraction": 0.00038,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 2450.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/90/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/90-portrait-v5-99c2f948c18d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.874,
+        "faceHash": "c234789fc5e86749",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          184,
+          922,
+          440,
+          1178
+        ],
+        "sourceSize": [
+          800,
+          14955
+        ],
+        "detectedFace": [
+          238.672,
+          963.867,
+          147.266,
+          171.484
+        ],
+        "outsideFaceWhiteFraction": 0.02675,
+        "largestWhiteRegion": 0.0135,
+        "sharpness": 1456.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/89/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/89-portrait-v5-3c9a67f3891f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "95c328dae58175b9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          325,
+          11032,
+          529,
+          11236
+        ],
+        "sourceSize": [
+          800,
+          13785
+        ],
+        "detectedFace": [
+          373.047,
+          11062.207,
+          107.031,
+          125.977
+        ],
+        "outsideFaceWhiteFraction": 0.01044,
+        "largestWhiteRegion": 0.00597,
+        "sharpness": 354.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/91/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/91-portrait-v5-aaddb3cb4ca4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8354,
+        "faceHash": "9d7d6ac6343a62d0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          162,
+          11197,
+          389,
+          11424
+        ],
+        "sourceSize": [
+          800,
+          14595
+        ],
+        "detectedFace": [
+          181.055,
+          11184.961,
+          189.844,
+          220.703
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 501.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/92/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/92-portrait-v5-e1ec5ad6e57d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8198,
+        "faceHash": "85413f0eb09ef3d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          270,
+          10565,
+          630,
+          10925
+        ],
+        "sourceSize": [
+          800,
+          12515
+        ],
+        "detectedFace": [
+          296.094,
+          10594.629,
+          307.031,
+          349.805
+        ],
+        "outsideFaceWhiteFraction": 0.00807,
+        "largestWhiteRegion": 0.00514,
+        "sharpness": 1814.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/93/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/93-portrait-v5-9ae17823ff4b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "80873e0798cf72de",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          241,
+          6947,
+          700,
+          7406
+        ],
+        "sourceSize": [
+          800,
+          12626
+        ],
+        "detectedFace": [
+          320.41,
+          7000.195,
+          300.586,
+          352.734
+        ],
+        "outsideFaceWhiteFraction": 0.00529,
+        "largestWhiteRegion": 0.00111,
+        "sharpness": 3336.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/94/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/94-portrait-v5-b8f3f1684ad0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "d8117af2f355628c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          146,
+          2695,
+          610,
+          3159
+        ],
+        "sourceSize": [
+          800,
+          13605
+        ],
+        "detectedFace": [
+          204.297,
+          2725.586,
+          346.484,
+          403.516
+        ],
+        "outsideFaceWhiteFraction": 0.03418,
+        "largestWhiteRegion": 0.00893,
+        "sharpness": 1803.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/96/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/96-portrait-v5-3241a9321044.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7998,
+        "faceHash": "96cb6a85ce1e2f24",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          78,
+          3111,
+          641,
+          3674
+        ],
+        "sourceSize": [
+          800,
+          14092
+        ],
+        "detectedFace": [
+          142.969,
+          3181.836,
+          433.203,
+          421.484
+        ],
+        "outsideFaceWhiteFraction": 0.01534,
+        "largestWhiteRegion": 0.00587,
+        "sharpness": 3556.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/97/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/97-portrait-v5-ae4a163f691d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7974,
+        "faceHash": "b45d177fb89ce080",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          118,
+          7373,
+          710,
+          7965
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          221.68,
+          7441.406,
+          384.766,
+          455.469
+        ],
+        "outsideFaceWhiteFraction": 0.03371,
+        "largestWhiteRegion": 0.00868,
+        "sharpness": 3078.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/99/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/99-portrait-v5-c5f2f391b361.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8213,
+        "faceHash": "80c13987f58771de",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          102,
+          6057,
+          513,
+          6468
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          183.984,
+          6104.199,
+          247.656,
+          316.211
+        ],
+        "outsideFaceWhiteFraction": 0.03543,
+        "largestWhiteRegion": 0.01466,
+        "sharpness": 2568.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/95/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/95-portrait-v5-ffacb75e6fd2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8081,
+        "faceHash": "c4c73f487c2c3137",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          459,
+          12073,
+          696,
+          12310
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          462.891,
+          12070.312,
+          229.688,
+          213.086
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 473.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/100/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/100-portrait-v5-85be751127d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "95802cd6a1df764d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          209,
+          2626,
+          599,
+          3016
+        ],
+        "sourceSize": [
+          800,
+          13278
+        ],
+        "detectedFace": [
+          290.332,
+          2670.801,
+          227.93,
+          299.805
+        ],
+        "outsideFaceWhiteFraction": 0.00079,
+        "largestWhiteRegion": 0.00073,
+        "sharpness": 1822.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/98/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/98-portrait-v5-4e0f08950fb3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8667,
+        "faceHash": "8233798bb4dc2759",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          289,
+          4919,
+          497,
+          5127
+        ],
+        "sourceSize": [
+          800,
+          12950
+        ],
+        "detectedFace": [
+          319.531,
+          4908.398,
+          178.125,
+          201.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 587.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/103/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/103-portrait-v5-49a12cf1a01e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7925,
+        "faceHash": "d5909bf23898387b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          213,
+          8667,
+          613,
+          9067
+        ],
+        "sourceSize": [
+          800,
+          10470
+        ],
+        "detectedFace": [
+          235.059,
+          8733.789,
+          356.445,
+          444.922
+        ],
+        "outsideFaceWhiteFraction": 0.01793,
+        "largestWhiteRegion": 0.01064,
+        "sharpness": 1961.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/101/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/101-portrait-v5-386721ad6170.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8403,
+        "faceHash": "8b4e39178188cf7b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          164,
+          8662,
+          436,
+          8934
+        ],
+        "sourceSize": [
+          800,
+          13735
+        ],
+        "detectedFace": [
+          187.109,
+          8647.266,
+          226.172,
+          264.453
+        ],
+        "outsideFaceWhiteFraction": 0.02841,
+        "largestWhiteRegion": 0.01389,
+        "sharpness": 943.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/104/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/104-portrait-v5-90d1e455f2e9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8379,
+        "faceHash": "93302ed6a5db625c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7925,
+          429,
+          8354
+        ],
+        "sourceSize": [
+          800,
+          13940
+        ],
+        "detectedFace": [
+          42.285,
+          7980.371,
+          330.273,
+          318.945
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1662.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/105/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/105-portrait-v5-a6739a5c626e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8076,
+        "faceHash": "9fad78a57314630a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          90,
+          7932,
+          513,
+          8355
+        ],
+        "sourceSize": [
+          800,
+          14160
+        ],
+        "detectedFace": [
+          139.453,
+          7960.059,
+          324.609,
+          367.773
+        ],
+        "outsideFaceWhiteFraction": 0.02267,
+        "largestWhiteRegion": 0.01791,
+        "sharpness": 1958.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/106/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/106-portrait-v5-7ebef5b39a07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8042,
+        "faceHash": "8e333cc3911c7b9c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          171,
+          8393,
+          596,
+          8818
+        ],
+        "sourceSize": [
+          800,
+          14125
+        ],
+        "detectedFace": [
+          230.762,
+          8441.895,
+          305.273,
+          327.148
+        ],
+        "outsideFaceWhiteFraction": 0.00497,
+        "largestWhiteRegion": 0.00093,
+        "sharpness": 2174.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/102/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/102-portrait-v5-51cd8cf01010.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.835,
+        "faceHash": "d714685ae5c926d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          320,
+          13529,
+          671,
+          13880
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          309.863,
+          13510.059,
+          313.867,
+          340.82
+        ],
+        "outsideFaceWhiteFraction": 0.01532,
+        "largestWhiteRegion": 0.01491,
+        "sharpness": 1382.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/107/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/107-portrait-v5-03d330ac1f48.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7544,
+        "faceHash": "a095e7781e4a5bcc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          176,
+          6568,
+          547,
+          6939
+        ],
+        "sourceSize": [
+          800,
+          13635
+        ],
+        "detectedFace": [
+          241.797,
+          6610.645,
+          239.453,
+          285.742
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1261.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/110/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/110-portrait-v5-7b2095c5aa5e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8027,
+        "faceHash": "cd303edbe04c3798",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          195,
+          6423,
+          545,
+          6773
+        ],
+        "sourceSize": [
+          690,
+          13305
+        ],
+        "detectedFace": [
+          215.625,
+          6451.716,
+          307.939,
+          340.115
+        ],
+        "outsideFaceWhiteFraction": 0.01781,
+        "largestWhiteRegion": 0.00626,
+        "sharpness": 924.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/108/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/108-portrait-v5-7aa32099e325.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "8f783eb0b1c8cb94",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          413,
+          11849,
+          626,
+          12062
+        ],
+        "sourceSize": [
+          800,
+          13755
+        ],
+        "detectedFace": [
+          439.844,
+          11837.891,
+          159.375,
+          207.031
+        ],
+        "outsideFaceWhiteFraction": 0.0143,
+        "largestWhiteRegion": 0.0072,
+        "sharpness": 516.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/109/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/109-portrait-v5-c21151b997a3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "8fc53886bccf60d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          477,
+          4169,
+          681,
+          4373
+        ],
+        "sourceSize": [
+          800,
+          14620
+        ],
+        "detectedFace": [
+          511.133,
+          4183.789,
+          134.766,
+          153.516
+        ],
+        "outsideFaceWhiteFraction": 0.02281,
+        "largestWhiteRegion": 0.00995,
+        "sharpness": 816.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/113/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/113-portrait-v5-d7eec618feea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "d2946a3371db324d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          425,
+          3406,
+          681,
+          3662
+        ],
+        "sourceSize": [
+          800,
+          13865
+        ],
+        "detectedFace": [
+          466.016,
+          3435.938,
+          174.219,
+          196.094
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1230.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/111/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/111-portrait-v5-a4c061e3f4f3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8213,
+        "faceHash": "cb217d1fa09cd358",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          277,
+          7391,
+          657,
+          7771
+        ],
+        "sourceSize": [
+          800,
+          10795
+        ],
+        "detectedFace": [
+          283.301,
+          7422.363,
+          367.773,
+          369.336
+        ],
+        "outsideFaceWhiteFraction": 0.00081,
+        "largestWhiteRegion": 0.00078,
+        "sharpness": 1252.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/114/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/114-portrait-v5-46a7ec29b1a0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "95e42bc6e0dca671",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          32,
+          4984,
+          297,
+          5249
+        ],
+        "sourceSize": [
+          800,
+          14660
+        ],
+        "detectedFace": [
+          71.68,
+          5013.965,
+          186.523,
+          204.102
+        ],
+        "outsideFaceWhiteFraction": 0.03705,
+        "largestWhiteRegion": 0.01244,
+        "sharpness": 1037.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/115/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/115-portrait-v5-156869ea1d66.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.812,
+        "faceHash": "84153d9fa4d86679",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          142,
+          9401,
+          506,
+          9765
+        ],
+        "sourceSize": [
+          800,
+          12825
+        ],
+        "detectedFace": [
+          170.703,
+          9431.055,
+          305.859,
+          353.516
+        ],
+        "outsideFaceWhiteFraction": 0.009,
+        "largestWhiteRegion": 0.0074,
+        "sharpness": 1882.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/112/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/112-portrait-v5-8d6dd7f3e0bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7686,
+        "faceHash": "c0b55fec9b627a40",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          7,
+          13552,
+          324,
+          13869
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          12.793,
+          13535.254,
+          305.469,
+          307.617
+        ],
+        "outsideFaceWhiteFraction": 0.02284,
+        "largestWhiteRegion": 0.01149,
+        "sharpness": 1433.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/116/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/116-portrait-v5-aaa6b74aebfe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8623,
+        "faceHash": "935128fe8789a69d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          475,
+          13632,
+          716,
+          13873
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          477.93,
+          13618.75,
+          198.828,
+          234.375
+        ],
+        "outsideFaceWhiteFraction": 0.00385,
+        "largestWhiteRegion": 0.00359,
+        "sharpness": 1445.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/117/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/117-portrait-v5-102430aa1033.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8145,
+        "faceHash": "935238dee7882739",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          210,
+          6284,
+          646,
+          6720
+        ],
+        "sourceSize": [
+          800,
+          14434
+        ],
+        "detectedFace": [
+          281.934,
+          6334.473,
+          292.383,
+          335.742
+        ],
+        "outsideFaceWhiteFraction": 0.04903,
+        "largestWhiteRegion": 0.01601,
+        "sharpness": 1648.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/119/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/119-portrait-v5-4d089bb659eb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "85523d97f0d863c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          220,
+          3333,
+          558,
+          3671
+        ],
+        "sourceSize": [
+          800,
+          14660
+        ],
+        "detectedFace": [
+          278.418,
+          3371.582,
+          220.508,
+          259.961
+        ],
+        "outsideFaceWhiteFraction": 0.04575,
+        "largestWhiteRegion": 0.0128,
+        "sharpness": 1226.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/121/002.webp?v=1771817858",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/121-portrait-v5-281d7f6fcceb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8218,
+        "faceHash": "94167e9ff0c86709",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          28,
+          6968,
+          501,
+          7441
+        ],
+        "sourceSize": [
+          800,
+          12057
+        ],
+        "detectedFace": [
+          129.59,
+          7022.461,
+          328.32,
+          363.672
+        ],
+        "outsideFaceWhiteFraction": 0.00345,
+        "largestWhiteRegion": 0.00186,
+        "sharpness": 2508.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/118/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/118-portrait-v5-3d5ac6e4d1c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8047,
+        "faceHash": "d5d50f82c8dbe4c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          51,
+          13000,
+          400,
+          13349
+        ],
+        "sourceSize": [
+          800,
+          14580
+        ],
+        "detectedFace": [
+          64.16,
+          12981.152,
+          323.633,
+          339.258
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1839.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/120/002.webp?v=1770663621",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/120-portrait-v5-173737b6da11.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "9580aed3b09f364d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          557,
+          2108,
+          761,
+          2312
+        ],
+        "sourceSize": [
+          800,
+          10275
+        ],
+        "detectedFace": [
+          594.727,
+          2121.094,
+          128.516,
+          155.859
+        ],
+        "outsideFaceWhiteFraction": 0.04251,
+        "largestWhiteRegion": 0.01237,
+        "sharpness": 807.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/124/86fdf3.webp?v=1774125868",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/124-portrait-v5-876e63221dc0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8413,
+        "faceHash": "83783f8d84ec7354",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          385,
+          7390,
+          657,
+          7662
+        ],
+        "sourceSize": [
+          800,
+          12202
+        ],
+        "detectedFace": [
+          397.168,
+          7375.293,
+          247.852,
+          264.258
+        ],
+        "outsideFaceWhiteFraction": 0.01723,
+        "largestWhiteRegion": 0.00925,
+        "sharpness": 1569.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/122/002.webp?v=1771967018",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/122-portrait-v5-053e4216d0a5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8496,
+        "faceHash": "87273813b8ce73cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          257,
+          10224,
+          542,
+          10509
+        ],
+        "sourceSize": [
+          800,
+          14098
+        ],
+        "detectedFace": [
+          275.684,
+          10208.887,
+          247.461,
+          276.758
+        ],
+        "outsideFaceWhiteFraction": 0.01973,
+        "largestWhiteRegion": 0.00555,
+        "sharpness": 1202.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/125/f762a6.webp?v=1774195192",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/125-portrait-v5-8bc594905ec6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "93316ccec5ec662c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          240,
+          4782,
+          539,
+          5081
+        ],
+        "sourceSize": [
+          800,
+          13124
+        ],
+        "detectedFace": [
+          285.84,
+          4816.504,
+          206.836,
+          230.078
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 764.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/123/002.webp?v=1772551989",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/123-portrait-v5-609221fa1ec4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8164,
+        "faceHash": "c541351fb298ebd8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          156,
+          12055,
+          620,
+          12519
+        ],
+        "sourceSize": [
+          800,
+          14665
+        ],
+        "detectedFace": [
+          182.031,
+          12093.945,
+          412.109,
+          450.0
+        ],
+        "outsideFaceWhiteFraction": 0.01572,
+        "largestWhiteRegion": 0.00722,
+        "sharpness": 1822.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/126/54d5ac.webp?v=1775866742",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/126-portrait-v5-6bf937c12905.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7993,
+        "faceHash": "95642ad2cda55be8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          186,
+          3671,
+          390,
+          3875
+        ],
+        "sourceSize": [
+          800,
+          14208
+        ],
+        "detectedFace": [
+          223.438,
+          3683.398,
+          158.203,
+          157.617
+        ],
+        "outsideFaceWhiteFraction": 0.00983,
+        "largestWhiteRegion": 0.00485,
+        "sharpness": 750.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "128": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/128",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/128/2d8442.webp?v=1776016403",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/128-portrait-v5-3a744beba4fc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8394,
+        "faceHash": "c49d7fe09c396096",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          253,
+          10341,
+          457,
+          10545
+        ],
+        "sourceSize": [
+          800,
+          14260
+        ],
+        "detectedFace": [
+          269.043,
+          10341.309,
+          172.852,
+          177.539
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 379.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/127/3d8984.webp?v=1775867644",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/127-portrait-v5-e0b0be4eefc2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "bf001aba8dade24d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          276,
+          10433,
+          548,
+          10705
+        ],
+        "sourceSize": [
+          800,
+          14481
+        ],
+        "detectedFace": [
+          293.652,
+          10419.043,
+          236.133,
+          263.867
+        ],
+        "outsideFaceWhiteFraction": 0.02304,
+        "largestWhiteRegion": 0.01633,
+        "sharpness": 1615.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "129": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/129",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/129/fb12e9.webp?v=1776546960",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/129-portrait-v5-3c7bf4cb6cae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8452,
+        "faceHash": "9a366ebaa8cd4968",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          5729,
+          615,
+          6125
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          275.684,
+          5774.219,
+          282.227,
+          304.688
+        ],
+        "outsideFaceWhiteFraction": 0.01308,
+        "largestWhiteRegion": 0.01158,
+        "sharpness": 1798.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "130": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/130",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/130/e4c158.webp?v=1777130592",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/130-portrait-v5-ce1befef7fa5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.832,
+        "faceHash": "91991ad2c3e7259d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          259,
+          1372,
+          529,
+          1642
+        ],
+        "sourceSize": [
+          800,
+          13808
+        ],
+        "detectedFace": [
+          276.172,
+          1396.387,
+          235.156,
+          220.898
+        ],
+        "outsideFaceWhiteFraction": 0.01709,
+        "largestWhiteRegion": 0.01137,
+        "sharpness": 1565.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "131": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/131",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/131/6d6d91.webp?v=1777600324",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/131-portrait-v5-1ba42ba51be6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "cb42345db298e3d3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          335,
+          8298,
+          734,
+          8697
+        ],
+        "sourceSize": [
+          900,
+          13805
+        ],
+        "detectedFace": [
+          337.61,
+          8324.011,
+          333.765,
+          346.948
+        ],
+        "outsideFaceWhiteFraction": 0.04083,
+        "largestWhiteRegion": 0.01282,
+        "sharpness": 1309.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "132": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/132",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/132/ef7459.webp?v=1778295414",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/132-portrait-v5-cb3702d534ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "8d4d3826b0dce7d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          140,
+          9908,
+          444,
+          10212
+        ],
+        "sourceSize": [
+          900,
+          13400
+        ],
+        "detectedFace": [
+          144.8,
+          9891.321,
+          294.434,
+          337.28
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1164.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "134": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/134",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/134/8681eb.webp?v=1779016693",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/134-portrait-v5-1731b25830ff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8276,
+        "faceHash": "fc317ec3480e33a6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          262,
+          4060,
+          585,
+          4383
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          303.992,
+          4097.681,
+          239.722,
+          248.511
+        ],
+        "outsideFaceWhiteFraction": 0.02371,
+        "largestWhiteRegion": 0.00517,
+        "sharpness": 3208.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "133": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/133",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/133/6c0ccc.webp?v=1778527580",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/133-portrait-v5-9fc1edbe5d3a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "c3a466c6e58f2639",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          467,
+          6565,
+          675,
+          6773
+        ],
+        "sourceSize": [
+          900,
+          13450
+        ],
+        "detectedFace": [
+          481.421,
+          6554.004,
+          178.857,
+          202.148
+        ],
+        "outsideFaceWhiteFraction": 0.01775,
+        "largestWhiteRegion": 0.01289,
+        "sharpness": 577.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "136": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/136",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/136/a91bb2.webp?v=1780145956",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/136-portrait-v5-802949f7f62a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8472,
+        "faceHash": "8008aaffb17c71ec",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          375,
+          3743,
+          775,
+          4143
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          421.216,
+          3800.61,
+          308.057,
+          284.326
+        ],
+        "outsideFaceWhiteFraction": 0.01228,
+        "largestWhiteRegion": 0.00043,
+        "sharpness": 3015.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "135": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/135",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/135/b3a387.webp?v=1779640771",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/135-portrait-v5-f6f4be067382.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7593,
+        "faceHash": "d0e56ae5cd360770",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          156,
+          13052,
+          445,
+          13341
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          171.826,
+          13037.146,
+          257.52,
+          280.151
+        ],
+        "outsideFaceWhiteFraction": 0.01863,
+        "largestWhiteRegion": 0.01361,
+        "sharpness": 1530.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "137": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/137",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/137/ca1f63.webp?v=1780755138",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/137-portrait-v5-c7cbfb821bef.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "96627adac3b16d82",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          305,
+          4254,
+          562,
+          4511
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          348.926,
+          4283.02,
+          168.75,
+          197.974
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 952.0,
+        "reviewed": true
+      }
+    },
+    "138": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/138",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/138/033801.webp?v=1781326987",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/138-portrait-v5-3dfaf8c42747.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "9ee32cd8b5cb3244",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          340,
+          5632,
+          659,
+          5951
+        ],
+        "sourceSize": [
+          900,
+          15404
+        ],
+        "detectedFace": [
+          355.737,
+          5646.863,
+          286.963,
+          289.819
+        ],
+        "outsideFaceWhiteFraction": 0.04535,
+        "largestWhiteRegion": 0.01703,
+        "sharpness": 2192.52,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "139": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/139",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/139/2ec6c6.webp?v=1781926246",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/139-portrait-v5-cc12321fd425.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8745,
+        "faceHash": "96423bde83856e39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          129,
+          9582,
+          385,
+          9838
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          183.527,
+          9600.787,
+          180.066,
+          217.859
+        ],
+        "outsideFaceWhiteFraction": 0.02852,
+        "largestWhiteRegion": 0.01436,
+        "sharpness": 2235.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "140": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/140",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/140/39d0a9.webp?v=1782532346",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/140-portrait-v5-aef94bb5432c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8511,
+        "faceHash": "d67c238936e338e4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          367,
+          7660,
+          767,
+          8060
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          392.871,
+          7698.34,
+          348.047,
+          323.438
+        ],
+        "outsideFaceWhiteFraction": 0.02945,
+        "largestWhiteRegion": 0.009,
+        "sharpness": 1254.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "141": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/141",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/141/7297db.webp?v=1783197760",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/141-portrait-v5-ef2f18e0f09d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8574,
+        "faceHash": "96323adba5c96269",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          114,
+          4987,
+          489,
+          5362
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          181.055,
+          5030.42,
+          240.381,
+          288.281
+        ],
+        "outsideFaceWhiteFraction": 0.03796,
+        "largestWhiteRegion": 0.01196,
+        "sharpness": 1009.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "142": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/142",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/142/28430d.webp?v=1783727383",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/142-portrait-v5-aef3d0c6b105.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "c0373d9a82d9eb49",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          101,
+          8196,
+          357,
+          8452
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          159.686,
+          8246.283,
+          139.417,
+          155.237
+        ],
+        "outsideFaceWhiteFraction": 0.00331,
+        "largestWhiteRegion": 0.00204,
+        "sharpness": 2221.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "143": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/143",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/143/6aa81b.webp?v=1784412474",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/143-portrait-v5-221d9d0f11c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "9b7139dda191a532",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          42,
+          6211,
+          526,
+          6695
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          124.695,
+          6242.871,
+          389.575,
+          420.557
+        ],
+        "outsideFaceWhiteFraction": 0.02863,
+        "largestWhiteRegion": 0.00824,
+        "sharpness": 1989.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "144": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/144",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/144/5b3af0.webp?v=1785008191",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/144-portrait-v5-c419cbaca7a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8384,
+        "faceHash": "c6f91c9fb0c8c3c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          152,
+          6392,
+          538,
+          6778
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          201.27,
+          6416.785,
+          286.963,
+          335.962
+        ],
+        "outsideFaceWhiteFraction": 0.03123,
+        "largestWhiteRegion": 0.01114,
+        "sharpness": 1281.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "145": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/145",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/145/17d1b6.webp?v=1785530693",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/145-portrait-v5-66f606a574a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8291,
+        "faceHash": "95eb2bd196993238",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          256,
+          6859,
+          651,
+          7254
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          276.306,
+          6838.22,
+          355.298,
+          383.423
+        ],
+        "outsideFaceWhiteFraction": 0.00432,
+        "largestWhiteRegion": 0.00217,
+        "sharpness": 2936.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "146": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/146",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/146/a1cbcb.webp?v=1786178541",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/146-portrait-v5-c8cac7032dcf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8735,
+        "faceHash": "d6367f1284c96b49",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          141,
+          7216,
+          406,
+          7481
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          174.573,
+          7232.959,
+          197.974,
+          230.273
+        ],
+        "outsideFaceWhiteFraction": 0.04228,
+        "largestWhiteRegion": 0.01736,
+        "sharpness": 1190.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/3/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/3-portrait-v5-520e946f07df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8076,
+        "faceHash": "948135872c4e7b7d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          301,
+          10304,
+          668,
+          10671
+        ],
+        "sourceSize": [
+          800,
+          14925
+        ],
+        "detectedFace": [
+          306.152,
+          10290.625,
+          356.445,
+          345.703
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2459.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/2-portrait-v5-0674bc335133.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0,
+        "faceHash": "8a2f2d71bcda30cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          430,
+          12630,
+          634,
+          12834
+        ],
+        "sourceSize": [
+          800,
+          13901
+        ],
+        "detectedFace": [
+          445,
+          12645,
+          150,
+          170
+        ],
+        "outsideFaceWhiteFraction": 0.05119,
+        "largestWhiteRegion": 0.00943,
+        "sharpness": 3710.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/4/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/4-portrait-v5-7c91cc9da2b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8525,
+        "faceHash": "97f078d3305e274c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          419,
+          4491,
+          677,
+          4749
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          442.188,
+          4476.953,
+          212.5,
+          250.781
+        ],
+        "outsideFaceWhiteFraction": 0.01511,
+        "largestWhiteRegion": 0.01489,
+        "sharpness": 1493.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/1-portrait-v5-d653b33f4290.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8022,
+        "faceHash": "91453fe4708f619e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          134,
+          10351,
+          449,
+          10666
+        ],
+        "sourceSize": [
+          800,
+          13565
+        ],
+        "detectedFace": [
+          157.031,
+          10334.766,
+          268.75,
+          305.469
+        ],
+        "outsideFaceWhiteFraction": 0.00023,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 2472.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

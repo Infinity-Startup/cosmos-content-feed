@@ -1,0 +1,500 @@
+{
+  "titleId": "asura-manhwa-got-a-gallery-in-the-wild",
+  "revision": 5,
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/1/59b0af.webp?v=1789925906",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/1-portrait-v5-e5c5b7683b05.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8086,
+        "faceHash": "a254bd8af06e8799",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          228,
+          8984,
+          855,
+          9611
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          291.357,
+          9025.049,
+          500.977,
+          544.922
+        ],
+        "outsideFaceWhiteFraction": 0.02318,
+        "largestWhiteRegion": 0.01404,
+        "sharpness": 2096.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/2/177698.webp?v=1789960292",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/2-portrait-v5-b4fd5257fbfe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "d2356adfa709225c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          106,
+          8606,
+          478,
+          8978
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          174.353,
+          8657.007,
+          286.304,
+          270.264
+        ],
+        "outsideFaceWhiteFraction": 0.04187,
+        "largestWhiteRegion": 0.01447,
+        "sharpness": 4596.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "0.5": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/0.5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/0/d0ed32.webp?v=1788393270",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/0.5-portrait-v5-a27fdf112387.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "a254bd8af06e8799",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          224,
+          8219,
+          855,
+          8850
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          287.622,
+          8260.4,
+          504.053,
+          548.438
+        ],
+        "outsideFaceWhiteFraction": 0.02458,
+        "largestWhiteRegion": 0.01596,
+        "sharpness": 1889.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/4/34bf91.webp?v=1789925907",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/4-portrait-v5-5868b92daadc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "c76b7d92708f3214",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          56,
+          4176,
+          552,
+          4672
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          113.269,
+          4252.478,
+          381.226,
+          342.114
+        ],
+        "outsideFaceWhiteFraction": 0.02829,
+        "largestWhiteRegion": 0.00687,
+        "sharpness": 4991.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/6/bba004.webp?v=1789970252",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/6-portrait-v5-6500a680c4ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8843,
+        "faceHash": "822f68ddb5cc323c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          505,
+          5479,
+          783,
+          5757
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          537.012,
+          5512.72,
+          213.574,
+          209.839
+        ],
+        "outsideFaceWhiteFraction": 0.00369,
+        "largestWhiteRegion": 0.00156,
+        "sharpness": 2068.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/5/8a3413.webp?v=1789925907",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/5-portrait-v5-8c5d8deb9f61.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "e31068dbb7e95445",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          293,
+          116,
+          574,
+          397
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          325.964,
+          158.203,
+          215.991,
+          197.314
+        ],
+        "outsideFaceWhiteFraction": 0.02122,
+        "largestWhiteRegion": 0.00699,
+        "sharpness": 832.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/8/c1e0ed.webp?v=1791156025",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/8-portrait-v5-a4cdb66cf097.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8501,
+        "faceHash": "954438ea92df837c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          10188,
+          682,
+          10651
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          280.481,
+          10241.235,
+          339.917,
+          356.396
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2022.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/9/9174ac.webp?v=1791732459",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/9-portrait-v5-c041ef81e45e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8403,
+        "faceHash": "d3216d8fe7982338",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          317,
+          8215,
+          712,
+          8610
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          374.194,
+          8260.291,
+          279.932,
+          303.882
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 2114.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/7/d9ce6b.webp?v=1790531239",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/7-portrait-v5-c302f815d382.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8472,
+        "faceHash": "80b83f13716367e6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          522,
+          6584,
+          854,
+          6916
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          566.895,
+          6622.778,
+          205.664,
+          255.322
+        ],
+        "outsideFaceWhiteFraction": 0.02794,
+        "largestWhiteRegion": 0.01784,
+        "sharpness": 3360.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/10/25aee9.webp?v=1792452649",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/10-portrait-v5-f523ed057659.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "d4382ecfe3d9302c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          489,
+          6253,
+          804,
+          6568
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          419.238,
+          6239.355,
+          325.195,
+          341.895
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1779.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/3/53060b.webp?v=1789925907",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/3-portrait-v5-84b467e1852a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8418,
+        "faceHash": "a28aac5db499b267",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          293,
+          6971,
+          698,
+          7376
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          339.478,
+          7023.34,
+          311.572,
+          301.025
+        ],
+        "outsideFaceWhiteFraction": 0.0424,
+        "largestWhiteRegion": 0.01532,
+        "sharpness": 4071.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/12/e8e468.webp?v=1793642749",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/12-portrait-v5-7cd8bd75e67a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8091,
+        "faceHash": "9cf463c7b5c2928a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          278,
+          5868,
+          692,
+          6282
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          324.097,
+          5894.824,
+          322.119,
+          360.352
+        ],
+        "outsideFaceWhiteFraction": 0.04121,
+        "largestWhiteRegion": 0.01326,
+        "sharpness": 2592.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/got-a-gallery-in-the-wild/11/3919b0.webp?v=1792947314",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-got-a-gallery-in-the-wild/11-portrait-v5-ca59627be98e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8257,
+        "faceHash": "91cc36d2846d3aed",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          221,
+          7716,
+          670,
+          8165
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          284.985,
+          7761.951,
+          390.674,
+          357.935
+        ],
+        "outsideFaceWhiteFraction": 0.0284,
+        "largestWhiteRegion": 0.01172,
+        "sharpness": 3889.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,4144 @@
+{
+  "titleId": "asura-manhwa-the-ultimate-shut-in",
+  "revision": 5,
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/2-portrait-v5-867842fc6fe8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8257,
+        "faceHash": "c7306b96adba451a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          171,
+          3889,
+          608,
+          4326
+        ],
+        "sourceSize": [
+          800,
+          13100
+        ],
+        "detectedFace": [
+          226.562,
+          3939.551,
+          325.391,
+          336.523
+        ],
+        "outsideFaceWhiteFraction": 0.03815,
+        "largestWhiteRegion": 0.00795,
+        "sharpness": 3949.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/3/017.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/3-portrait-v5-282aa10f1a99.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8818,
+        "faceHash": "c7336e12a49b07cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          305,
+          7521,
+          517,
+          7733
+        ],
+        "sourceSize": [
+          800,
+          9411
+        ],
+        "detectedFace": [
+          329.688,
+          7545.508,
+          163.281,
+          162.891
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1707.53,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/1-portrait-v5-d9146132f2b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8491,
+        "faceHash": "80550097e6cf7b79",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          106,
+          8851,
+          448,
+          9193
+        ],
+        "sourceSize": [
+          800,
+          13907
+        ],
+        "detectedFace": [
+          201.27,
+          8890.625,
+          150.586,
+          263.281
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1287.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/4/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/4-portrait-v5-85e585ef18af.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "8a356d9265da855b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          344,
+          5644,
+          638,
+          5938
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          397.949,
+          5680.762,
+          225.977,
+          219.727
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2299.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/5-portrait-v5-20d2ce89fcf6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7676,
+        "faceHash": "84746be1a997953a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          177,
+          8462,
+          616,
+          8901
+        ],
+        "sourceSize": [
+          800,
+          13965
+        ],
+        "detectedFace": [
+          228.516,
+          8512.891,
+          336.328,
+          337.5
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1664.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/7/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/7-portrait-v5-0d3430d6fba3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8672,
+        "faceHash": "b54a3a93b8d52a8d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          211,
+          3397,
+          467,
+          3653
+        ],
+        "sourceSize": [
+          800,
+          13995
+        ],
+        "detectedFace": [
+          251.074,
+          3435.156,
+          175.195,
+          180.469
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 1362.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/8-portrait-v5-40f5a0c158f7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "9f51b843b42f52ac",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          353,
+          5608,
+          589,
+          5844
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          384.961,
+          5623.73,
+          171.484,
+          205.273
+        ],
+        "outsideFaceWhiteFraction": 0.01393,
+        "largestWhiteRegion": 0.01038,
+        "sharpness": 2375.7,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/6/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/6-portrait-v5-76a0a8dc7969.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8203,
+        "faceHash": "857c3b9765cb18c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          135,
+          248,
+          391,
+          504
+        ],
+        "sourceSize": [
+          1200,
+          800
+        ],
+        "detectedFace": [
+          175.195,
+          298.975,
+          175.781,
+          154.98
+        ],
+        "outsideFaceWhiteFraction": 0.01437,
+        "largestWhiteRegion": 0.00443,
+        "sharpness": 3987.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/9-portrait-v5-78c5f2b6f90c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8149,
+        "faceHash": "cb141d1e484ef07f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7914,
+          500,
+          8414
+        ],
+        "sourceSize": [
+          800,
+          14565
+        ],
+        "detectedFace": [
+          21.484,
+          7993.75,
+          384.375,
+          341.016
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2050.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/10-portrait-v5-b9c5804ad6c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "84d02b9b2d2d37d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          505,
+          6666,
+          800,
+          6961
+        ],
+        "sourceSize": [
+          800,
+          13145
+        ],
+        "detectedFace": [
+          571.094,
+          6699.902,
+          182.812,
+          226.758
+        ],
+        "outsideFaceWhiteFraction": 0.01495,
+        "largestWhiteRegion": 0.01369,
+        "sharpness": 4068.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/11/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/11-portrait-v5-2b21b4bd927d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "81687a9ba116f4cf",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          405,
+          586,
+          642,
+          823
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          431.836,
+          619.678,
+          182.422,
+          170.02
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2001.56,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/12/009.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/12-portrait-v5-c78b5508df01.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "ef1b378fa064518c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          131,
+          12260,
+          402,
+          12531
+        ],
+        "sourceSize": [
+          800,
+          14417
+        ],
+        "detectedFace": [
+          130.664,
+          12278.027,
+          229.688,
+          235.352
+        ],
+        "outsideFaceWhiteFraction": 0.02217,
+        "largestWhiteRegion": 0.01375,
+        "sharpness": 2351.22,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/93/c1cdac.webp?v=1786745943",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/93-portrait-v5-306b6ab803b2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "c5682fdf706c1386",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          430,
+          3494,
+          634,
+          3698
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          466.26,
+          3525.458,
+          131.836,
+          141.394
+        ],
+        "outsideFaceWhiteFraction": 0.01138,
+        "largestWhiteRegion": 0.00491,
+        "sharpness": 766.11,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/95/706f38.webp?v=1788019849",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/95-portrait-v5-db684948c25a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "cc0c6ccbb5c0366f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          443,
+          7988,
+          773,
+          8318
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          500.098,
+          8026.172,
+          215.332,
+          254.004
+        ],
+        "outsideFaceWhiteFraction": 0.01991,
+        "largestWhiteRegion": 0.01097,
+        "sharpness": 2611.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/94/ae0208.webp?v=1787344432",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/94-portrait-v5-3818f0b691bd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "da8d7e83b44c334c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          427,
+          2610,
+          731,
+          2914
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          479.663,
+          2644.849,
+          199.072,
+          234.229
+        ],
+        "outsideFaceWhiteFraction": 0.00308,
+        "largestWhiteRegion": 0.00151,
+        "sharpness": 2418.02,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/96/e2b380.webp?v=1791320481",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/96-portrait-v5-74818911694b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "c1906f9f256d3296",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          199,
+          15504,
+          520,
+          15825
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          240.71,
+          15540.881,
+          238.403,
+          246.753
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1490.17,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/99/6a7147.webp?v=1790383611",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/99-portrait-v5-dd10a6458fe3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "d561369f7269328c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          409,
+          9693,
+          694,
+          9978
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          442.31,
+          9738.281,
+          219.287,
+          195.117
+        ],
+        "outsideFaceWhiteFraction": 0.01744,
+        "largestWhiteRegion": 0.00836,
+        "sharpness": 2342.14,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/97/7ba218.webp?v=1789214994",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/97-portrait-v5-8cd1dcb0a64d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "c1f83f1a362539c6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          136,
+          3166,
+          487,
+          3517
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          187.976,
+          3206.689,
+          246.313,
+          269.824
+        ],
+        "outsideFaceWhiteFraction": 0.00053,
+        "largestWhiteRegion": 0.00017,
+        "sharpness": 1840.07,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/101/4b1bfe.webp?v=1792244804",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/101-portrait-v5-4ca09c6e1814.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7749,
+        "faceHash": "d6312fd0a4d2385f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          37,
+          8737,
+          876,
+          9576
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          91.626,
+          8793.677,
+          729.932,
+          725.977
+        ],
+        "outsideFaceWhiteFraction": 0.00209,
+        "largestWhiteRegion": 0.00082,
+        "sharpness": 3250.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/98/835b53.webp?v=1789774750",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/98-portrait-v5-e4a9d8f5e696.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "95256a92a7796ec8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          288,
+          953,
+          642,
+          1307
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          329.26,
+          1002.722,
+          272.241,
+          255.103
+        ],
+        "outsideFaceWhiteFraction": 0.01245,
+        "largestWhiteRegion": 0.00589,
+        "sharpness": 2069.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/100/97f1d0.webp?v=1791218882",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/100-portrait-v5-e193b2d676ac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.876,
+        "faceHash": "c5806e5b6d893769",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          352,
+          917,
+          633,
+          1198
+        ],
+        "sourceSize": [
+          900,
+          3141
+        ],
+        "detectedFace": [
+          419.678,
+          949.219,
+          178.418,
+          216.211
+        ],
+        "outsideFaceWhiteFraction": 0.01656,
+        "largestWhiteRegion": 0.00401,
+        "sharpness": 2005.69,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/103/add5a4.webp?v=1793416941",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/103-portrait-v5-1f00e1473d99.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "c4db2fd4345e2760",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          262,
+          1794,
+          663,
+          2195
+        ],
+        "sourceSize": [
+          900,
+          3070
+        ],
+        "detectedFace": [
+          297.949,
+          1819.775,
+          328.711,
+          348.926
+        ],
+        "outsideFaceWhiteFraction": 0.02559,
+        "largestWhiteRegion": 0.01567,
+        "sharpness": 2903.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/104/4c1127.webp?v=1794177620",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/104-portrait-v5-898c8f23e139.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7886,
+        "faceHash": "86790b84f41b55de",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          81,
+          1554,
+          840,
+          2313
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          168.311,
+          1663.33,
+          583.594,
+          540.527
+        ],
+        "outsideFaceWhiteFraction": 0.00671,
+        "largestWhiteRegion": 0.00198,
+        "sharpness": 3318.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/13/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/13-portrait-v5-d50c0a141251.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "926a2fb470cf6439",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          307,
+          3328,
+          511,
+          3532
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          333.887,
+          3371.973,
+          127.93,
+          115.43
+        ],
+        "outsideFaceWhiteFraction": 0.01186,
+        "largestWhiteRegion": 0.01151,
+        "sharpness": 1407.14,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/15-portrait-v5-6d8bd4b45639.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7773,
+        "faceHash": "d44a293db9c7d0aa",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          94,
+          2369,
+          698,
+          2973
+        ],
+        "sourceSize": [
+          800,
+          10460
+        ],
+        "detectedFace": [
+          138.086,
+          2408.203,
+          516.797,
+          525.391
+        ],
+        "outsideFaceWhiteFraction": 0.0312,
+        "largestWhiteRegion": 0.01103,
+        "sharpness": 2931.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/14/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/14-portrait-v5-f826c3bac4f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "c33c2a9db0ccb2ec",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          466,
+          802,
+          800,
+          1136
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          561.719,
+          840.527,
+          238.281,
+          256.836
+        ],
+        "outsideFaceWhiteFraction": 0.02518,
+        "largestWhiteRegion": 0.00507,
+        "sharpness": 1032.34,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/17-portrait-v5-668dd98d601d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8789,
+        "faceHash": "97202dded390678b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          304,
+          2507,
+          560,
+          2763
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          348.438,
+          2549.902,
+          166.406,
+          170.898
+        ],
+        "outsideFaceWhiteFraction": 0.03876,
+        "largestWhiteRegion": 0.01208,
+        "sharpness": 2451.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/18/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/18-portrait-v5-a099ae0c4b20.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "c4323d8fc3695b94",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          237,
+          3046,
+          493,
+          3302
+        ],
+        "sourceSize": [
+          800,
+          13905
+        ],
+        "detectedFace": [
+          294.824,
+          3092.725,
+          141.211,
+          162.012
+        ],
+        "outsideFaceWhiteFraction": 0.00717,
+        "largestWhiteRegion": 0.00359,
+        "sharpness": 1238.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/16/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/16-portrait-v5-80dfbe092d0b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "c12d3fb038cf34c3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          247,
+          505,
+          548,
+          806
+        ],
+        "sourceSize": [
+          800,
+          14025
+        ],
+        "detectedFace": [
+          281.934,
+          546.68,
+          231.836,
+          218.359
+        ],
+        "outsideFaceWhiteFraction": 0.00534,
+        "largestWhiteRegion": 0.00133,
+        "sharpness": 2847.68,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/21-portrait-v5-b7b5d7c442a5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "946a6d9566da3319",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          388,
+          2318,
+          692,
+          2622
+        ],
+        "sourceSize": [
+          800,
+          14045
+        ],
+        "detectedFace": [
+          425.0,
+          2352.93,
+          230.469,
+          233.984
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 659.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/19/010.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/19-portrait-v5-609d4de653e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "cb26799ea0d84799",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          265,
+          2309,
+          469,
+          2513
+        ],
+        "sourceSize": [
+          800,
+          13345
+        ],
+        "detectedFace": [
+          312.5,
+          2349.414,
+          132.031,
+          123.828
+        ],
+        "outsideFaceWhiteFraction": 0.04901,
+        "largestWhiteRegion": 0.01727,
+        "sharpness": 1098.08,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/20/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/20-portrait-v5-37391aea70a7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "cf613e97c2c9216c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          399,
+          3985,
+          726,
+          4312
+        ],
+        "sourceSize": [
+          800,
+          12788
+        ],
+        "detectedFace": [
+          445.508,
+          4022.852,
+          233.203,
+          251.172
+        ],
+        "outsideFaceWhiteFraction": 0.01297,
+        "largestWhiteRegion": 0.00565,
+        "sharpness": 3451.71,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/22-portrait-v5-d354eaf6cc31.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "c76f6b91a4561a0b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          432,
+          6849,
+          800,
+          7217
+        ],
+        "sourceSize": [
+          800,
+          12715
+        ],
+        "detectedFace": [
+          525.195,
+          6891.113,
+          256.641,
+          283.398
+        ],
+        "outsideFaceWhiteFraction": 0.01549,
+        "largestWhiteRegion": 0.00636,
+        "sharpness": 3843.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/24-portrait-v5-341da840a450.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8325,
+        "faceHash": "85683a9fa6ce32c5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          130,
+          5069,
+          500,
+          5439
+        ],
+        "sourceSize": [
+          800,
+          14718
+        ],
+        "detectedFace": [
+          175.781,
+          5111.816,
+          278.125,
+          284.961
+        ],
+        "outsideFaceWhiteFraction": 0.01186,
+        "largestWhiteRegion": 0.00797,
+        "sharpness": 1337.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/25-portrait-v5-02d93414539f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "deda0ad687602c97",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          287,
+          4775,
+          800,
+          5288
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          348.828,
+          4808.789,
+          440.625,
+          445.703
+        ],
+        "outsideFaceWhiteFraction": 0.0266,
+        "largestWhiteRegion": 0.01399,
+        "sharpness": 2665.27,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/26-portrait-v5-c00764fcbd8b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7739,
+        "faceHash": "ebf3814d03d8652d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          116,
+          8564,
+          372,
+          8820
+        ],
+        "sourceSize": [
+          800,
+          13650
+        ],
+        "detectedFace": [
+          151.123,
+          8604.492,
+          186.035,
+          174.609
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 934.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/23/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/23-portrait-v5-6367fd5a975a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "d6213ef3b78c1258",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          404,
+          7983,
+          608,
+          8187
+        ],
+        "sourceSize": [
+          800,
+          13865
+        ],
+        "detectedFace": [
+          441.992,
+          8024.121,
+          128.516,
+          122.07
+        ],
+        "outsideFaceWhiteFraction": 0.028,
+        "largestWhiteRegion": 0.01736,
+        "sharpness": 1131.74,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/27-portrait-v5-58d69b9baca8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8364,
+        "faceHash": "97617a97a059265d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          141,
+          2462,
+          617,
+          2938
+        ],
+        "sourceSize": [
+          800,
+          14180
+        ],
+        "detectedFace": [
+          196.484,
+          2520.312,
+          366.016,
+          360.156
+        ],
+        "outsideFaceWhiteFraction": 0.00375,
+        "largestWhiteRegion": 0.00334,
+        "sharpness": 3344.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/29/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/29-portrait-v5-f9044ca2f80c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "c0752a97e1dc27c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          424,
+          13463,
+          659,
+          13698
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          455.664,
+          13490.234,
+          172.266,
+          180.859
+        ],
+        "outsideFaceWhiteFraction": 0.00386,
+        "largestWhiteRegion": 0.00247,
+        "sharpness": 685.0,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/31/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/31-portrait-v5-9d049cc82d7e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "9b572db584c230cf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          377,
+          7126,
+          633,
+          7382
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          419.336,
+          7161.914,
+          171.484,
+          183.984
+        ],
+        "outsideFaceWhiteFraction": 0.01942,
+        "largestWhiteRegion": 0.00523,
+        "sharpness": 4754.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/28/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/28-portrait-v5-5f0e26ce6df1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "822b7da1e0dfcf02",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          137,
+          10805,
+          470,
+          11138
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          132.422,
+          10836.328,
+          289.453,
+          270.508
+        ],
+        "outsideFaceWhiteFraction": 0.02849,
+        "largestWhiteRegion": 0.01083,
+        "sharpness": 2191.65,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/30/015.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/30-portrait-v5-f64278854674.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8647,
+        "faceHash": "972a35b874c7a90b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          167,
+          7334,
+          391,
+          7558
+        ],
+        "sourceSize": [
+          800,
+          14600
+        ],
+        "detectedFace": [
+          153.906,
+          7342.285,
+          249.219,
+          206.836
+        ],
+        "outsideFaceWhiteFraction": 0.0049,
+        "largestWhiteRegion": 0.0049,
+        "sharpness": 773.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/32/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/32-portrait-v5-4cee12d02c8a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8584,
+        "faceHash": "c44e6f86b7983a19",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          259,
+          8297,
+          551,
+          8589
+        ],
+        "sourceSize": [
+          800,
+          14410
+        ],
+        "detectedFace": [
+          287.988,
+          8316.602,
+          234.18,
+          253.516
+        ],
+        "outsideFaceWhiteFraction": 0.03044,
+        "largestWhiteRegion": 0.00911,
+        "sharpness": 1641.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/33/a905c2.webp?v=1784340789",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/33-portrait-v5-64932cdb3f23.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.877,
+        "faceHash": "8e633993ee5e1588",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          370,
+          1547,
+          626,
+          1803
+        ],
+        "sourceSize": [
+          800,
+          14121
+        ],
+        "detectedFace": [
+          399.609,
+          1605.078,
+          166.406,
+          140.625
+        ],
+        "outsideFaceWhiteFraction": 0.03629,
+        "largestWhiteRegion": 0.01561,
+        "sharpness": 3524.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/34-portrait-v5-83a606581284.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "857a68df853956d0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          168,
+          4404,
+          607,
+          4843
+        ],
+        "sourceSize": [
+          800,
+          14197
+        ],
+        "detectedFace": [
+          218.75,
+          4460.938,
+          337.5,
+          325.781
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 2522.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/36-portrait-v5-395b6e60e1e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "9e61388bf63c538a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          209,
+          1565,
+          474,
+          1830
+        ],
+        "sourceSize": [
+          800,
+          13501
+        ],
+        "detectedFace": [
+          258.105,
+          1611.523,
+          203.711,
+          172.266
+        ],
+        "outsideFaceWhiteFraction": 0.04086,
+        "largestWhiteRegion": 0.01161,
+        "sharpness": 1539.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/37/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/37-portrait-v5-86f2e6398664.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7817,
+        "faceHash": "952f7fbad0f060c0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          235,
+          4334,
+          675,
+          4774
+        ],
+        "sourceSize": [
+          800,
+          14495
+        ],
+        "detectedFace": [
+          264.355,
+          4368.652,
+          382.227,
+          370.898
+        ],
+        "outsideFaceWhiteFraction": 0.02882,
+        "largestWhiteRegion": 0.00768,
+        "sharpness": 976.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/38-portrait-v5-0a4e1ec3cb42.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8452,
+        "faceHash": "8a347b06b4f363c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          36,
+          7287,
+          396,
+          7647
+        ],
+        "sourceSize": [
+          800,
+          13930
+        ],
+        "detectedFace": [
+          77.246,
+          7336.328,
+          276.758,
+          261.719
+        ],
+        "outsideFaceWhiteFraction": 0.01625,
+        "largestWhiteRegion": 0.00569,
+        "sharpness": 2900.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/35/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/35-portrait-v5-75be6137db76.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "8b006a7fc6899af5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          503,
+          9743,
+          707,
+          9947
+        ],
+        "sourceSize": [
+          800,
+          12997
+        ],
+        "detectedFace": [
+          537.695,
+          9803.125,
+          135.547,
+          141.016
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 566.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/41/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/41-portrait-v5-9ebbc0a2eafe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "d6336ad9e5cd8620",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          432,
+          1984,
+          778,
+          2330
+        ],
+        "sourceSize": [
+          800,
+          14835
+        ],
+        "detectedFace": [
+          432.227,
+          2006.641,
+          293.359,
+          300.781
+        ],
+        "outsideFaceWhiteFraction": 0.00848,
+        "largestWhiteRegion": 0.00421,
+        "sharpness": 2382.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/39/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/39-portrait-v5-c164553f4ac2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "85782b5f818cf2ec",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          537,
+          11400,
+          800,
+          11663
+        ],
+        "sourceSize": [
+          800,
+          14860
+        ],
+        "detectedFace": [
+          578.32,
+          11417.09,
+          221.484,
+          228.32
+        ],
+        "outsideFaceWhiteFraction": 0.01724,
+        "largestWhiteRegion": 0.00725,
+        "sharpness": 1511.38,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/40/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/40-portrait-v5-53e5b4f1b0a8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "d5025f51ae9a21de",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          269,
+          4299,
+          547,
+          4577
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          286.621,
+          4331.055,
+          206.055,
+          213.672
+        ],
+        "outsideFaceWhiteFraction": 0.00441,
+        "largestWhiteRegion": 0.00105,
+        "sharpness": 1083.28,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/42/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/42-portrait-v5-e301cf8aff80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8091,
+        "faceHash": "842b699af7395e81",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          117,
+          2435,
+          645,
+          2963
+        ],
+        "sourceSize": [
+          800,
+          14010
+        ],
+        "detectedFace": [
+          178.32,
+          2515.625,
+          406.25,
+          366.406
+        ],
+        "outsideFaceWhiteFraction": 0.00859,
+        "largestWhiteRegion": 0.00592,
+        "sharpness": 1730.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/43-portrait-v5-66f4967e67e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "c1693e97e469328d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          356,
+          8901,
+          704,
+          9249
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          397.754,
+          8941.309,
+          265.43,
+          267.383
+        ],
+        "outsideFaceWhiteFraction": 0.01735,
+        "largestWhiteRegion": 0.00583,
+        "sharpness": 1729.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/44/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/44-portrait-v5-7b541475b547.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "8be13e7d603c329c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          199,
+          692,
+          455,
+          948
+        ],
+        "sourceSize": [
+          800,
+          14075
+        ],
+        "detectedFace": [
+          260.938,
+          740.381,
+          132.812,
+          159.473
+        ],
+        "outsideFaceWhiteFraction": 0.01266,
+        "largestWhiteRegion": 0.00772,
+        "sharpness": 1451.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/45-portrait-v5-78a0ed00cae8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8657,
+        "faceHash": "822a7b1de0dcc735",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6535,
+          256,
+          6791
+        ],
+        "sourceSize": [
+          800,
+          14780
+        ],
+        "detectedFace": [
+          18.848,
+          6575.0,
+          176.758,
+          175.781
+        ],
+        "outsideFaceWhiteFraction": 0.0005,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1665.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/47/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/47-portrait-v5-155390dacc3f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8281,
+        "faceHash": "d5811a05731f6bba",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          225,
+          3904,
+          493,
+          4172
+        ],
+        "sourceSize": [
+          800,
+          14265
+        ],
+        "detectedFace": [
+          244.043,
+          3921.777,
+          230.273,
+          233.008
+        ],
+        "outsideFaceWhiteFraction": 0.02632,
+        "largestWhiteRegion": 0.01498,
+        "sharpness": 1361.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/48/002.webp?v=1789969260",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/48-portrait-v5-dce76af23a99.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "c2347d8bf0fd8324",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          233,
+          8926,
+          563,
+          9256
+        ],
+        "sourceSize": [
+          800,
+          12504
+        ],
+        "detectedFace": [
+          274.512,
+          8963.672,
+          247.07,
+          253.906
+        ],
+        "outsideFaceWhiteFraction": 0.02295,
+        "largestWhiteRegion": 0.01208,
+        "sharpness": 2189.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/50/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/50-portrait-v5-4fa3a9b06248.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8467,
+        "faceHash": "d7950f9e90cc7238",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          288,
+          6743,
+          628,
+          7083
+        ],
+        "sourceSize": [
+          800,
+          14990
+        ],
+        "detectedFace": [
+          349.121,
+          6782.715,
+          218.164,
+          261.523
+        ],
+        "outsideFaceWhiteFraction": 0.01785,
+        "largestWhiteRegion": 0.00533,
+        "sharpness": 2071.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/46/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/46-portrait-v5-692092fcff47.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "84d87a1b591a671f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          463,
+          12828,
+          754,
+          13119
+        ],
+        "sourceSize": [
+          800,
+          13947
+        ],
+        "detectedFace": [
+          507.812,
+          12861.23,
+          202.344,
+          223.633
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1610.24,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/52-portrait-v5-03a06fa75924.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7803,
+        "faceHash": "95c1743f6f30c1e4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          31,
+          5487,
+          327,
+          5783
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          86.035,
+          5521.875,
+          227.734,
+          226.172
+        ],
+        "outsideFaceWhiteFraction": 0.02951,
+        "largestWhiteRegion": 0.00853,
+        "sharpness": 1981.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/49/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/49-portrait-v5-5daa6007f8c8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "83ca3dc23319373d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          267,
+          2756,
+          482,
+          2971
+        ],
+        "sourceSize": [
+          800,
+          14740
+        ],
+        "detectedFace": [
+          312.012,
+          2780.664,
+          124.023,
+          165.234
+        ],
+        "outsideFaceWhiteFraction": 0.01663,
+        "largestWhiteRegion": 0.01077,
+        "sharpness": 771.18,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/54/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/54-portrait-v5-0662a5604154.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "d1302e82fccf30cf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          120,
+          1766,
+          730,
+          2376
+        ],
+        "sourceSize": [
+          800,
+          13730
+        ],
+        "detectedFace": [
+          221.875,
+          1836.328,
+          407.031,
+          469.141
+        ],
+        "outsideFaceWhiteFraction": 0.0038,
+        "largestWhiteRegion": 0.00238,
+        "sharpness": 2687.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/51/003.webp?v=1785670199",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/51-portrait-v5-5c1111bfd82f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "da1c69ca95dbb403",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          320,
+          7512,
+          586,
+          7778
+        ],
+        "sourceSize": [
+          800,
+          14255
+        ],
+        "detectedFace": [
+          326.953,
+          7528.711,
+          214.062,
+          231.641
+        ],
+        "outsideFaceWhiteFraction": 0.03369,
+        "largestWhiteRegion": 0.01668,
+        "sharpness": 2255.67,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/55/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/55-portrait-v5-afa67f3a3023.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "911c6bdee59a3611",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          204,
+          3154,
+          711,
+          3661
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          308.594,
+          3212.988,
+          364.062,
+          389.648
+        ],
+        "outsideFaceWhiteFraction": 0.01891,
+        "largestWhiteRegion": 0.00874,
+        "sharpness": 2767.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/56-portrait-v5-0ea615ba6820.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8091,
+        "faceHash": "89737cc2d68d8bb0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          233,
+          5550,
+          725,
+          6042
+        ],
+        "sourceSize": [
+          800,
+          13330
+        ],
+        "detectedFace": [
+          305.078,
+          5607.324,
+          347.656,
+          378.32
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 1317.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/53/014.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/53-portrait-v5-186d34ed3663.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.873,
+        "faceHash": "9bb13dcbc80ac23e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          16,
+          745,
+          220,
+          949
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          35.742,
+          751.611,
+          165.234,
+          191.309
+        ],
+        "outsideFaceWhiteFraction": 0.02425,
+        "largestWhiteRegion": 0.01573,
+        "sharpness": 1489.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/57/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/57-portrait-v5-190de8e44e20.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.874,
+        "faceHash": "d03c2b96e599c639",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          4380,
+          256,
+          4636
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          37.207,
+          4418.652,
+          153.711,
+          179.492
+        ],
+        "outsideFaceWhiteFraction": 0.00229,
+        "largestWhiteRegion": 0.00195,
+        "sharpness": 1003.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/59/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/59-portrait-v5-8b5fbf8d2024.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "cc0405d97b3c339f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          529,
+          5601,
+          785,
+          5857
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          539.844,
+          5621.484,
+          199.219,
+          215.234
+        ],
+        "outsideFaceWhiteFraction": 0.02353,
+        "largestWhiteRegion": 0.01196,
+        "sharpness": 2398.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/61/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/61-portrait-v5-0fc2aa7641b1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "d2202feea4cc917d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          113,
+          3059,
+          680,
+          3626
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          181.25,
+          3096.094,
+          431.25,
+          492.969
+        ],
+        "outsideFaceWhiteFraction": 0.0229,
+        "largestWhiteRegion": 0.00554,
+        "sharpness": 2675.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/58/009.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/58-portrait-v5-622081614391.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "d61c2952356f36c5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          445,
+          8949,
+          649,
+          9153
+        ],
+        "sourceSize": [
+          800,
+          13675
+        ],
+        "detectedFace": [
+          506.055,
+          8976.367,
+          137.109,
+          148.828
+        ],
+        "outsideFaceWhiteFraction": 0.00252,
+        "largestWhiteRegion": 0.00128,
+        "sharpness": 1237.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/60/010.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/60-portrait-v5-30a3e9120120.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "c0157a9ae7d80779",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          123,
+          4824,
+          327,
+          5028
+        ],
+        "sourceSize": [
+          800,
+          13715
+        ],
+        "detectedFace": [
+          117.188,
+          4814.355,
+          214.844,
+          223.047
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 511.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/62/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/62-portrait-v5-646a4a1f0a34.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "85b02a86353e3f3d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6881,
+          425,
+          7306
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          49.414,
+          6932.812,
+          326.953,
+          321.094
+        ],
+        "outsideFaceWhiteFraction": 0.00888,
+        "largestWhiteRegion": 0.00398,
+        "sharpness": 2038.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/63/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/63-portrait-v5-34ebfe0a2210.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.835,
+        "faceHash": "c2b06f97a44a72cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          415,
+          5656,
+          788,
+          6029
+        ],
+        "sourceSize": [
+          800,
+          13300
+        ],
+        "detectedFace": [
+          469.336,
+          5699.121,
+          264.453,
+          286.914
+        ],
+        "outsideFaceWhiteFraction": 0.03944,
+        "largestWhiteRegion": 0.01155,
+        "sharpness": 3165.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/64/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/64-portrait-v5-b2ef47d0ed46.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8657,
+        "faceHash": "c91669d2b57a3629",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          294,
+          737,
+          498,
+          941
+        ],
+        "sourceSize": [
+          800,
+          14260
+        ],
+        "detectedFace": [
+          314.746,
+          736.816,
+          162.695,
+          204.883
+        ],
+        "outsideFaceWhiteFraction": 0.00035,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 564.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/66/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/66-portrait-v5-c9d64efb2122.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "91b1389bb1ccf2cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          469,
+          3379,
+          673,
+          3583
+        ],
+        "sourceSize": [
+          800,
+          14545
+        ],
+        "detectedFace": [
+          522.266,
+          3419.531,
+          97.656,
+          122.656
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 811.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/65-portrait-v5-d0a81a307d23.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "c0907a67ff926e30",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          62,
+          12641,
+          282,
+          12861
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          73.242,
+          12629.102,
+          197.07,
+          244.336
+        ],
+        "outsideFaceWhiteFraction": 0.0116,
+        "largestWhiteRegion": 0.00725,
+        "sharpness": 1062.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/67/004.webp?v=1771125569",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/67-portrait-v5-ca646cd1b707.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "84783f93f1c82769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          431,
+          12368,
+          635,
+          12572
+        ],
+        "sourceSize": [
+          800,
+          14050
+        ],
+        "detectedFace": [
+          486.914,
+          12414.258,
+          92.578,
+          111.328
+        ],
+        "outsideFaceWhiteFraction": 0.01263,
+        "largestWhiteRegion": 0.00729,
+        "sharpness": 609.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/68/002.webp?v=1771888091",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/68-portrait-v5-f7cca123782b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "d094d0d6f17d4b4c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          183,
+          4237,
+          650,
+          4704
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          255.762,
+          4291.016,
+          322.07,
+          359.375
+        ],
+        "outsideFaceWhiteFraction": 0.01268,
+        "largestWhiteRegion": 0.00497,
+        "sharpness": 1882.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/69/002.webp?v=1771888693",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/69-portrait-v5-ecf13597be89.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8774,
+        "faceHash": "ca2e697a6d592453",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          271,
+          7306,
+          527,
+          7562
+        ],
+        "sourceSize": [
+          800,
+          13611
+        ],
+        "detectedFace": [
+          316.016,
+          7343.75,
+          165.625,
+          180.078
+        ],
+        "outsideFaceWhiteFraction": 0.0013,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 2722.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/70/002.webp?v=1773184568",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/70-portrait-v5-b9d7a6e311f5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8618,
+        "faceHash": "c2743db79140c7ad",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          18,
+          4871,
+          274,
+          5127
+        ],
+        "sourceSize": [
+          800,
+          12145
+        ],
+        "detectedFace": [
+          62.305,
+          4918.164,
+          166.992,
+          161.719
+        ],
+        "outsideFaceWhiteFraction": 0.00656,
+        "largestWhiteRegion": 0.00375,
+        "sharpness": 1674.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/71/002.webp?v=1773184570",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/71-portrait-v5-afc634183e6f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "c7f03e8a3c4d3136",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          140,
+          5439,
+          344,
+          5643
+        ],
+        "sourceSize": [
+          800,
+          14660
+        ],
+        "detectedFace": [
+          133.691,
+          5427.441,
+          215.82,
+          226.172
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1045.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/72/eea2b4.webp?v=1774115749",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/72-portrait-v5-a835a33a223e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8599,
+        "faceHash": "d927291ea0d8c7f1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          184,
+          4311,
+          481,
+          4608
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          223.047,
+          4344.824,
+          218.359,
+          228.711
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1461.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/73/51872d.webp?v=1775172554",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/73-portrait-v5-7ac814018963.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "dae5698ed5e26620",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          4702,
+          256,
+          4958
+        ],
+        "sourceSize": [
+          800,
+          13600
+        ],
+        "detectedFace": [
+          18.262,
+          4736.719,
+          180.078,
+          186.719
+        ],
+        "outsideFaceWhiteFraction": 0.00281,
+        "largestWhiteRegion": 0.00256,
+        "sharpness": 4901.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/74/17aa2b.webp?v=1775676018",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/74-portrait-v5-289e4c9f0add.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.832,
+        "faceHash": "d7682cfba09d330c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          166,
+          851,
+          579,
+          1264
+        ],
+        "sourceSize": [
+          800,
+          12353
+        ],
+        "detectedFace": [
+          220.605,
+          899.121,
+          302.93,
+          317.383
+        ],
+        "outsideFaceWhiteFraction": 0.00629,
+        "largestWhiteRegion": 0.00201,
+        "sharpness": 2012.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/75/539fed.webp?v=1776987388",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/75-portrait-v5-b2e46323212f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7402,
+        "faceHash": "f06001cc0fc7f37e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          362,
+          7795,
+          777,
+          8210
+        ],
+        "sourceSize": [
+          800,
+          13420
+        ],
+        "detectedFace": [
+          440.234,
+          7843.457,
+          257.812,
+          318.945
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 747.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/76/54eae4.webp?v=1777058908",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/76-portrait-v5-c9297157ec0b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8516,
+        "faceHash": "805f289af6dd46e1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          203,
+          5073,
+          605,
+          5475
+        ],
+        "sourceSize": [
+          800,
+          13084
+        ],
+        "detectedFace": [
+          251.855,
+          5119.727,
+          303.32,
+          308.984
+        ],
+        "outsideFaceWhiteFraction": 0.01288,
+        "largestWhiteRegion": 0.00221,
+        "sharpness": 3906.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/77/6533f0.webp?v=1778443701",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/77-portrait-v5-da94b4e4b4a6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "c42e79cfe0cd033c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          241,
+          4254,
+          667,
+          4680
+        ],
+        "sourceSize": [
+          900,
+          13278
+        ],
+        "detectedFace": [
+          301.794,
+          4303.564,
+          304.321,
+          327.393
+        ],
+        "outsideFaceWhiteFraction": 0.02762,
+        "largestWhiteRegion": 0.01431,
+        "sharpness": 3176.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/79/5f649d.webp?v=1778522016",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/79-portrait-v5-ab54da0bc620.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8481,
+        "faceHash": "823f3618ecd86fa1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          209,
+          2904,
+          567,
+          3262
+        ],
+        "sourceSize": [
+          900,
+          13355
+        ],
+        "detectedFace": [
+          256.641,
+          2945.654,
+          263.232,
+          275.537
+        ],
+        "outsideFaceWhiteFraction": 0.02588,
+        "largestWhiteRegion": 0.00697,
+        "sharpness": 1662.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/80/203eb8.webp?v=1779045048",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/80-portrait-v5-eb1749898bb9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8843,
+        "faceHash": "92b83a32e66f614d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          281,
+          5755,
+          580,
+          6054
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          326.843,
+          5789.136,
+          206.763,
+          229.834
+        ],
+        "outsideFaceWhiteFraction": 0.00693,
+        "largestWhiteRegion": 0.00404,
+        "sharpness": 2021.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/81/6cda7b.webp?v=1779565707",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/81-portrait-v5-04603a57558d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "92163aa8ebd96719",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          291,
+          11548,
+          596,
+          11853
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          285.535,
+          11531.03,
+          316.626,
+          338.818
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2106.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/82/3f8f54.webp?v=1780195142",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/82-portrait-v5-b5bd4727e171.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8384,
+        "faceHash": "d40d6a9ee1385f85",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          350,
+          1148,
+          710,
+          1508
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          398.694,
+          1189.6,
+          261.694,
+          276.855
+        ],
+        "outsideFaceWhiteFraction": 0.0009,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 2448.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/78/8f156f.webp?v=1778443737",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/78-portrait-v5-32762dc1174f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8721,
+        "faceHash": "87786dcbe4a91265",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          165,
+          12008,
+          369,
+          12212
+        ],
+        "sourceSize": [
+          900,
+          13786
+        ],
+        "detectedFace": [
+          183.032,
+          12017.725,
+          167.871,
+          184.57
+        ],
+        "outsideFaceWhiteFraction": 0.00366,
+        "largestWhiteRegion": 0.00249,
+        "sharpness": 1425.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/83/e03135.webp?v=1780832837",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/83-portrait-v5-b73230a97cca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "83d07fc8a8c93b2d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          562,
+          2150,
+          770,
+          2358
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          559.644,
+          2138.049,
+          212.256,
+          231.372
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 917.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/84/c79d49.webp?v=1781357213",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/84-portrait-v5-e3382c92a48e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "ca8e3d83f12d3e14",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          81,
+          6186,
+          555,
+          6660
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          165.234,
+          6240.234,
+          305.42,
+          364.746
+        ],
+        "outsideFaceWhiteFraction": 0.02475,
+        "largestWhiteRegion": 0.0105,
+        "sharpness": 3399.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/85/133799.webp?v=1781972918",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/85-portrait-v5-c0f03c6437b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "93f97b86e426250d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          281,
+          12513,
+          485,
+          12717
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          309.705,
+          12525.732,
+          146.118,
+          178.418
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1191.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/86/1570c7.webp?v=1782565658",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/86-portrait-v5-d9377486543e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "c80d3f9066627ce7",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          515,
+          11006,
+          900,
+          11391
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          644.678,
+          11049.939,
+          250.488,
+          296.411
+        ],
+        "outsideFaceWhiteFraction": 0.03326,
+        "largestWhiteRegion": 0.01553,
+        "sharpness": 3159.16,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/87/aeda23.webp?v=1783890977",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/87-portrait-v5-a19a70662a50.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "85a53997654876ec",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          238,
+          1153,
+          573,
+          1488
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          284.656,
+          1191.138,
+          242.358,
+          257.959
+        ],
+        "outsideFaceWhiteFraction": 0.00027,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 1749.72,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/90/7a8dbb.webp?v=1784924307",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/90-portrait-v5-fab4d211dc88.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "d5852f8e655f6218",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          394,
+          4681,
+          900,
+          5187
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          488.013,
+          4739.502,
+          344.971,
+          389.136
+        ],
+        "outsideFaceWhiteFraction": 0.01039,
+        "largestWhiteRegion": 0.01035,
+        "sharpness": 3057.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/88/216986.webp?v=1783811363",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/88-portrait-v5-ef45a28a94b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "9a282a8fb11c775d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          455,
+          3048,
+          664,
+          3257
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          469.116,
+          3064.087,
+          181.494,
+          177.1
+        ],
+        "outsideFaceWhiteFraction": 0.02823,
+        "largestWhiteRegion": 0.0139,
+        "sharpness": 949.01,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/89/321d96.webp?v=1784328017",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/89-portrait-v5-5ce844d5ba86.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "cb982fd1309f316c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          643,
+          14543,
+          900,
+          14800
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          696.094,
+          14572.375,
+          158.203,
+          197.534
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1656.04,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/91/bdc7ba.webp?v=1785517003",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/91-portrait-v5-957e46409eb5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8745,
+        "faceHash": "c4253bdae5ed0625",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          530,
+          124,
+          784,
+          378
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          568.433,
+          153.04,
+          177.979,
+          195.337
+        ],
+        "outsideFaceWhiteFraction": 0.004,
+        "largestWhiteRegion": 0.00362,
+        "sharpness": 1412.96,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/92/4caf89.webp?v=1786138546",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/92-portrait-v5-1fb25964e198.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "da037cceb4c8336c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          478,
+          3496,
+          682,
+          3700
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          520.532,
+          3538.257,
+          118.213,
+          118.652
+        ],
+        "outsideFaceWhiteFraction": 0.00287,
+        "largestWhiteRegion": 0.00279,
+        "sharpness": 820.39,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-ultimate-shut-in/102/9b7eac.webp?v=1792951857",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-ultimate-shut-in/102-portrait-v5-9a0b20816db3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.875,
+        "faceHash": "d72928ecb2c6b92c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          542,
+          6828,
+          820,
+          7106
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          574.146,
+          6866.895,
+          214.014,
+          199.512
+        ],
+        "outsideFaceWhiteFraction": 0.00095,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 1793.86,
+        "reviewed": true
+      }
+    }
+  }
+}

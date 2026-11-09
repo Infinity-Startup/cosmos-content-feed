@@ -1,0 +1,836 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-novel-this-regression-is-too-much",
+  "seriesUrl": "https://asurascans.com/novels/this-regression-is-too-much",
+  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
+  "chapterCount": 118,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Regressor Is Too Weak (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/1",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 2,
+      "title": "The Regressor Is Too Weak (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/2",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 3,
+      "title": "The Regressor Is Too Weak (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/3",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 4,
+      "title": "The Regressor Is Too Weak (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/4",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 5,
+      "title": "The Ponytail Woman Is Too Strong (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/5",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 6,
+      "title": "The Ponytail Woman Is Too Strong (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/6",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 7,
+      "title": "The Ponytail Woman Is Too Strong (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/7",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 8,
+      "title": "The Ponytail Woman Is Too Strong (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/8",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 9,
+      "title": "The Regressor Is Too Lazy",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/9",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 10,
+      "title": "The Regressor Is Fairly Strong (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/10",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 11,
+      "title": "The Regressor Is Fairly Strong (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/11",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 12,
+      "title": "The Regressor Is Fairly Strong (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/12",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 13,
+      "title": "The Regressor Is Fairly Strong (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/13",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 14,
+      "title": "The Status Window Is Too Unfriendly (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/14",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 15,
+      "title": "The Status Window Is Too Unfriendly (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/15",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 16,
+      "title": "The Status Window Is Too Unfriendly (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/16",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 17,
+      "title": "The Status Window Is Too Unfriendly (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/17",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 18,
+      "title": "Choi Jiwon Is Rude (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/18",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 19,
+      "title": "Choi Jiwon Is Rude (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/19",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 20,
+      "title": "Choi Jiwon Is Rude (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/20",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 21,
+      "title": "The Boss Is Too Weak (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/21",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 22,
+      "title": "The Boss Is Too Weak (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/22",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 23,
+      "title": "The Boss Is Too Weak (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/23",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 24,
+      "title": "The Boss Is Too Weak (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/24",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 25,
+      "title": "The Boss Is Too Weak (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/25",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 26,
+      "title": "The Boss Is Too Weak (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/26",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 27,
+      "title": "The Boss Is Too Weak (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/27",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 28,
+      "title": "The Boss Is Too Weak (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/28",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 29,
+      "title": "The Boss Is Too Weak (9)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/29",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 30,
+      "title": "Too Good at Grinding (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/30",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 31,
+      "title": "Too Good at Grinding (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/31",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 32,
+      "title": "The Regressor Is Conditionally Strong (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/32",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 33,
+      "title": "The Regressor Is Conditionally Strong (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/33",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 34,
+      "title": "The Regressor Is Conditionally Strong (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/34",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 35,
+      "title": "The Regressor Is Conditionally Strong (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/35",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 36,
+      "title": "Earth Is Changing Fast (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/36",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 37,
+      "title": "Earth Is Changing Fast (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/37",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 38,
+      "title": "Earth Is Changing Fast (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/38",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 39,
+      "title": "Earth Is Changing Fast (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/39",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 40,
+      "title": "Floor 2 Is Too Suspicious (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/40",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 41,
+      "title": "Floor 2 Is Too Suspicious (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/41",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 42,
+      "title": "Floor 2 Is Too Suspicious (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/42",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 43,
+      "title": "Floor 2 Is Too Suspicious (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/43",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 44,
+      "title": "The Regressor Takes Action (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/44",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 45,
+      "title": "The Regressor Takes Action (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/45",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 46,
+      "title": "The Regressor Takes Action (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/46",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 47,
+      "title": "The Regressor Takes Action (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/47",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 48,
+      "title": "The Regressor Takes Action (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/48",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 49,
+      "title": "The Regressor Takes Action (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/49",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 50,
+      "title": "Choi Jiwon Is Too Strong (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/50",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 51,
+      "title": "Choi Jiwon Is Too Strong (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/51",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 52,
+      "title": "Choi Jiwon Is Too Strong (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/52",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 53,
+      "title": "Choi Jiwon Is Too Strong (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/53",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 54,
+      "title": "Choi Jiwon Is Too Strong (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/54",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 55,
+      "title": "Choi Jiwon Is Too Strong (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/55",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 56,
+      "title": "Choi Jiwon Is Too Strong (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/56",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 57,
+      "title": "Choi Jiwon Is Too Strong (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/57",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 58,
+      "title": "Choi Jiwon Is Too Strong (9)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/58",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 59,
+      "title": "The Regressor Loves Sweet Payback (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/59",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 60,
+      "title": "The Regressor Loves Sweet Payback (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/60",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 61,
+      "title": "The Regressor Loves Sweet Payback (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/61",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 62,
+      "title": "The Regressor Loves Sweet Payback (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/62",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 63,
+      "title": "The Regressor Loves Sweet Payback (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/63",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 64,
+      "title": "The Regressor Loves Sweet Payback (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/64",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 65,
+      "title": "The Regressor Accepts Fate (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/65",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 66,
+      "title": "The Regressor Accepts Fate (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/66",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 67,
+      "title": "The Regressor Accepts Fate (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/67",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 68,
+      "title": "The Regressor Accepts Fate (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/68",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 69,
+      "title": "The Regressor Accepts Fate (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/69",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 70,
+      "title": "The Regressor Takes a Beating (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/70",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 71,
+      "title": "The Regressor Takes a Beating (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/71",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 72,
+      "title": "The Regressor Takes a Beating (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/72",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 73,
+      "title": "The Regressor Takes a Beating (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/73",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 74,
+      "title": "The Regressor Takes a Beating (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/74",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 75,
+      "title": "The Regressor Takes a Beating (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/75",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 76,
+      "title": "The Regressor Takes a Beating (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/76",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 77,
+      "title": "The Regressor Takes a Beating (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/77",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 78,
+      "title": "The Regressor Takes a Beating (9)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/78",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 79,
+      "title": "The Regressor Takes a Beating (10)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/79",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 80,
+      "title": "The Regressor Is Flustered (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/80",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 81,
+      "title": "The Regressor Is Flustered (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/81",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 82,
+      "title": "The Regressor Is Flustered (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/82",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 83,
+      "title": "The Regressor Is Flustered (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/83",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 84,
+      "title": "The Regressor Is Flustered (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/84",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 85,
+      "title": "The Regressor Is Flustered (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/85",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 86,
+      "title": "The Regressor Is Flustered (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/86",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 87,
+      "title": "The Regressor Is Flustered (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/87",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 88,
+      "title": "The Regressor Is Flustered (9)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/88",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 89,
+      "title": "The Regressor Is Flustered (10)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/89",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 90,
+      "title": "The Regressor Is Flustered (11)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/90",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 91,
+      "title": "The Regressor Is Flustered (12)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/91",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 92,
+      "title": "The Night Is Too Dark (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/92",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 93,
+      "title": "The Night Is Too Dark (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/93",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 94,
+      "title": "The Night Is Too Dark (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/94",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 95,
+      "title": "The Night Is Too Dark (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/95",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 96,
+      "title": "The Night Is Too Dark (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/96",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 97,
+      "title": "The Night Is Too Dark (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/97",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 98,
+      "title": "The Night Is Too Dark (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/98",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 99,
+      "title": "The Night Is Too Dark (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/99",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 100,
+      "title": "The Regressor Regroups (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/100",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 101,
+      "title": "The Regressor Regroups (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/101",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 102,
+      "title": "The Regressor Regroups (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/102",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 103,
+      "title": "The Regressor Regroups (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/103",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 104,
+      "title": "The Regressor Regroups (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/104",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 105,
+      "title": "The Regressor Regroups (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/105",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 106,
+      "title": "The Regressor Works Hard (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/106",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 107,
+      "title": "The Regressor Works Hard (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/107",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 108,
+      "title": "The Regressor Works Hard (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/108",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 109,
+      "title": "The Regressor Works Hard (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/109",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 110,
+      "title": "The Regressor Works Hard (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/110",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 111,
+      "title": "The Regressor Works Hard (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/111",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 112,
+      "title": "The Regressor Works Hard (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "The Regressor Works Hard (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "The Regressor Works Hard (9)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "The Regressor Works Hard (10)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/115",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 116,
+      "title": "The Regressor Works Hard (11)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/116",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 117,
+      "title": "The Regressor Works Hard (12)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/117",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 118,
+      "title": "The Regressor Works Hard (13)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "titleId": "asura-manhwa-30-years-since-the-prologue",
+  "revision": 5,
+  "previews": {
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/3/ddd21f.webp?v=1788148671",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/3-portrait-v5-c0402a5b64a3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.832,
+        "faceHash": "81e26ed3d13c2e99",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          307,
+          7181,
+          563,
+          7437
+        ],
+        "sourceSize": [
+          900,
+          15267
+        ],
+        "detectedFace": [
+          351.892,
+          7225.928,
+          166.772,
+          166.113
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 394.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/1/6eef2e.webp?v=1788148647",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/1-portrait-v5-14a24d1c484d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "e14163bbe71c568a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          392,
+          178,
+          734,
+          520
+        ],
+        "sourceSize": [
+          900,
+          1824
+        ],
+        "detectedFace": [
+          431.433,
+          235.437,
+          263.013,
+          227.417
+        ],
+        "outsideFaceWhiteFraction": 0.00259,
+        "largestWhiteRegion": 0.00172,
+        "sharpness": 1842.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/2/355663.webp?v=1788148659",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/2-portrait-v5-8d0baa7e6187.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7539,
+        "faceHash": "e0787fc9772f1180",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          335,
+          15441,
+          894,
+          16000
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          342.773,
+          15518.359,
+          543.164,
+          439.453
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1252.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/6/c432e8.webp?v=1788148704",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/6-portrait-v5-3a693bf5a40d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "c0e046d7f4e83e0f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          331,
+          6331,
+          787,
+          6787
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          383.862,
+          6394.263,
+          351.123,
+          330.029
+        ],
+        "outsideFaceWhiteFraction": 0.01329,
+        "largestWhiteRegion": 0.00783,
+        "sharpness": 1333.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/5/9c15a6.webp?v=1788148692",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/5-portrait-v5-66d5f4dedfd0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8379,
+        "faceHash": "8b6c3ea1346d3996",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          327,
+          3572,
+          583,
+          3828
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          381.445,
+          3628.015,
+          146.777,
+          143.921
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 906.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/4/6a04a2.webp?v=1788148680",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/4-portrait-v5-157fd1bc2d9a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7983,
+        "faceHash": "c13446d93e5f05c7",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          403,
+          7268,
+          838,
+          7703
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          453.076,
+          7348.096,
+          334.863,
+          275.098
+        ],
+        "outsideFaceWhiteFraction": 0.02203,
+        "largestWhiteRegion": 0.00853,
+        "sharpness": 1101.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/9/002164.webp?v=1788148730",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/9-portrait-v5-3235541c3fd8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7031,
+        "faceHash": "f22a2c15d33f8c33",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          403,
+          8787,
+          700,
+          9084
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          437.805,
+          8822.351,
+          228.296,
+          226.758
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 838.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/7/2a58ad.webp?v=1788148715",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/7-portrait-v5-3655912838bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8042,
+        "faceHash": "db613f12388fe41c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          4664,
+          863,
+          5262
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          374.414,
+          4733.13,
+          379.688,
+          460.107
+        ],
+        "outsideFaceWhiteFraction": 0.02438,
+        "largestWhiteRegion": 0.01303,
+        "sharpness": 1882.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/10/0b09d4.webp?v=1788148757",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/10-portrait-v5-c030058a231a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8516,
+        "faceHash": "d0077fbb2c05370b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          534,
+          3681,
+          844,
+          3991
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          570.63,
+          3717.334,
+          236.865,
+          238.184
+        ],
+        "outsideFaceWhiteFraction": 0.00746,
+        "largestWhiteRegion": 0.00742,
+        "sharpness": 1114.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/11/4cfb72.webp?v=1793080182",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/11-portrait-v5-061e609173cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7271,
+        "faceHash": "d8772b8e81b866d1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          300,
+          4544,
+          563,
+          4807
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          330.029,
+          4587.671,
+          202.148,
+          175.342
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1406.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/12/8330b2.webp?v=1791324238",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/12-portrait-v5-b669b1c6e53b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "d5b269d205d9a8da",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          179,
+          6871,
+          555,
+          7247
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          227.527,
+          6914.795,
+          277.954,
+          289.16
+        ],
+        "outsideFaceWhiteFraction": 0.04553,
+        "largestWhiteRegion": 0.01462,
+        "sharpness": 2807.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/8/5c3e7e.webp?v=1788148723",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/8-portrait-v5-ac6dbdf8c844.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "91b45e93ca8e336c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          532,
+          3857,
+          900,
+          4225
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          598.096,
+          3899.707,
+          275.098,
+          283.008
+        ],
+        "outsideFaceWhiteFraction": 0.0005,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1161.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/13/3ad348.webp?v=1788148783",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/13-portrait-v5-973b669bea72.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7861,
+        "faceHash": "90503fcb66e6749a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          258,
+          7064,
+          750,
+          7556
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          328.821,
+          7117.712,
+          427.808,
+          384.302
+        ],
+        "outsideFaceWhiteFraction": 0.01254,
+        "largestWhiteRegion": 0.00415,
+        "sharpness": 2339.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/14/42ea21.webp?v=1788148790",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/14-portrait-v5-0e8903cfb9d8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.873,
+        "faceHash": "d7317ac2644d61cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          446,
+          8279,
+          702,
+          8535
+        ],
+        "sourceSize": [
+          800,
+          13000
+        ],
+        "detectedFace": [
+          502.148,
+          8329.688,
+          143.359,
+          153.906
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1065.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/17/779707.webp?v=1789845219",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/17-portrait-v5-c653a65bed5b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "d0163667e69e158d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          227,
+          2863,
+          671,
+          3307
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          291.357,
+          2914.014,
+          314.648,
+          341.895
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1830.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/15/681af9.webp?v=1788978747",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/15-portrait-v5-74181a065bb2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8745,
+        "faceHash": "83125a7eaa9ae635",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          284,
+          28,
+          577,
+          321
+        ],
+        "sourceSize": [
+          900,
+          1837
+        ],
+        "detectedFace": [
+          326.404,
+          62.183,
+          207.202,
+          225.439
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 722.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/19/7278a5.webp?v=1792988285",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/19-portrait-v5-73c5e2604ec7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "dc033bd0a49f734c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          319,
+          5372,
+          586,
+          5639
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          362.219,
+          5402.417,
+          180.835,
+          205.225
+        ],
+        "outsideFaceWhiteFraction": 0.00041,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 1137.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/16/bd96ef.webp?v=1790808796",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/16-portrait-v5-9957a1b5f881.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7896,
+        "faceHash": "9f3864c766783662",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          305,
+          3464,
+          733,
+          3892
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          354.858,
+          3516.504,
+          329.15,
+          322.119
+        ],
+        "outsideFaceWhiteFraction": 0.00122,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 1453.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/18/2bfbb2.webp?v=1790451569",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/18-portrait-v5-0bd69965366b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.77,
+        "faceHash": "d93965067471e665",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          322,
+          0,
+          745,
+          423
+        ],
+        "sourceSize": [
+          900,
+          2020
+        ],
+        "detectedFace": [
+          374.634,
+          41.199,
+          316.846,
+          325.635
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1041.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/20/51f0dc.webp?v=1791653502",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/20-portrait-v5-c0c2786d1e55.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8389,
+        "faceHash": "f10e6afd1f126862",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          460,
+          8696,
+          793,
+          9029
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          498.12,
+          8767.969,
+          256.201,
+          189.844
+        ],
+        "outsideFaceWhiteFraction": 0.01006,
+        "largestWhiteRegion": 0.00407,
+        "sharpness": 735.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/23/399fe1.webp?v=1793477652",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/23-portrait-v5-c8cf401f07a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7329,
+        "faceHash": "aa52bfaaa88b62a9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          525,
+          8305,
+          781,
+          8561
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          589.746,
+          8363.013,
+          125.684,
+          140.625
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 510.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/21/9b1cd9.webp?v=1792323084",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/21-portrait-v5-967fbffffe80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "dbb138d6e04b6338",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          187,
+          1428,
+          623,
+          1864
+        ],
+        "sourceSize": [
+          900,
+          2463
+        ],
+        "detectedFace": [
+          273.34,
+          1478.32,
+          320.361,
+          335.303
+        ],
+        "outsideFaceWhiteFraction": 0.00204,
+        "largestWhiteRegion": 0.00165,
+        "sharpness": 2200.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/30-years-since-the-prologue/22/939aaf.webp?v=1792988249",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-30-years-since-the-prologue/22-portrait-v5-dc56acaaf4d5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7847,
+        "faceHash": "c62373cc3d314cd3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          108,
+          909,
+          821,
+          1622
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          190.283,
+          1060.51,
+          548.438,
+          409.351
+        ],
+        "outsideFaceWhiteFraction": 0.00047,
+        "largestWhiteRegion": 0.00047,
+        "sharpness": 805.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

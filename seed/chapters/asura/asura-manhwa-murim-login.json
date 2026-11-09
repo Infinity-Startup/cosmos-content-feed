@@ -1,0 +1,1781 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-murim-login",
+  "seriesUrl": "https://asurascans.com/comics/murim-login-ab39de10",
+  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
+  "chapterCount": 253,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/1",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:01Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/2",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:08Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/3",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:13Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/4",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:17Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/5",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:22Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/6",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:27Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/7",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:31Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/8",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:03:37Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/9",
+      "premium": false,
+      "publishedAt": "2024-07-28T10:33:34Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/10",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:00:08Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/11",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:00:14Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/12",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:00:17Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/13",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:00:23Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/14",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:00:56Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/15",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:19:04Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/16",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:01:13Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/17",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:19:15Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/18",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:19:22Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/19",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:15:24Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/20",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:21:12Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/21",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:15:26Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/22",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:32:54Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/23",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:33:01Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/24",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:21:42Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/25",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:21:45Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/26",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:29:37Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/27",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:21:58Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/28",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:29:41Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/29",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:22:11Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/30",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:30:53Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/31",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:48:03Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/32",
+      "premium": false,
+      "publishedAt": "2022-04-22T21:48:49Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/33",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:23:54Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/34",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:26:32Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/35",
+      "premium": false,
+      "publishedAt": "2023-04-01T15:41:18Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/36",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:56Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/37",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:53Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/38",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:50Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/39",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:47Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/40",
+      "premium": false,
+      "publishedAt": "2022-04-24T12:36:38Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/41",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:41Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/42",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:38Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/43",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:34Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/44",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:32Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/45",
+      "premium": false,
+      "publishedAt": "2022-05-22T21:53:57Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/46",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:26Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/47",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:10:49Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/48",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:19Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/49",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:15Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/50",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:12Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/51",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:09Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/52",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:06Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/53",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:29:01Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/54",
+      "premium": false,
+      "publishedAt": "2023-03-10T19:16:10Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/55",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:34:39Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/56",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:34:45Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/57",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:34:52Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/58",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:34:59Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/59",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:35:04Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/60",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:20:55Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/61",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:29:52Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/62",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:30:01Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/63",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:32:03Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/64",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:35:36Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/65",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:35:42Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/66",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:35:48Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/67",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:32:15Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/68",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:33:17Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/69",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:33:09Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/70",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:33:02Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/71",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:43:44Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/72",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:32:47Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/73",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:32:41Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/74",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:32:31Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/75",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:31:34Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/76",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:31:26Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/77",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:31:19Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/78",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:31:12Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/79",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:31:04Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/80",
+      "premium": false,
+      "publishedAt": "2022-04-22T22:48:32Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/81",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:11:20Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/82",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:11:17Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/83",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:11:13Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/84",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:11:11Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/85",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:11:09Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/86",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:11:03Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/87",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:10:59Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/88",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:10:56Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/89",
+      "premium": false,
+      "publishedAt": "2022-04-24T01:20:21Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/90",
+      "premium": false,
+      "publishedAt": "2022-04-24T01:26:22Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/91",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:25:56Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/92",
+      "premium": false,
+      "publishedAt": "2022-04-24T01:27:50Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/93",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:30:51Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/94",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:31:05Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/95",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:31:05Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/96",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:31:13Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/97",
+      "premium": false,
+      "publishedAt": "2022-04-23T22:24:58Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/98",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:31:13Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/99",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:28:07Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/100",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:27:09Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/101",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:26:16Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/102",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:25:50Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/103",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:25:55Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/104",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:22:35Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/105",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:43:34Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/106",
+      "premium": false,
+      "publishedAt": "2022-04-24T01:19:11Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/107",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:43:33Z"
+    },
+    {
+      "number": 108,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/108",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:43:32Z"
+    },
+    {
+      "number": 109,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/109",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:43:21Z"
+    },
+    {
+      "number": 110,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/110",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:42:48Z"
+    },
+    {
+      "number": 111,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/111",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:42:45Z"
+    },
+    {
+      "number": 112,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/112",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:42:38Z"
+    },
+    {
+      "number": 113,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/113",
+      "premium": false,
+      "publishedAt": "2023-02-12T04:42:29Z"
+    },
+    {
+      "number": 114,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/114",
+      "premium": false,
+      "publishedAt": "2022-04-28T00:14:22Z"
+    },
+    {
+      "number": 115,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/115",
+      "premium": false,
+      "publishedAt": "2022-05-02T01:11:03Z"
+    },
+    {
+      "number": 116,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/116",
+      "premium": false,
+      "publishedAt": "2022-05-11T01:16:10Z"
+    },
+    {
+      "number": 117,
+      "title": "[S1 END]",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/117",
+      "premium": false,
+      "publishedAt": "2022-05-17T01:22:11Z"
+    },
+    {
+      "number": 118,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/118",
+      "premium": false,
+      "publishedAt": "2022-08-13T01:15:15Z"
+    },
+    {
+      "number": 119,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/119",
+      "premium": false,
+      "publishedAt": "2022-08-17T00:54:35Z"
+    },
+    {
+      "number": 120,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/120",
+      "premium": false,
+      "publishedAt": "2022-08-26T01:06:09Z"
+    },
+    {
+      "number": 121,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/121",
+      "premium": false,
+      "publishedAt": "2022-09-02T09:12:32Z"
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/122",
+      "premium": false,
+      "publishedAt": "2022-09-09T11:29:58Z"
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/123",
+      "premium": false,
+      "publishedAt": "2022-09-15T22:25:44Z"
+    },
+    {
+      "number": 124,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/124",
+      "premium": false,
+      "publishedAt": "2022-09-23T00:42:45Z"
+    },
+    {
+      "number": 125,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/125",
+      "premium": false,
+      "publishedAt": "2022-10-08T00:48:30Z"
+    },
+    {
+      "number": 126,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/126",
+      "premium": false,
+      "publishedAt": "2022-10-15T01:08:35Z"
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/127",
+      "premium": false,
+      "publishedAt": "2022-10-19T20:34:57Z"
+    },
+    {
+      "number": 128,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/128",
+      "premium": false,
+      "publishedAt": "2022-10-29T01:46:07Z"
+    },
+    {
+      "number": 129,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/129",
+      "premium": false,
+      "publishedAt": "2022-11-01T21:32:51Z"
+    },
+    {
+      "number": 130,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/130",
+      "premium": false,
+      "publishedAt": "2022-11-08T06:21:58Z"
+    },
+    {
+      "number": 131,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/131",
+      "premium": false,
+      "publishedAt": "2022-11-14T13:54:11Z"
+    },
+    {
+      "number": 132,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/132",
+      "premium": false,
+      "publishedAt": "2022-11-25T14:33:45Z"
+    },
+    {
+      "number": 133,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/133",
+      "premium": false,
+      "publishedAt": "2022-12-01T20:24:10Z"
+    },
+    {
+      "number": 134,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/134",
+      "premium": false,
+      "publishedAt": "2022-12-08T20:30:29Z"
+    },
+    {
+      "number": 135,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/135",
+      "premium": false,
+      "publishedAt": "2022-12-14T18:01:51Z"
+    },
+    {
+      "number": 136,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/136",
+      "premium": false,
+      "publishedAt": "2022-12-22T20:31:01Z"
+    },
+    {
+      "number": 137,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/137",
+      "premium": false,
+      "publishedAt": "2022-12-27T20:48:18Z"
+    },
+    {
+      "number": 138,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/138",
+      "premium": false,
+      "publishedAt": "2023-01-04T01:49:43Z"
+    },
+    {
+      "number": 139,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/139",
+      "premium": false,
+      "publishedAt": "2023-01-22T10:06:22Z"
+    },
+    {
+      "number": 140,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/140",
+      "premium": false,
+      "publishedAt": "2023-01-24T05:22:00Z"
+    },
+    {
+      "number": 141,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/141",
+      "premium": false,
+      "publishedAt": "2023-02-03T02:03:13Z"
+    },
+    {
+      "number": 142,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/142",
+      "premium": false,
+      "publishedAt": "2023-02-06T16:20:26Z"
+    },
+    {
+      "number": 143,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/143",
+      "premium": false,
+      "publishedAt": "2023-02-16T14:53:05Z"
+    },
+    {
+      "number": 144,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/144",
+      "premium": false,
+      "publishedAt": "2023-02-26T20:27:54Z"
+    },
+    {
+      "number": 145,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/145",
+      "premium": false,
+      "publishedAt": "2023-03-08T19:39:20Z"
+    },
+    {
+      "number": 146,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/146",
+      "premium": false,
+      "publishedAt": "2023-03-14T03:24:16Z"
+    },
+    {
+      "number": 147,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/147",
+      "premium": false,
+      "publishedAt": "2023-03-27T11:34:05Z"
+    },
+    {
+      "number": 148,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/148",
+      "premium": false,
+      "publishedAt": "2023-04-01T13:43:37Z"
+    },
+    {
+      "number": 149,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/149",
+      "premium": false,
+      "publishedAt": "2023-04-14T18:07:41Z"
+    },
+    {
+      "number": 150,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/150",
+      "premium": false,
+      "publishedAt": "2023-04-17T20:43:54Z"
+    },
+    {
+      "number": 151,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/151",
+      "premium": false,
+      "publishedAt": "2023-04-27T16:41:16Z"
+    },
+    {
+      "number": 152,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/152",
+      "premium": false,
+      "publishedAt": "2023-05-14T03:07:21Z"
+    },
+    {
+      "number": 153,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/153",
+      "premium": false,
+      "publishedAt": "2023-05-23T15:38:18Z"
+    },
+    {
+      "number": 154,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/154",
+      "premium": false,
+      "publishedAt": "2023-05-26T19:35:21Z"
+    },
+    {
+      "number": 155,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/155",
+      "premium": false,
+      "publishedAt": "2023-06-18T23:29:29Z"
+    },
+    {
+      "number": 156,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/156",
+      "premium": false,
+      "publishedAt": "2023-06-19T02:09:04Z"
+    },
+    {
+      "number": 157,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/157",
+      "premium": false,
+      "publishedAt": "2023-07-07T09:01:07Z"
+    },
+    {
+      "number": 158,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/158",
+      "premium": false,
+      "publishedAt": "2023-07-07T09:01:11Z"
+    },
+    {
+      "number": 159,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/159",
+      "premium": false,
+      "publishedAt": "2023-07-07T09:01:15Z"
+    },
+    {
+      "number": 160,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/160",
+      "premium": false,
+      "publishedAt": "2023-07-12T11:36:08Z"
+    },
+    {
+      "number": 161,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/161",
+      "premium": false,
+      "publishedAt": "2023-07-22T20:22:41Z"
+    },
+    {
+      "number": 162,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/162",
+      "premium": false,
+      "publishedAt": "2023-08-11T23:13:47Z"
+    },
+    {
+      "number": 163,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/163",
+      "premium": false,
+      "publishedAt": "2023-08-11T23:13:50Z"
+    },
+    {
+      "number": 164,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/164",
+      "premium": false,
+      "publishedAt": "2023-08-11T23:13:53Z"
+    },
+    {
+      "number": 165,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/165",
+      "premium": false,
+      "publishedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "number": 166,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/166",
+      "premium": false,
+      "publishedAt": "2023-08-18T18:07:08Z"
+    },
+    {
+      "number": 167,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/167",
+      "premium": false,
+      "publishedAt": "2023-09-03T23:19:42Z"
+    },
+    {
+      "number": 168,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/168",
+      "premium": false,
+      "publishedAt": "2023-09-08T22:46:02Z"
+    },
+    {
+      "number": 169,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/169",
+      "premium": false,
+      "publishedAt": "2023-09-15T18:51:23Z"
+    },
+    {
+      "number": 170,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/170",
+      "premium": false,
+      "publishedAt": "2023-09-29T22:34:51Z"
+    },
+    {
+      "number": 171,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/171",
+      "premium": false,
+      "publishedAt": "2023-10-07T10:44:39Z"
+    },
+    {
+      "number": 172,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/172",
+      "premium": false,
+      "publishedAt": "2023-10-14T08:18:59Z"
+    },
+    {
+      "number": 173,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/173",
+      "premium": false,
+      "publishedAt": "2023-10-22T03:47:19Z"
+    },
+    {
+      "number": 174,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/174",
+      "premium": false,
+      "publishedAt": "2023-11-05T03:17:44Z"
+    },
+    {
+      "number": 175,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/175",
+      "premium": false,
+      "publishedAt": "2023-11-11T03:26:42Z"
+    },
+    {
+      "number": 176,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/176",
+      "premium": false,
+      "publishedAt": "2023-11-24T23:46:08Z"
+    },
+    {
+      "number": 177,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/177",
+      "premium": false,
+      "publishedAt": "2023-11-24T23:47:25Z"
+    },
+    {
+      "number": 178,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/178",
+      "premium": false,
+      "publishedAt": "2023-12-06T03:02:10Z"
+    },
+    {
+      "number": 179,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/179",
+      "premium": false,
+      "publishedAt": "2023-12-17T02:58:42Z"
+    },
+    {
+      "number": 180,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/180",
+      "premium": false,
+      "publishedAt": "2023-12-25T01:37:28Z"
+    },
+    {
+      "number": 181,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/181",
+      "premium": false,
+      "publishedAt": "2024-01-07T22:53:31Z"
+    },
+    {
+      "number": 182,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/182",
+      "premium": false,
+      "publishedAt": "2024-01-13T02:05:49Z"
+    },
+    {
+      "number": 183,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/183",
+      "premium": false,
+      "publishedAt": "2024-01-20T07:05:51Z"
+    },
+    {
+      "number": 184,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/184",
+      "premium": false,
+      "publishedAt": "2024-01-27T21:56:53Z"
+    },
+    {
+      "number": 185,
+      "title": "{S2-END}",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/185",
+      "premium": false,
+      "publishedAt": "2024-02-03T23:28:15Z"
+    },
+    {
+      "number": 186,
+      "title": "{S3 START}",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/186",
+      "premium": false,
+      "publishedAt": "2024-07-26T22:32:37Z"
+    },
+    {
+      "number": 187,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/187",
+      "premium": false,
+      "publishedAt": "2024-07-27T23:16:04Z"
+    },
+    {
+      "number": 188,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/188",
+      "premium": false,
+      "publishedAt": "2024-07-27T23:16:31Z"
+    },
+    {
+      "number": 189,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/189",
+      "premium": false,
+      "publishedAt": "2024-08-02T23:24:29Z"
+    },
+    {
+      "number": 190,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/190",
+      "premium": false,
+      "publishedAt": "2024-08-09T23:14:33Z"
+    },
+    {
+      "number": 191,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/191",
+      "premium": false,
+      "publishedAt": "2024-08-18T09:22:57Z"
+    },
+    {
+      "number": 192,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/192",
+      "premium": false,
+      "publishedAt": "2024-08-25T22:10:48Z"
+    },
+    {
+      "number": 193,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/193",
+      "premium": false,
+      "publishedAt": "2024-09-07T23:05:26Z"
+    },
+    {
+      "number": 194,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/194",
+      "premium": false,
+      "publishedAt": "2024-09-15T20:10:35Z"
+    },
+    {
+      "number": 195,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/195",
+      "premium": false,
+      "publishedAt": "2024-09-22T17:22:27Z"
+    },
+    {
+      "number": 196,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/196",
+      "premium": false,
+      "publishedAt": "2024-09-29T00:52:51Z"
+    },
+    {
+      "number": 197,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/197",
+      "premium": false,
+      "publishedAt": "2024-10-05T01:15:43Z"
+    },
+    {
+      "number": 198,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/198",
+      "premium": false,
+      "publishedAt": "2024-10-12T16:58:18Z"
+    },
+    {
+      "number": 199,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/199",
+      "premium": false,
+      "publishedAt": "2024-10-20T00:08:55Z"
+    },
+    {
+      "number": 200,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/200",
+      "premium": false,
+      "publishedAt": "2024-10-27T22:19:58Z"
+    },
+    {
+      "number": 201,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/201",
+      "premium": false,
+      "publishedAt": "2024-11-02T20:38:30Z"
+    },
+    {
+      "number": 202,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/202",
+      "premium": false,
+      "publishedAt": "2024-11-09T15:27:29Z"
+    },
+    {
+      "number": 203,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/203",
+      "premium": false,
+      "publishedAt": "2024-11-16T00:19:28Z"
+    },
+    {
+      "number": 204,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/204",
+      "premium": false,
+      "publishedAt": "2024-11-24T00:43:10Z"
+    },
+    {
+      "number": 205,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/205",
+      "premium": false,
+      "publishedAt": "2024-12-01T23:40:13Z"
+    },
+    {
+      "number": 206,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/206",
+      "premium": false,
+      "publishedAt": "2024-12-08T23:24:49Z"
+    },
+    {
+      "number": 206.5,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/206.5",
+      "premium": false,
+      "publishedAt": "2024-12-16T15:56:08Z"
+    },
+    {
+      "number": 207,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/207",
+      "premium": false,
+      "publishedAt": "2024-12-23T20:51:58Z"
+    },
+    {
+      "number": 208,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/208",
+      "premium": false,
+      "publishedAt": "2025-01-05T00:30:32Z"
+    },
+    {
+      "number": 209,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/209",
+      "premium": false,
+      "publishedAt": "2025-01-12T02:20:02Z"
+    },
+    {
+      "number": 210,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/210",
+      "premium": false,
+      "publishedAt": "2025-01-20T00:31:02Z"
+    },
+    {
+      "number": 211,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/211",
+      "premium": false,
+      "publishedAt": "2025-01-26T22:59:02Z"
+    },
+    {
+      "number": 212,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/212",
+      "premium": false,
+      "publishedAt": "2025-02-11T03:55:02Z"
+    },
+    {
+      "number": 213,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/213",
+      "premium": false,
+      "publishedAt": "2025-02-17T03:22:02Z"
+    },
+    {
+      "number": 214,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/214",
+      "premium": false,
+      "publishedAt": "2025-02-27T02:15:02Z"
+    },
+    {
+      "number": 215,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/215",
+      "premium": false,
+      "publishedAt": "2025-03-04T07:21:02Z"
+    },
+    {
+      "number": 216,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/216",
+      "premium": false,
+      "publishedAt": "2025-03-19T05:40:01Z"
+    },
+    {
+      "number": 217,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/217",
+      "premium": false,
+      "publishedAt": "2025-03-24T01:02:02Z"
+    },
+    {
+      "number": 218,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/218",
+      "premium": false,
+      "publishedAt": "2025-03-30T03:23:02Z"
+    },
+    {
+      "number": 219,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/219",
+      "premium": false,
+      "publishedAt": "2025-04-08T04:31:02Z"
+    },
+    {
+      "number": 220,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/220",
+      "premium": false,
+      "publishedAt": "2025-04-13T23:34:02Z"
+    },
+    {
+      "number": 221,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/221",
+      "premium": false,
+      "publishedAt": "2025-04-27T00:23:02Z"
+    },
+    {
+      "number": 222,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/222",
+      "premium": false,
+      "publishedAt": "2025-05-07T00:26:02Z"
+    },
+    {
+      "number": 223,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/223",
+      "premium": false,
+      "publishedAt": "2025-05-14T03:58:02Z"
+    },
+    {
+      "number": 224,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/224",
+      "premium": false,
+      "publishedAt": "2025-05-21T00:08:02Z"
+    },
+    {
+      "number": 225,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/225",
+      "premium": false,
+      "publishedAt": "2025-06-04T04:06:20Z"
+    },
+    {
+      "number": 226,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/226",
+      "premium": false,
+      "publishedAt": "2025-06-10T02:32:24Z"
+    },
+    {
+      "number": 227,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/227",
+      "premium": false,
+      "publishedAt": "2025-06-18T04:47:45Z"
+    },
+    {
+      "number": 228,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/228",
+      "premium": false,
+      "publishedAt": "2025-06-25T02:53:38Z"
+    },
+    {
+      "number": 229,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/229",
+      "premium": false,
+      "publishedAt": "2025-07-02T00:49:38Z"
+    },
+    {
+      "number": 230,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/230",
+      "premium": false,
+      "publishedAt": "2025-07-09T02:16:03Z"
+    },
+    {
+      "number": 231,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/231",
+      "premium": false,
+      "publishedAt": "2025-07-24T22:25:19Z"
+    },
+    {
+      "number": 232,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/232",
+      "premium": false,
+      "publishedAt": "2025-07-30T23:23:42Z"
+    },
+    {
+      "number": 233,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/233",
+      "premium": false,
+      "publishedAt": "2025-08-06T02:44:12Z"
+    },
+    {
+      "number": 234,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/234",
+      "premium": false,
+      "publishedAt": "2025-08-18T03:14:49Z"
+    },
+    {
+      "number": 235,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/235",
+      "premium": false,
+      "publishedAt": "2025-08-25T02:56:14Z"
+    },
+    {
+      "number": 236,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/236",
+      "premium": false,
+      "publishedAt": "2025-09-05T04:47:11Z"
+    },
+    {
+      "number": 237,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/237",
+      "premium": false,
+      "publishedAt": "2025-09-10T00:43:22Z"
+    },
+    {
+      "number": 238,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/238",
+      "premium": false,
+      "publishedAt": "2025-10-14T23:43:14Z"
+    },
+    {
+      "number": 239,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/239",
+      "premium": false,
+      "publishedAt": "2025-10-27T00:46:17Z"
+    },
+    {
+      "number": 240,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/240",
+      "premium": false,
+      "publishedAt": "2025-11-03T22:12:14Z"
+    },
+    {
+      "number": 241,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/241",
+      "premium": false,
+      "publishedAt": "2025-11-16T23:23:12Z"
+    },
+    {
+      "number": 242,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/242",
+      "premium": false,
+      "publishedAt": "2025-11-27T01:01:13Z"
+    },
+    {
+      "number": 243,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/243",
+      "premium": false,
+      "publishedAt": "2025-12-08T21:31:13Z"
+    },
+    {
+      "number": 244,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/244",
+      "premium": false,
+      "publishedAt": "2025-12-16T22:42:14Z"
+    },
+    {
+      "number": 245,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/245",
+      "premium": false,
+      "publishedAt": "2025-12-25T01:33:03Z"
+    },
+    {
+      "number": 246,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/246",
+      "premium": false,
+      "publishedAt": "2026-01-05T02:21:14Z"
+    },
+    {
+      "number": 247,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/247",
+      "premium": false,
+      "publishedAt": "2026-01-13T00:07:15Z"
+    },
+    {
+      "number": 248,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/248",
+      "premium": false,
+      "publishedAt": "2026-01-20T02:56:16Z"
+    },
+    {
+      "number": 249,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/249",
+      "premium": false,
+      "publishedAt": "2026-02-04T03:45:10Z"
+    },
+    {
+      "number": 250,
+      "title": "S3 END",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/250",
+      "premium": false,
+      "publishedAt": "2026-02-10T02:47:15Z"
+    },
+    {
+      "number": 251,
+      "title": "{S4 start}",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/251",
+      "premium": false,
+      "publishedAt": "2026-11-06T16:21:29.613164Z"
+    },
+    {
+      "number": 252,
+      "title": "",
+      "url": "https://asurascans.com/comics/murim-login-ab39de10/chapter/252",
+      "premium": false,
+      "publishedAt": "2026-11-06T17:31:06.44873Z"
+    }
+  ]
+}

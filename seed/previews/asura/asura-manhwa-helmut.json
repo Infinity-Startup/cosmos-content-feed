@@ -1,0 +1,5482 @@
+{
+  "titleId": "asura-manhwa-helmut",
+  "revision": 5,
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/2-portrait-v5-6f693195cc4b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "d3213cc3f099b29d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          304,
+          7181,
+          581,
+          7458
+        ],
+        "sourceSize": [
+          760,
+          12395
+        ],
+        "detectedFace": [
+          335.654,
+          7217.031,
+          213.379,
+          204.102
+        ],
+        "outsideFaceWhiteFraction": 0.00142,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 1488.76,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/3/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/3-portrait-v5-0283e0c69f4d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "cee56ed7301a25c8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          215,
+          2933,
+          520,
+          3238
+        ],
+        "sourceSize": [
+          760,
+          11339
+        ],
+        "detectedFace": [
+          250.767,
+          2969.585,
+          234.346,
+          232.119
+        ],
+        "outsideFaceWhiteFraction": 0.01157,
+        "largestWhiteRegion": 0.0107,
+        "sharpness": 2530.07,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/4/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/4-portrait-v5-817cbe63ebb7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "c7e430966d9f6611",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          349,
+          2828,
+          627,
+          3106
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          396.885,
+          2859.834,
+          181.465,
+          214.121
+        ],
+        "outsideFaceWhiteFraction": 0.00247,
+        "largestWhiteRegion": 0.00102,
+        "sharpness": 1541.91,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/5/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/5-portrait-v5-3c3f272336a8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8813,
+        "faceHash": "c6687997854c731d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          235,
+          5057,
+          491,
+          5313
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          282.031,
+          5104.023,
+          162.168,
+          161.797
+        ],
+        "outsideFaceWhiteFraction": 0.01746,
+        "largestWhiteRegion": 0.0051,
+        "sharpness": 1728.78,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/6/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/6-portrait-v5-59b32fa4318e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "d0253f97e1dc7058",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          170,
+          3604,
+          658,
+          4092
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          226.46,
+          3660.469,
+          375.361,
+          374.805
+        ],
+        "outsideFaceWhiteFraction": 0.00912,
+        "largestWhiteRegion": 0.00647,
+        "sharpness": 2584.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/7/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/7-portrait-v5-34a49ba51991.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "97206dcab49be619",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          138,
+          9106,
+          428,
+          9396
+        ],
+        "sourceSize": [
+          760,
+          12200
+        ],
+        "detectedFace": [
+          157.251,
+          9139.204,
+          252.158,
+          223.584
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 918.18,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/8/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/8-portrait-v5-c2917ef466dd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "ce303e93b0cccecc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          355,
+          3164,
+          635,
+          3444
+        ],
+        "sourceSize": [
+          760,
+          12444
+        ],
+        "detectedFace": [
+          393.545,
+          3196.694,
+          203.73,
+          215.049
+        ],
+        "outsideFaceWhiteFraction": 0.01772,
+        "largestWhiteRegion": 0.01753,
+        "sharpness": 1102.1,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/9/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/9-portrait-v5-4a6f2b23a89e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "d6693498e6cd62c6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          407,
+          9889,
+          699,
+          10181
+        ],
+        "sourceSize": [
+          760,
+          12790
+        ],
+        "detectedFace": [
+          440.303,
+          9927.407,
+          224.512,
+          215.049
+        ],
+        "outsideFaceWhiteFraction": 0.04219,
+        "largestWhiteRegion": 0.01236,
+        "sharpness": 2258.42,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/10/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/10-portrait-v5-ab88af3fca4d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "c5c76b86379c3498",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          170,
+          8068,
+          495,
+          8393
+        ],
+        "sourceSize": [
+          760,
+          12965
+        ],
+        "detectedFace": [
+          237.5,
+          8105.43,
+          231.934,
+          250.117
+        ],
+        "outsideFaceWhiteFraction": 0.02003,
+        "largestWhiteRegion": 0.01054,
+        "sharpness": 3844.11,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/11-portrait-v5-a279163e20e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "99593ca5d4d59352",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          463,
+          4933,
+          719,
+          5189
+        ],
+        "sourceSize": [
+          760,
+          12180
+        ],
+        "detectedFace": [
+          501.904,
+          4975.068,
+          178.496,
+          172.559
+        ],
+        "outsideFaceWhiteFraction": 0.03241,
+        "largestWhiteRegion": 0.01024,
+        "sharpness": 3815.41,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/12/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/12-portrait-v5-d9ea24ee5f4e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "85c17fdb3548326c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          433,
+          6012,
+          718,
+          6297
+        ],
+        "sourceSize": [
+          760,
+          12820
+        ],
+        "detectedFace": [
+          492.256,
+          6044.839,
+          203.73,
+          219.502
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2758.89,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/d8294ac9/125/002.webp?v=1773888831",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/125-portrait-v5-58e9034e974f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "863a7ae451966d99",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          159,
+          12611,
+          419,
+          12871
+        ],
+        "sourceSize": [
+          800,
+          14330
+        ],
+        "detectedFace": [
+          188.965,
+          12649.756,
+          199.805,
+          181.543
+        ],
+        "outsideFaceWhiteFraction": 0.00435,
+        "largestWhiteRegion": 0.00218,
+        "sharpness": 935.84,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/126/78a8f8.webp?v=1774290130",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/126-portrait-v5-c40106a5faf8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "d8af2bd234cac0f1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          46,
+          4595,
+          359,
+          4908
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          92.188,
+          4631.641,
+          221.094,
+          240.625
+        ],
+        "outsideFaceWhiteFraction": 0.00653,
+        "largestWhiteRegion": 0.00281,
+        "sharpness": 1694.58,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/127/9846e1.webp?v=1775599519",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/127-portrait-v5-242232a508b9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "d2bb78e1e48896cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          184,
+          4613,
+          560,
+          4989
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          227.734,
+          4662.5,
+          289.453,
+          277.344
+        ],
+        "outsideFaceWhiteFraction": 0.00128,
+        "largestWhiteRegion": 0.00089,
+        "sharpness": 1732.01,
+        "reviewed": true
+      }
+    },
+    "128": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/128",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/128/5f4ca9.webp?v=1775610189",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/128-portrait-v5-15fd7983728b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "82223ba7e1ca477b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          445,
+          5548,
+          800,
+          5903
+        ],
+        "sourceSize": [
+          800,
+          13985
+        ],
+        "detectedFace": [
+          516.016,
+          5590.527,
+          273.438,
+          270.508
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1298.32,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/13/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/13-portrait-v5-2fc1bcc0f167.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "97703a86933d6bc4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          440,
+          8099,
+          700,
+          8359
+        ],
+        "sourceSize": [
+          760,
+          12280
+        ],
+        "detectedFace": [
+          470.176,
+          8131.221,
+          199.648,
+          195.937
+        ],
+        "outsideFaceWhiteFraction": 0.00038,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1340.42,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/14/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/14-portrait-v5-7231817e8bf2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "ce346913948de7e1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          16,
+          4618,
+          274,
+          4876
+        ],
+        "sourceSize": [
+          760,
+          12870
+        ],
+        "detectedFace": [
+          45.273,
+          4667.014,
+          198.721,
+          159.478
+        ],
+        "outsideFaceWhiteFraction": 0.00455,
+        "largestWhiteRegion": 0.00455,
+        "sharpness": 1217.79,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/15-portrait-v5-71f58ba693a1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "8a746bcab5386659",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          155,
+          11726,
+          436,
+          12007
+        ],
+        "sourceSize": [
+          760,
+          12670
+        ],
+        "detectedFace": [
+          187.402,
+          11764.692,
+          216.348,
+          203.545
+        ],
+        "outsideFaceWhiteFraction": 0.00305,
+        "largestWhiteRegion": 0.00102,
+        "sharpness": 1772.79,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/16-portrait-v5-0420d338cb21.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "95153d92f1297a78",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          228,
+          9786,
+          484,
+          10042
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          266.816,
+          9831.99,
+          178.496,
+          164.302
+        ],
+        "outsideFaceWhiteFraction": 0.00471,
+        "largestWhiteRegion": 0.00197,
+        "sharpness": 2333.55,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/17/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/17-portrait-v5-ca2f285ea0ac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "c6ad398695cb6615",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          389,
+          1179,
+          645,
+          1435
+        ],
+        "sourceSize": [
+          760,
+          11810
+        ],
+        "detectedFace": [
+          440.488,
+          1230.918,
+          153.633,
+          151.221
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2866.08,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/18/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/18-portrait-v5-c1e3287b79a1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8848,
+        "faceHash": "c03f3d93a4cd626c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          321,
+          310,
+          577,
+          566
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          363.301,
+          356.528,
+          172.188,
+          163.467
+        ],
+        "outsideFaceWhiteFraction": 0.00697,
+        "largestWhiteRegion": 0.00064,
+        "sharpness": 2129.04,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/19/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/19-portrait-v5-e1a7966fa79b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "de6228c3e1ccd738",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          323,
+          3158,
+          579,
+          3414
+        ],
+        "sourceSize": [
+          760,
+          11615
+        ],
+        "detectedFace": [
+          380.186,
+          3219.517,
+          140.645,
+          132.295
+        ],
+        "outsideFaceWhiteFraction": 0.00937,
+        "largestWhiteRegion": 0.00217,
+        "sharpness": 2809.02,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/20/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/20-portrait-v5-81c3e9f07047.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "d22f2144f1dc199f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          222,
+          8424,
+          506,
+          8708
+        ],
+        "sourceSize": [
+          760,
+          12210
+        ],
+        "detectedFace": [
+          272.29,
+          8457.227,
+          183.135,
+          218.203
+        ],
+        "outsideFaceWhiteFraction": 0.02757,
+        "largestWhiteRegion": 0.01746,
+        "sharpness": 1352.58,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/21-portrait-v5-6f4ffb5f8e0f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "a4eb62d4652b74c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          342,
+          8010,
+          737,
+          8405
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          401.758,
+          8055.078,
+          275.391,
+          303.906
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2547.15,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/22/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/22-portrait-v5-5cc6d21fd84c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "d4612ce3725e1f85",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          285,
+          6185,
+          576,
+          6476
+        ],
+        "sourceSize": [
+          800,
+          12379
+        ],
+        "detectedFace": [
+          332.324,
+          6218.652,
+          196.289,
+          224.023
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2315.73,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/23/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/23-portrait-v5-ea6c01fc0c80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "913c6bc6b51a66c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          91,
+          9473,
+          347,
+          9729
+        ],
+        "sourceSize": [
+          800,
+          13353
+        ],
+        "detectedFace": [
+          133.496,
+          9523.438,
+          170.898,
+          155.469
+        ],
+        "outsideFaceWhiteFraction": 0.00931,
+        "largestWhiteRegion": 0.00356,
+        "sharpness": 1397.89,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/24/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/24-portrait-v5-f677219fb08b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "d2123fa6eccc62cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          44,
+          6154,
+          437,
+          6547
+        ],
+        "sourceSize": [
+          800,
+          13353
+        ],
+        "detectedFace": [
+          99.707,
+          6199.512,
+          282.227,
+          302.539
+        ],
+        "outsideFaceWhiteFraction": 0.0208,
+        "largestWhiteRegion": 0.01649,
+        "sharpness": 2887.9,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/25-portrait-v5-8a493b2bfa86.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "d8392fa6e4d22719",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          250,
+          5810,
+          506,
+          6066
+        ],
+        "sourceSize": [
+          800,
+          13500
+        ],
+        "detectedFace": [
+          308.203,
+          5861.914,
+          139.062,
+          151.953
+        ],
+        "outsideFaceWhiteFraction": 0.03326,
+        "largestWhiteRegion": 0.00735,
+        "sharpness": 3146.23,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/26-portrait-v5-f46b6bec37dc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "cf203d97e0ce6718",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          424,
+          6280,
+          690,
+          6546
+        ],
+        "sourceSize": [
+          800,
+          15632
+        ],
+        "detectedFace": [
+          454.492,
+          6312.793,
+          204.297,
+          200.195
+        ],
+        "outsideFaceWhiteFraction": 0.00356,
+        "largestWhiteRegion": 0.00159,
+        "sharpness": 1467.69,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/27/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/27-portrait-v5-57a6641f8141.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "87702de9f48d960e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          105,
+          9290,
+          371,
+          9556
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          143.262,
+          9320.996,
+          189.648,
+          204.883
+        ],
+        "outsideFaceWhiteFraction": 0.00955,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 2175.85,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/28/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/28-portrait-v5-959a9bf260a8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "c1b52e9a6cc82ef4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          257,
+          8795,
+          550,
+          9088
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          290.527,
+          8832.422,
+          225.195,
+          217.969
+        ],
+        "outsideFaceWhiteFraction": 0.02551,
+        "largestWhiteRegion": 0.01575,
+        "sharpness": 3258.43,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/29/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/29-portrait-v5-916e9c4e217f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8818,
+        "faceHash": "946a6bc6389f61b8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          169,
+          762,
+          425,
+          1018
+        ],
+        "sourceSize": [
+          800,
+          13453
+        ],
+        "detectedFace": [
+          206.934,
+          798.779,
+          181.055,
+          182.129
+        ],
+        "outsideFaceWhiteFraction": 0.02191,
+        "largestWhiteRegion": 0.01115,
+        "sharpness": 1912.43,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/30-portrait-v5-f334485b0052.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "90346bc7b19967c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          206,
+          10343,
+          480,
+          10617
+        ],
+        "sourceSize": [
+          800,
+          11573
+        ],
+        "detectedFace": [
+          237.793,
+          10381.934,
+          210.742,
+          196.289
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1658.46,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/32/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/32-portrait-v5-c3ecfb5a36b2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8813,
+        "faceHash": "913c6bc6e599223d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          31,
+          2921,
+          287,
+          3177
+        ],
+        "sourceSize": [
+          800,
+          12268
+        ],
+        "detectedFace": [
+          78.32,
+          2963.672,
+          160.742,
+          170.312
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1253.7,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/33-portrait-v5-546fbd427718.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "8f75388392ce592e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          251,
+          6330,
+          507,
+          6586
+        ],
+        "sourceSize": [
+          800,
+          12867
+        ],
+        "detectedFace": [
+          321.094,
+          6381.348,
+          116.016,
+          152.93
+        ],
+        "outsideFaceWhiteFraction": 0.00523,
+        "largestWhiteRegion": 0.00163,
+        "sharpness": 1231.62,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/34/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/34-portrait-v5-87a43bfa360b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "989c3a8fe26ca768",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          143,
+          5540,
+          415,
+          5812
+        ],
+        "sourceSize": [
+          800,
+          13484
+        ],
+        "detectedFace": [
+          174.219,
+          5576.514,
+          209.375,
+          198.535
+        ],
+        "outsideFaceWhiteFraction": 0.01572,
+        "largestWhiteRegion": 0.01559,
+        "sharpness": 1087.81,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/35/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/35-portrait-v5-6c8bea96869b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "93dc3cd258cd338c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          323,
+          696,
+          579,
+          952
+        ],
+        "sourceSize": [
+          800,
+          14585
+        ],
+        "detectedFace": [
+          377.148,
+          748.486,
+          147.266,
+          150.684
+        ],
+        "outsideFaceWhiteFraction": 0.01428,
+        "largestWhiteRegion": 0.00241,
+        "sharpness": 2179.98,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/36/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/36-portrait-v5-cdbd4bb6bf42.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "825d3ec635c9339c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          19,
+          1805,
+          275,
+          2061
+        ],
+        "sourceSize": [
+          800,
+          12142
+        ],
+        "detectedFace": [
+          68.115,
+          1850.146,
+          157.129,
+          166.113
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 1479.32,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/121/005.webp?v=1771690573",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/121-portrait-v5-43836c340a87.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "f76a69c7059c2619",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          403,
+          645,
+          749
+        ],
+        "sourceSize": [
+          800,
+          13670
+        ],
+        "detectedFace": [
+          338.672,
+          444.141,
+          266.406,
+          264.062
+        ],
+        "outsideFaceWhiteFraction": 0.0388,
+        "largestWhiteRegion": 0.00829,
+        "sharpness": 1899.88,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/122/002.webp?v=1771691176",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/122-portrait-v5-f010f6948b6f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "d9bb7986e50827c8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          515,
+          6020,
+          791,
+          6296
+        ],
+        "sourceSize": [
+          800,
+          13635
+        ],
+        "detectedFace": [
+          532.617,
+          6041.406,
+          240.234,
+          232.227
+        ],
+        "outsideFaceWhiteFraction": 0.03807,
+        "largestWhiteRegion": 0.01797,
+        "sharpness": 2593.16,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/123/002.webp?v=1772498732",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/123-portrait-v5-cf3b9bab3512.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8057,
+        "faceHash": "a5ca5a35db848d39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          130,
+          12564,
+          709,
+          13143
+        ],
+        "sourceSize": [
+          800,
+          14915
+        ],
+        "detectedFace": [
+          196.68,
+          12652.539,
+          445.703,
+          402.344
+        ],
+        "outsideFaceWhiteFraction": 0.01399,
+        "largestWhiteRegion": 0.00676,
+        "sharpness": 1636.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/124/002.webp?v=1773088079",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/124-portrait-v5-e2079235cf7b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "87af6893f09836cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          379,
+          3207,
+          703,
+          3531
+        ],
+        "sourceSize": [
+          800,
+          12650
+        ],
+        "detectedFace": [
+          399.805,
+          3244.531,
+          281.641,
+          248.828
+        ],
+        "outsideFaceWhiteFraction": 0.04483,
+        "largestWhiteRegion": 0.0063,
+        "sharpness": 2820.72,
+        "reviewed": true
+      }
+    },
+    "129": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/129",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/129/034a46.webp?v=1776811598",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/129-portrait-v5-07e8d23e4916.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "8ae56bc2315ce4cb",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          106,
+          9737,
+          386,
+          10017
+        ],
+        "sourceSize": [
+          800,
+          14340
+        ],
+        "detectedFace": [
+          140.625,
+          9768.945,
+          210.938,
+          215.234
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1299.85,
+        "reviewed": true
+      }
+    },
+    "130": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/130",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/130/30f78c.webp?v=1777600052",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/130-portrait-v5-eda1ab4d8eee.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "9fadcc8ee1cda220",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          268,
+          415,
+          524,
+          671
+        ],
+        "sourceSize": [
+          800,
+          12180
+        ],
+        "detectedFace": [
+          305.859,
+          463.867,
+          179.297,
+          158.203
+        ],
+        "outsideFaceWhiteFraction": 0.01346,
+        "largestWhiteRegion": 0.01053,
+        "sharpness": 1328.61,
+        "reviewed": true
+      }
+    },
+    "131": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/131",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/131/fd1c06.webp?v=1777836451",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/131-portrait-v5-1478e6c51d26.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "93737ac3a42c651d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          470,
+          11346,
+          738,
+          11614
+        ],
+        "sourceSize": [
+          800,
+          14200
+        ],
+        "detectedFace": [
+          501.172,
+          11378.711,
+          206.25,
+          201.953
+        ],
+        "outsideFaceWhiteFraction": 0.00298,
+        "largestWhiteRegion": 0.00136,
+        "sharpness": 1732.28,
+        "reviewed": true
+      }
+    },
+    "132": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/132",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/132/40ebba.webp?v=1778375932",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/132-portrait-v5-4d299ea28b12.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "84686dc5919e679b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          344,
+          2451,
+          642,
+          2749
+        ],
+        "sourceSize": [
+          900,
+          15000
+        ],
+        "detectedFace": [
+          398.694,
+          2498.071,
+          229.175,
+          204.346
+        ],
+        "outsideFaceWhiteFraction": 0.04648,
+        "largestWhiteRegion": 0.01569,
+        "sharpness": 1362.88,
+        "reviewed": true
+      }
+    },
+    "133": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/133",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/133/a03f6e.webp?v=1778947856",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/133-portrait-v5-79c5d44aec6f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8765,
+        "faceHash": "d63468eac581969f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          140,
+          9812,
+          421,
+          10093
+        ],
+        "sourceSize": [
+          900,
+          12455
+        ],
+        "detectedFace": [
+          172.101,
+          9846.826,
+          216.101,
+          211.816
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1081.21,
+        "reviewed": true
+      }
+    },
+    "134": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/134",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/134/750f02.webp?v=1791696700",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/134-portrait-v5-aa528a0b6513.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "c0bb69d961ce246d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          411,
+          13676,
+          782,
+          14047
+        ],
+        "sourceSize": [
+          900,
+          16076
+        ],
+        "detectedFace": [
+          435.059,
+          13703.906,
+          322.559,
+          315.088
+        ],
+        "outsideFaceWhiteFraction": 0.0192,
+        "largestWhiteRegion": 0.01265,
+        "sharpness": 3959.61,
+        "reviewed": true
+      }
+    },
+    "135": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/135",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/135/f9d922.webp?v=1791676755",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/135-portrait-v5-3743f6d41fec.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "8437796271cd6699",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          279,
+          9217,
+          535,
+          9473
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          330.908,
+          9252.246,
+          152.93,
+          184.57
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1796.94,
+        "reviewed": true
+      }
+    },
+    "136": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/136",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/136/42edff.webp?v=1791678103",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/136-portrait-v5-056de32efc93.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "90262fd6b53a26cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          199,
+          9572,
+          606,
+          9979
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          271.143,
+          9619.189,
+          263.232,
+          313.33
+        ],
+        "outsideFaceWhiteFraction": 0.017,
+        "largestWhiteRegion": 0.00784,
+        "sharpness": 2478.09,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/37/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/37-portrait-v5-a425e85b9e0c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8794,
+        "faceHash": "89533cc7687c639c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          370,
+          4908,
+          626,
+          5164
+        ],
+        "sourceSize": [
+          800,
+          13058
+        ],
+        "detectedFace": [
+          430.273,
+          4959.961,
+          136.328,
+          151.953
+        ],
+        "outsideFaceWhiteFraction": 0.0045,
+        "largestWhiteRegion": 0.00414,
+        "sharpness": 1988.02,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/38-portrait-v5-785be738b199.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "95e53a83b179630d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          86,
+          7082,
+          342,
+          7338
+        ],
+        "sourceSize": [
+          800,
+          13347
+        ],
+        "detectedFace": [
+          126.367,
+          7127.344,
+          175.781,
+          164.844
+        ],
+        "outsideFaceWhiteFraction": 0.00076,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 3546.05,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/39/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/39-portrait-v5-932691db1e25.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "d2022edb3dcc3665",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          3591,
+          349,
+          3940
+        ],
+        "sourceSize": [
+          800,
+          13770
+        ],
+        "detectedFace": [
+          0.0,
+          3613.672,
+          213.477,
+          303.516
+        ],
+        "outsideFaceWhiteFraction": 0.01584,
+        "largestWhiteRegion": 0.00731,
+        "sharpness": 2580.09,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/40/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/40-portrait-v5-c36380de44ee.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "c4a93b467f0aa4b9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          236,
+          6777,
+          554,
+          7095
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          277.734,
+          6813.281,
+          234.375,
+          244.922
+        ],
+        "outsideFaceWhiteFraction": 0.0079,
+        "largestWhiteRegion": 0.00209,
+        "sharpness": 2458.39,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/41/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/41-portrait-v5-b5c7be7f0c9d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "93607bce20cc679d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          167,
+          8382,
+          517,
+          8732
+        ],
+        "sourceSize": [
+          800,
+          11815
+        ],
+        "detectedFace": [
+          209.375,
+          8422.363,
+          265.625,
+          269.141
+        ],
+        "outsideFaceWhiteFraction": 0.00017,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 2309.27,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/42/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/42-portrait-v5-58017f61af13.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "86316ccfe48ab31d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          285,
+          2666,
+          605,
+          2986
+        ],
+        "sourceSize": [
+          800,
+          10300
+        ],
+        "detectedFace": [
+          351.367,
+          2703.223,
+          229.297,
+          245.898
+        ],
+        "outsideFaceWhiteFraction": 0.02989,
+        "largestWhiteRegion": 0.01784,
+        "sharpness": 1760.94,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/43/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/43-portrait-v5-6e38f0752b82.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "c4006d773f98b699",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          245,
+          4060,
+          560,
+          4375
+        ],
+        "sourceSize": [
+          800,
+          14484
+        ],
+        "detectedFace": [
+          282.715,
+          4096.289,
+          240.039,
+          242.578
+        ],
+        "outsideFaceWhiteFraction": 0.00041,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2178.79,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/44/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/44-portrait-v5-cedf7b65cf15.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "d1863bc638ce326d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          214,
+          4060,
+          470,
+          4316
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          235.84,
+          4085.156,
+          180.273,
+          205.469
+        ],
+        "outsideFaceWhiteFraction": 0.02773,
+        "largestWhiteRegion": 0.0085,
+        "sharpness": 6037.75,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/45-portrait-v5-bb5638946945.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "8a667cca351be0da",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          279,
+          13808,
+          557,
+          14086
+        ],
+        "sourceSize": [
+          800,
+          15152
+        ],
+        "detectedFace": [
+          326.953,
+          13826.367,
+          222.656,
+          241.797
+        ],
+        "outsideFaceWhiteFraction": 0.03725,
+        "largestWhiteRegion": 0.00957,
+        "sharpness": 4033.56,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/46/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/46-portrait-v5-be47f40cf63f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "c9b3388ae36cc3b8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          244,
+          9625,
+          531,
+          9912
+        ],
+        "sourceSize": [
+          800,
+          12210
+        ],
+        "detectedFace": [
+          276.562,
+          9679.639,
+          221.094,
+          176.855
+        ],
+        "outsideFaceWhiteFraction": 0.00882,
+        "largestWhiteRegion": 0.00627,
+        "sharpness": 1808.93,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/47/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/47-portrait-v5-a333e8c2d80f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.877,
+        "faceHash": "97bf2993a68e6418",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          479,
+          4209,
+          735,
+          4465
+        ],
+        "sourceSize": [
+          800,
+          14468
+        ],
+        "detectedFace": [
+          532.227,
+          4257.812,
+          148.828,
+          158.398
+        ],
+        "outsideFaceWhiteFraction": 0.00023,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 3058.18,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/48/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/48-portrait-v5-fcf5adeb1eee.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "c624399ab599e359",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          138,
+          7496,
+          469,
+          7827
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          178.125,
+          7534.473,
+          251.172,
+          254.492
+        ],
+        "outsideFaceWhiteFraction": 0.00113,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 1691.59,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/49/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/49-portrait-v5-b897ca46df19.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "8ae56ec6a6b86349",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          210,
+          9625,
+          579,
+          9994
+        ],
+        "sourceSize": [
+          800,
+          13352
+        ],
+        "detectedFace": [
+          253.809,
+          9667.285,
+          281.445,
+          284.18
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2407.06,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/50/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/50-portrait-v5-32c743cff12b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7998,
+        "faceHash": "d4154f306cdb34cb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          83,
+          6142,
+          666,
+          6725
+        ],
+        "sourceSize": [
+          800,
+          15236
+        ],
+        "detectedFace": [
+          180.078,
+          6208.789,
+          388.672,
+          448.828
+        ],
+        "outsideFaceWhiteFraction": 0.00081,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2064.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/51/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/51-portrait-v5-e8f9f5831995.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "d0e03e93b41c7e5c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          217,
+          171,
+          473,
+          427
+        ],
+        "sourceSize": [
+          800,
+          15789
+        ],
+        "detectedFace": [
+          267.48,
+          222.949,
+          154.102,
+          152.539
+        ],
+        "outsideFaceWhiteFraction": 0.00047,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 3388.01,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/52-portrait-v5-7fdc7ac0c8fc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "83387c9fe4ce328c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          43,
+          6833,
+          299,
+          7089
+        ],
+        "sourceSize": [
+          800,
+          13492
+        ],
+        "detectedFace": [
+          96.826,
+          6886.23,
+          149.121,
+          150.195
+        ],
+        "outsideFaceWhiteFraction": 0.02274,
+        "largestWhiteRegion": 0.01381,
+        "sharpness": 2546.42,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/53/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/53-portrait-v5-24bc9191ef11.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "879563d3a99a1d62",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          254,
+          4592,
+          599,
+          4937
+        ],
+        "sourceSize": [
+          800,
+          12344
+        ],
+        "detectedFace": [
+          259.863,
+          4615.039,
+          281.836,
+          299.609
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2319.52,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/54/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/54-portrait-v5-5e192e25f561.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "828832cd699b67f9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          282,
+          6975,
+          538,
+          7231
+        ],
+        "sourceSize": [
+          800,
+          12078
+        ],
+        "detectedFace": [
+          324.805,
+          7008.203,
+          169.922,
+          189.062
+        ],
+        "outsideFaceWhiteFraction": 0.03252,
+        "largestWhiteRegion": 0.0107,
+        "sharpness": 3987.07,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/55/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/55-portrait-v5-e25ba648368c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "c7246a9fe58d2698",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          508,
+          537,
+          779
+        ],
+        "sourceSize": [
+          800,
+          10643
+        ],
+        "detectedFace": [
+          298.73,
+          539.258,
+          205.664,
+          208.203
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1219.32,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/56-portrait-v5-7515818f6104.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8804,
+        "faceHash": "918d609ce798cf71",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          544,
+          3255,
+          800,
+          3511
+        ],
+        "sourceSize": [
+          800,
+          10967
+        ],
+        "detectedFace": [
+          670.508,
+          3305.078,
+          129.297,
+          156.641
+        ],
+        "outsideFaceWhiteFraction": 0.00385,
+        "largestWhiteRegion": 0.00212,
+        "sharpness": 2516.42,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/57/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/57-portrait-v5-23c0009f0e17.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "caa2788790fd63d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          222,
+          2580,
+          512,
+          2870
+        ],
+        "sourceSize": [
+          800,
+          11578
+        ],
+        "detectedFace": [
+          218.262,
+          2607.422,
+          252.148,
+          235.156
+        ],
+        "outsideFaceWhiteFraction": 0.00282,
+        "largestWhiteRegion": 0.00053,
+        "sharpness": 2358.77,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/58/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/58-portrait-v5-010977c5dec5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "c31b38e57403778d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          156,
+          4628,
+          425,
+          4897
+        ],
+        "sourceSize": [
+          800,
+          11563
+        ],
+        "detectedFace": [
+          186.719,
+          4667.578,
+          207.031,
+          189.062
+        ],
+        "outsideFaceWhiteFraction": 0.01236,
+        "largestWhiteRegion": 0.00768,
+        "sharpness": 1839.11,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/59/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/59-portrait-v5-bf950a3530b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "9c613e87f3697284",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          403,
+          579,
+          690,
+          866
+        ],
+        "sourceSize": [
+          800,
+          10032
+        ],
+        "detectedFace": [
+          435.938,
+          622.559,
+          221.094,
+          200.195
+        ],
+        "outsideFaceWhiteFraction": 0.00928,
+        "largestWhiteRegion": 0.00381,
+        "sharpness": 1595.21,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/60-portrait-v5-149ecdd16d1f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "95466bd6e9982c99",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          326,
+          1539,
+          661,
+          1874
+        ],
+        "sourceSize": [
+          800,
+          10091
+        ],
+        "detectedFace": [
+          364.648,
+          1560.645,
+          257.422,
+          291.211
+        ],
+        "outsideFaceWhiteFraction": 0.0088,
+        "largestWhiteRegion": 0.00766,
+        "sharpness": 2534.13,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/61/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/61-portrait-v5-1e7a640ada9d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8379,
+        "faceHash": "95633acea098ff21",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          163,
+          3103,
+          576,
+          3516
+        ],
+        "sourceSize": [
+          800,
+          10526
+        ],
+        "detectedFace": [
+          218.262,
+          3150.684,
+          303.32,
+          317.383
+        ],
+        "outsideFaceWhiteFraction": 0.03261,
+        "largestWhiteRegion": 0.0112,
+        "sharpness": 2484.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/62/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/62-portrait-v5-caf8f54988e1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "c365399eb68ce628",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          509,
+          6392,
+          800,
+          6683
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          564.453,
+          6425.586,
+          212.5,
+          223.828
+        ],
+        "outsideFaceWhiteFraction": 0.00128,
+        "largestWhiteRegion": 0.00128,
+        "sharpness": 1033.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/63/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/63-portrait-v5-0c6dc2041828.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "d2116daf45a9323d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          4948,
+          256,
+          5204
+        ],
+        "sourceSize": [
+          800,
+          11188
+        ],
+        "detectedFace": [
+          0.586,
+          4977.832,
+          152.637,
+          196.68
+        ],
+        "outsideFaceWhiteFraction": 0.01199,
+        "largestWhiteRegion": 0.01021,
+        "sharpness": 3102.28,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/64/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/64-portrait-v5-bae0d27af3ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "912b78ce359966c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          119,
+          7832,
+          467,
+          8180
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          151.172,
+          7854.395,
+          284.375,
+          302.93
+        ],
+        "outsideFaceWhiteFraction": 0.00192,
+        "largestWhiteRegion": 0.00137,
+        "sharpness": 1789.65,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/65-portrait-v5-c6ea9f664572.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "c49459f3079b269b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          187,
+          4962,
+          539,
+          5314
+        ],
+        "sourceSize": [
+          800,
+          13448
+        ],
+        "detectedFace": [
+          228.027,
+          5002.344,
+          270.898,
+          270.703
+        ],
+        "outsideFaceWhiteFraction": 0.00281,
+        "largestWhiteRegion": 0.00099,
+        "sharpness": 2363.64,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/66/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/66-portrait-v5-9369fb1cf687.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8804,
+        "faceHash": "8265388eb1dbe378",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          83,
+          10937,
+          339,
+          11193
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          129.395,
+          10983.984,
+          162.305,
+          162.109
+        ],
+        "outsideFaceWhiteFraction": 0.03323,
+        "largestWhiteRegion": 0.01048,
+        "sharpness": 2441.03,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/67/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/67-portrait-v5-7538d2d6c316.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "c03f7c92348f2be4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          387,
+          14034,
+          742,
+          14389
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          432.812,
+          14075.195,
+          264.062,
+          273.047
+        ],
+        "outsideFaceWhiteFraction": 0.00055,
+        "largestWhiteRegion": 0.00038,
+        "sharpness": 1404.32,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/68/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/68-portrait-v5-fef0b76e6612.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "f85428234faf57a8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          497,
+          8707,
+          800,
+          9010
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          541.992,
+          8763.477,
+          233.203,
+          190.234
+        ],
+        "outsideFaceWhiteFraction": 0.00464,
+        "largestWhiteRegion": 0.00319,
+        "sharpness": 954.26,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/110/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/110-portrait-v5-bc95f22b3ac7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8281,
+        "faceHash": "d3fb6b82e09e6580",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          203,
+          2446,
+          742,
+          2985
+        ],
+        "sourceSize": [
+          800,
+          14430
+        ],
+        "detectedFace": [
+          257.812,
+          2480.664,
+          429.688,
+          468.75
+        ],
+        "outsideFaceWhiteFraction": 0.04802,
+        "largestWhiteRegion": 0.01042,
+        "sharpness": 3811.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/1-portrait-v5-4ee3d6274b47.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "c4f43982644b7ade",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          371,
+          8576,
+          662,
+          8867
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          404.307,
+          8613.921,
+          223.77,
+          214.307
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 753.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/31/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/31-portrait-v5-087dcd959a26.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8491,
+        "faceHash": "93663dc4b08be31b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          155,
+          6834,
+          521,
+          7200
+        ],
+        "sourceSize": [
+          800,
+          15931
+        ],
+        "detectedFace": [
+          208.105,
+          6876.562,
+          260.352,
+          281.25
+        ],
+        "outsideFaceWhiteFraction": 0.00618,
+        "largestWhiteRegion": 0.00385,
+        "sharpness": 1422.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/69/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/69-portrait-v5-8ae1a1c2e961.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "852d78d335c3623e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          161,
+          6800,
+          712,
+          7351
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          250.293,
+          6863.281,
+          372.07,
+          424.219
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1302.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/70/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/70-portrait-v5-07fb4271b341.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "d831249a374db3ec",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          271,
+          8795,
+          527,
+          9051
+        ],
+        "sourceSize": [
+          800,
+          10526
+        ],
+        "detectedFace": [
+          306.152,
+          8844.336,
+          185.352,
+          158.203
+        ],
+        "outsideFaceWhiteFraction": 0.00763,
+        "largestWhiteRegion": 0.00664,
+        "sharpness": 1993.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/71/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/71-portrait-v5-edf63874f3fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "df2068cfe790b0b4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          243,
+          10338,
+          754,
+          10849
+        ],
+        "sourceSize": [
+          800,
+          14680
+        ],
+        "detectedFace": [
+          295.215,
+          10396.777,
+          343.945,
+          392.773
+        ],
+        "outsideFaceWhiteFraction": 0.03566,
+        "largestWhiteRegion": 0.01605,
+        "sharpness": 4266.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/72/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/72-portrait-v5-e0ff4f9729c8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "d5f45a93e198338c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          159,
+          6850,
+          669,
+          7360
+        ],
+        "sourceSize": [
+          800,
+          11875
+        ],
+        "detectedFace": [
+          245.508,
+          6909.18,
+          337.891,
+          392.578
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1177.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/73/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/73-portrait-v5-33ee731d208d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "95722fcae04d731c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          193,
+          12785,
+          521,
+          13113
+        ],
+        "sourceSize": [
+          800,
+          14360
+        ],
+        "detectedFace": [
+          245.215,
+          12822.949,
+          223.242,
+          252.539
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1675.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/74-portrait-v5-82d4ebe8be01.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8081,
+        "faceHash": "93246cc07d8fe43b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          74,
+          7236,
+          426,
+          7588
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          114.258,
+          7310.156,
+          270.703,
+          203.516
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1141.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/75/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/75-portrait-v5-d3c473146a05.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "846c39db728f6689",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          279,
+          3491,
+          593,
+          3805
+        ],
+        "sourceSize": [
+          800,
+          13690
+        ],
+        "detectedFace": [
+          322.754,
+          3526.953,
+          227.148,
+          241.406
+        ],
+        "outsideFaceWhiteFraction": 0.00124,
+        "largestWhiteRegion": 0.00124,
+        "sharpness": 1450.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/76/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/76-portrait-v5-9cb72429ab1b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7861,
+        "faceHash": "c05b3d42b4e95da9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          2666,
+          531,
+          3197
+        ],
+        "sourceSize": [
+          800,
+          14845
+        ],
+        "detectedFace": [
+          35.742,
+          2727.148,
+          324.023,
+          408.203
+        ],
+        "outsideFaceWhiteFraction": 0.0076,
+        "largestWhiteRegion": 0.00308,
+        "sharpness": 1492.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/77/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/77-portrait-v5-5849c96be71e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7925,
+        "faceHash": "c03f3d8666c13b93",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          211,
+          5470,
+          696,
+          5955
+        ],
+        "sourceSize": [
+          800,
+          14035
+        ],
+        "detectedFace": [
+          263.672,
+          5501.172,
+          380.469,
+          421.875
+        ],
+        "outsideFaceWhiteFraction": 0.00044,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 1954.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/78/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/78-portrait-v5-9c6debf05151.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8735,
+        "faceHash": "9cf96bc66094e4d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          44,
+          281,
+          300,
+          537
+        ],
+        "sourceSize": [
+          800,
+          10000
+        ],
+        "detectedFace": [
+          86.523,
+          316.406,
+          171.875,
+          185.938
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 3422.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/109/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/109-portrait-v5-410cce01921a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8374,
+        "faceHash": "cbb23b8ad2d84f09",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          129,
+          1942,
+          512,
+          2325
+        ],
+        "sourceSize": [
+          800,
+          13505
+        ],
+        "detectedFace": [
+          124.609,
+          1979.98,
+          332.812,
+          307.617
+        ],
+        "outsideFaceWhiteFraction": 0.04095,
+        "largestWhiteRegion": 0.01117,
+        "sharpness": 3061.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/111/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/111-portrait-v5-8087ed992beb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "dc392c96e293331b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6317,
+          282,
+          6599
+        ],
+        "sourceSize": [
+          800,
+          14425
+        ],
+        "detectedFace": [
+          55.469,
+          6349.707,
+          167.188,
+          216.992
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 851.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/112/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/112-portrait-v5-68ca1b683e58.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.77,
+        "faceHash": "d1f409c2b58d724f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          66,
+          10427,
+          508,
+          10869
+        ],
+        "sourceSize": [
+          800,
+          14520
+        ],
+        "detectedFace": [
+          146.484,
+          10477.637,
+          281.641,
+          340.039
+        ],
+        "outsideFaceWhiteFraction": 0.00339,
+        "largestWhiteRegion": 0.00203,
+        "sharpness": 1637.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/113/002.webp?v=1785016729",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/113-portrait-v5-5ed17dd035df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7969,
+        "faceHash": "cea92fd914c3704d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          47,
+          2970,
+          699,
+          3622
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          123.438,
+          3045.312,
+          498.828,
+          501.172
+        ],
+        "outsideFaceWhiteFraction": 0.02733,
+        "largestWhiteRegion": 0.01065,
+        "sharpness": 2231.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/114/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/114-portrait-v5-4f984a749699.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "d1707dc3b0cc762c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          5214,
+          311,
+          5525
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          2.051,
+          5250.195,
+          238.086,
+          239.453
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1155.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/115/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/115-portrait-v5-3101607f6080.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8696,
+        "faceHash": "8aff3e80f4986549",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          279,
+          13383,
+          535,
+          13639
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          317.871,
+          13408.984,
+          218.164,
+          203.516
+        ],
+        "outsideFaceWhiteFraction": 0.02609,
+        "largestWhiteRegion": 0.01424,
+        "sharpness": 3453.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/116/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/116-portrait-v5-eddbc29fdb48.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "9bf83980303e63eb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          195,
+          3001,
+          642,
+          3448
+        ],
+        "sourceSize": [
+          800,
+          14350
+        ],
+        "detectedFace": [
+          230.664,
+          3030.078,
+          376.172,
+          389.062
+        ],
+        "outsideFaceWhiteFraction": 0.052,
+        "largestWhiteRegion": 0.00508,
+        "sharpness": 3461.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/117/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/117-portrait-v5-308550313ae0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7964,
+        "faceHash": "89a93d73d8c7238a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          8000,
+          622,
+          8433
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          278.32,
+          8028.418,
+          310.547,
+          376.758
+        ],
+        "outsideFaceWhiteFraction": 0.02106,
+        "largestWhiteRegion": 0.01772,
+        "sharpness": 2424.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/118/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/118-portrait-v5-5ae640254bdf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "8e766db2b08b4bb0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          65,
+          4351,
+          476,
+          4762
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          160.156,
+          4398.73,
+          221.094,
+          316.211
+        ],
+        "outsideFaceWhiteFraction": 0.00285,
+        "largestWhiteRegion": 0.00177,
+        "sharpness": 1483.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/119/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/119-portrait-v5-427e6d79eda7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7749,
+        "faceHash": "95a02ccea1daa5db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          119,
+          7780,
+          721,
+          8382
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          193.164,
+          7849.414,
+          453.516,
+          463.281
+        ],
+        "outsideFaceWhiteFraction": 0.01047,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 3224.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/120/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/120-portrait-v5-4bd41f4bc5d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "80e13a9e669ce79a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          72,
+          9637,
+          445,
+          10010
+        ],
+        "sourceSize": [
+          800,
+          14580
+        ],
+        "detectedFace": [
+          131.445,
+          9680.273,
+          254.297,
+          286.719
+        ],
+        "outsideFaceWhiteFraction": 0.01686,
+        "largestWhiteRegion": 0.01353,
+        "sharpness": 1863.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/79/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/79-portrait-v5-17b4dfe21a85.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8076,
+        "faceHash": "96c5599663186d9b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          66,
+          2279,
+          402,
+          2615
+        ],
+        "sourceSize": [
+          800,
+          12105
+        ],
+        "detectedFace": [
+          140.82,
+          2338.867,
+          186.719,
+          216.797
+        ],
+        "outsideFaceWhiteFraction": 0.01974,
+        "largestWhiteRegion": 0.01509,
+        "sharpness": 2656.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/80/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/80-portrait-v5-e332d97beb5e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "c0c56dcb6c6b638a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          62,
+          10803,
+          322,
+          11063
+        ],
+        "sourceSize": [
+          800,
+          13110
+        ],
+        "detectedFace": [
+          93.896,
+          10833.35,
+          195.801,
+          199.707
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2690.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/81-portrait-v5-ac8c9d23dc5e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7925,
+        "faceHash": "94a57a962b16379a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          79,
+          9107,
+          497,
+          9525
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          157.812,
+          9154.688,
+          261.328,
+          321.875
+        ],
+        "outsideFaceWhiteFraction": 0.0013,
+        "largestWhiteRegion": 0.00052,
+        "sharpness": 2782.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/82/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/82-portrait-v5-abbe828bae54.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8618,
+        "faceHash": "86552bbf581c7689",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          233,
+          11254,
+          574,
+          11595
+        ],
+        "sourceSize": [
+          800,
+          13615
+        ],
+        "detectedFace": [
+          282.324,
+          11293.164,
+          243.164,
+          262.109
+        ],
+        "outsideFaceWhiteFraction": 0.03841,
+        "largestWhiteRegion": 0.00844,
+        "sharpness": 2702.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/83/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/83-portrait-v5-167e7f7445ec.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8618,
+        "faceHash": "91023fb3d48778ce",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          56,
+          6030,
+          457,
+          6431
+        ],
+        "sourceSize": [
+          800,
+          14465
+        ],
+        "detectedFace": [
+          117.383,
+          6076.172,
+          278.125,
+          308.594
+        ],
+        "outsideFaceWhiteFraction": 0.00346,
+        "largestWhiteRegion": 0.00127,
+        "sharpness": 3733.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/84/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/84-portrait-v5-b1d9fafb02c5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "d3786b9f6c8e2608",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          27,
+          6677,
+          667,
+          7317
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          149.219,
+          6751.367,
+          396.484,
+          492.188
+        ],
+        "outsideFaceWhiteFraction": 0.00174,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 2284.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/85-portrait-v5-c5652427fb97.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "b848a92e87b7af48",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          140,
+          4179,
+          500,
+          4539
+        ],
+        "sourceSize": [
+          800,
+          14900
+        ],
+        "detectedFace": [
+          226.953,
+          4232.031,
+          185.938,
+          253.32
+        ],
+        "outsideFaceWhiteFraction": 0.03395,
+        "largestWhiteRegion": 0.01686,
+        "sharpness": 1463.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/86/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/86-portrait-v5-d14a4db4d4bc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "d5954996249f6369",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          139,
+          5493,
+          674,
+          6028
+        ],
+        "sourceSize": [
+          800,
+          14035
+        ],
+        "detectedFace": [
+          190.527,
+          5527.539,
+          366.602,
+          465.625
+        ],
+        "outsideFaceWhiteFraction": 0.01001,
+        "largestWhiteRegion": 0.00565,
+        "sharpness": 2596.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/87/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/87-portrait-v5-428a94d6a06e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "97191972e6ce5a29",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          75,
+          7542,
+          490,
+          7957
+        ],
+        "sourceSize": [
+          800,
+          14525
+        ],
+        "detectedFace": [
+          149.512,
+          7590.527,
+          266.211,
+          318.945
+        ],
+        "outsideFaceWhiteFraction": 0.00166,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 3764.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/88/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/88-portrait-v5-6f353ffb24f2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8359,
+        "faceHash": "d0ac6b97e19862f8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          86,
+          9705,
+          636,
+          10255
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          151.758,
+          9740.82,
+          419.141,
+          478.516
+        ],
+        "outsideFaceWhiteFraction": 0.04735,
+        "largestWhiteRegion": 0.01454,
+        "sharpness": 3429.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/89/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/89-portrait-v5-9b97adaf7ee8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7949,
+        "faceHash": "860bb584fa97c5a5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          306,
+          4966,
+          800,
+          5460
+        ],
+        "sourceSize": [
+          800,
+          13170
+        ],
+        "detectedFace": [
+          414.453,
+          5022.949,
+          299.219,
+          379.883
+        ],
+        "outsideFaceWhiteFraction": 0.03847,
+        "largestWhiteRegion": 0.01523,
+        "sharpness": 2797.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/90/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/90-portrait-v5-2197b7d6a57d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8652,
+        "faceHash": "85ed2fc5a48e303d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          156,
+          8094,
+          438,
+          8376
+        ],
+        "sourceSize": [
+          800,
+          13765
+        ],
+        "detectedFace": [
+          174.609,
+          8115.332,
+          244.922,
+          238.867
+        ],
+        "outsideFaceWhiteFraction": 0.04955,
+        "largestWhiteRegion": 0.01076,
+        "sharpness": 2836.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/91/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/91-portrait-v5-a01aae21fd94.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.853,
+        "faceHash": "dc534f8aa5c134c7",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          393,
+          9605,
+          727,
+          9939
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          450.781,
+          9643.262,
+          218.75,
+          256.836
+        ],
+        "outsideFaceWhiteFraction": 0.00174,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 2610.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/92/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/92-portrait-v5-30ec3af131a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "d54a3dd73646320d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          126,
+          13316,
+          731,
+          13921
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          144.922,
+          13355.664,
+          480.078,
+          526.172
+        ],
+        "outsideFaceWhiteFraction": 0.04591,
+        "largestWhiteRegion": 0.01015,
+        "sharpness": 3504.95,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/93/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/93-portrait-v5-af4bc35aee9d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7935,
+        "faceHash": "a24a152ff29641bf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          204,
+          6731,
+          800,
+          7327
+        ],
+        "sourceSize": [
+          800,
+          14810
+        ],
+        "detectedFace": [
+          289.062,
+          6808.594,
+          458.594,
+          439.844
+        ],
+        "outsideFaceWhiteFraction": 0.0303,
+        "largestWhiteRegion": 0.01277,
+        "sharpness": 2555.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/94/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/94-portrait-v5-219673e45e3c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "80693f2d685ecc3e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          123,
+          3846,
+          524,
+          4247
+        ],
+        "sourceSize": [
+          800,
+          11240
+        ],
+        "detectedFace": [
+          192.09,
+          3892.188,
+          263.086,
+          308.594
+        ],
+        "outsideFaceWhiteFraction": 0.00243,
+        "largestWhiteRegion": 0.00221,
+        "sharpness": 2536.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/95/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/95-portrait-v5-07c3ea1b2891.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7524,
+        "faceHash": "ff00cc7bcb1252b4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          182,
+          3059,
+          480,
+          3357
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          178.125,
+          3103.418,
+          259.375,
+          208.398
+        ],
+        "outsideFaceWhiteFraction": 0.01549,
+        "largestWhiteRegion": 0.00815,
+        "sharpness": 1927.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/96/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/96-portrait-v5-25fbad00de93.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.854,
+        "faceHash": "8d2a7e95f19a6a48",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          945,
+          256,
+          1201
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          23.975,
+          984.863,
+          184.082,
+          177.148
+        ],
+        "outsideFaceWhiteFraction": 0.00812,
+        "largestWhiteRegion": 0.00671,
+        "sharpness": 2173.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/97/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/97-portrait-v5-35e29eab3c20.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8555,
+        "faceHash": "8be4708c85cb4f73",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          498,
+          3325,
+          794,
+          3621
+        ],
+        "sourceSize": [
+          800,
+          14930
+        ],
+        "detectedFace": [
+          529.102,
+          3344.824,
+          233.984,
+          257.227
+        ],
+        "outsideFaceWhiteFraction": 0.04401,
+        "largestWhiteRegion": 0.00807,
+        "sharpness": 2800.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/98/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/98-portrait-v5-f985e5d79840.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7896,
+        "faceHash": "8f6b19c3b0ccd19c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          105,
+          4266,
+          720,
+          4881
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          216.602,
+          4336.719,
+          391.797,
+          473.047
+        ],
+        "outsideFaceWhiteFraction": 0.02704,
+        "largestWhiteRegion": 0.01266,
+        "sharpness": 4296.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/99/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/99-portrait-v5-592956b18d77.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8154,
+        "faceHash": "8ee67293c5939193",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          48,
+          7516,
+          427,
+          7895
+        ],
+        "sourceSize": [
+          800,
+          13995
+        ],
+        "detectedFace": [
+          102.734,
+          7551.074,
+          329.688,
+          308.789
+        ],
+        "outsideFaceWhiteFraction": 0.03677,
+        "largestWhiteRegion": 0.01334,
+        "sharpness": 2455.27,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/100/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/100-portrait-v5-d618515d836a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7861,
+        "faceHash": "85b46e8068cb3f8f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          151,
+          4924,
+          650,
+          5423
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          202.832,
+          4956.445,
+          395.898,
+          433.984
+        ],
+        "outsideFaceWhiteFraction": 0.0218,
+        "largestWhiteRegion": 0.01726,
+        "sharpness": 5297.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/101/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/101-portrait-v5-b591fd507dd0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7729,
+        "faceHash": "c3732e9ca4ce70d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          119,
+          6198,
+          730,
+          6809
+        ],
+        "sourceSize": [
+          800,
+          13890
+        ],
+        "detectedFace": [
+          163.086,
+          6238.281,
+          523.047,
+          531.25
+        ],
+        "outsideFaceWhiteFraction": 0.00064,
+        "largestWhiteRegion": 0.00064,
+        "sharpness": 1021.0,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/102/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/102-portrait-v5-e5434cdc5232.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "b0443f0ff2dec328",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          176,
+          12193,
+          698,
+          12715
+        ],
+        "sourceSize": [
+          800,
+          14500
+        ],
+        "detectedFace": [
+          237.598,
+          12253.32,
+          399.023,
+          401.172
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1429.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/103/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/103-portrait-v5-85dd7ee5aacf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "97f67cc7b088123c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          483,
+          8698,
+          739,
+          8954
+        ],
+        "sourceSize": [
+          800,
+          14600
+        ],
+        "detectedFace": [
+          518.164,
+          8739.941,
+          184.766,
+          172.461
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1522.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/104/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/104-portrait-v5-481ad4c8fe26.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "85f53f97b08e602c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          8205,
+          614,
+          8600
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          244.727,
+          8231.641,
+          343.359,
+          341.406
+        ],
+        "outsideFaceWhiteFraction": 0.04233,
+        "largestWhiteRegion": 0.01369,
+        "sharpness": 2328.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/105/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/105-portrait-v5-76eafd4e9e81.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "d4045e733aa97cc9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          60,
+          1230,
+          726,
+          1896
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          157.812,
+          1306.445,
+          470.703,
+          512.109
+        ],
+        "outsideFaceWhiteFraction": 0.03395,
+        "largestWhiteRegion": 0.01744,
+        "sharpness": 3083.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/106/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/106-portrait-v5-a7419f756d3b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8325,
+        "faceHash": "91ad2bd4fc856629",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          8487,
+          566,
+          9053
+        ],
+        "sourceSize": [
+          800,
+          14155
+        ],
+        "detectedFace": [
+          0.781,
+          8524.023,
+          460.156,
+          491.797
+        ],
+        "outsideFaceWhiteFraction": 0.02386,
+        "largestWhiteRegion": 0.00804,
+        "sharpness": 2380.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/107/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/107-portrait-v5-f35a275bb825.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8242,
+        "faceHash": "85a15f8581fe2759",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          177,
+          8206,
+          612,
+          8641
+        ],
+        "sourceSize": [
+          800,
+          14915
+        ],
+        "detectedFace": [
+          235.156,
+          8255.664,
+          317.969,
+          334.766
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1271.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/helmut-the-forsaken-child/108/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-helmut/108-portrait-v5-5813f20caa7d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8203,
+        "faceHash": "c21c487b8f99371d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          373,
+          5462,
+          742,
+          5831
+        ],
+        "sourceSize": [
+          800,
+          13221
+        ],
+        "detectedFace": [
+          373.73,
+          5485.84,
+          311.133,
+          321.289
+        ],
+        "outsideFaceWhiteFraction": 0.02098,
+        "largestWhiteRegion": 0.01694,
+        "sharpness": 2435.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

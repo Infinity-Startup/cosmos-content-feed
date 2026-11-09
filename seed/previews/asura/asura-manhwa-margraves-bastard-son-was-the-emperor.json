@@ -1,0 +1,5068 @@
+{
+  "titleId": "asura-manhwa-margraves-bastard-son-was-the-emperor",
+  "revision": 5,
+  "previews": {
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/3/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/3-portrait-v5-69e50f87ec1c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "8d542ed7a1487f29",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          411,
+          3522,
+          707,
+          3818
+        ],
+        "sourceSize": [
+          800,
+          9780
+        ],
+        "detectedFace": [
+          473.047,
+          3555.859,
+          210.156,
+          227.344
+        ],
+        "outsideFaceWhiteFraction": 0.05208,
+        "largestWhiteRegion": 0.01373,
+        "sharpness": 4091.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/2-portrait-v5-5cb888647f0c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8276,
+        "faceHash": "c5604f43791f2d2d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          204,
+          4858,
+          616,
+          5270
+        ],
+        "sourceSize": [
+          800,
+          10000
+        ],
+        "detectedFace": [
+          280.273,
+          4905.371,
+          316.797,
+          316.992
+        ],
+        "outsideFaceWhiteFraction": 0.00203,
+        "largestWhiteRegion": 0.00171,
+        "sharpness": 2607.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/1-portrait-v5-a9a4711e036a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.835,
+        "faceHash": "97b53a97b83c4294",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          250,
+          6850,
+          586,
+          7186
+        ],
+        "sourceSize": [
+          800,
+          10000
+        ],
+        "detectedFace": [
+          284.277,
+          6871.289,
+          267.383,
+          292.578
+        ],
+        "outsideFaceWhiteFraction": 0.04099,
+        "largestWhiteRegion": 0.01196,
+        "sharpness": 7640.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/4/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/4-portrait-v5-3fe0a9e7ac6e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "d5257a93951f270c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          204,
+          908,
+          604,
+          1308
+        ],
+        "sourceSize": [
+          800,
+          6515
+        ],
+        "detectedFace": [
+          250.586,
+          955.957,
+          307.422,
+          303.711
+        ],
+        "outsideFaceWhiteFraction": 0.02399,
+        "largestWhiteRegion": 0.00919,
+        "sharpness": 3506.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/7/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/7-portrait-v5-fcf318e16232.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7896,
+        "faceHash": "d2b53f82b559309a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          69,
+          1216,
+          728,
+          1875
+        ],
+        "sourceSize": [
+          800,
+          14980
+        ],
+        "detectedFace": [
+          155.078,
+          1292.383,
+          485.938,
+          506.641
+        ],
+        "outsideFaceWhiteFraction": 0.02081,
+        "largestWhiteRegion": 0.01314,
+        "sharpness": 2118.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/6/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/6-portrait-v5-d4a05e8ce10a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7217,
+        "faceHash": "95d150d89e8ff226",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          135,
+          6915,
+          578,
+          7358
+        ],
+        "sourceSize": [
+          800,
+          9990
+        ],
+        "detectedFace": [
+          140.82,
+          6909.863,
+          430.469,
+          397.461
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 2082.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/5/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/5-portrait-v5-ec0b2f00b42e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.875,
+        "faceHash": "83732dd8c08b572f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          304,
+          6454,
+          574,
+          6724
+        ],
+        "sourceSize": [
+          800,
+          9930
+        ],
+        "detectedFace": [
+          334.766,
+          6491.992,
+          207.812,
+          193.359
+        ],
+        "outsideFaceWhiteFraction": 0.01366,
+        "largestWhiteRegion": 0.00386,
+        "sharpness": 3453.57,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/9-portrait-v5-e2a655d57a84.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8198,
+        "faceHash": "833d7ec2a49b30cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          157,
+          6076,
+          682,
+          6601
+        ],
+        "sourceSize": [
+          800,
+          13445
+        ],
+        "detectedFace": [
+          255.273,
+          6136.914,
+          329.297,
+          403.516
+        ],
+        "outsideFaceWhiteFraction": 0.0137,
+        "largestWhiteRegion": 0.00491,
+        "sharpness": 1910.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/10-portrait-v5-0e2f5d08b2ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "90e14e9fb4fe6038",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          87,
+          5632,
+          452,
+          5997
+        ],
+        "sourceSize": [
+          800,
+          14915
+        ],
+        "detectedFace": [
+          133.203,
+          5673.828,
+          273.047,
+          280.469
+        ],
+        "outsideFaceWhiteFraction": 0.00203,
+        "largestWhiteRegion": 0.00081,
+        "sharpness": 2420.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/11-portrait-v5-d2e470d385e6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "c3e37e95b48e124a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          167,
+          3614,
+          693,
+          4140
+        ],
+        "sourceSize": [
+          800,
+          14785
+        ],
+        "detectedFace": [
+          243.457,
+          3675.195,
+          373.242,
+          404.297
+        ],
+        "outsideFaceWhiteFraction": 0.03323,
+        "largestWhiteRegion": 0.01056,
+        "sharpness": 1332.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/8-portrait-v5-9d3a12cea8c0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "c7466ac7b01e2e39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          187,
+          12684,
+          463,
+          12960
+        ],
+        "sourceSize": [
+          800,
+          14535
+        ],
+        "detectedFace": [
+          197.559,
+          12669.531,
+          255.664,
+          267.578
+        ],
+        "outsideFaceWhiteFraction": 0.00479,
+        "largestWhiteRegion": 0.00276,
+        "sharpness": 1844.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/122/84f702.webp?v=1787551646",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/122-portrait-v5-a64e987a3d0e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7749,
+        "faceHash": "a53ddeb06293e60c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          369,
+          7647,
+          796,
+          8074
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          475.708,
+          7696.033,
+          214.014,
+          328.491
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2747.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/12/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/12-portrait-v5-2612f2393f06.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "d5fe2d90b383320d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          349,
+          7843,
+          597,
+          8091
+        ],
+        "sourceSize": [
+          800,
+          14395
+        ],
+        "detectedFace": [
+          353.906,
+          7829.492,
+          239.062,
+          240.625
+        ],
+        "outsideFaceWhiteFraction": 0.00446,
+        "largestWhiteRegion": 0.00119,
+        "sharpness": 2159.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/123/712dee.webp?v=1788140178",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/123-portrait-v5-8b05ebfff07b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "9fe06dc6b4592265",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          368,
+          4434,
+          795,
+          4861
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          426.27,
+          4482.861,
+          310.254,
+          328.711
+        ],
+        "outsideFaceWhiteFraction": 0.00195,
+        "largestWhiteRegion": 0.00125,
+        "sharpness": 5099.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/124/0374a6.webp?v=1788747759",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/124-portrait-v5-78d1ae5774d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.793,
+        "faceHash": "9ae7718ce2192f49",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          24,
+          4140,
+          735,
+          4851
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          106.128,
+          4247.095,
+          547.119,
+          496.582
+        ],
+        "outsideFaceWhiteFraction": 0.00749,
+        "largestWhiteRegion": 0.00204,
+        "sharpness": 5739.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/126/0fadd4.webp?v=1789912950",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/126-portrait-v5-450ea82d9b51.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7393,
+        "faceHash": "8a7c6a562d4979c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          304,
+          9501,
+          764,
+          9961
+        ],
+        "sourceSize": [
+          900,
+          15590
+        ],
+        "detectedFace": [
+          356.836,
+          9581.396,
+          354.199,
+          298.389
+        ],
+        "outsideFaceWhiteFraction": 0.01218,
+        "largestWhiteRegion": 0.01027,
+        "sharpness": 1710.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "128": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/128",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/128/088900.webp?v=1791184397",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/128-portrait-v5-8fee2e939fc2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "8ea13cde65e0b19c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          418,
+          6300,
+          685,
+          6567
+        ],
+        "sourceSize": [
+          900,
+          16147
+        ],
+        "detectedFace": [
+          434.949,
+          6321.973,
+          232.251,
+          223.242
+        ],
+        "outsideFaceWhiteFraction": 0.00766,
+        "largestWhiteRegion": 0.00714,
+        "sharpness": 4648.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "129": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/129",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/129/d9bb15.webp?v=1791653341",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/129-portrait-v5-ee166bcefa31.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "c6b939f66392601d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          534,
+          3970,
+          825,
+          4261
+        ],
+        "sourceSize": [
+          900,
+          16372
+        ],
+        "detectedFace": [
+          549.316,
+          3954.639,
+          260.156,
+          283.008
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2569.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/125/da8ea6.webp?v=1789330922",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/125-portrait-v5-76fc46b86864.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8159,
+        "faceHash": "f7362f1a9c4d014b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          223,
+          9824,
+          665,
+          10266
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          237.195,
+          9852.209,
+          350.024,
+          384.741
+        ],
+        "outsideFaceWhiteFraction": 0.01382,
+        "largestWhiteRegion": 0.01057,
+        "sharpness": 3134.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "131": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/131",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/131/6f1169.webp?v=1792995866",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/131-portrait-v5-0e106b99c9fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8818,
+        "faceHash": "9f206d83f09d62dc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          461,
+          677,
+          801,
+          1017
+        ],
+        "sourceSize": [
+          900,
+          13405
+        ],
+        "detectedFace": [
+          500.098,
+          715.979,
+          261.035,
+          261.255
+        ],
+        "outsideFaceWhiteFraction": 0.01315,
+        "largestWhiteRegion": 0.01176,
+        "sharpness": 3525.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/127/274f00.webp?v=1790566714",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/127-portrait-v5-06f91df578ad.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8003,
+        "faceHash": "c2413d86d86e63dd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          422,
+          517,
+          700,
+          795
+        ],
+        "sourceSize": [
+          900,
+          10972
+        ],
+        "detectedFace": [
+          434.29,
+          535.254,
+          214.233,
+          241.699
+        ],
+        "outsideFaceWhiteFraction": 0.01352,
+        "largestWhiteRegion": 0.00659,
+        "sharpness": 4363.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "133": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/133",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/133/b6d3c6.webp?v=1794180928",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/133-portrait-v5-0a8d804de493.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "da1771cd826d7660",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          332,
+          1022,
+          635,
+          1325
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          375.842,
+          1048.096,
+          263.452,
+          251.367
+        ],
+        "outsideFaceWhiteFraction": 0.0031,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 5322.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "130": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/130",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/130/7c5bfb.webp?v=1792345763",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/130-portrait-v5-8e09e03c9c53.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "a96932b489db07b6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          282,
+          10212,
+          714,
+          10644
+        ],
+        "sourceSize": [
+          900,
+          14512
+        ],
+        "detectedFace": [
+          335.303,
+          10261.56,
+          326.074,
+          332.446
+        ],
+        "outsideFaceWhiteFraction": 0.02588,
+        "largestWhiteRegion": 0.00729,
+        "sharpness": 4116.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/13/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/13-portrait-v5-052fef1b4e71.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "ca4e3f1b384838f5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          6872,
+          549,
+          7224
+        ],
+        "sourceSize": [
+          800,
+          13575
+        ],
+        "detectedFace": [
+          273.438,
+          6912.109,
+          199.219,
+          271.094
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2066.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/14/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/14-portrait-v5-857e1d7664db.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "a25e74946d9a6b94",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          175,
+          783,
+          600,
+          1208
+        ],
+        "sourceSize": [
+          800,
+          14985
+        ],
+        "detectedFace": [
+          223.73,
+          832.812,
+          326.758,
+          324.609
+        ],
+        "outsideFaceWhiteFraction": 0.0016,
+        "largestWhiteRegion": 0.00133,
+        "sharpness": 2486.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/15-portrait-v5-55d4893a7106.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "9b1139f262ce659c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          228,
+          3196,
+          563,
+          3531
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          279.98,
+          3235.059,
+          231.836,
+          257.617
+        ],
+        "outsideFaceWhiteFraction": 0.00545,
+        "largestWhiteRegion": 0.00204,
+        "sharpness": 3521.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "132": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/132",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/132/31ec46.webp?v=1793596450",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/132-portrait-v5-50b0932e1d16.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "82323d6de08dc37d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          5689,
+          256,
+          5945
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          0.22,
+          5727.283,
+          163.696,
+          178.638
+        ],
+        "outsideFaceWhiteFraction": 0.00665,
+        "largestWhiteRegion": 0.00545,
+        "sharpness": 2095.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/16-portrait-v5-655e060da1e1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "97165ad7cd88319c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          4650,
+          532,
+          4993
+        ],
+        "sourceSize": [
+          800,
+          14450
+        ],
+        "detectedFace": [
+          243.75,
+          4689.844,
+          233.594,
+          264.062
+        ],
+        "outsideFaceWhiteFraction": 0.00134,
+        "largestWhiteRegion": 0.00089,
+        "sharpness": 3922.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/17-portrait-v5-44e8e2ec7e1d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8052,
+        "faceHash": "82143dc9b06ff327",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          273,
+          1664,
+          584,
+          1975
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          338.574,
+          1650.977,
+          300.977,
+          337.891
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2976.27,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/18/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/18-portrait-v5-123146c5a8fb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8823,
+        "faceHash": "89083fd785c26dbc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          290,
+          5350,
+          546,
+          5606
+        ],
+        "sourceSize": [
+          800,
+          14910
+        ],
+        "detectedFace": [
+          322.07,
+          5379.688,
+          192.578,
+          196.094
+        ],
+        "outsideFaceWhiteFraction": 0.00035,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 3813.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/19/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/19-portrait-v5-e4c261b7cae9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8755,
+        "faceHash": "94363de4998f660b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          149,
+          6888,
+          405,
+          7144
+        ],
+        "sourceSize": [
+          800,
+          11235
+        ],
+        "detectedFace": [
+          194.482,
+          6930.957,
+          165.723,
+          170.898
+        ],
+        "outsideFaceWhiteFraction": 0.00603,
+        "largestWhiteRegion": 0.00305,
+        "sharpness": 2865.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/20-portrait-v5-e7d7a1d42f14.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7964,
+        "faceHash": "ca422f83289f279f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          188,
+          4109,
+          522,
+          4443
+        ],
+        "sourceSize": [
+          800,
+          14250
+        ],
+        "detectedFace": [
+          169.141,
+          4024.805,
+          371.484,
+          358.203
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 739.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/21-portrait-v5-b343b6197524.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "da8e3f5a3a0b2169",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          444,
+          3961,
+          700,
+          4217
+        ],
+        "sourceSize": [
+          800,
+          9120
+        ],
+        "detectedFace": [
+          481.641,
+          3992.676,
+          181.25,
+          193.555
+        ],
+        "outsideFaceWhiteFraction": 0.00162,
+        "largestWhiteRegion": 0.00117,
+        "sharpness": 2456.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/22-portrait-v5-4df4ca8809f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.853,
+        "faceHash": "d2b43d83340bea75",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          425,
+          6226,
+          652,
+          6453
+        ],
+        "sourceSize": [
+          800,
+          14245
+        ],
+        "detectedFace": [
+          464.062,
+          6216.699,
+          246.875,
+          246.289
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1382.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/23-portrait-v5-46657babaa81.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.812,
+        "faceHash": "86517e8b719d13ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          1280,
+          479,
+          1759
+        ],
+        "sourceSize": [
+          800,
+          13890
+        ],
+        "detectedFace": [
+          56.738,
+          1335.84,
+          337.305,
+          368.164
+        ],
+        "outsideFaceWhiteFraction": 0.00081,
+        "largestWhiteRegion": 0.00073,
+        "sharpness": 2494.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/24-portrait-v5-476fc187cea6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8091,
+        "faceHash": "9b406adc471f6473",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          256,
+          594,
+          599,
+          937
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          327.441,
+          616.992,
+          245.117,
+          297.852
+        ],
+        "outsideFaceWhiteFraction": 0.02185,
+        "largestWhiteRegion": 0.01196,
+        "sharpness": 1896.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/25-portrait-v5-442269026996.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "a70962f81f92f40f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          194,
+          8907,
+          570,
+          9283
+        ],
+        "sourceSize": [
+          800,
+          14235
+        ],
+        "detectedFace": [
+          265.918,
+          8950.391,
+          283.008,
+          289.062
+        ],
+        "outsideFaceWhiteFraction": 0.00902,
+        "largestWhiteRegion": 0.0089,
+        "sharpness": 2520.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/26-portrait-v5-85ea6c5ffa75.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "85111fe69dd826d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          264,
+          8007,
+          626,
+          8369
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          318.555,
+          8049.219,
+          252.734,
+          278.125
+        ],
+        "outsideFaceWhiteFraction": 0.00453,
+        "largestWhiteRegion": 0.00114,
+        "sharpness": 3719.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/27-portrait-v5-9662990d8e15.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "85d32cdec68c1bb8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          443,
+          2662,
+          667,
+          2886
+        ],
+        "sourceSize": [
+          800,
+          15315
+        ],
+        "detectedFace": [
+          487.305,
+          2676.855,
+          166.016,
+          194.727
+        ],
+        "outsideFaceWhiteFraction": 0.03032,
+        "largestWhiteRegion": 0.01486,
+        "sharpness": 3777.43,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/28/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/28-portrait-v5-9110bf30e229.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8296,
+        "faceHash": "9847f8ef13c03c4b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          2132,
+          622,
+          2565
+        ],
+        "sourceSize": [
+          800,
+          14620
+        ],
+        "detectedFace": [
+          207.812,
+          2167.969,
+          394.531,
+          420.312
+        ],
+        "outsideFaceWhiteFraction": 0.03447,
+        "largestWhiteRegion": 0.01147,
+        "sharpness": 2436.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/29/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/29-portrait-v5-e96644750e3c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8179,
+        "faceHash": "d2a42adca5da0e9b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          256,
+          12665,
+          576,
+          12985
+        ],
+        "sourceSize": [
+          800,
+          13475
+        ],
+        "detectedFace": [
+          269.043,
+          12648.047,
+          293.945,
+          310.938
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2748.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/31/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/31-portrait-v5-603a18f192a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.876,
+        "faceHash": "d4791e53a50f453c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          298,
+          10033,
+          534,
+          10269
+        ],
+        "sourceSize": [
+          800,
+          14900
+        ],
+        "detectedFace": [
+          305.078,
+          10020.508,
+          221.875,
+          229.297
+        ],
+        "outsideFaceWhiteFraction": 0.0164,
+        "largestWhiteRegion": 0.0094,
+        "sharpness": 2333.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/32/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/32-portrait-v5-08a1234beb30.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8599,
+        "faceHash": "85e93cc3e18b6758",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          258,
+          3955,
+          573,
+          4270
+        ],
+        "sourceSize": [
+          800,
+          14680
+        ],
+        "detectedFace": [
+          298.828,
+          3991.699,
+          233.594,
+          242.383
+        ],
+        "outsideFaceWhiteFraction": 0.00703,
+        "largestWhiteRegion": 0.00229,
+        "sharpness": 2777.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/30-portrait-v5-36f8d6845ce6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "d4154592559b339f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          264,
+          1003,
+          522,
+          1261
+        ],
+        "sourceSize": [
+          800,
+          13695
+        ],
+        "detectedFace": [
+          312.109,
+          989.844,
+          197.656,
+          250.0
+        ],
+        "outsideFaceWhiteFraction": 0.01588,
+        "largestWhiteRegion": 0.00746,
+        "sharpness": 2117.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/33-portrait-v5-ac57dc9a4be0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8574,
+        "faceHash": "919452723f896d7c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          239,
+          3746,
+          495,
+          4002
+        ],
+        "sourceSize": [
+          800,
+          12970
+        ],
+        "detectedFace": [
+          285.938,
+          3787.402,
+          162.109,
+          172.461
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 0.00034,
+        "sharpness": 1677.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/34-portrait-v5-f9bd1b4610f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8555,
+        "faceHash": "cd5c6f92f591221c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          240,
+          2426,
+          612,
+          2798
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          299.023,
+          2469.336,
+          254.297,
+          286.328
+        ],
+        "outsideFaceWhiteFraction": 0.03084,
+        "largestWhiteRegion": 0.01746,
+        "sharpness": 3758.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/35/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/35-portrait-v5-7466a48935ed.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8721,
+        "faceHash": "df716aa046a91eb8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          387,
+          1031,
+          643,
+          1287
+        ],
+        "sourceSize": [
+          800,
+          12631
+        ],
+        "detectedFace": [
+          446.875,
+          1060.352,
+          167.188,
+          196.484
+        ],
+        "outsideFaceWhiteFraction": 0.00992,
+        "largestWhiteRegion": 0.00621,
+        "sharpness": 7509.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/36-portrait-v5-c25c569393c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "95c117c700de23fe",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          391,
+          2385,
+          712,
+          2706
+        ],
+        "sourceSize": [
+          800,
+          13431
+        ],
+        "detectedFace": [
+          447.852,
+          2421.582,
+          207.422,
+          247.07
+        ],
+        "outsideFaceWhiteFraction": 0.04817,
+        "largestWhiteRegion": 0.01762,
+        "sharpness": 2775.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/38-portrait-v5-682b6b343a8a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8374,
+        "faceHash": "c3ad2b969d0f1698",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          138,
+          10294,
+          399,
+          10555
+        ],
+        "sourceSize": [
+          800,
+          14605
+        ],
+        "detectedFace": [
+          142.09,
+          10320.312,
+          252.93,
+          242.578
+        ],
+        "outsideFaceWhiteFraction": 0.00453,
+        "largestWhiteRegion": 0.00453,
+        "sharpness": 1016.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/37/64308e.webp?v=1782314789",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/37-portrait-v5-1cc36b16e3d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "a86adae59de51862",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          333,
+          11036,
+          640,
+          11343
+        ],
+        "sourceSize": [
+          800,
+          15505
+        ],
+        "detectedFace": [
+          337.402,
+          11022.266,
+          297.852,
+          292.969
+        ],
+        "outsideFaceWhiteFraction": 0.00188,
+        "largestWhiteRegion": 0.0007,
+        "sharpness": 1982.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/39/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/39-portrait-v5-27870e8c0a9c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8408,
+        "faceHash": "859831b31ca763de",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          190,
+          11521,
+          408,
+          11739
+        ],
+        "sourceSize": [
+          800,
+          12357
+        ],
+        "detectedFace": [
+          212.793,
+          11509.961,
+          172.852,
+          211.328
+        ],
+        "outsideFaceWhiteFraction": 0.00096,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 1666.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/41/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/41-portrait-v5-fce4ebb6b181.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7236,
+        "faceHash": "b7474992a597255a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          125,
+          8496,
+          585,
+          8956
+        ],
+        "sourceSize": [
+          800,
+          13963
+        ],
+        "detectedFace": [
+          201.562,
+          8548.828,
+          307.031,
+          353.906
+        ],
+        "outsideFaceWhiteFraction": 0.00366,
+        "largestWhiteRegion": 0.00172,
+        "sharpness": 1349.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/42/002.webp?v=1782314655",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/42-portrait-v5-70f768f76791.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "c0786ac3788f29db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          144,
+          3456,
+          486,
+          3798
+        ],
+        "sourceSize": [
+          800,
+          10800
+        ],
+        "detectedFace": [
+          200.0,
+          3478.125,
+          280.469,
+          297.656
+        ],
+        "outsideFaceWhiteFraction": 0.00717,
+        "largestWhiteRegion": 0.00372,
+        "sharpness": 1620.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/40/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/40-portrait-v5-f409feff8ac2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "878c7ba6519c6e98",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          147,
+          11585,
+          617,
+          12055
+        ],
+        "sourceSize": [
+          800,
+          14736
+        ],
+        "detectedFace": [
+          171.875,
+          11560.547,
+          420.703,
+          455.859
+        ],
+        "outsideFaceWhiteFraction": 0.01085,
+        "largestWhiteRegion": 0.00266,
+        "sharpness": 4314.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/43/002.webp?v=1782314333",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/43-portrait-v5-12b966dc0c5c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "94ea7a83f19e0279",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          233,
+          2122,
+          579,
+          2468
+        ],
+        "sourceSize": [
+          800,
+          13589
+        ],
+        "detectedFace": [
+          282.617,
+          2162.012,
+          247.266,
+          265.82
+        ],
+        "outsideFaceWhiteFraction": 0.00464,
+        "largestWhiteRegion": 0.00108,
+        "sharpness": 4655.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/44/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/44-portrait-v5-225ce220f77f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "95d47a0e53382f59",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          456,
+          989,
+          774,
+          1307
+        ],
+        "sourceSize": [
+          800,
+          11700
+        ],
+        "detectedFace": [
+          501.562,
+          1025.195,
+          226.562,
+          244.922
+        ],
+        "outsideFaceWhiteFraction": 0.01457,
+        "largestWhiteRegion": 0.00682,
+        "sharpness": 1508.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/45-portrait-v5-6c1a040e0db0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8555,
+        "faceHash": "d4086a7635fb9499",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          340,
+          9088,
+          643,
+          9391
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          397.754,
+          9122.559,
+          186.523,
+          233.008
+        ],
+        "outsideFaceWhiteFraction": 0.03078,
+        "largestWhiteRegion": 0.01604,
+        "sharpness": 3237.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/46/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/46-portrait-v5-d4a5813b0b95.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7446,
+        "faceHash": "d22d7ac6a19c3599",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          17,
+          7852,
+          652,
+          8487
+        ],
+        "sourceSize": [
+          800,
+          9463
+        ],
+        "detectedFace": [
+          35.938,
+          7817.969,
+          596.484,
+          616.406
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1763.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/48/002.webp?v=1782314209",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/48-portrait-v5-c9727090b19d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8389,
+        "faceHash": "9d403aa331657fa9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          178,
+          5515,
+          567,
+          5904
+        ],
+        "sourceSize": [
+          760,
+          9130
+        ],
+        "detectedFace": [
+          268.301,
+          5560.098,
+          253.828,
+          299.102
+        ],
+        "outsideFaceWhiteFraction": 0.05249,
+        "largestWhiteRegion": 0.01439,
+        "sharpness": 3618.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/49/002.webp?v=1782314295",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/49-portrait-v5-bfb0c93b403c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "91b07ad6a58b9578",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          316,
+          8240,
+          678,
+          8602
+        ],
+        "sourceSize": [
+          800,
+          14870
+        ],
+        "detectedFace": [
+          348.926,
+          8263.867,
+          296.68,
+          314.453
+        ],
+        "outsideFaceWhiteFraction": 0.01059,
+        "largestWhiteRegion": 0.00197,
+        "sharpness": 2773.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/47/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/47-portrait-v5-49f0a3d8656e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8628,
+        "faceHash": "97e728d8a61cf21c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          442,
+          9402,
+          680,
+          9640
+        ],
+        "sourceSize": [
+          800,
+          11278
+        ],
+        "detectedFace": [
+          452.734,
+          9389.453,
+          215.625,
+          231.25
+        ],
+        "outsideFaceWhiteFraction": 0.03128,
+        "largestWhiteRegion": 0.01631,
+        "sharpness": 4501.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/50/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/50-portrait-v5-3fe756b96431.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7964,
+        "faceHash": "d4f45a84eaa8b83d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          362,
+          5688,
+          800,
+          6126
+        ],
+        "sourceSize": [
+          800,
+          12768
+        ],
+        "detectedFace": [
+          504.688,
+          5738.184,
+          231.25,
+          336.914
+        ],
+        "outsideFaceWhiteFraction": 0.04694,
+        "largestWhiteRegion": 0.01784,
+        "sharpness": 1336.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/52-portrait-v5-79414fc86587.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "c07868ebd5a913bc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          295,
+          5153,
+          610,
+          5468
+        ],
+        "sourceSize": [
+          800,
+          12768
+        ],
+        "detectedFace": [
+          212.891,
+          5146.582,
+          342.578,
+          328.711
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2872.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/53/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/53-portrait-v5-ec93aa1694e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "d7060bdefdca6009",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          96,
+          7840,
+          339,
+          8083
+        ],
+        "sourceSize": [
+          800,
+          12136
+        ],
+        "detectedFace": [
+          163.623,
+          7829.199,
+          179.004,
+          264.648
+        ],
+        "outsideFaceWhiteFraction": 0.0015,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 2033.95,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/51/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/51-portrait-v5-058700dcefc0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "d7080ad7a17e685d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          271,
+          13097,
+          545,
+          13371
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          280.664,
+          13082.617,
+          254.297,
+          266.016
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 3546.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/54/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/54-portrait-v5-68b2bdfdbd82.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8394,
+        "faceHash": "929c6a96b54b786c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6832,
+          430,
+          7262
+        ],
+        "sourceSize": [
+          800,
+          14826
+        ],
+        "detectedFace": [
+          58.789,
+          6881.641,
+          282.227,
+          330.469
+        ],
+        "outsideFaceWhiteFraction": 0.03262,
+        "largestWhiteRegion": 0.01581,
+        "sharpness": 2182.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/55/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/55-portrait-v5-53c15f39acdc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8062,
+        "faceHash": "c757290b55a95a35",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          3090,
+          300,
+          3390
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          -0.098,
+          3073.633,
+          244.922,
+          291.406
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 417.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/57/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/57-portrait-v5-9d0ad788bd62.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8623,
+        "faceHash": "929a7ca37ac527c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          284,
+          2157,
+          619,
+          2492
+        ],
+        "sourceSize": [
+          800,
+          14485
+        ],
+        "detectedFace": [
+          330.469,
+          2195.215,
+          242.188,
+          258.008
+        ],
+        "outsideFaceWhiteFraction": 0.01056,
+        "largestWhiteRegion": 0.00328,
+        "sharpness": 5672.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/58/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/58-portrait-v5-ed8644dc7ad0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7998,
+        "faceHash": "83c87a0f673f2436",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          354,
+          8091,
+          718,
+          8455
+        ],
+        "sourceSize": [
+          800,
+          12000
+        ],
+        "detectedFace": [
+          415.82,
+          8114.551,
+          240.234,
+          316.211
+        ],
+        "outsideFaceWhiteFraction": 0.00166,
+        "largestWhiteRegion": 0.00056,
+        "sharpness": 2731.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/56-portrait-v5-4b07887f20ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "83f83f83568e5a8c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          325,
+          6764,
+          587,
+          7026
+        ],
+        "sourceSize": [
+          800,
+          15965
+        ],
+        "detectedFace": [
+          358.887,
+          6749.609,
+          194.727,
+          254.688
+        ],
+        "outsideFaceWhiteFraction": 0.04451,
+        "largestWhiteRegion": 0.01788,
+        "sharpness": 3827.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/59/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/59-portrait-v5-7702bf53476e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8516,
+        "faceHash": "cbb16bb743e82a28",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          2788,
+          610,
+          3133
+        ],
+        "sourceSize": [
+          800,
+          13052
+        ],
+        "detectedFace": [
+          315.234,
+          2827.344,
+          244.531,
+          265.625
+        ],
+        "outsideFaceWhiteFraction": 0.0137,
+        "largestWhiteRegion": 0.00233,
+        "sharpness": 5029.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/60-portrait-v5-db324636f4b8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8633,
+        "faceHash": "d1950f96dcdc6219",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          182,
+          1363,
+          438,
+          1619
+        ],
+        "sourceSize": [
+          800,
+          14880
+        ],
+        "detectedFace": [
+          237.695,
+          1412.793,
+          143.75,
+          156.445
+        ],
+        "outsideFaceWhiteFraction": 0.00699,
+        "largestWhiteRegion": 0.00555,
+        "sharpness": 2300.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/61/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/61-portrait-v5-74a92b085216.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "87d42bdaf1c8326c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          326,
+          2384,
+          606,
+          2664
+        ],
+        "sourceSize": [
+          800,
+          13580
+        ],
+        "detectedFace": [
+          358.691,
+          2421.387,
+          215.43,
+          204.688
+        ],
+        "outsideFaceWhiteFraction": 0.03702,
+        "largestWhiteRegion": 0.00586,
+        "sharpness": 2546.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/63/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/63-portrait-v5-5aa1ab1129e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8745,
+        "faceHash": "d1e47b87314e66c1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          382,
+          7004,
+          638,
+          7260
+        ],
+        "sourceSize": [
+          800,
+          13330
+        ],
+        "detectedFace": [
+          430.859,
+          7048.828,
+          158.594,
+          167.188
+        ],
+        "outsideFaceWhiteFraction": 0.0264,
+        "largestWhiteRegion": 0.00606,
+        "sharpness": 3731.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/62/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/62-portrait-v5-2c34a9cea04c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "821b2dc86bef3394",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          182,
+          8297,
+          386,
+          8501
+        ],
+        "sourceSize": [
+          800,
+          13625
+        ],
+        "detectedFace": [
+          233.691,
+          8335.156,
+          100.586,
+          111.719
+        ],
+        "outsideFaceWhiteFraction": 0.03992,
+        "largestWhiteRegion": 0.01729,
+        "sharpness": 2058.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/65-portrait-v5-c4746593c183.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.853,
+        "faceHash": "94d32cd320cf73cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          360,
+          7088,
+          648,
+          7376
+        ],
+        "sourceSize": [
+          800,
+          12125
+        ],
+        "detectedFace": [
+          389.551,
+          7106.641,
+          228.711,
+          250.0
+        ],
+        "outsideFaceWhiteFraction": 0.02762,
+        "largestWhiteRegion": 0.01071,
+        "sharpness": 1859.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/64/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/64-portrait-v5-c05f3f0b868c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8022,
+        "faceHash": "813e7ab08c95275f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          312,
+          14001,
+          667,
+          14356
+        ],
+        "sourceSize": [
+          800,
+          14960
+        ],
+        "detectedFace": [
+          385.059,
+          13981.641,
+          209.57,
+          344.922
+        ],
+        "outsideFaceWhiteFraction": 0.00053,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1676.69,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/66/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/66-portrait-v5-c84128589c50.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8701,
+        "faceHash": "92b9b98687cb7219",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          402,
+          8840,
+          678,
+          9116
+        ],
+        "sourceSize": [
+          800,
+          14320
+        ],
+        "detectedFace": [
+          429.492,
+          8858.203,
+          220.703,
+          240.43
+        ],
+        "outsideFaceWhiteFraction": 0.03622,
+        "largestWhiteRegion": 0.01712,
+        "sharpness": 3799.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/67/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/67-portrait-v5-25bdb712c3b2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8091,
+        "faceHash": "d4950cfcb0e862db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          4873,
+          368,
+          5241
+        ],
+        "sourceSize": [
+          800,
+          14550
+        ],
+        "detectedFace": [
+          31.006,
+          4915.332,
+          182.52,
+          283.398
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2058.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/68/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/68-portrait-v5-567d6f4aa65a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8672,
+        "faceHash": "92be7886658b6d98",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          31,
+          8839,
+          399,
+          9207
+        ],
+        "sourceSize": [
+          800,
+          13815
+        ],
+        "detectedFace": [
+          99.219,
+          8881.543,
+          282.812,
+          283.008
+        ],
+        "outsideFaceWhiteFraction": 0.01253,
+        "largestWhiteRegion": 0.00452,
+        "sharpness": 2730.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/69/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/69-portrait-v5-6b5b02abfb33.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8423,
+        "faceHash": "8db939d4a4b833c3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          323,
+          1093,
+          579,
+          1349
+        ],
+        "sourceSize": [
+          800,
+          14995
+        ],
+        "detectedFace": [
+          379.395,
+          1147.656,
+          143.555,
+          147.656
+        ],
+        "outsideFaceWhiteFraction": 0.0041,
+        "largestWhiteRegion": 0.00151,
+        "sharpness": 2765.0,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/70/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/70-portrait-v5-2d0857aa3d17.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.854,
+        "faceHash": "97e37c88560d3b2c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          466,
+          5203,
+          792,
+          5529
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          503.516,
+          5242.578,
+          250.781,
+          246.094
+        ],
+        "outsideFaceWhiteFraction": 0.00175,
+        "largestWhiteRegion": 0.00085,
+        "sharpness": 3616.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/71/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/71-portrait-v5-55463962d863.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7876,
+        "faceHash": "94783f65898b4e9a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6732,
+          441,
+          7173
+        ],
+        "sourceSize": [
+          800,
+          12550
+        ],
+        "detectedFace": [
+          73.145,
+          6760.547,
+          289.258,
+          383.594
+        ],
+        "outsideFaceWhiteFraction": 0.01947,
+        "largestWhiteRegion": 0.01328,
+        "sharpness": 3115.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/74-portrait-v5-db6d17ae129b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.771,
+        "faceHash": "813c43c7bc27cd35",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          98,
+          674,
+          507,
+          1083
+        ],
+        "sourceSize": [
+          800,
+          14250
+        ],
+        "detectedFace": [
+          137.891,
+          720.703,
+          279.688,
+          314.844
+        ],
+        "outsideFaceWhiteFraction": 0.01466,
+        "largestWhiteRegion": 0.0141,
+        "sharpness": 1706.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/72/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/72-portrait-v5-40bb1af796a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "8a157df291cb6259",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          61,
+          2153,
+          317,
+          2409
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          137.744,
+          2208.398,
+          126.074,
+          145.703
+        ],
+        "outsideFaceWhiteFraction": 0.03035,
+        "largestWhiteRegion": 0.01649,
+        "sharpness": 992.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/75/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/75-portrait-v5-fcaa2e5bb598.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8145,
+        "faceHash": "d5650ad7f07a212e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          146,
+          7871,
+          587,
+          8312
+        ],
+        "sourceSize": [
+          800,
+          13700
+        ],
+        "detectedFace": [
+          191.309,
+          7922.559,
+          296.289,
+          338.867
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2833.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/76/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/76-portrait-v5-1b9f7b542b6d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7803,
+        "faceHash": "90f574070a34b9df",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          178,
+          8437,
+          638,
+          8897
+        ],
+        "sourceSize": [
+          800,
+          13725
+        ],
+        "detectedFace": [
+          259.961,
+          8489.844,
+          296.484,
+          353.906
+        ],
+        "outsideFaceWhiteFraction": 0.00323,
+        "largestWhiteRegion": 0.00107,
+        "sharpness": 3005.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/73/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/73-portrait-v5-de1918c0d46e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "c03e39946ff43349",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          270,
+          2239,
+          542,
+          2511
+        ],
+        "sourceSize": [
+          800,
+          13515
+        ],
+        "detectedFace": [
+          301.562,
+          2278.711,
+          209.375,
+          193.359
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 2220.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/77/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/77-portrait-v5-04389825de69.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8623,
+        "faceHash": "d7a03af600fd02ed",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          139,
+          1553,
+          468,
+          1882
+        ],
+        "sourceSize": [
+          800,
+          14090
+        ],
+        "detectedFace": [
+          165.332,
+          1591.211,
+          234.18,
+          252.734
+        ],
+        "outsideFaceWhiteFraction": 0.02176,
+        "largestWhiteRegion": 0.01649,
+        "sharpness": 3470.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/78/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/78-portrait-v5-ae1165d49633.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8677,
+        "faceHash": "c0ec4f312e343eb6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          162,
+          5137,
+          366,
+          5341
+        ],
+        "sourceSize": [
+          800,
+          9200
+        ],
+        "detectedFace": [
+          166.943,
+          5158.984,
+          138.379,
+          160.156
+        ],
+        "outsideFaceWhiteFraction": 0.00528,
+        "largestWhiteRegion": 0.00298,
+        "sharpness": 1751.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/79/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/79-portrait-v5-a95abbc76651.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "85c05e436e2f6d2e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          494,
+          5183,
+          800,
+          5489
+        ],
+        "sourceSize": [
+          800,
+          14825
+        ],
+        "detectedFace": [
+          564.648,
+          5222.656,
+          235.547,
+          227.344
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2850.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/80/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/80-portrait-v5-66b4789205dc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "93932f9324cb72ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          234,
+          3625,
+          764,
+          4155
+        ],
+        "sourceSize": [
+          800,
+          8805
+        ],
+        "detectedFace": [
+          312.012,
+          3685.938,
+          373.633,
+          407.812
+        ],
+        "outsideFaceWhiteFraction": 0.00049,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 2419.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/81-portrait-v5-bf366d5a1e93.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8218,
+        "faceHash": "85b52ac2bc9b307b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          24,
+          1929,
+          544,
+          2449
+        ],
+        "sourceSize": [
+          800,
+          10895
+        ],
+        "detectedFace": [
+          99.512,
+          1989.062,
+          369.336,
+          400.0
+        ],
+        "outsideFaceWhiteFraction": 0.00581,
+        "largestWhiteRegion": 0.00208,
+        "sharpness": 3822.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/82/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/82-portrait-v5-4946911ea9f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8691,
+        "faceHash": "935b3ac431c93d95",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          350,
+          5876,
+          596,
+          6122
+        ],
+        "sourceSize": [
+          800,
+          14860
+        ],
+        "detectedFace": [
+          353.32,
+          5894.727,
+          238.672,
+          182.422
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1759.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/84/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/84-portrait-v5-61a674f5bc83.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8062,
+        "faceHash": "c00069b6a63d3f3f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          135,
+          5374,
+          744,
+          5983
+        ],
+        "sourceSize": [
+          800,
+          12525
+        ],
+        "detectedFace": [
+          155.859,
+          5414.062,
+          480.469,
+          529.297
+        ],
+        "outsideFaceWhiteFraction": 0.04483,
+        "largestWhiteRegion": 0.00929,
+        "sharpness": 6292.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/85-portrait-v5-9a7f12b9c2a3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8618,
+        "faceHash": "c5606b43e92f361d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          16,
+          4465,
+          326,
+          4775
+        ],
+        "sourceSize": [
+          800,
+          10955
+        ],
+        "detectedFace": [
+          51.562,
+          4500.586,
+          238.086,
+          238.672
+        ],
+        "outsideFaceWhiteFraction": 0.00145,
+        "largestWhiteRegion": 0.00038,
+        "sharpness": 1998.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/87/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/87-portrait-v5-678aca1a88ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "81b87f93691330de",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          231,
+          5984,
+          644,
+          6397
+        ],
+        "sourceSize": [
+          800,
+          13915
+        ],
+        "detectedFace": [
+          280.469,
+          6031.641,
+          314.062,
+          317.773
+        ],
+        "outsideFaceWhiteFraction": 0.03279,
+        "largestWhiteRegion": 0.01529,
+        "sharpness": 4864.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/88/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/88-portrait-v5-5bcea9f8eedf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7212,
+        "faceHash": "c7357a60a10fe4f8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          276,
+          1228,
+          800,
+          1752
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          394.434,
+          1289.062,
+          296.289,
+          402.734
+        ],
+        "outsideFaceWhiteFraction": 0.00516,
+        "largestWhiteRegion": 0.00186,
+        "sharpness": 1700.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/86/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/86-portrait-v5-309cd487fac1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "8b436fc4e50e33b4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7401,
+          363,
+          7764
+        ],
+        "sourceSize": [
+          800,
+          13115
+        ],
+        "detectedFace": [
+          0.293,
+          7442.578,
+          249.219,
+          278.906
+        ],
+        "outsideFaceWhiteFraction": 0.00587,
+        "largestWhiteRegion": 0.00587,
+        "sharpness": 1544.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/89/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/89-portrait-v5-d54527b9a539.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8828,
+        "faceHash": "975d34e148cf61cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          471,
+          2682,
+          727,
+          2938
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          507.422,
+          2719.922,
+          183.594,
+          180.469
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 4268.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/90/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/90-portrait-v5-a0087d920712.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8657,
+        "faceHash": "c12269f8e4bc3736",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          472,
+          8601,
+          728,
+          8857
+        ],
+        "sourceSize": [
+          800,
+          12620
+        ],
+        "detectedFace": [
+          516.992,
+          8633.203,
+          165.234,
+          192.578
+        ],
+        "outsideFaceWhiteFraction": 0.00143,
+        "largestWhiteRegion": 0.0013,
+        "sharpness": 3510.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/91/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/91-portrait-v5-32f19e4cfc07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "82767c5de59a6192",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          178,
+          6601,
+          456,
+          6879
+        ],
+        "sourceSize": [
+          800,
+          13420
+        ],
+        "detectedFace": [
+          213.281,
+          6618.652,
+          207.812,
+          241.992
+        ],
+        "outsideFaceWhiteFraction": 0.01852,
+        "largestWhiteRegion": 0.01617,
+        "sharpness": 2002.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/92/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/92-portrait-v5-dca064272379.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "d587625088cf3e5b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          9184,
+          634,
+          9599
+        ],
+        "sourceSize": [
+          800,
+          14975
+        ],
+        "detectedFace": [
+          270.801,
+          9231.641,
+          310.742,
+          319.531
+        ],
+        "outsideFaceWhiteFraction": 0.00075,
+        "largestWhiteRegion": 0.0004,
+        "sharpness": 3682.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/95/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/95-portrait-v5-32b327a96605.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "d6113ca3fa4a493d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          150,
+          7384,
+          406,
+          7640
+        ],
+        "sourceSize": [
+          800,
+          13640
+        ],
+        "detectedFace": [
+          197.803,
+          7435.645,
+          160.254,
+          153.32
+        ],
+        "outsideFaceWhiteFraction": 0.00067,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2177.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/93/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/93-portrait-v5-dc247dbc4c78.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8687,
+        "faceHash": "c5a56996f4b93258",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          313,
+          597,
+          600,
+          884
+        ],
+        "sourceSize": [
+          800,
+          13460
+        ],
+        "detectedFace": [
+          347.949,
+          629.883,
+          217.383,
+          220.508
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2426.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/96/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/96-portrait-v5-2f832484e025.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "84c01ac69b3f3f1d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          223,
+          1014,
+          564,
+          1355
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          285.938,
+          1036.523,
+          262.5,
+          296.484
+        ],
+        "outsideFaceWhiteFraction": 0.02269,
+        "largestWhiteRegion": 0.0114,
+        "sharpness": 2835.95,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/94/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/94-portrait-v5-436972cdfcb0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8218,
+        "faceHash": "d5162bcccdda2e21",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          127,
+          4212,
+          510,
+          4595
+        ],
+        "sourceSize": [
+          800,
+          14275
+        ],
+        "detectedFace": [
+          160.156,
+          4237.012,
+          316.406,
+          333.008
+        ],
+        "outsideFaceWhiteFraction": 0.04456,
+        "largestWhiteRegion": 0.01006,
+        "sharpness": 6161.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/98/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/98-portrait-v5-a637f4973aa6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7964,
+        "faceHash": "c128ed731d0f90fc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          173,
+          3698,
+          599,
+          4124
+        ],
+        "sourceSize": [
+          800,
+          14420
+        ],
+        "detectedFace": [
+          265.527,
+          3746.875,
+          240.43,
+          327.344
+        ],
+        "outsideFaceWhiteFraction": 0.00571,
+        "largestWhiteRegion": 0.00346,
+        "sharpness": 1715.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/100/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/100-portrait-v5-bde51cff3794.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7939,
+        "faceHash": "d1696e656974398a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          524,
+          3832,
+          780,
+          4088
+        ],
+        "sourceSize": [
+          800,
+          14075
+        ],
+        "detectedFace": [
+          572.656,
+          3872.559,
+          157.812,
+          175.586
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1330.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/97/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/97-portrait-v5-6d8015d129d2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8359,
+        "faceHash": "865169a3359e331f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          382,
+          99,
+          780,
+          497
+        ],
+        "sourceSize": [
+          800,
+          13975
+        ],
+        "detectedFace": [
+          408.984,
+          144.824,
+          292.188,
+          306.445
+        ],
+        "outsideFaceWhiteFraction": 0.00783,
+        "largestWhiteRegion": 0.00739,
+        "sharpness": 2513.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/101/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/101-portrait-v5-1de24fb5a58b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "ca672dd4b1ca07cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          113,
+          8188,
+          369,
+          8444
+        ],
+        "sourceSize": [
+          800,
+          13960
+        ],
+        "detectedFace": [
+          151.465,
+          8223.242,
+          179.883,
+          185.547
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2224.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/99/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/99-portrait-v5-ce7b48e53ea5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "83017a9dad193f74",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          164,
+          8149,
+          573,
+          8558
+        ],
+        "sourceSize": [
+          800,
+          13370
+        ],
+        "detectedFace": [
+          205.762,
+          8196.484,
+          275.977,
+          314.844
+        ],
+        "outsideFaceWhiteFraction": 0.00967,
+        "largestWhiteRegion": 0.002,
+        "sharpness": 5066.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/103/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/103-portrait-v5-a4141e58460e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8154,
+        "faceHash": "df706cc3384732cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          198,
+          7699,
+          504,
+          8005
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          239.355,
+          7734.375,
+          222.852,
+          235.156
+        ],
+        "outsideFaceWhiteFraction": 0.00026,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 1269.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/102/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/102-portrait-v5-3f89fe2282de.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8354,
+        "faceHash": "80d50a17c7cf78cb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          354,
+          7562,
+          633,
+          7841
+        ],
+        "sourceSize": [
+          800,
+          14205
+        ],
+        "detectedFace": [
+          350.0,
+          7586.621,
+          242.969,
+          229.102
+        ],
+        "outsideFaceWhiteFraction": 0.00978,
+        "largestWhiteRegion": 0.00938,
+        "sharpness": 2748.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/104/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/104-portrait-v5-064e9149b07c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "d681689ec97266e3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          178,
+          9271,
+          466,
+          9559
+        ],
+        "sourceSize": [
+          800,
+          13035
+        ],
+        "detectedFace": [
+          210.84,
+          9308.008,
+          221.68,
+          214.453
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 3204.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/105/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/105-portrait-v5-59e3007240c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8223,
+        "faceHash": "cf133f89e0c43378",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          297,
+          3966,
+          713,
+          4382
+        ],
+        "sourceSize": [
+          800,
+          13535
+        ],
+        "detectedFace": [
+          347.754,
+          4014.258,
+          315.43,
+          319.922
+        ],
+        "outsideFaceWhiteFraction": 0.01895,
+        "largestWhiteRegion": 0.00569,
+        "sharpness": 1717.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/106/002.webp?v=1771299853",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/106-portrait-v5-d6f532cd47e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8652,
+        "faceHash": "82bd6ab3e0ce72c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          221,
+          2279,
+          567,
+          2625
+        ],
+        "sourceSize": [
+          800,
+          13895
+        ],
+        "detectedFace": [
+          300.0,
+          2318.945,
+          228.125,
+          266.016
+        ],
+        "outsideFaceWhiteFraction": 0.03145,
+        "largestWhiteRegion": 0.00989,
+        "sharpness": 5530.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/107/002.webp?v=1771668934",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/107-portrait-v5-756d90e4d1de.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8281,
+        "faceHash": "c363384cf31d1f0d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          288,
+          6076,
+          800,
+          6588
+        ],
+        "sourceSize": [
+          800,
+          14760
+        ],
+        "detectedFace": [
+          376.074,
+          6140.918,
+          393.945,
+          382.227
+        ],
+        "outsideFaceWhiteFraction": 0.00037,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2074.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/108/002.webp?v=1772243522",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/108-portrait-v5-d7d9ec80b270.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8379,
+        "faceHash": "c7d13899a85fa748",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          140,
+          783,
+          573,
+          1216
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          190.234,
+          838.672,
+          332.812,
+          321.094
+        ],
+        "outsideFaceWhiteFraction": 0.01286,
+        "largestWhiteRegion": 0.00986,
+        "sharpness": 4326.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/109/002.webp?v=1772771882",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/109-portrait-v5-4a3b97962c4a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "90363cc6e0df225f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          375,
+          2965,
+          631,
+          3221
+        ],
+        "sourceSize": [
+          800,
+          14060
+        ],
+        "detectedFace": [
+          431.055,
+          3021.094,
+          143.359,
+          143.75
+        ],
+        "outsideFaceWhiteFraction": 0.02213,
+        "largestWhiteRegion": 0.00514,
+        "sharpness": 4177.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/110/95aaa1.webp?v=1774114483",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/110-portrait-v5-f3e6dfa77c52.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8447,
+        "faceHash": "81e07c2f665d7638",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          492,
+          6746,
+          774,
+          7028
+        ],
+        "sourceSize": [
+          800,
+          10125
+        ],
+        "detectedFace": [
+          534.766,
+          6778.223,
+          196.875,
+          216.602
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 2481.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/111/9324bb.webp?v=1782275655",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/111-portrait-v5-c93831f3d1d3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8643,
+        "faceHash": "879d2972af4a31c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          268,
+          9302,
+          674,
+          9708
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          328.162,
+          9349.365,
+          284.985,
+          312.012
+        ],
+        "outsideFaceWhiteFraction": 0.00076,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 3396.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/113/9ecaac.webp?v=1782277801",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/113-portrait-v5-36c83d0523a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.853,
+        "faceHash": "8f703992b12a3eb9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          288,
+          3516,
+          627,
+          3855
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          327.173,
+          3556.274,
+          260.596,
+          257.52
+        ],
+        "outsideFaceWhiteFraction": 0.03607,
+        "largestWhiteRegion": 0.01283,
+        "sharpness": 7333.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/112/6d091d.webp?v=1782127931",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/112-portrait-v5-90694519df68.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8306,
+        "faceHash": "887d3fa1c14d693c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          136,
+          3351,
+          529,
+          3744
+        ],
+        "sourceSize": [
+          900,
+          15667
+        ],
+        "detectedFace": [
+          230.164,
+          3396.533,
+          204.565,
+          302.344
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 3945.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/114/76e574.webp?v=1782656223",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/114-portrait-v5-e2aabf2289a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8574,
+        "faceHash": "8a137cc8759d3798",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          453,
+          2220,
+          714,
+          2481
+        ],
+        "sourceSize": [
+          900,
+          15857
+        ],
+        "detectedFace": [
+          505.151,
+          2250.0,
+          156.885,
+          200.83
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2142.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/117/472223.webp?v=1784513343",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/117-portrait-v5-771f5edbfab0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7881,
+        "faceHash": "cf3469c197878ea8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          55,
+          4757,
+          382,
+          5084
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          128.76,
+          4795.093,
+          180.396,
+          251.807
+        ],
+        "outsideFaceWhiteFraction": 0.00264,
+        "largestWhiteRegion": 0.00102,
+        "sharpness": 3851.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/118/6a9ff1.webp?v=1785133701",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/118-portrait-v5-48533d248aa3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "875070856e337b5b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          276,
+          8040,
+          517,
+          8281
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          326.843,
+          8029.907,
+          232.69,
+          261.475
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2093.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/116/3aaaea.webp?v=1784200270",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/116-portrait-v5-48c6ab918ea6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "855b3ca7e44f492c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          173,
+          699,
+          607
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          294.434,
+          223.242,
+          318.164,
+          333.545
+        ],
+        "outsideFaceWhiteFraction": 0.03972,
+        "largestWhiteRegion": 0.00829,
+        "sharpness": 6549.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/115/11a27d.webp?v=1783279419",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/115-portrait-v5-a70a85ca5871.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8467,
+        "faceHash": "c0c06ad721ce373f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          176,
+          7745,
+          589,
+          8158
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          223.572,
+          7798.315,
+          317.505,
+          306.299
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2520.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/119/55d63f.webp?v=1785728280",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/119-portrait-v5-dd19616dc52d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "d40d79a7e49e2a1c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          330,
+          7089,
+          715,
+          7474
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          341.895,
+          7114.087,
+          305.859,
+          334.424
+        ],
+        "outsideFaceWhiteFraction": 0.0313,
+        "largestWhiteRegion": 0.01405,
+        "sharpness": 6076.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/120/2d78f3.webp?v=1786284880",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/120-portrait-v5-86b2b298ae62.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8408,
+        "faceHash": "836528f7b38c7c1a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          104,
+          2218,
+          589,
+          2703
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          170.947,
+          2274.06,
+          352.002,
+          372.876
+        ],
+        "outsideFaceWhiteFraction": 0.00063,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 3216.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/121/8631f5.webp?v=1786922404",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/121-portrait-v5-de1a7a542091.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8242,
+        "faceHash": "fe73058192cbf04d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          445,
+          2239,
+          820,
+          2614
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          440.002,
+          2287.354,
+          325.854,
+          278.613
+        ],
+        "outsideFaceWhiteFraction": 0.01726,
+        "largestWhiteRegion": 0.0105,
+        "sharpness": 1548.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/margraves-bastard-son-was-the-emperor/83/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-margraves-bastard-son-was-the-emperor/83-portrait-v5-ba620f85dba5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8018,
+        "faceHash": "874733de0f9d46c0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          2732,
+          627,
+          3170
+        ],
+        "sourceSize": [
+          800,
+          12340
+        ],
+        "detectedFace": [
+          258.008,
+          2708.398,
+          365.234,
+          425.391
+        ],
+        "outsideFaceWhiteFraction": 0.04318,
+        "largestWhiteRegion": 0.01788,
+        "sharpness": 5459.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

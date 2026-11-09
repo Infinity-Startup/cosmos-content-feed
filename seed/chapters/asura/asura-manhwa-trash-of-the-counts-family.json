@@ -1,0 +1,1375 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-trash-of-the-counts-family",
+  "seriesUrl": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582",
+  "checkedAt": "2026-11-09T11:03:52.268316+00:00",
+  "chapterCount": 195,
+  "chapters": [
+    {
+      "number": 0,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/0",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:21:40Z"
+    },
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/1",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:22:51Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/2",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:23:04Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/3",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:23:45Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/4",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:24:03Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/5",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:24:14Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/6",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:25:28Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/7",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:25:36Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/8",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:25:43Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/9",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:25:52Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/10",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:26:10Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/11",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:27:16Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/12",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:27:28Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/13",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:29:36Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/14",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:27:50Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/15",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:28:03Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/16",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:28:13Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/17",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:28:23Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/18",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:28:33Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/19",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:28:46Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/20",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:28:59Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/21",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:31:10Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/22",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:31:21Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/23",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:31:31Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/24",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:31:42Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/25",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:31:52Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/26",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:32:01Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/27",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:32:14Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/28",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:32:23Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/29",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:32:45Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/30",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:32:55Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/31",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:35:48Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/32",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:35:57Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/33",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:36:09Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/34",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:36:18Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/35",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:36:27Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/36",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:36:38Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/37",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:36:47Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/38",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:36:57Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/39",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:37:07Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/40",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:37:16Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/41",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:38:29Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/42",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:38:42Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/43",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:38:54Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/44",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:39:05Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/45",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:39:16Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/46",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:39:27Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/47",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:39:38Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/48",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:39:50Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/49",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:39:59Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/50",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:40:09Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/51",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:46:20Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/52",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:46:06Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/53",
+      "premium": false,
+      "publishedAt": "2022-04-24T00:45:55Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/54",
+      "premium": false,
+      "publishedAt": "2022-04-25T03:40:37Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/55",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:00:17Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/56",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:14:59Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/57",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:15:25Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/58",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:16:35Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/59",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:20:58Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/60",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:23:49Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/61",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:23:40Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/62",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:26:34Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/63",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:38:25Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/64",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:38:32Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/65",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:47:37Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/66",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:53:35Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/67",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:47:00Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/68",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:47:47Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/69",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:58:24Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/70",
+      "premium": false,
+      "publishedAt": "2022-04-25T04:58:32Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/71",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:06:20Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/72",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:04:37Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/73",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:07:35Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/74",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:12:06Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/75",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:12:12Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/76",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:13:48Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/77",
+      "premium": false,
+      "publishedAt": "2022-04-25T05:20:16Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/78",
+      "premium": false,
+      "publishedAt": "2022-04-29T11:58:43Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/79",
+      "premium": false,
+      "publishedAt": "2022-04-29T12:01:01Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/80",
+      "premium": false,
+      "publishedAt": "2022-04-29T00:45:27Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/81",
+      "premium": false,
+      "publishedAt": "2022-04-29T00:44:52Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/82",
+      "premium": false,
+      "publishedAt": "2022-05-12T15:14:36Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/83",
+      "premium": false,
+      "publishedAt": "2022-05-19T15:52:43Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/84",
+      "premium": false,
+      "publishedAt": "2022-05-26T18:44:42Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/85",
+      "premium": false,
+      "publishedAt": "2022-06-02T15:41:42Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/86",
+      "premium": false,
+      "publishedAt": "2022-06-16T15:06:57Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/87",
+      "premium": false,
+      "publishedAt": "2022-06-23T20:36:16Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/88",
+      "premium": false,
+      "publishedAt": "2022-07-01T21:07:07Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/89",
+      "premium": false,
+      "publishedAt": "2022-07-07T15:26:35Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/90",
+      "premium": false,
+      "publishedAt": "2022-07-21T21:01:46Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/91",
+      "premium": false,
+      "publishedAt": "2022-07-28T16:16:38Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/92",
+      "premium": false,
+      "publishedAt": "2022-08-04T15:27:22Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/93",
+      "premium": false,
+      "publishedAt": "2023-07-13T15:12:46Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/94",
+      "premium": false,
+      "publishedAt": "2023-07-13T15:22:35Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/95",
+      "premium": false,
+      "publishedAt": "2023-07-20T14:12:12Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/96",
+      "premium": false,
+      "publishedAt": "2023-07-27T14:21:00Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/97",
+      "premium": false,
+      "publishedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/98",
+      "premium": false,
+      "publishedAt": "2023-08-17T14:20:27Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/99",
+      "premium": false,
+      "publishedAt": "2023-08-24T14:23:21Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/100",
+      "premium": false,
+      "publishedAt": "2023-09-01T13:30:50Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/101",
+      "premium": false,
+      "publishedAt": "2023-09-07T15:36:45Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/102",
+      "premium": false,
+      "publishedAt": "2023-09-21T14:18:23Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/103",
+      "premium": false,
+      "publishedAt": "2023-09-28T14:08:56Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/104",
+      "premium": false,
+      "publishedAt": "2023-10-05T14:06:40Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/105",
+      "premium": false,
+      "publishedAt": "2023-10-12T14:14:54Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/106",
+      "premium": false,
+      "publishedAt": "2023-10-26T15:01:00Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/107",
+      "premium": false,
+      "publishedAt": "2023-11-02T15:30:16Z"
+    },
+    {
+      "number": 108,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/108",
+      "premium": false,
+      "publishedAt": "2023-11-09T14:49:06Z"
+    },
+    {
+      "number": 109,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/109",
+      "premium": false,
+      "publishedAt": "2023-11-16T14:54:02Z"
+    },
+    {
+      "number": 110,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/110",
+      "premium": false,
+      "publishedAt": "2023-12-07T02:11:12Z"
+    },
+    {
+      "number": 111,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/111",
+      "premium": false,
+      "publishedAt": "2023-12-07T14:57:45Z"
+    },
+    {
+      "number": 112,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/112",
+      "premium": false,
+      "publishedAt": "2023-12-14T17:39:41Z"
+    },
+    {
+      "number": 113,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/113",
+      "premium": false,
+      "publishedAt": "2023-12-22T09:50:22Z"
+    },
+    {
+      "number": 114,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/114",
+      "premium": false,
+      "publishedAt": "2024-01-13T00:50:45Z"
+    },
+    {
+      "number": 115,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/115",
+      "premium": false,
+      "publishedAt": "2024-01-11T17:36:52Z"
+    },
+    {
+      "number": 116,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/116",
+      "premium": false,
+      "publishedAt": "2024-01-19T14:47:04Z"
+    },
+    {
+      "number": 117,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/117",
+      "premium": false,
+      "publishedAt": "2024-01-25T22:17:00Z"
+    },
+    {
+      "number": 118,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/118",
+      "premium": false,
+      "publishedAt": "2024-02-08T15:52:31Z"
+    },
+    {
+      "number": 119,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/119",
+      "premium": false,
+      "publishedAt": "2024-02-15T15:53:37Z"
+    },
+    {
+      "number": 120,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/120",
+      "premium": false,
+      "publishedAt": "2024-02-22T15:00:34Z"
+    },
+    {
+      "number": 121,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/121",
+      "premium": false,
+      "publishedAt": "2024-02-29T19:10:43Z"
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/122",
+      "premium": false,
+      "publishedAt": "2024-03-14T20:48:12Z"
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/123",
+      "premium": false,
+      "publishedAt": "2024-03-22T22:34:22Z"
+    },
+    {
+      "number": 124,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/124",
+      "premium": false,
+      "publishedAt": "2024-04-11T18:48:18Z"
+    },
+    {
+      "number": 125,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/125",
+      "premium": false,
+      "publishedAt": "2024-04-18T18:46:52Z"
+    },
+    {
+      "number": 126,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/126",
+      "premium": false,
+      "publishedAt": "2024-05-02T15:12:13Z"
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/127",
+      "premium": false,
+      "publishedAt": "2024-05-09T14:13:44Z"
+    },
+    {
+      "number": 128,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/128",
+      "premium": false,
+      "publishedAt": "2024-05-16T14:55:24Z"
+    },
+    {
+      "number": 129,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/129",
+      "premium": false,
+      "publishedAt": "2024-05-25T16:02:15Z"
+    },
+    {
+      "number": 130,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/130",
+      "premium": false,
+      "publishedAt": "2024-06-07T01:02:27Z"
+    },
+    {
+      "number": 131,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/131",
+      "premium": false,
+      "publishedAt": "2024-06-13T18:27:49Z"
+    },
+    {
+      "number": 132,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/132",
+      "premium": false,
+      "publishedAt": "2024-06-20T15:05:42Z"
+    },
+    {
+      "number": 133,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/133",
+      "premium": false,
+      "publishedAt": "2024-07-11T17:25:32Z"
+    },
+    {
+      "number": 134,
+      "title": "{S3 END}",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/134",
+      "premium": false,
+      "publishedAt": "2024-07-11T15:13:17Z"
+    },
+    {
+      "number": 135,
+      "title": "S4 START",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/135",
+      "premium": false,
+      "publishedAt": "2025-01-22T00:44:02Z"
+    },
+    {
+      "number": 136,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/136",
+      "premium": false,
+      "publishedAt": "2025-01-22T15:11:02Z"
+    },
+    {
+      "number": 137,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/137",
+      "premium": false,
+      "publishedAt": "2025-01-24T01:38:02Z"
+    },
+    {
+      "number": 138,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/138",
+      "premium": false,
+      "publishedAt": "2025-01-24T02:38:02Z"
+    },
+    {
+      "number": 139,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/139",
+      "premium": false,
+      "publishedAt": "2025-01-30T14:32:02Z"
+    },
+    {
+      "number": 140,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/140",
+      "premium": false,
+      "publishedAt": "2025-02-06T15:45:02Z"
+    },
+    {
+      "number": 141,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/141",
+      "premium": false,
+      "publishedAt": "2025-02-21T17:12:02Z"
+    },
+    {
+      "number": 142,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/142",
+      "premium": false,
+      "publishedAt": "2025-02-27T16:00:03Z"
+    },
+    {
+      "number": 143,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/143",
+      "premium": false,
+      "publishedAt": "2025-03-06T15:03:01Z"
+    },
+    {
+      "number": 144,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/144",
+      "premium": false,
+      "publishedAt": "2025-03-13T15:28:02Z"
+    },
+    {
+      "number": 145,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/145",
+      "premium": false,
+      "publishedAt": "2025-03-27T17:24:02Z"
+    },
+    {
+      "number": 146,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/146",
+      "premium": false,
+      "publishedAt": "2025-04-03T15:07:01Z"
+    },
+    {
+      "number": 147,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/147",
+      "premium": false,
+      "publishedAt": "2025-04-10T15:06:02Z"
+    },
+    {
+      "number": 148,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/148",
+      "premium": false,
+      "publishedAt": "2025-04-17T14:54:02Z"
+    },
+    {
+      "number": 149,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/149",
+      "premium": false,
+      "publishedAt": "2025-05-01T14:48:02Z"
+    },
+    {
+      "number": 150,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/150",
+      "premium": false,
+      "publishedAt": "2025-05-08T14:37:02Z"
+    },
+    {
+      "number": 151,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/151",
+      "premium": false,
+      "publishedAt": "2025-05-15T15:07:02Z"
+    },
+    {
+      "number": 152,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/152",
+      "premium": false,
+      "publishedAt": "2025-05-22T17:30:02Z"
+    },
+    {
+      "number": 153,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/153",
+      "premium": false,
+      "publishedAt": "2025-06-05T19:55:22Z"
+    },
+    {
+      "number": 154,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/154",
+      "premium": false,
+      "publishedAt": "2025-06-13T05:19:24Z"
+    },
+    {
+      "number": 155,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/155",
+      "premium": false,
+      "publishedAt": "2025-06-21T03:48:36Z"
+    },
+    {
+      "number": 156,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/156",
+      "premium": false,
+      "publishedAt": "2025-06-29T23:09:38Z"
+    },
+    {
+      "number": 157,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/157",
+      "premium": false,
+      "publishedAt": "2025-07-14T00:33:33Z"
+    },
+    {
+      "number": 158,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/158",
+      "premium": false,
+      "publishedAt": "2025-07-19T17:48:54Z"
+    },
+    {
+      "number": 159,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/159",
+      "premium": false,
+      "publishedAt": "2025-07-26T22:36:49Z"
+    },
+    {
+      "number": 160,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/160",
+      "premium": false,
+      "publishedAt": "2025-08-02T14:44:30Z"
+    },
+    {
+      "number": 161,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/161",
+      "premium": false,
+      "publishedAt": "2025-08-18T03:25:32Z"
+    },
+    {
+      "number": 162,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/162",
+      "premium": false,
+      "publishedAt": "2025-08-24T01:06:14Z"
+    },
+    {
+      "number": 163,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/163",
+      "premium": false,
+      "publishedAt": "2025-08-30T02:13:49Z"
+    },
+    {
+      "number": 164,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/164",
+      "premium": false,
+      "publishedAt": "2025-09-08T02:41:00Z"
+    },
+    {
+      "number": 165,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/165",
+      "premium": false,
+      "publishedAt": "2025-09-21T15:11:13Z"
+    },
+    {
+      "number": 166,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/166",
+      "premium": false,
+      "publishedAt": "2025-09-26T19:51:12Z"
+    },
+    {
+      "number": 167,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/167",
+      "premium": false,
+      "publishedAt": "2025-10-04T19:47:11Z"
+    },
+    {
+      "number": 168,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/168",
+      "premium": false,
+      "publishedAt": "2025-10-11T00:49:38Z"
+    },
+    {
+      "number": 169,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/169",
+      "premium": false,
+      "publishedAt": "2025-10-26T01:19:24Z"
+    },
+    {
+      "number": 170,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/170",
+      "premium": false,
+      "publishedAt": "2025-11-02T19:51:28Z"
+    },
+    {
+      "number": 171,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/171",
+      "premium": false,
+      "publishedAt": "2025-11-08T13:54:47Z"
+    },
+    {
+      "number": 172,
+      "title": "{S4 END}",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/172",
+      "premium": false,
+      "publishedAt": "2025-11-22T21:12:05Z"
+    },
+    {
+      "number": 173,
+      "title": "S5 START",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/173",
+      "premium": false,
+      "publishedAt": "2026-05-15T16:34:31.367Z"
+    },
+    {
+      "number": 174,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/174",
+      "premium": false,
+      "publishedAt": "2026-05-16T02:58:27.603Z"
+    },
+    {
+      "number": 175,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/175",
+      "premium": false,
+      "publishedAt": "2026-05-21T17:17:08.863Z"
+    },
+    {
+      "number": 176,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/176",
+      "premium": false,
+      "publishedAt": "2026-05-30T23:04:20.058Z"
+    },
+    {
+      "number": 177,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/177",
+      "premium": false,
+      "publishedAt": "2026-06-08T10:03:52.081666Z"
+    },
+    {
+      "number": 178,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/178",
+      "premium": false,
+      "publishedAt": "2026-06-20T02:01:20.992787Z"
+    },
+    {
+      "number": 179,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/179",
+      "premium": false,
+      "publishedAt": "2026-06-26T20:22:40.082098Z"
+    },
+    {
+      "number": 180,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/180",
+      "premium": false,
+      "publishedAt": "2026-07-03T23:55:15.946285Z"
+    },
+    {
+      "number": 181,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/181",
+      "premium": false,
+      "publishedAt": "2026-07-10T06:00:23.717244Z"
+    },
+    {
+      "number": 182,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/182",
+      "premium": false,
+      "publishedAt": "2026-07-24T07:41:30.186016Z"
+    },
+    {
+      "number": 183,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/183",
+      "premium": false,
+      "publishedAt": "2026-07-31T04:48:32.962412Z"
+    },
+    {
+      "number": 184,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/184",
+      "premium": false,
+      "publishedAt": "2026-08-07T10:02:53.46519Z"
+    },
+    {
+      "number": 185,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/185",
+      "premium": false,
+      "publishedAt": "2026-08-15T00:19:15.051153Z"
+    },
+    {
+      "number": 186,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/186",
+      "premium": false,
+      "publishedAt": "2026-08-29T01:35:11.188825Z"
+    },
+    {
+      "number": 187,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/187",
+      "premium": false,
+      "publishedAt": "2026-09-04T18:51:08.310874Z"
+    },
+    {
+      "number": 188,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/188",
+      "premium": false,
+      "publishedAt": "2026-09-11T05:47:04.858461Z"
+    },
+    {
+      "number": 189,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/189",
+      "premium": false,
+      "publishedAt": "2026-09-18T20:35:59.797353Z"
+    },
+    {
+      "number": 190,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/190",
+      "premium": false,
+      "publishedAt": "2026-10-02T07:57:38.140735Z"
+    },
+    {
+      "number": 191,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/191",
+      "premium": false,
+      "publishedAt": "2026-10-10T02:52:42.51213Z"
+    },
+    {
+      "number": 192,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/192",
+      "premium": false,
+      "publishedAt": "2026-10-17T00:45:50.835702Z"
+    },
+    {
+      "number": 193,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/193",
+      "premium": false,
+      "publishedAt": "2026-10-23T13:24:56.200048Z"
+    },
+    {
+      "number": 194,
+      "title": "",
+      "url": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582/chapter/194",
+      "premium": false,
+      "publishedAt": "2026-11-06T12:49:45.9807Z"
+    }
+  ]
+}

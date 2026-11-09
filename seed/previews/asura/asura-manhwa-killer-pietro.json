@@ -1,0 +1,5943 @@
+{
+  "titleId": "asura-manhwa-killer-pietro",
+  "revision": 5,
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/2-portrait-v5-1210165944cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "84377bcaa489939d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          195,
+          7196,
+          582,
+          7583
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          244.824,
+          7240.82,
+          288.086,
+          298.047
+        ],
+        "outsideFaceWhiteFraction": 0.01538,
+        "largestWhiteRegion": 0.01538,
+        "sharpness": 888.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/1-portrait-v5-223a7729e99f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7451,
+        "faceHash": "85f0dec1993b6698",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          446,
+          4412,
+          749,
+          4715
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          510.352,
+          4447.266,
+          212.109,
+          232.812
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 602.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/3/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/3-portrait-v5-e4d460cdfa59.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7412,
+        "faceHash": "8c723e1661dc878f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          325,
+          9931,
+          785,
+          10391
+        ],
+        "sourceSize": [
+          800,
+          13269
+        ],
+        "detectedFace": [
+          356.836,
+          9906.445,
+          397.266,
+          446.484
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 994.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/5-portrait-v5-abf6361e51d5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "844c6ed7f59d2609",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          98,
+          7304,
+          726,
+          7932
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          201.953,
+          7375.977,
+          420.312,
+          483.203
+        ],
+        "outsideFaceWhiteFraction": 0.00359,
+        "largestWhiteRegion": 0.00154,
+        "sharpness": 1996.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/6/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/6-portrait-v5-79d92c90bc2a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.77,
+        "faceHash": "c5686dc2b4be325c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          67,
+          4764,
+          779,
+          5476
+        ],
+        "sourceSize": [
+          800,
+          13205
+        ],
+        "detectedFace": [
+          166.797,
+          4809.961,
+          512.5,
+          619.141
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1932.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/7/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/7-portrait-v5-23c03861c7fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "91ea42d3390a65df",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          5432,
+          530,
+          5962
+        ],
+        "sourceSize": [
+          800,
+          14640
+        ],
+        "detectedFace": [
+          98.633,
+          5492.969,
+          298.828,
+          407.422
+        ],
+        "outsideFaceWhiteFraction": 0.0078,
+        "largestWhiteRegion": 0.00423,
+        "sharpness": 1733.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/4/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/4-portrait-v5-167f09e391cd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8501,
+        "faceHash": "846c4ed3b12d6e55",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          296,
+          1635,
+          500,
+          1839
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          353.027,
+          1673.242,
+          90.039,
+          111.328
+        ],
+        "outsideFaceWhiteFraction": 0.01352,
+        "largestWhiteRegion": 0.01306,
+        "sharpness": 879.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/8-portrait-v5-11af7a2ced9c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8291,
+        "faceHash": "d595381f32da7243",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          188,
+          8715,
+          444,
+          8971
+        ],
+        "sourceSize": [
+          800,
+          14230
+        ],
+        "detectedFace": [
+          250.781,
+          8769.043,
+          131.25,
+          148.633
+        ],
+        "outsideFaceWhiteFraction": 0.02461,
+        "largestWhiteRegion": 0.01585,
+        "sharpness": 1127.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/9-portrait-v5-3f666960fd3f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "85f45854f897a51e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          5995,
+          563,
+          6369
+        ],
+        "sourceSize": [
+          800,
+          12869
+        ],
+        "detectedFace": [
+          254.297,
+          6038.379,
+          242.969,
+          287.891
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1246.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/10-portrait-v5-cf993f70d9fc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8545,
+        "faceHash": "85083e76a8d595af",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          7814,
+          554,
+          8171
+        ],
+        "sourceSize": [
+          800,
+          13210
+        ],
+        "detectedFace": [
+          249.219,
+          7855.371,
+          251.953,
+          274.609
+        ],
+        "outsideFaceWhiteFraction": 0.00169,
+        "largestWhiteRegion": 0.00047,
+        "sharpness": 1538.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/11/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/11-portrait-v5-e97dcb748bf7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7329,
+        "faceHash": "e484df0b34c7c06f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          256,
+          6058,
+          597,
+          6399
+        ],
+        "sourceSize": [
+          800,
+          12562
+        ],
+        "detectedFace": [
+          310.156,
+          6039.355,
+          232.812,
+          331.445
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1541.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/12/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/12-portrait-v5-67cb14d70fac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7598,
+        "faceHash": "c0bd8fc0655eb9e0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          324,
+          11438,
+          736,
+          11850
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          358.887,
+          11416.016,
+          343.164,
+          400.391
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1333.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "144": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/144",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/144/4fceca.webp?v=1786810924",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/144-portrait-v5-678bc29f7011.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8003,
+        "faceHash": "d1394acfec90299b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          2882,
+          688,
+          3305
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          279.932,
+          2859.082,
+          392.871,
+          410.889
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1032.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "145": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/145",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/145/c04a7f.webp?v=1787486770",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/145-portrait-v5-9b8d5c95e790.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8701,
+        "faceHash": "ca703c9fd3caa1c4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          303,
+          8107,
+          584,
+          8388
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          337.5,
+          8139.056,
+          211.377,
+          216.321
+        ],
+        "outsideFaceWhiteFraction": 0.0015,
+        "largestWhiteRegion": 0.00131,
+        "sharpness": 1142.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "146": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/146",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/146/3f8fea.webp?v=1788089760",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/146-portrait-v5-a68eda968d52.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7979,
+        "faceHash": "9e05c2cfccc243f9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          224,
+          10930,
+          692,
+          11398
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          266.089,
+          10904.59,
+          383.643,
+          454.834
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 867.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "149": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/149",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/149/541931.webp?v=1789910450",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/149-portrait-v5-63e107977166.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8584,
+        "faceHash": "d3e36994c1903e3b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          237,
+          8139,
+          589,
+          8491
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          301.794,
+          8180.09,
+          221.704,
+          270.483
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1025.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "147": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/147",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/147/a26078.webp?v=1788679195",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/147-portrait-v5-26dc756d1a96.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8379,
+        "faceHash": "92c9799d82b4ce93",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          295,
+          10844,
+          499,
+          11048
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          333.435,
+          10854.053,
+          127.222,
+          161.499
+        ],
+        "outsideFaceWhiteFraction": 0.0157,
+        "largestWhiteRegion": 0.00616,
+        "sharpness": 566.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "148": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/148",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/148/43801f.webp?v=1789319092",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/148-portrait-v5-4095a11f49f2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8066,
+        "faceHash": "cd362aba6da22d92",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          11684,
+          562,
+          12027
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          223.682,
+          11686.377,
+          333.105,
+          296.191
+        ],
+        "outsideFaceWhiteFraction": 0.00388,
+        "largestWhiteRegion": 0.00208,
+        "sharpness": 2246.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "151": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/151",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/151/c0e657.webp?v=1791253589",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/151-portrait-v5-106796eeefd7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8354,
+        "faceHash": "d1786b189dcb72c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          497,
+          5712,
+          831,
+          6046
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          557.446,
+          5751.013,
+          214.014,
+          256.86
+        ],
+        "outsideFaceWhiteFraction": 0.00084,
+        "largestWhiteRegion": 0.00081,
+        "sharpness": 1940.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "152": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/152",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/152/715398.webp?v=1791715892",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/152-portrait-v5-cde587ddd8e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8018,
+        "faceHash": "8ff93cbc30d4b8c0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          93,
+          973,
+          556,
+          1436
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          166.553,
+          1026.562,
+          315.088,
+          355.957
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 3501.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "155": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/155",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/155/fb1ed3.webp?v=1793480859",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/155-portrait-v5-7d45d43abd6c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "959d1ed2f80a65d1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          185,
+          1478,
+          620,
+          1913
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          288.611,
+          1527.869,
+          278.394,
+          334.644
+        ],
+        "outsideFaceWhiteFraction": 0.01289,
+        "largestWhiteRegion": 0.01086,
+        "sharpness": 1774.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/13/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/13-portrait-v5-fb052158ea58.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7974,
+        "faceHash": "90ff3a86b192e178",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          97,
+          3105,
+          680,
+          3688
+        ],
+        "sourceSize": [
+          800,
+          13950
+        ],
+        "detectedFace": [
+          209.375,
+          3172.07,
+          358.984,
+          448.828
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2384.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/14/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/14-portrait-v5-85fe8f54230c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8125,
+        "faceHash": "c5684cc7a397351e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          102,
+          3742,
+          700,
+          4340
+        ],
+        "sourceSize": [
+          800,
+          14715
+        ],
+        "detectedFace": [
+          196.68,
+          3810.742,
+          408.984,
+          459.766
+        ],
+        "outsideFaceWhiteFraction": 0.0009,
+        "largestWhiteRegion": 0.00072,
+        "sharpness": 1715.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/15-portrait-v5-736c5978aae7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "c6440c83b3bd3f78",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          272,
+          8283,
+          545,
+          8556
+        ],
+        "sourceSize": [
+          800,
+          14740
+        ],
+        "detectedFace": [
+          322.363,
+          8314.258,
+          171.68,
+          209.766
+        ],
+        "outsideFaceWhiteFraction": 0.01694,
+        "largestWhiteRegion": 0.0069,
+        "sharpness": 1300.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/16-portrait-v5-3c89cea6ab39.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8398,
+        "faceHash": "c860687a67751db5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          317,
+          8741,
+          650,
+          9074
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          370.801,
+          8779.297,
+          226.367,
+          256.25
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1682.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "154": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/154",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/154/1249a8.webp?v=1792851594",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/154-portrait-v5-3624ea33c260.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "a4723c9a84dd6759",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          34,
+          9239,
+          290,
+          9495
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          100.085,
+          9289.16,
+          124.585,
+          155.566
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 314.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/17-portrait-v5-f6320783db49.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7939,
+        "faceHash": "c4441ccfa0c6f1fd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          87,
+          3698,
+          744,
+          4355
+        ],
+        "sourceSize": [
+          800,
+          14495
+        ],
+        "detectedFace": [
+          176.953,
+          3773.828,
+          477.344,
+          505.469
+        ],
+        "outsideFaceWhiteFraction": 0.01225,
+        "largestWhiteRegion": 0.0069,
+        "sharpness": 2363.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/20-portrait-v5-1ed6734f71d5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "d1a83bd7e41b2638",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          286,
+          4976,
+          543,
+          5233
+        ],
+        "sourceSize": [
+          800,
+          16231
+        ],
+        "detectedFace": [
+          313.574,
+          4992.188,
+          200.977,
+          223.828
+        ],
+        "outsideFaceWhiteFraction": 0.02623,
+        "largestWhiteRegion": 0.01515,
+        "sharpness": 2150.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/18/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/18-portrait-v5-421546d9fdd7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7729,
+        "faceHash": "e77008c1f6e4327d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          122,
+          9641,
+          599,
+          10118
+        ],
+        "sourceSize": [
+          800,
+          13435
+        ],
+        "detectedFace": [
+          129.297,
+          9645.508,
+          462.891,
+          410.547
+        ],
+        "outsideFaceWhiteFraction": 0.00763,
+        "largestWhiteRegion": 0.00493,
+        "sharpness": 2098.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/19/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/19-portrait-v5-9cc03cbbbbdb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8701,
+        "faceHash": "857c7b43f01f039c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          298,
+          775,
+          502,
+          979
+        ],
+        "sourceSize": [
+          800,
+          11466
+        ],
+        "detectedFace": [
+          335.254,
+          804.688,
+          129.492,
+          126.172
+        ],
+        "outsideFaceWhiteFraction": 0.00461,
+        "largestWhiteRegion": 0.00215,
+        "sharpness": 1952.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/22-portrait-v5-6bafbdf12934.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "806a7bef239f2125",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          256,
+          4369,
+          520,
+          4633
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          291.309,
+          4399.902,
+          194.336,
+          202.93
+        ],
+        "outsideFaceWhiteFraction": 0.03145,
+        "largestWhiteRegion": 0.01241,
+        "sharpness": 2146.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/23-portrait-v5-3fad17b85280.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8525,
+        "faceHash": "c1e2329b699c7e19",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          401,
+          8009,
+          657,
+          8265
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          462.305,
+          8042.48,
+          132.422,
+          188.477
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1928.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/21-portrait-v5-db7c48ae819f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "c94927afb6d47424",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          263,
+          10884,
+          484,
+          11105
+        ],
+        "sourceSize": [
+          800,
+          12920
+        ],
+        "detectedFace": [
+          282.812,
+          10872.168,
+          182.031,
+          214.648
+        ],
+        "outsideFaceWhiteFraction": 0.01848,
+        "largestWhiteRegion": 0.01752,
+        "sharpness": 1697.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/24-portrait-v5-2517f03b3cf6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.876,
+        "faceHash": "c5680956f4bd3b0b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          75,
+          7472,
+          331,
+          7728
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          121.631,
+          7507.422,
+          163.379,
+          185.156
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1192.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/25-portrait-v5-fc27c9f5ec90.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8511,
+        "faceHash": "9cc5799665b86629",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          3464,
+          445,
+          3720
+        ],
+        "sourceSize": [
+          800,
+          15698
+        ],
+        "detectedFace": [
+          247.656,
+          3502.539,
+          138.672,
+          179.297
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 364.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/26-portrait-v5-206eeb5c56b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7915,
+        "faceHash": "876379c6a5a5a18d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          221,
+          2094,
+          639,
+          2512
+        ],
+        "sourceSize": [
+          800,
+          12182
+        ],
+        "detectedFace": [
+          247.559,
+          2071.289,
+          365.039,
+          405.859
+        ],
+        "outsideFaceWhiteFraction": 0.00145,
+        "largestWhiteRegion": 0.0014,
+        "sharpness": 1373.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/27-portrait-v5-dec5323a1773.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "d202ae5e357c6e61",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          278,
+          3479,
+          534,
+          3735
+        ],
+        "sourceSize": [
+          800,
+          14900
+        ],
+        "detectedFace": [
+          342.871,
+          3514.258,
+          153.32,
+          186.328
+        ],
+        "outsideFaceWhiteFraction": 0.02278,
+        "largestWhiteRegion": 0.01077,
+        "sharpness": 1919.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/28/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/28-portrait-v5-ae91c7aa355f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "95c178d96d0e262f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          271,
+          3551,
+          513,
+          3793
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          295.215,
+          3537.695,
+          193.945,
+          234.766
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1617.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/30-portrait-v5-f79d67dc68ef.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7529,
+        "faceHash": "c69589ec39ce32d2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          77,
+          8628,
+          701,
+          9252
+        ],
+        "sourceSize": [
+          800,
+          10000
+        ],
+        "detectedFace": [
+          187.695,
+          8700.391,
+          402.344,
+          479.688
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 528.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/32/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/32-portrait-v5-d1900fcb8076.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8022,
+        "faceHash": "80f52cc637e83c6d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          131,
+          10894,
+          690,
+          11453
+        ],
+        "sourceSize": [
+          800,
+          13775
+        ],
+        "detectedFace": [
+          211.719,
+          10940.039,
+          398.438,
+          542.578
+        ],
+        "outsideFaceWhiteFraction": 0.00114,
+        "largestWhiteRegion": 0.00056,
+        "sharpness": 1357.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/29/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/29-portrait-v5-a207c24b70cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7305,
+        "faceHash": "c79d2dcdb4a61892",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          280,
+          2830,
+          510,
+          3060
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          295.215,
+          2817.188,
+          199.023,
+          223.438
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 510.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/31/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/31-portrait-v5-ebe8a58e4b8c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8428,
+        "faceHash": "80d41edb389e3b3c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          291,
+          4888,
+          582,
+          5179
+        ],
+        "sourceSize": [
+          800,
+          14520
+        ],
+        "detectedFace": [
+          318.945,
+          4872.559,
+          235.547,
+          283.008
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1099.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/33-portrait-v5-70c8731dba3d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8311,
+        "faceHash": "d1850305399f677b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7968,
+          372,
+          8340
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          74.512,
+          8010.547,
+          215.039,
+          286.328
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1227.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/34-portrait-v5-90e73b61e370.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8125,
+        "faceHash": "d71b2a9455a96b1a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          148,
+          6230,
+          657,
+          6739
+        ],
+        "sourceSize": [
+          800,
+          13802
+        ],
+        "detectedFace": [
+          207.422,
+          6263.672,
+          389.844,
+          442.188
+        ],
+        "outsideFaceWhiteFraction": 0.03119,
+        "largestWhiteRegion": 0.01599,
+        "sharpness": 3141.52,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/36-portrait-v5-61e21339ff5e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "c361619994ec6b4f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          264,
+          7309,
+          537,
+          7582
+        ],
+        "sourceSize": [
+          800,
+          13686
+        ],
+        "detectedFace": [
+          301.562,
+          7340.82,
+          196.875,
+          209.766
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1881.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/35/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/35-portrait-v5-66247e5facd1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8096,
+        "faceHash": "dd0b2a2e961a7a2b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          95,
+          746,
+          400,
+          1051
+        ],
+        "sourceSize": [
+          800,
+          7475
+        ],
+        "detectedFace": [
+          137.207,
+          729.688,
+          220.508,
+          295.703
+        ],
+        "outsideFaceWhiteFraction": 0.01097,
+        "largestWhiteRegion": 0.00786,
+        "sharpness": 966.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/37/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/37-portrait-v5-8ae86e863c20.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7603,
+        "faceHash": "fd1f21fc84609335",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          202,
+          9176,
+          685,
+          9659
+        ],
+        "sourceSize": [
+          800,
+          12753
+        ],
+        "detectedFace": [
+          220.801,
+          9150.0,
+          377.93,
+          468.75
+        ],
+        "outsideFaceWhiteFraction": 0.02132,
+        "largestWhiteRegion": 0.01183,
+        "sharpness": 2018.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/39/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/39-portrait-v5-43c21d701b05.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "ed28479fe483c0b5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          254,
+          6045,
+          556,
+          6347
+        ],
+        "sourceSize": [
+          800,
+          13575
+        ],
+        "detectedFace": [
+          312.695,
+          6079.883,
+          185.547,
+          232.617
+        ],
+        "outsideFaceWhiteFraction": 0.00218,
+        "largestWhiteRegion": 0.00111,
+        "sharpness": 871.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/38/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/38-portrait-v5-c66f14875a7e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "d46c0857f19dbe09",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          216,
+          13846,
+          592,
+          14222
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          245.801,
+          13826.465,
+          316.992,
+          364.648
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1120.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/41/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/41-portrait-v5-a63ffbf6425c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7954,
+        "faceHash": "962568daed9f7022",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          112,
+          2778,
+          417,
+          3083
+        ],
+        "sourceSize": [
+          800,
+          12289
+        ],
+        "detectedFace": [
+          148.535,
+          2813.477,
+          231.445,
+          234.766
+        ],
+        "outsideFaceWhiteFraction": 0.0056,
+        "largestWhiteRegion": 0.00125,
+        "sharpness": 1540.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/43-portrait-v5-44ce1c39eedf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "83707c9b84667b1d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          398,
+          3361,
+          654,
+          3617
+        ],
+        "sourceSize": [
+          800,
+          8880
+        ],
+        "detectedFace": [
+          433.984,
+          3395.215,
+          183.594,
+          186.914
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2543.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/40/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/40-portrait-v5-24a9b152dde6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7012,
+        "faceHash": "eacce01cd178173d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          11849,
+          204,
+          12053
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          -0.342,
+          11865.43,
+          157.617,
+          149.609
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 343.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/42/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/42-portrait-v5-cef2245fd6ef.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.873,
+        "faceHash": "d0e13927353e169b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          183,
+          12342,
+          420,
+          12579
+        ],
+        "sourceSize": [
+          800,
+          13800
+        ],
+        "detectedFace": [
+          177.051,
+          12352.832,
+          211.523,
+          215.43
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 252.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/44/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/44-portrait-v5-8f8ab9e8e041.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "954a2b33bd29662d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          231,
+          5628,
+          554,
+          5951
+        ],
+        "sourceSize": [
+          800,
+          13665
+        ],
+        "detectedFace": [
+          285.547,
+          5665.527,
+          214.844,
+          248.633
+        ],
+        "outsideFaceWhiteFraction": 0.00752,
+        "largestWhiteRegion": 0.00548,
+        "sharpness": 925.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/46/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/46-portrait-v5-14b1aec5325e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "8c4936cd3bd86719",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          160,
+          2080,
+          416,
+          2336
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          223.926,
+          2137.695,
+          127.93,
+          140.234
+        ],
+        "outsideFaceWhiteFraction": 0.02895,
+        "largestWhiteRegion": 0.01454,
+        "sharpness": 926.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/48/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/48-portrait-v5-ebdfef1dc493.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8008,
+        "faceHash": "81c04b7f26b7b1c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          494,
+          5608,
+          750,
+          5864
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          537.891,
+          5637.891,
+          167.969,
+          195.703
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1468.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/45/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/45-portrait-v5-45b09e0a2533.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "8163779e976830ae",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          33,
+          5965,
+          279,
+          6211
+        ],
+        "sourceSize": [
+          800,
+          14180
+        ],
+        "detectedFace": [
+          38.867,
+          5951.953,
+          234.766,
+          239.062
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 813.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/49/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/49-portrait-v5-1badbafed34a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8198,
+        "faceHash": "d4f01bc6f39a2718",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          175,
+          6071,
+          605,
+          6501
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          259.375,
+          6120.605,
+          261.719,
+          330.664
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1144.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/50/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/50-portrait-v5-cbc984ea4d2b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8691,
+        "faceHash": "cf017d82f48c7a5c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          245,
+          6133,
+          520,
+          6408
+        ],
+        "sourceSize": [
+          800,
+          14175
+        ],
+        "detectedFace": [
+          293.262,
+          6164.746,
+          179.102,
+          211.914
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1514.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/47/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/47-portrait-v5-4822af55ceb0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8652,
+        "faceHash": "91a168d2b4cd7bcc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          346,
+          10070,
+          554,
+          10278
+        ],
+        "sourceSize": [
+          800,
+          12052
+        ],
+        "detectedFace": [
+          357.715,
+          10059.375,
+          183.789,
+          201.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1508.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/51/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/51-portrait-v5-1eb34ffbf39a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "90bd53a627342fd4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          256,
+          1034,
+          592,
+          1370
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          324.609,
+          1056.25,
+          242.188,
+          292.188
+        ],
+        "outsideFaceWhiteFraction": 0.034,
+        "largestWhiteRegion": 0.00569,
+        "sharpness": 4555.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/52-portrait-v5-0d63023f599c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7607,
+        "faceHash": "d4613a63fc8e851d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          16,
+          4854,
+          776,
+          5614
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          109.766,
+          4903.32,
+          571.484,
+          660.547
+        ],
+        "outsideFaceWhiteFraction": 0.00058,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 2398.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/54/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/54-portrait-v5-942c4d1f420b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8726,
+        "faceHash": "94786bd1b8ce98cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          376,
+          1793,
+          632,
+          2049
+        ],
+        "sourceSize": [
+          800,
+          12460
+        ],
+        "detectedFace": [
+          421.875,
+          1839.209,
+          164.844,
+          163.184
+        ],
+        "outsideFaceWhiteFraction": 0.00203,
+        "largestWhiteRegion": 0.00081,
+        "sharpness": 1961.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/53/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/53-portrait-v5-12698e527ce5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "de6f61bc81d8087c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          324,
+          12058,
+          715,
+          12449
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          308.789,
+          12090.234,
+          356.641,
+          380.078
+        ],
+        "outsideFaceWhiteFraction": 0.02101,
+        "largestWhiteRegion": 0.01395,
+        "sharpness": 1954.0,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/55/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/55-portrait-v5-9e1c534a0117.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8062,
+        "faceHash": "85f417d0da52ca9b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          151,
+          8112,
+          604,
+          8565
+        ],
+        "sourceSize": [
+          800,
+          12605
+        ],
+        "detectedFace": [
+          226.465,
+          8087.305,
+          301.758,
+          440.234
+        ],
+        "outsideFaceWhiteFraction": 0.0042,
+        "largestWhiteRegion": 0.0027,
+        "sharpness": 1268.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/57/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/57-portrait-v5-ce62dfabe280.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "942b7ade2b822795",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          267,
+          7420,
+          543,
+          7696
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          316.211,
+          7451.855,
+          178.516,
+          212.305
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2072.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/56-portrait-v5-e27e4abd22ca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "9723687b6785a394",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          147,
+          1999,
+          351,
+          2203
+        ],
+        "sourceSize": [
+          800,
+          14655
+        ],
+        "detectedFace": [
+          179.639,
+          2019.922,
+          139.16,
+          141.406
+        ],
+        "outsideFaceWhiteFraction": 0.00133,
+        "largestWhiteRegion": 0.0006,
+        "sharpness": 854.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/58/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/58-portrait-v5-b5d478d60b72.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "c54c6f46a5bf2219",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          198,
+          7624,
+          586,
+          8012
+        ],
+        "sourceSize": [
+          800,
+          13935
+        ],
+        "detectedFace": [
+          263.672,
+          7668.75,
+          256.25,
+          298.438
+        ],
+        "outsideFaceWhiteFraction": 0.00029,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 2270.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/60-portrait-v5-332dbdf86806.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7915,
+        "faceHash": "903d6d5962c33774",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          254,
+          8478,
+          633,
+          8857
+        ],
+        "sourceSize": [
+          800,
+          12718
+        ],
+        "detectedFace": [
+          304.199,
+          8522.266,
+          278.32,
+          291.406
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1494.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/61/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/61-portrait-v5-5242f7662b44.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8628,
+        "faceHash": "913b2a54abad6a2d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          451,
+          2927,
+          707,
+          3183
+        ],
+        "sourceSize": [
+          800,
+          13855
+        ],
+        "detectedFace": [
+          489.648,
+          2959.375,
+          178.516,
+          192.188
+        ],
+        "outsideFaceWhiteFraction": 0.0056,
+        "largestWhiteRegion": 0.00333,
+        "sharpness": 2077.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/62/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/62-portrait-v5-4c2563764c49.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8149,
+        "faceHash": "85a06f937cc32acd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          563,
+          5494,
+          767,
+          5698
+        ],
+        "sourceSize": [
+          800,
+          13920
+        ],
+        "detectedFace": [
+          616.406,
+          5524.219,
+          96.875,
+          126.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 555.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/63/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/63-portrait-v5-0be33dc5cae9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8501,
+        "faceHash": "d1a57f96a0ce6078",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          419,
+          6144,
+          798,
+          6523
+        ],
+        "sourceSize": [
+          800,
+          10990
+        ],
+        "detectedFace": [
+          476.953,
+          6187.793,
+          262.5,
+          291.211
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1489.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/59/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/59-portrait-v5-9b4164ca2cfc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "d51a3b0664797369",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          137,
+          3153,
+          341,
+          3357
+        ],
+        "sourceSize": [
+          800,
+          13165
+        ],
+        "detectedFace": [
+          181.152,
+          3177.783,
+          116.602,
+          135.449
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 695.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/65-portrait-v5-0483c8c82673.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.769,
+        "faceHash": "94253acaf48c379d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          3758,
+          640,
+          4398
+        ],
+        "sourceSize": [
+          800,
+          13635
+        ],
+        "detectedFace": [
+          30.469,
+          3831.836,
+          437.891,
+          492.578
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1030.0,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/66/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/66-portrait-v5-4717bbae2c34.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7334,
+        "faceHash": "c5112a42fdd7a14f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          31,
+          1176,
+          800,
+          1945
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          181.445,
+          1264.648,
+          490.234,
+          591.406
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 886.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/64/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/64-portrait-v5-75f1ed3651df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8506,
+        "faceHash": "923e6acde13b2f40",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          101,
+          10080,
+          305,
+          10284
+        ],
+        "sourceSize": [
+          800,
+          11955
+        ],
+        "detectedFace": [
+          145.215,
+          10106.055,
+          114.648,
+          132.422
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 552.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/68/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/68-portrait-v5-d866a37d91b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8647,
+        "faceHash": "c5307bcec19c0779",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          184,
+          7524,
+          440,
+          7780
+        ],
+        "sourceSize": [
+          800,
+          13520
+        ],
+        "detectedFace": [
+          224.707,
+          7555.957,
+          174.805,
+          192.773
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1069.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/69/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/69-portrait-v5-291790fa70b3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7593,
+        "faceHash": "c6b82f8710c7d8c7",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          129,
+          7493,
+          580,
+          7944
+        ],
+        "sourceSize": [
+          800,
+          14736
+        ],
+        "detectedFace": [
+          196.777,
+          7545.117,
+          315.82,
+          347.266
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 793.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/70/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/70-portrait-v5-d28dd4aa48ce.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "d6952b1ab6d96249",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          172,
+          1761,
+          428,
+          2017
+        ],
+        "sourceSize": [
+          800,
+          13670
+        ],
+        "detectedFace": [
+          225.0,
+          1808.008,
+          150.0,
+          162.109
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2023.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/67/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/67-portrait-v5-fb3dbf0fee81.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7954,
+        "faceHash": "86737c4f628c9396",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          167,
+          11430,
+          503,
+          11766
+        ],
+        "sourceSize": [
+          800,
+          14795
+        ],
+        "detectedFace": [
+          200.684,
+          11412.109,
+          267.773,
+          325.977
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 533.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/72/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/72-portrait-v5-90e307bf339d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8599,
+        "faceHash": "821379bfe4cc4749",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          322,
+          9059,
+          722,
+          9459
+        ],
+        "sourceSize": [
+          800,
+          13815
+        ],
+        "detectedFace": [
+          387.109,
+          9105.078,
+          269.531,
+          307.812
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1105.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/74-portrait-v5-671dc592b466.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8198,
+        "faceHash": "a2746b7a4dcb1c91",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          388,
+          1081,
+          644,
+          1337
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          421.289,
+          1116.602,
+          161.328,
+          185.547
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 262.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/71/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/71-portrait-v5-cf0cce4825d8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7183,
+        "faceHash": "86667e86a1199a77",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          299,
+          8475,
+          503,
+          8679
+        ],
+        "sourceSize": [
+          800,
+          14505
+        ],
+        "detectedFace": [
+          341.309,
+          8511.523,
+          118.945,
+          115.234
+        ],
+        "outsideFaceWhiteFraction": 0.01402,
+        "largestWhiteRegion": 0.00815,
+        "sharpness": 346.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/73/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/73-portrait-v5-69fb80e936df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7505,
+        "faceHash": "d1390bf08de2bca3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          149,
+          9141,
+          783,
+          9775
+        ],
+        "sourceSize": [
+          800,
+          13837
+        ],
+        "detectedFace": [
+          236.133,
+          9106.836,
+          460.547,
+          616.016
+        ],
+        "outsideFaceWhiteFraction": 0.00259,
+        "largestWhiteRegion": 0.00259,
+        "sharpness": 1625.82,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/75/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/75-portrait-v5-ae0b9a8a63f8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7861,
+        "faceHash": "967e60c73d9d43c0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          305,
+          2757,
+          687,
+          3139
+        ],
+        "sourceSize": [
+          800,
+          14525
+        ],
+        "detectedFace": [
+          348.926,
+          2736.328,
+          295.117,
+          371.094
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2016.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/76/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/76-portrait-v5-ac5be17a6e0b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "c12d6bbcb5e03661",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          296,
+          8812,
+          501,
+          9017
+        ],
+        "sourceSize": [
+          800,
+          12595
+        ],
+        "detectedFace": [
+          301.172,
+          8801.367,
+          194.922,
+          198.828
+        ],
+        "outsideFaceWhiteFraction": 0.00076,
+        "largestWhiteRegion": 0.00076,
+        "sharpness": 473.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/79/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/79-portrait-v5-092e8c899049.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "c13b3a6f608ce593",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          292,
+          3837,
+          769,
+          4314
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          363.574,
+          3892.188,
+          334.57,
+          367.188
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1037.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/77/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/77-portrait-v5-81db7337c484.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7993,
+        "faceHash": "926578cc439c5e97",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          89,
+          4370,
+          522,
+          4803
+        ],
+        "sourceSize": [
+          800,
+          14145
+        ],
+        "detectedFace": [
+          99.805,
+          4346.875,
+          410.547,
+          419.922
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 1007.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/81-portrait-v5-c4fb76001e39.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "847c6bc23ec2656d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          71,
+          6070,
+          707,
+          6706
+        ],
+        "sourceSize": [
+          800,
+          9555
+        ],
+        "detectedFace": [
+          144.531,
+          6159.18,
+          489.062,
+          457.422
+        ],
+        "outsideFaceWhiteFraction": 0.00101,
+        "largestWhiteRegion": 0.00101,
+        "sharpness": 2274.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/78/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/78-portrait-v5-86067f91bd72.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8696,
+        "faceHash": "c7b469ca949ce2e1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          311,
+          656,
+          515,
+          860
+        ],
+        "sourceSize": [
+          800,
+          14780
+        ],
+        "detectedFace": [
+          320.996,
+          662.109,
+          184.57,
+          168.359
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 626.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/82/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/82-portrait-v5-b28c01d83d60.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8018,
+        "faceHash": "c06903b13d876d7d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          246,
+          6649,
+          665,
+          7068
+        ],
+        "sourceSize": [
+          800,
+          14740
+        ],
+        "detectedFace": [
+          252.344,
+          6640.527,
+          407.031,
+          381.836
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2217.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/83/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/83-portrait-v5-50708bd6a4a5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8584,
+        "faceHash": "d2323fcad0cd252d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          2406,
+          347,
+          2753
+        ],
+        "sourceSize": [
+          800,
+          13840
+        ],
+        "detectedFace": [
+          -0.488,
+          2445.996,
+          266.406,
+          266.992
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1242.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/80/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/80-portrait-v5-be06e650d717.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "d4284c53e39bb31d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          210,
+          12402,
+          599,
+          12791
+        ],
+        "sourceSize": [
+          800,
+          14025
+        ],
+        "detectedFace": [
+          248.535,
+          12381.055,
+          312.305,
+          377.734
+        ],
+        "outsideFaceWhiteFraction": 0.00037,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 1944.27,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/84/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/84-portrait-v5-c7f54d43d75a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.79,
+        "faceHash": "840b5e6f3a626b9a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          50,
+          2365,
+          730,
+          3045
+        ],
+        "sourceSize": [
+          800,
+          13139
+        ],
+        "detectedFace": [
+          135.352,
+          2443.164,
+          508.984,
+          523.438
+        ],
+        "outsideFaceWhiteFraction": 0.0146,
+        "largestWhiteRegion": 0.01332,
+        "sharpness": 3254.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/85-portrait-v5-14a44426ba84.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7993,
+        "faceHash": "d1f23e8476353d03",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          155,
+          7917,
+          441,
+          8203
+        ],
+        "sourceSize": [
+          800,
+          14500
+        ],
+        "detectedFace": [
+          158.496,
+          7901.172,
+          278.32,
+          317.578
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 844.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/87/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/87-portrait-v5-f34f51cb9ead.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7192,
+        "faceHash": "d56b2ad702f42d61",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          81,
+          4750,
+          734,
+          5403
+        ],
+        "sourceSize": [
+          800,
+          14415
+        ],
+        "detectedFace": [
+          156.055,
+          4841.211,
+          501.953,
+          471.094
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1120.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/88/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/88-portrait-v5-ddad5a7a0c5a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8057,
+        "faceHash": "9b2768cee4c91a1b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          130,
+          4787,
+          452,
+          5109
+        ],
+        "sourceSize": [
+          800,
+          14724
+        ],
+        "detectedFace": [
+          203.32,
+          4823.926,
+          175.391,
+          247.461
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 959.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/86/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/86-portrait-v5-9e7c3f5b7dfc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7603,
+        "faceHash": "df2cca3120fce562",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          7,
+          3721,
+          263,
+          3977
+        ],
+        "sourceSize": [
+          800,
+          14550
+        ],
+        "detectedFace": [
+          56.201,
+          3767.285,
+          157.129,
+          163.867
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1349.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/89/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/89-portrait-v5-1ad2ec0185f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8159,
+        "faceHash": "96516ac76d04cdf1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          138,
+          7023,
+          482,
+          7367
+        ],
+        "sourceSize": [
+          800,
+          10700
+        ],
+        "detectedFace": [
+          194.141,
+          7062.305,
+          232.031,
+          264.453
+        ],
+        "outsideFaceWhiteFraction": 0.00122,
+        "largestWhiteRegion": 0.00017,
+        "sharpness": 1796.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/90/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/90-portrait-v5-8df9a993d60c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "c4682f90f7c76a49",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          44,
+          4468,
+          364,
+          4788
+        ],
+        "sourceSize": [
+          800,
+          14939
+        ],
+        "detectedFace": [
+          104.004,
+          4504.883,
+          200.586,
+          246.484
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1159.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/91/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/91-portrait-v5-d25c30e1d21d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8091,
+        "faceHash": "d4d00bc6f49e7a98",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          110,
+          8845,
+          632,
+          9367
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          222.266,
+          8905.273,
+          298.047,
+          401.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 929.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/92/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/92-portrait-v5-eaee82dbf387.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7734,
+        "faceHash": "95936bc94da9514e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          8161,
+          453,
+          8614
+        ],
+        "sourceSize": [
+          800,
+          14556
+        ],
+        "detectedFace": [
+          60.742,
+          8213.086,
+          303.906,
+          348.828
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1004.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/93/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/93-portrait-v5-027219e635f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "d4955f0236cb785a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          83,
+          9157,
+          381,
+          9455
+        ],
+        "sourceSize": [
+          800,
+          13360
+        ],
+        "detectedFace": [
+          137.842,
+          9191.797,
+          188.77,
+          228.906
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 1384.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/96/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/96-portrait-v5-c6fd03fb78d5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "c44e2f81f0c9736e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          149,
+          3786,
+          720,
+          4357
+        ],
+        "sourceSize": [
+          800,
+          14925
+        ],
+        "detectedFace": [
+          252.637,
+          3851.562,
+          364.258,
+          439.062
+        ],
+        "outsideFaceWhiteFraction": 0.01019,
+        "largestWhiteRegion": 0.0101,
+        "sharpness": 2537.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/97/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/97-portrait-v5-dda22c720210.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "c2b33aa6908f436f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          91,
+          5643,
+          495,
+          6047
+        ],
+        "sourceSize": [
+          800,
+          14840
+        ],
+        "detectedFace": [
+          146.875,
+          5689.453,
+          291.406,
+          310.938
+        ],
+        "outsideFaceWhiteFraction": 0.00215,
+        "largestWhiteRegion": 0.00056,
+        "sharpness": 4681.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/95/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/95-portrait-v5-50bc9b1de89f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.854,
+        "faceHash": "bcbdcb3424d132ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          358,
+          7608,
+          614,
+          7864
+        ],
+        "sourceSize": [
+          800,
+          14480
+        ],
+        "detectedFace": [
+          423.242,
+          7660.742,
+          126.172,
+          151.172
+        ],
+        "outsideFaceWhiteFraction": 0.01927,
+        "largestWhiteRegion": 0.00162,
+        "sharpness": 4351.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/94/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/94-portrait-v5-1fff901f97b8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7583,
+        "faceHash": "91927a6b60e5b5ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          469,
+          689,
+          774,
+          994
+        ],
+        "sourceSize": [
+          800,
+          14289
+        ],
+        "detectedFace": [
+          503.711,
+          745.996,
+          234.766,
+          191.211
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 863.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/99/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/99-portrait-v5-621eb348cd4e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8364,
+        "faceHash": "8e4025fb13e5e74c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          153,
+          5861,
+          505,
+          6213
+        ],
+        "sourceSize": [
+          800,
+          13791
+        ],
+        "detectedFace": [
+          224.609,
+          5901.172,
+          253.516,
+          271.094
+        ],
+        "outsideFaceWhiteFraction": 0.05061,
+        "largestWhiteRegion": 0.01167,
+        "sharpness": 1331.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/100/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/100-portrait-v5-b8336a6c09ab.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7246,
+        "faceHash": "d4687b956cda2689",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          112,
+          5549,
+          800,
+          6237
+        ],
+        "sourceSize": [
+          800,
+          13715
+        ],
+        "detectedFace": [
+          347.559,
+          5628.516,
+          362.695,
+          528.906
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 987.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/101/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/101-portrait-v5-8154f53545d2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "c1246e97b1d933cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          1498,
+          532,
+          2030
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          36.133,
+          1559.57,
+          327.539,
+          408.984
+        ],
+        "outsideFaceWhiteFraction": 0.00049,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 1705.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/98/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/98-portrait-v5-b1f78504b3d7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "ae0a7aa3d5b23529",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          249,
+          686,
+          581,
+          1018
+        ],
+        "sourceSize": [
+          800,
+          8560
+        ],
+        "detectedFace": [
+          283.203,
+          707.617,
+          223.828,
+          288.672
+        ],
+        "outsideFaceWhiteFraction": 0.05022,
+        "largestWhiteRegion": 0.01773,
+        "sharpness": 2159.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/102/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/102-portrait-v5-b2c1c13e1e0e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7231,
+        "faceHash": "86ea4ac59b992e39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          59,
+          7266,
+          757,
+          7964
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          95.312,
+          7228.32,
+          625.781,
+          677.734
+        ],
+        "outsideFaceWhiteFraction": 0.02614,
+        "largestWhiteRegion": 0.01266,
+        "sharpness": 3277.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/103/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/103-portrait-v5-3bcbdc5b23e3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8516,
+        "faceHash": "9a5524bde5e4a22d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          193,
+          5454,
+          474,
+          5735
+        ],
+        "sourceSize": [
+          800,
+          14030
+        ],
+        "detectedFace": [
+          244.531,
+          5491.992,
+          216.406,
+          205.078
+        ],
+        "outsideFaceWhiteFraction": 0.02322,
+        "largestWhiteRegion": 0.00574,
+        "sharpness": 3064.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104.5": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/104.5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/104.5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/104.5-portrait-v5-6016995282d3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "a9b78a94b5a552aa",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7908,
+          448,
+          8356
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          -0.195,
+          7960.156,
+          262.109,
+          344.531
+        ],
+        "outsideFaceWhiteFraction": 0.00868,
+        "largestWhiteRegion": 0.00189,
+        "sharpness": 789.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/106/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/106-portrait-v5-d750c12e4570.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8545,
+        "faceHash": "c7f13448785e3c2e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          134,
+          5205,
+          446,
+          5517
+        ],
+        "sourceSize": [
+          800,
+          13445
+        ],
+        "detectedFace": [
+          209.473,
+          5240.625,
+          160.742,
+          239.844
+        ],
+        "outsideFaceWhiteFraction": 0.00148,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 1001.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/107/009.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/107-portrait-v5-3c516d08ebe5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "92466b670d813ef5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          380,
+          3628,
+          676,
+          3924
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          429.883,
+          3662.305,
+          196.484,
+          227.539
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1089.14,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/105/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/105-portrait-v5-8989f71c8051.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "c0d00343d62f7bcf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          249,
+          258,
+          608,
+          617
+        ],
+        "sourceSize": [
+          800,
+          13510
+        ],
+        "detectedFace": [
+          305.859,
+          299.805,
+          244.531,
+          276.172
+        ],
+        "outsideFaceWhiteFraction": 0.00505,
+        "largestWhiteRegion": 0.00238,
+        "sharpness": 2339.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/104/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/104-portrait-v5-190152aed8c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7803,
+        "faceHash": "881a6ea2c8bb7d2b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          50,
+          8879,
+          722,
+          9551
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          186.133,
+          8922.852,
+          488.672,
+          583.984
+        ],
+        "outsideFaceWhiteFraction": 0.02847,
+        "largestWhiteRegion": 0.00777,
+        "sharpness": 2190.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/108/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/108-portrait-v5-08177a7d50f7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8037,
+        "faceHash": "c2f07992606e2f4f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          168,
+          13925,
+          548,
+          14305
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          217.188,
+          13904.98,
+          282.422,
+          368.555
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1304.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/110/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/110-portrait-v5-6ac9faa1304a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8286,
+        "faceHash": "d25b2ba42dc39497",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          335,
+          8796,
+          591,
+          9052
+        ],
+        "sourceSize": [
+          800,
+          14475
+        ],
+        "detectedFace": [
+          382.812,
+          8825.977,
+          160.156,
+          195.703
+        ],
+        "outsideFaceWhiteFraction": 0.02953,
+        "largestWhiteRegion": 0.01712,
+        "sharpness": 1173.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/109/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/109-portrait-v5-2d62d672c31e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "d01b3bcee5dc0709",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          516,
+          13336,
+          798,
+          13618
+        ],
+        "sourceSize": [
+          800,
+          14860
+        ],
+        "detectedFace": [
+          541.797,
+          13321.387,
+          231.25,
+          273.633
+        ],
+        "outsideFaceWhiteFraction": 0.0063,
+        "largestWhiteRegion": 0.00299,
+        "sharpness": 1639.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/113/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/113-portrait-v5-97903df55419.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7822,
+        "faceHash": "db3f1e058d697224",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          100,
+          8411,
+          772,
+          9083
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          190.039,
+          8488.867,
+          491.016,
+          517.188
+        ],
+        "outsideFaceWhiteFraction": 0.04216,
+        "largestWhiteRegion": 0.0166,
+        "sharpness": 2836.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/114/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/114-portrait-v5-7ca473633961.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "c00d4c57f0dbf34c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          190,
+          6654,
+          657,
+          7121
+        ],
+        "sourceSize": [
+          800,
+          13775
+        ],
+        "detectedFace": [
+          275.879,
+          6707.715,
+          294.336,
+          359.18
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2136.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/112/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/112-portrait-v5-2ceedafa5322.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7192,
+        "faceHash": "d57f0a51796b6124",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          79,
+          4426,
+          653,
+          5000
+        ],
+        "sourceSize": [
+          800,
+          13994
+        ],
+        "detectedFace": [
+          177.246,
+          4491.797,
+          377.539,
+          441.406
+        ],
+        "outsideFaceWhiteFraction": 0.00681,
+        "largestWhiteRegion": 0.0051,
+        "sharpness": 2337.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/115/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/115-portrait-v5-0d800bcbf04c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "cc6c4cb9f0f15863",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          266,
+          7819,
+          722,
+          8275
+        ],
+        "sourceSize": [
+          800,
+          13125
+        ],
+        "detectedFace": [
+          334.57,
+          7872.168,
+          318.359,
+          350.586
+        ],
+        "outsideFaceWhiteFraction": 0.02956,
+        "largestWhiteRegion": 0.00697,
+        "sharpness": 3073.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "138": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/138",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/138/c89211.webp?v=1783241083",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/138-portrait-v5-90073c70d113.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.813,
+        "faceHash": "80726f69788bb18f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          325,
+          5938,
+          707,
+          6320
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          357.605,
+          5917.896,
+          317.505,
+          370.459
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1230.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "139": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/139",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/139/e3e9d2.webp?v=1783825232",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/139-portrait-v5-c34e25dcecda.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7593,
+        "faceHash": "c41f13b65e162db1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          226,
+          3614,
+          732,
+          4120
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          233.569,
+          3610.217,
+          490.869,
+          449.78
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2758.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "140": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/140",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/140/fa48b5.webp?v=1784455596",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/140-portrait-v5-02cf78cfc6c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "87637d43f09c2e29",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          246,
+          11846,
+          560,
+          12160
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          265.32,
+          11828.979,
+          274.878,
+          304.541
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 470.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "141": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/141",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/141/42dc28.webp?v=1785073305",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/141-portrait-v5-c9eff57d73d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8359,
+        "faceHash": "def274cc20656399",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          611,
+          7323,
+          890,
+          7602
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          615.234,
+          7318.433,
+          270.703,
+          253.564
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 783.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "142": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/142",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/142/e7a7e1.webp?v=1785533931",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/142-portrait-v5-e5e675639b80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7417,
+        "faceHash": "8d0c7bdb18da7292",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          183,
+          2928,
+          700,
+          3445
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          190.063,
+          2972.681,
+          502.295,
+          374.854
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1422.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "143": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/143",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/143/0265c2.webp?v=1786220814",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/143-portrait-v5-790319377145.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "82e84fc38bcf32cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          384,
+          2543,
+          692,
+          2851
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          395.398,
+          2526.636,
+          284.985,
+          299.268
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1989.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "150": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/150",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/150/917fde.webp?v=1790447147",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/150-portrait-v5-49c62406c366.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7861,
+        "faceHash": "d5f96ac4259c47c4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          223,
+          15398,
+          605,
+          15780
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          242.578,
+          15377.954,
+          341.895,
+          370.459
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2295.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "153": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/153",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/153/b1aa30.webp?v=1792293266",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/153-portrait-v5-35d1dd4aad9f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "94f06ac2c39b3c73",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          103,
+          8554,
+          307,
+          8758
+        ],
+        "sourceSize": [
+          900,
+          10643
+        ],
+        "detectedFace": [
+          145.459,
+          8579.224,
+          118.433,
+          134.912
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 488.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/111/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/111-portrait-v5-5375744ce8fe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "9500729fe06ce97d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          180,
+          10688,
+          384,
+          10892
+        ],
+        "sourceSize": [
+          800,
+          14800
+        ],
+        "detectedFace": [
+          215.234,
+          10710.156,
+          132.812,
+          139.844
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 444.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/116/002.webp?v=1770924098",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/116-portrait-v5-f839c095ce66.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.813,
+        "faceHash": "cb2a5b35685f2b42",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          151,
+          3067,
+          673,
+          3589
+        ],
+        "sourceSize": [
+          800,
+          5080
+        ],
+        "detectedFace": [
+          197.461,
+          3110.352,
+          429.297,
+          506.641
+        ],
+        "outsideFaceWhiteFraction": 0.0251,
+        "largestWhiteRegion": 0.00539,
+        "sharpness": 1839.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/118/002.webp?v=1772154657",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/118-portrait-v5-46b7e87c0be9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7964,
+        "faceHash": "9434bf2974ac589b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          149,
+          8180,
+          426,
+          8457
+        ],
+        "sourceSize": [
+          800,
+          11513
+        ],
+        "detectedFace": [
+          153.125,
+          8165.527,
+          267.969,
+          268.945
+        ],
+        "outsideFaceWhiteFraction": 0.02542,
+        "largestWhiteRegion": 0.01216,
+        "sharpness": 948.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/119/002.webp?v=1772155316",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/119-portrait-v5-fce6e5cb6ccc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7847,
+        "faceHash": "d56a6f67803bc198",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          96,
+          1241,
+          656,
+          1801
+        ],
+        "sourceSize": [
+          800,
+          14005
+        ],
+        "detectedFace": [
+          113.477,
+          1211.719,
+          524.609,
+          543.359
+        ],
+        "outsideFaceWhiteFraction": 0.01547,
+        "largestWhiteRegion": 0.00761,
+        "sharpness": 2286.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/121/3e614d.webp?v=1774197365",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/121-portrait-v5-2e0f2016a9a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8291,
+        "faceHash": "c46d1dc2b6cdb21c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          173,
+          6805,
+          665,
+          7297
+        ],
+        "sourceSize": [
+          800,
+          13878
+        ],
+        "detectedFace": [
+          209.375,
+          6778.906,
+          419.531,
+          478.125
+        ],
+        "outsideFaceWhiteFraction": 0.00017,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 2134.52,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/117/003.webp?v=1771592345",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/117-portrait-v5-9629e761a6b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8164,
+        "faceHash": "8636249e86cd737c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          319,
+          940,
+          691,
+          1312
+        ],
+        "sourceSize": [
+          800,
+          12830
+        ],
+        "detectedFace": [
+          332.129,
+          920.605,
+          346.68,
+          361.133
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1680.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/122/f41c4f.webp?v=1774210992",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/122-portrait-v5-ef4846c7ba8d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8511,
+        "faceHash": "9fe43dd1406a3aa6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          473,
+          11236,
+          677,
+          11440
+        ],
+        "sourceSize": [
+          800,
+          14144
+        ],
+        "detectedFace": [
+          491.797,
+          11270.703,
+          118.75,
+          135.156
+        ],
+        "outsideFaceWhiteFraction": 0.00052,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 1760.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/123/bde71c.webp?v=1776030084",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/123-portrait-v5-03b4629e7fa8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "c710b8ae64a71b5d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          142,
+          2314,
+          346,
+          2518
+        ],
+        "sourceSize": [
+          800,
+          14742
+        ],
+        "detectedFace": [
+          158.838,
+          2319.141,
+          169.824,
+          169.531
+        ],
+        "outsideFaceWhiteFraction": 0.00157,
+        "largestWhiteRegion": 0.00073,
+        "sharpness": 608.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/124/dc5189.webp?v=1776120689",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/124-portrait-v5-3bfd780b4c41.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8154,
+        "faceHash": "d237055f25297a56",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          431,
+          3862,
+          800,
+          4231
+        ],
+        "sourceSize": [
+          800,
+          13065
+        ],
+        "detectedFace": [
+          438.477,
+          3854.785,
+          358.203,
+          335.742
+        ],
+        "outsideFaceWhiteFraction": 0.00247,
+        "largestWhiteRegion": 0.00171,
+        "sharpness": 1782.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/120/004.webp?v=1772597661",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/120-portrait-v5-9ecebf0ff78b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8774,
+        "faceHash": "83bc5a92f1796b41",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          147,
+          5143,
+          351,
+          5347
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          185.156,
+          5158.203,
+          128.125,
+          151.562
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 0.00017,
+        "sharpness": 1302.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/126/b1a8cf.webp?v=1776726205",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/126-portrait-v5-a755d7dd321a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7993,
+        "faceHash": "f3c53c0dea18ca63",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          185,
+          5858,
+          492,
+          6165
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          189.844,
+          5861.914,
+          297.656,
+          262.109
+        ],
+        "outsideFaceWhiteFraction": 0.00143,
+        "largestWhiteRegion": 0.00095,
+        "sharpness": 1732.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/127/38b898.webp?v=1777507972",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/127-portrait-v5-f3a01271357c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8115,
+        "faceHash": "c1414ec7a6ee23b9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          243,
+          11474,
+          635,
+          11866
+        ],
+        "sourceSize": [
+          800,
+          13008
+        ],
+        "detectedFace": [
+          255.469,
+          11453.027,
+          366.406,
+          381.055
+        ],
+        "outsideFaceWhiteFraction": 0.00224,
+        "largestWhiteRegion": 0.00177,
+        "sharpness": 2389.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/125/93627c.webp?v=1776210381",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/125-portrait-v5-5bb8fe266113.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7446,
+        "faceHash": "c2373ee835c4c84f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          398,
+          12776,
+          735,
+          13113
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          431.445,
+          12757.812,
+          269.922,
+          327.344
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 958.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "129": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/129",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/129/791844.webp?v=1778324887",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/129-portrait-v5-484075cbae49.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7803,
+        "faceHash": "93857a5a653a1e1b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          548,
+          6863,
+          847,
+          7162
+        ],
+        "sourceSize": [
+          900,
+          13000
+        ],
+        "detectedFace": [
+          584.473,
+          6847.229,
+          226.758,
+          290.259
+        ],
+        "outsideFaceWhiteFraction": 0.00311,
+        "largestWhiteRegion": 0.00281,
+        "sharpness": 838.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "130": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/130",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/130/7c829e.webp?v=1778868199",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/130-portrait-v5-137b36625128.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8276,
+        "faceHash": "d4157896716a6679",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          232,
+          2355,
+          684,
+          2807
+        ],
+        "sourceSize": [
+          900,
+          13185
+        ],
+        "detectedFace": [
+          238.953,
+          2330.75,
+          437.915,
+          438.794
+        ],
+        "outsideFaceWhiteFraction": 0.00066,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 2732.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "131": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/131",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/131/82abd9.webp?v=1779566215",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/131-portrait-v5-fb3322c991e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.792,
+        "faceHash": "80d52fd4b1713dd2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          210,
+          4304,
+          695,
+          4789
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          216.65,
+          4299.719,
+          471.094,
+          433.081
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 759.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "132": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/132",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/132/a4cf29.webp?v=1779640745",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/132-portrait-v5-76a4db3c2c8e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8052,
+        "faceHash": "d27e32a83249b26f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          186,
+          10170,
+          702,
+          10686
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          199.072,
+          10142.578,
+          489.551,
+          500.537
+        ],
+        "outsideFaceWhiteFraction": 0.01295,
+        "largestWhiteRegion": 0.00673,
+        "sharpness": 1239.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "128": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/128",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/128/939e00.webp?v=1778191824",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/128-portrait-v5-41a700026560.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8584,
+        "faceHash": "874538cea5bca3cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          329,
+          9552,
+          570,
+          9793
+        ],
+        "sourceSize": [
+          900,
+          15000
+        ],
+        "detectedFace": [
+          346.619,
+          9539.319,
+          206.323,
+          234.229
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 795.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "133": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/133",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/133/e10f73.webp?v=1780182327",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/133-portrait-v5-b6f98d18a573.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "81bc6fd2accb3c09",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          135,
+          11860,
+          435,
+          12160
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          157.764,
+          11843.481,
+          254.883,
+          291.357
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1361.52,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "134": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/134",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/134/2e1c35.webp?v=1780859491",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/134-portrait-v5-340cad8a205d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8394,
+        "faceHash": "ea7f79ac38808663",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          386,
+          14885,
+          676,
+          15175
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          390.015,
+          14873.84,
+          281.689,
+          274.219
+        ],
+        "outsideFaceWhiteFraction": 0.00056,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 908.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "136": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/136",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/136/24ed54.webp?v=1782046834",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/136-portrait-v5-4e049b85e0ae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "85e85a839a1e2dde",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          191,
+          8873,
+          673,
+          9355
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          232.471,
+          8847.07,
+          399.902,
+          468.018
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1562.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "135": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/135",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/135/3c26b8.webp?v=1781435788",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/135-portrait-v5-07ec66ed30f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "dc956a1eb4c3246d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          422,
+          10615,
+          631,
+          10824
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          447.913,
+          10603.784,
+          156.226,
+          202.588
+        ],
+        "outsideFaceWhiteFraction": 0.00027,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 1076.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "137": {
+      "chapterUrl": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/137",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/killer-pietro/137/b47c98.webp?v=1782620832",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-killer-pietro/137-portrait-v5-8afed04412fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "85e86bc1f19f258c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          236,
+          4361,
+          683,
+          4808
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          279.932,
+          4337.292,
+          359.473,
+          433.521
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1888.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

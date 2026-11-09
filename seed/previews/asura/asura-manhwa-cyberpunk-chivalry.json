@@ -1,0 +1,234 @@
+{
+  "titleId": "asura-manhwa-cyberpunk-chivalry",
+  "revision": 5,
+  "previews": {
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/cyberpunk-chivalry/3/baea54.webp?v=1794162104",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-cyberpunk-chivalry/3-portrait-v5-3afbc9ef4dbf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7363,
+        "faceHash": "c4ba6ac4d9b62d91",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          145,
+          2965,
+          837,
+          3657
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          194.897,
+          3044.531,
+          501.855,
+          532.617
+        ],
+        "outsideFaceWhiteFraction": 0.02618,
+        "largestWhiteRegion": 0.01175,
+        "sharpness": 1963.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/cyberpunk-chivalry/2/39e640.webp?v=1793922800",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-cyberpunk-chivalry/2-portrait-v5-55ccb698dc4c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "c06d6f85f5de00b8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          30,
+          9420,
+          406,
+          9796
+        ],
+        "sourceSize": [
+          900,
+          15632
+        ],
+        "detectedFace": [
+          101.074,
+          9463.513,
+          233.569,
+          289.16
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1706.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/cyberpunk-chivalry/5/d7357d.webp?v=1793923664",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-cyberpunk-chivalry/5-portrait-v5-a36c4b0c564f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "f38d3971b8d1328c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          5762,
+          533,
+          6106
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          241.589,
+          5801.88,
+          239.722,
+          264.99
+        ],
+        "outsideFaceWhiteFraction": 0.00269,
+        "largestWhiteRegion": 0.00214,
+        "sharpness": 2042.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/cyberpunk-chivalry/1/d4c5f4.webp?v=1793900448",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-cyberpunk-chivalry/1-portrait-v5-124941ff2442.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.856,
+        "faceHash": "eff03d92e4ca230c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          345,
+          5578,
+          628,
+          5861
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          377.71,
+          5562.708,
+          217.529,
+          274.438
+        ],
+        "outsideFaceWhiteFraction": 0.02934,
+        "largestWhiteRegion": 0.01079,
+        "sharpness": 2679.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/cyberpunk-chivalry/6/5db2b3.webp?v=1794163335",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-cyberpunk-chivalry/6-portrait-v5-1a054e7b82be.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "cff128f1e44234cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          516,
+          2191,
+          772,
+          2447
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          564.038,
+          2243.628,
+          159.521,
+          151.611
+        ],
+        "outsideFaceWhiteFraction": 0.01387,
+        "largestWhiteRegion": 0.01353,
+        "sharpness": 2088.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/cyberpunk-chivalry/4/32acbd.webp?v=1794162828",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-cyberpunk-chivalry/4-portrait-v5-c26426dc314e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "e69e60f6cc807c99",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          653,
+          6821,
+          885,
+          7053
+        ],
+        "sourceSize": [
+          900,
+          16099
+        ],
+        "detectedFace": [
+          660.718,
+          6808.777,
+          215.771,
+          225.22
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 987.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

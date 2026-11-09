@@ -1,0 +1,6160 @@
+{
+  "titleId": "asura-manhwa-suicide-hunter",
+  "revision": 5,
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/1-portrait-v5-aae39e5670cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "9f656994c48996b9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          106,
+          3359,
+          362,
+          3615
+        ],
+        "sourceSize": [
+          800,
+          8235
+        ],
+        "detectedFace": [
+          163.525,
+          3399.902,
+          140.918,
+          173.633
+        ],
+        "outsideFaceWhiteFraction": 0.03714,
+        "largestWhiteRegion": 0.01782,
+        "sharpness": 3667.18,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/2-portrait-v5-ad8d48d28220.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8003,
+        "faceHash": "c0791f2760e7389e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          199,
+          9912,
+          403,
+          10116
+        ],
+        "sourceSize": [
+          720,
+          13176
+        ],
+        "detectedFace": [
+          224.912,
+          9931.289,
+          152.754,
+          145.898
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1129.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/3/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/3-portrait-v5-3c90468efe4d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "fb3f2fa1a0a73088",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          160,
+          828,
+          450,
+          1118
+        ],
+        "sourceSize": [
+          720,
+          10980
+        ],
+        "detectedFace": [
+          195.381,
+          861.24,
+          219.902,
+          223.066
+        ],
+        "outsideFaceWhiteFraction": 0.01225,
+        "largestWhiteRegion": 0.0085,
+        "sharpness": 2998.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/4/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/4-portrait-v5-82cf61074c4c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "d12068d78f971769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          75,
+          4448,
+          331,
+          4704
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          136.011,
+          4504.746,
+          133.33,
+          142.031
+        ],
+        "outsideFaceWhiteFraction": 0.02275,
+        "largestWhiteRegion": 0.01334,
+        "sharpness": 2282.63,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/5/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/5-portrait-v5-a54340fcfd33.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8442,
+        "faceHash": "95386847c5d9f4b8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          127,
+          12469,
+          408,
+          12750
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          143.35,
+          12454.629,
+          248.379,
+          272.461
+        ],
+        "outsideFaceWhiteFraction": 0.00328,
+        "largestWhiteRegion": 0.0023,
+        "sharpness": 1792.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/7/002_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/7-portrait-v5-6dca9ff8b474.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "a7472fcbe9982298",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          179,
+          10919,
+          514,
+          11254
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          246.357,
+          10957.148,
+          244.863,
+          258.047
+        ],
+        "outsideFaceWhiteFraction": 0.01521,
+        "largestWhiteRegion": 0.01509,
+        "sharpness": 1937.56,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/8/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/8-portrait-v5-bbf81fe16244.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "820f5a8dfa9e670a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          328,
+          13181,
+          659,
+          13512
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          375.293,
+          13219.102,
+          236.602,
+          254.531
+        ],
+        "outsideFaceWhiteFraction": 0.00763,
+        "largestWhiteRegion": 0.00357,
+        "sharpness": 2488.47,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/9/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/9-portrait-v5-f06f7cba88f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8779,
+        "faceHash": "822378ce9c9e1f93",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          50,
+          13223,
+          306,
+          13479
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          95.098,
+          13261.729,
+          165.762,
+          177.715
+        ],
+        "outsideFaceWhiteFraction": 0.02998,
+        "largestWhiteRegion": 0.01376,
+        "sharpness": 3861.31,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/10/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/10-portrait-v5-0c954a8c1358.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "81d21b57a01eed1f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          98,
+          7196,
+          392,
+          7490
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          144.316,
+          7230.234,
+          201.797,
+          226.055
+        ],
+        "outsideFaceWhiteFraction": 0.00816,
+        "largestWhiteRegion": 0.00087,
+        "sharpness": 3871.81,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/11/005_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/11-portrait-v5-69e0f9e467e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "85637c8fe162741d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          364,
+          4006,
+          720,
+          4362
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          478.828,
+          4046.484,
+          241.875,
+          274.219
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2904.67,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/12/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/12-portrait-v5-78525dfa99e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "850838ae9797279f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          401,
+          11707,
+          657,
+          11963
+        ],
+        "sourceSize": [
+          720,
+          13176
+        ],
+        "detectedFace": [
+          442.441,
+          11738.145,
+          173.32,
+          194.414
+        ],
+        "outsideFaceWhiteFraction": 0.00192,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 4914.87,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/13/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/13-portrait-v5-e7e63c04ac54.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "832c7acacbd11799",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          379,
+          3364,
+          662,
+          3647
+        ],
+        "sourceSize": [
+          720,
+          12078
+        ],
+        "detectedFace": [
+          412.559,
+          3396.445,
+          216.211,
+          217.617
+        ],
+        "outsideFaceWhiteFraction": 0.0016,
+        "largestWhiteRegion": 0.00052,
+        "sharpness": 2985.15,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/14/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/14-portrait-v5-75d6075e8506.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "86693a85e9ca56b5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          138,
+          1830,
+          402,
+          2094
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          186.68,
+          1860.82,
+          166.992,
+          202.852
+        ],
+        "outsideFaceWhiteFraction": 0.03107,
+        "largestWhiteRegion": 0.01291,
+        "sharpness": 3233.74,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/15/003_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/15-portrait-v5-50eba0e487bd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8125,
+        "faceHash": "8c706fca71a3378c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          5170,
+          408,
+          5578
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          25.312,
+          5197.061,
+          309.727,
+          354.551
+        ],
+        "outsideFaceWhiteFraction": 0.01224,
+        "largestWhiteRegion": 0.0112,
+        "sharpness": 2750.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/16-portrait-v5-071bf78d1df9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "893b29c1f59f1274",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          106,
+          8548,
+          362,
+          8804
+        ],
+        "sourceSize": [
+          720,
+          12078
+        ],
+        "detectedFace": [
+          140.449,
+          8580.938,
+          187.031,
+          189.844
+        ],
+        "outsideFaceWhiteFraction": 0.00511,
+        "largestWhiteRegion": 0.00084,
+        "sharpness": 4083.14,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/17/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/17-portrait-v5-d1a28b4a11ce.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8818,
+        "faceHash": "d32168dad59e2e58",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          167,
+          14774,
+          371,
+          14978
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          190.986,
+          14782.5,
+          156.27,
+          163.477
+        ],
+        "outsideFaceWhiteFraction": 0.00722,
+        "largestWhiteRegion": 0.00371,
+        "sharpness": 1922.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/18/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/18-portrait-v5-3593ab816344.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "a6453d0be663626e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          293,
+          870,
+          586,
+          1163
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          341.455,
+          904.043,
+          195.996,
+          225.352
+        ],
+        "outsideFaceWhiteFraction": 0.00211,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 3356.39,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/19/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/19-portrait-v5-f042bcf51d48.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "97607ade849e0d63",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          217,
+          5623,
+          473,
+          5879
+        ],
+        "sourceSize": [
+          720,
+          12078
+        ],
+        "detectedFace": [
+          261.211,
+          5658.75,
+          167.344,
+          184.219
+        ],
+        "outsideFaceWhiteFraction": 0.00067,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 3385.0,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/20/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/20-portrait-v5-9beda037b834.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "852868c77e9133f3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          80,
+          9513,
+          336,
+          9769
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          140.845,
+          9551.777,
+          134.209,
+          178.945
+        ],
+        "outsideFaceWhiteFraction": 0.00221,
+        "largestWhiteRegion": 0.00085,
+        "sharpness": 2147.93,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/21/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/21-portrait-v5-c28b972af644.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "d4561b26f2096aeb",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          118,
+          4978,
+          405,
+          5265
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          174.199,
+          5011.523,
+          174.375,
+          220.781
+        ],
+        "outsideFaceWhiteFraction": 0.01244,
+        "largestWhiteRegion": 0.00194,
+        "sharpness": 3321.98,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/24/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/24-portrait-v5-0eb9449e596b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "9a247862c5ddb69c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          467,
+          12863,
+          723,
+          13119
+        ],
+        "sourceSize": [
+          800,
+          15990
+        ],
+        "detectedFace": [
+          516.992,
+          12908.496,
+          155.859,
+          165.82
+        ],
+        "outsideFaceWhiteFraction": 0.00095,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 2470.61,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/25-portrait-v5-3f445d851714.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "c7456ff4b493901a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          236,
+          2431,
+          492,
+          2687
+        ],
+        "sourceSize": [
+          720,
+          9882
+        ],
+        "detectedFace": [
+          287.754,
+          2487.217,
+          152.227,
+          142.91
+        ],
+        "outsideFaceWhiteFraction": 0.00697,
+        "largestWhiteRegion": 0.004,
+        "sharpness": 3554.86,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/26-portrait-v5-6a11d0c03a06.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "c3616ac193bc3e3c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          214,
+          6004,
+          506,
+          6296
+        ],
+        "sourceSize": [
+          720,
+          8784
+        ],
+        "detectedFace": [
+          254.971,
+          6037.822,
+          210.762,
+          224.473
+        ],
+        "outsideFaceWhiteFraction": 0.01932,
+        "largestWhiteRegion": 0.00368,
+        "sharpness": 3492.3,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/27/002_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/27-portrait-v5-19d3a4a439f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "9e617ac5e18d1e8c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          196,
+          6367,
+          452,
+          6623
+        ],
+        "sourceSize": [
+          720,
+          10901
+        ],
+        "detectedFace": [
+          235.195,
+          6403.887,
+          177.188,
+          183.164
+        ],
+        "outsideFaceWhiteFraction": 0.00063,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2784.5,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/28/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/28-portrait-v5-adb1a2e5b9c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "852b6c1ec5f906f8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          162,
+          1936,
+          459,
+          2233
+        ],
+        "sourceSize": [
+          720,
+          10980
+        ],
+        "detectedFace": [
+          198.545,
+          1969.893,
+          224.121,
+          228.34
+        ],
+        "outsideFaceWhiteFraction": 0.006,
+        "largestWhiteRegion": 0.00407,
+        "sharpness": 2951.97,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/29/2463fe.webp?v=1791208865",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/29-portrait-v5-05952c9c220a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "96cc7a0f2518bc73",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          333,
+          7875,
+          589,
+          8131
+        ],
+        "sourceSize": [
+          800,
+          15406
+        ],
+        "detectedFace": [
+          385.059,
+          7931.494,
+          128.32,
+          142.09
+        ],
+        "outsideFaceWhiteFraction": 0.02496,
+        "largestWhiteRegion": 0.01593,
+        "sharpness": 1204.49,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/30-portrait-v5-c448e4cb7e4d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "86556a52c57a364f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          377,
+          4582,
+          760,
+          4965
+        ],
+        "sourceSize": [
+          800,
+          15956
+        ],
+        "detectedFace": [
+          433.008,
+          4626.172,
+          270.703,
+          294.531
+        ],
+        "outsideFaceWhiteFraction": 0.00319,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 1553.75,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/31/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/31-portrait-v5-8b999f261288.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8213,
+        "faceHash": "85293a64e54bde9c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          10,
+          2806,
+          427,
+          3223
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          97.07,
+          2854.297,
+          243.75,
+          321.094
+        ],
+        "outsideFaceWhiteFraction": 0.00522,
+        "largestWhiteRegion": 0.00499,
+        "sharpness": 843.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/32/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/32-portrait-v5-bc61de80deda.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "d10e2f389498f763",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          3,
+          10737,
+          259,
+          10993
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          69.092,
+          10794.336,
+          124.512,
+          141.797
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 802.49,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/33/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/33-portrait-v5-5505c81898e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "df054807f1beb81c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          95,
+          3286,
+          351,
+          3542
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          155.039,
+          3325.078,
+          135.352,
+          177.539
+        ],
+        "outsideFaceWhiteFraction": 0.02959,
+        "largestWhiteRegion": 0.00439,
+        "sharpness": 7840.09,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/34/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/34-portrait-v5-7238d7230fd1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "963e7cf3048aec83",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          404,
+          10552,
+          660,
+          10808
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          470.215,
+          10593.545,
+          124.102,
+          172.441
+        ],
+        "outsideFaceWhiteFraction": 0.032,
+        "largestWhiteRegion": 0.01135,
+        "sharpness": 5333.33,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/35/002_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/35-portrait-v5-7c813653cc64.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8721,
+        "faceHash": "81fd2e07d19da68c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          236,
+          2862,
+          492,
+          3118
+        ],
+        "sourceSize": [
+          720,
+          10352
+        ],
+        "detectedFace": [
+          283.096,
+          2896.523,
+          161.543,
+          187.734
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 5720.12,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/36/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/36-portrait-v5-57ee0f9c357b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7935,
+        "faceHash": "84b85f122fcb6569",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          99,
+          14148,
+          475,
+          14524
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          143.086,
+          14191.084,
+          288.281,
+          289.16
+        ],
+        "outsideFaceWhiteFraction": 0.03159,
+        "largestWhiteRegion": 0.01637,
+        "sharpness": 1797.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/37/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/37-portrait-v5-95c504d292dc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "d01f78d8fd98033a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          380,
+          7902,
+          680,
+          8202
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          414.844,
+          7938.281,
+          230.625,
+          227.812
+        ],
+        "outsideFaceWhiteFraction": 0.00569,
+        "largestWhiteRegion": 0.00093,
+        "sharpness": 2858.17,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/38/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/38-portrait-v5-abd4cd6d7622.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "c1206a7edf8791f0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          329,
+          11143,
+          585,
+          11399
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          369.492,
+          11176.875,
+          175.781,
+          187.734
+        ],
+        "outsideFaceWhiteFraction": 0.01064,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 7507.6,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/39/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/39-portrait-v5-66eb37c4ee07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "85e07e07798e2d9c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          211,
+          12509,
+          467,
+          12765
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          274.131,
+          12561.768,
+          129.902,
+          151.348
+        ],
+        "outsideFaceWhiteFraction": 0.00513,
+        "largestWhiteRegion": 0.00403,
+        "sharpness": 9392.07,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/40/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/40-portrait-v5-39e5f0d86b3a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "c26529e6999f2798",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          169,
+          5049,
+          600,
+          5480
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          185.098,
+          5025.762,
+          398.32,
+          418.711
+        ],
+        "outsideFaceWhiteFraction": 0.00954,
+        "largestWhiteRegion": 0.00935,
+        "sharpness": 2863.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/41/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/41-portrait-v5-16789c72881b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "95627c6ba58e9714",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          228,
+          6613,
+          484,
+          6869
+        ],
+        "sourceSize": [
+          720,
+          12388
+        ],
+        "detectedFace": [
+          300.85,
+          6684.17,
+          111.27,
+          113.027
+        ],
+        "outsideFaceWhiteFraction": 0.00769,
+        "largestWhiteRegion": 0.00676,
+        "sharpness": 4490.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/42/002_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/42-portrait-v5-fd27701b2952.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8628,
+        "faceHash": "bf7128f2a8ce3289",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          234,
+          2141,
+          490,
+          2397
+        ],
+        "sourceSize": [
+          720,
+          4313
+        ],
+        "detectedFace": [
+          289.248,
+          2181.226,
+          146.426,
+          176.045
+        ],
+        "outsideFaceWhiteFraction": 0.00684,
+        "largestWhiteRegion": 0.00279,
+        "sharpness": 5992.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/43-portrait-v5-a5574e72937c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "9d776862e7cc9680",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          70,
+          6942,
+          326,
+          7198
+        ],
+        "sourceSize": [
+          720,
+          10824
+        ],
+        "detectedFace": [
+          128.452,
+          6988.359,
+          140.01,
+          163.125
+        ],
+        "outsideFaceWhiteFraction": 0.00323,
+        "largestWhiteRegion": 0.00261,
+        "sharpness": 4022.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/44/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/44-portrait-v5-f8d32f0117b5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "c26051debd1e067b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          42,
+          6371,
+          298,
+          6627
+        ],
+        "sourceSize": [
+          720,
+          8347
+        ],
+        "detectedFace": [
+          83.628,
+          6405.996,
+          172.002,
+          185.977
+        ],
+        "outsideFaceWhiteFraction": 0.00391,
+        "largestWhiteRegion": 0.002,
+        "sharpness": 3680.44,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/45/004_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/45-portrait-v5-9b99f7fbc387.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "8c32686ac7bd1735",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          62,
+          9593,
+          351,
+          9882
+        ],
+        "sourceSize": [
+          720,
+          10352
+        ],
+        "detectedFace": [
+          98.438,
+          9626.309,
+          215.508,
+          222.539
+        ],
+        "outsideFaceWhiteFraction": 0.02826,
+        "largestWhiteRegion": 0.01703,
+        "sharpness": 3203.15,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/46/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/46-portrait-v5-e1f8f221eb97.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "973571e2e48926d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          227,
+          14521,
+          496,
+          14790
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          273.999,
+          14551.831,
+          175.342,
+          206.982
+        ],
+        "outsideFaceWhiteFraction": 0.00089,
+        "largestWhiteRegion": 0.00023,
+        "sharpness": 2898.52,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/47/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/47-portrait-v5-4232523f2079.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "c64c4e4699f3391e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          103,
+          9365,
+          558,
+          9820
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          163.301,
+          9340.664,
+          408.867,
+          441.562
+        ],
+        "outsideFaceWhiteFraction": 0.00395,
+        "largestWhiteRegion": 0.00267,
+        "sharpness": 3029.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/48/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/48-portrait-v5-7de83d77b032.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "96e1430f3d7d322c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          9001,
+          256,
+          9257
+        ],
+        "sourceSize": [
+          800,
+          15544
+        ],
+        "detectedFace": [
+          5.957,
+          9035.498,
+          151.367,
+          186.23
+        ],
+        "outsideFaceWhiteFraction": 0.00471,
+        "largestWhiteRegion": 0.00143,
+        "sharpness": 5972.21,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/49/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/49-portrait-v5-a18a980f1119.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.877,
+        "faceHash": "913d6bc6c1983d1b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          124,
+          8177,
+          380,
+          8433
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          176.616,
+          8224.146,
+          150.205,
+          162.686
+        ],
+        "outsideFaceWhiteFraction": 0.00729,
+        "largestWhiteRegion": 0.00516,
+        "sharpness": 6685.96,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/50/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/50-portrait-v5-3d259c01c237.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "972028dd958db36e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          345,
+          15105,
+          642,
+          15402
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          379.863,
+          15145.752,
+          228.164,
+          215.508
+        ],
+        "outsideFaceWhiteFraction": 0.00493,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 4062.93,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/51/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/51-portrait-v5-ff326a0d672f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "8651369d38896b7e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          165,
+          4149,
+          443,
+          4427
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          204.258,
+          4181.133,
+          199.688,
+          213.75
+        ],
+        "outsideFaceWhiteFraction": 0.03235,
+        "largestWhiteRegion": 0.00397,
+        "sharpness": 3620.1,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/52/005.webp?v=1787868959",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/52-portrait-v5-fd32d80eafb8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "806178dedd9e0733",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          19,
+          2573,
+          307,
+          2861
+        ],
+        "sourceSize": [
+          720,
+          5270
+        ],
+        "detectedFace": [
+          60.205,
+          2606.133,
+          205.137,
+          221.484
+        ],
+        "outsideFaceWhiteFraction": 0.01382,
+        "largestWhiteRegion": 0.00526,
+        "sharpness": 3049.32,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/53/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/53-portrait-v5-6fe464041bac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "d2252897b48b3f4d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          235,
+          2767,
+          503,
+          3035
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          266.572,
+          2797.559,
+          205.84,
+          206.016
+        ],
+        "outsideFaceWhiteFraction": 0.01582,
+        "largestWhiteRegion": 0.00441,
+        "sharpness": 5322.26,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/54/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/54-portrait-v5-421952a3b71f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8496,
+        "faceHash": "93b578d2ccca634c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          107,
+          9330,
+          505,
+          9728
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          167.871,
+          9376.367,
+          276.367,
+          305.859
+        ],
+        "outsideFaceWhiteFraction": 0.0083,
+        "largestWhiteRegion": 0.00479,
+        "sharpness": 4418.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/55/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/55-portrait-v5-53c4e44d3cf5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "87854f92e56d388e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          127,
+          13788,
+          383,
+          14044
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          179.541,
+          13828.32,
+          150.684,
+          176.172
+        ],
+        "outsideFaceWhiteFraction": 0.01375,
+        "largestWhiteRegion": 0.00214,
+        "sharpness": 10911.78,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/56/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/56-portrait-v5-746cb7a35d5b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8745,
+        "faceHash": "930e6872cc9f97c8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          79,
+          15627,
+          335,
+          15883
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          141.196,
+          15681.309,
+          130.693,
+          148.008
+        ],
+        "outsideFaceWhiteFraction": 0.02368,
+        "largestWhiteRegion": 0.01698,
+        "sharpness": 5523.3,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/57/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/57-portrait-v5-169a02cd3626.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "92b47ad22d4a689f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          239,
+          13978,
+          495,
+          14234
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          303.047,
+          14025.586,
+          127.266,
+          160.312
+        ],
+        "outsideFaceWhiteFraction": 0.00206,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 4312.27,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/58/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/58-portrait-v5-32988297f488.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "97cb7c8b243c6698",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          424,
+          6038,
+          680,
+          6294
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          482.031,
+          6090.82,
+          140.625,
+          149.609
+        ],
+        "outsideFaceWhiteFraction": 0.02354,
+        "largestWhiteRegion": 0.00978,
+        "sharpness": 4470.49,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/59/dc7b26.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/59-portrait-v5-76ea51598136.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7778,
+        "faceHash": "d1300f0ef6f9a8ca",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          6253,
+          458,
+          6711
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          0.195,
+          6306.152,
+          316.016,
+          352.539
+        ],
+        "outsideFaceWhiteFraction": 0.01743,
+        "largestWhiteRegion": 0.01143,
+        "sharpness": 3718.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/60/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/60-portrait-v5-15c53a83ae86.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "d52268dec51d263b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          201,
+          11787,
+          457,
+          12043
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          248.34,
+          11827.734,
+          161.523,
+          175.0
+        ],
+        "outsideFaceWhiteFraction": 0.0121,
+        "largestWhiteRegion": 0.00659,
+        "sharpness": 5687.54,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/61/002_p2.webp?v=1790900898",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/61-portrait-v5-453e2072a6c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "885b4918353d37bd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          100,
+          4024,
+          356,
+          4280
+        ],
+        "sourceSize": [
+          800,
+          11777
+        ],
+        "detectedFace": [
+          146.729,
+          4068.75,
+          161.621,
+          165.625
+        ],
+        "outsideFaceWhiteFraction": 0.01022,
+        "largestWhiteRegion": 0.0022,
+        "sharpness": 5301.62,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/62/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/62-portrait-v5-760d5c3a8f3a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "9e6158c3d48ebc2d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          8681,
+          522,
+          8937
+        ],
+        "sourceSize": [
+          720,
+          16000
+        ],
+        "detectedFace": [
+          313.154,
+          8730.527,
+          161.191,
+          156.973
+        ],
+        "outsideFaceWhiteFraction": 0.03604,
+        "largestWhiteRegion": 0.01152,
+        "sharpness": 4500.84,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/63/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/63-portrait-v5-efceef211bc6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "c5617e94389f714a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          505,
+          10018,
+          767,
+          10280
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          535.352,
+          10051.758,
+          201.172,
+          194.922
+        ],
+        "outsideFaceWhiteFraction": 0.02234,
+        "largestWhiteRegion": 0.01682,
+        "sharpness": 1982.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/64/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/64-portrait-v5-b064d69b45e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "82275f869d78361d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          311,
+          11560,
+          643,
+          11892
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          362.793,
+          11598.047,
+          229.102,
+          255.469
+        ],
+        "outsideFaceWhiteFraction": 0.03508,
+        "largestWhiteRegion": 0.0132,
+        "sharpness": 3670.96,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/65/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/65-portrait-v5-3eba29bdec97.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "da333e95a068672d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          256,
+          10676,
+          512,
+          10932
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          319.141,
+          10724.414,
+          129.297,
+          158.984
+        ],
+        "outsideFaceWhiteFraction": 0.00211,
+        "largestWhiteRegion": 0.00148,
+        "sharpness": 2309.43,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/66/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/66-portrait-v5-07b8e8f4f7f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "c9e738cbd19c3708",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          256,
+          8747,
+          601,
+          9092
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          323.633,
+          8786.914,
+          208.984,
+          265.234
+        ],
+        "outsideFaceWhiteFraction": 0.00644,
+        "largestWhiteRegion": 0.00208,
+        "sharpness": 6120.18,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/67/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/67-portrait-v5-122ed056fbd3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "953b6ec909b16792",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          253,
+          8214,
+          576,
+          8537
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          282.324,
+          8251.562,
+          223.633,
+          248.438
+        ],
+        "outsideFaceWhiteFraction": 0.04002,
+        "largestWhiteRegion": 0.01717,
+        "sharpness": 3640.32,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/68/003_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/68-portrait-v5-df54b05bb30e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "81c5688f6738771b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          366,
+          1080,
+          622,
+          1336
+        ],
+        "sourceSize": [
+          720,
+          5029
+        ],
+        "detectedFace": [
+          430.312,
+          1128.12,
+          127.266,
+          160.225
+        ],
+        "outsideFaceWhiteFraction": 0.00726,
+        "largestWhiteRegion": 0.0022,
+        "sharpness": 5469.89,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/69/002_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/69-portrait-v5-8a44f64292ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8745,
+        "faceHash": "c3656b93b49c1e38",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          163,
+          555,
+          419
+        ],
+        "sourceSize": [
+          800,
+          1710
+        ],
+        "detectedFace": [
+          356.543,
+          213.672,
+          140.039,
+          153.906
+        ],
+        "outsideFaceWhiteFraction": 0.01752,
+        "largestWhiteRegion": 0.00986,
+        "sharpness": 3161.67,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/70/003_p1.webp?v=1791378948",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/70-portrait-v5-56884cba4149.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "82163b8f81acaf9b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          342,
+          6912,
+          598,
+          7168
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          379.785,
+          6958.984,
+          180.273,
+          161.719
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 5628.76,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/71/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/71-portrait-v5-ab15df83bd7b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "d8323d86b4cd698d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          527,
+          3628,
+          783,
+          3884
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          574.023,
+          3659.766,
+          162.109,
+          192.773
+        ],
+        "outsideFaceWhiteFraction": 0.01213,
+        "largestWhiteRegion": 0.0099,
+        "sharpness": 3259.57,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/72/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/72-portrait-v5-fc46bacdec96.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "8fe16b9594a8323e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          251,
+          391,
+          554,
+          694
+        ],
+        "sourceSize": [
+          800,
+          13895
+        ],
+        "detectedFace": [
+          270.215,
+          425.977,
+          224.023,
+          233.203
+        ],
+        "outsideFaceWhiteFraction": 0.04694,
+        "largestWhiteRegion": 0.01779,
+        "sharpness": 7348.84,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/73/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/73-portrait-v5-1bb6c59beaca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "db5a3f87c0cc602d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          104,
+          10488,
+          469,
+          10853
+        ],
+        "sourceSize": [
+          800,
+          11960
+        ],
+        "detectedFace": [
+          169.531,
+          10466.406,
+          341.406,
+          400.0
+        ],
+        "outsideFaceWhiteFraction": 0.00145,
+        "largestWhiteRegion": 0.0002593994140625,
+        "sharpness": 3411.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/74-portrait-v5-5fc5c5ea4f14.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "94cc5a53d05a770f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          332,
+          12491,
+          653,
+          12812
+        ],
+        "sourceSize": [
+          800,
+          14285
+        ],
+        "detectedFace": [
+          384.668,
+          12528.516,
+          215.82,
+          246.875
+        ],
+        "outsideFaceWhiteFraction": 0.01831,
+        "largestWhiteRegion": 0.01454,
+        "sharpness": 3082.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/75/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/75-portrait-v5-0ee17d4b7020.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8555,
+        "faceHash": "d3536af6ed883058",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          130,
+          11122,
+          518,
+          11510
+        ],
+        "sourceSize": [
+          800,
+          12374
+        ],
+        "detectedFace": [
+          167.48,
+          11166.895,
+          265.43,
+          298.242
+        ],
+        "outsideFaceWhiteFraction": 0.03374,
+        "largestWhiteRegion": 0.01764,
+        "sharpness": 3877.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/76/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/76-portrait-v5-691a6b22ddeb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8452,
+        "faceHash": "fc4936cb07cc7838",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          250,
+          469,
+          550,
+          769
+        ],
+        "sourceSize": [
+          800,
+          13724
+        ],
+        "detectedFace": [
+          291.309,
+          503.516,
+          218.164,
+          230.469
+        ],
+        "outsideFaceWhiteFraction": 0.0195,
+        "largestWhiteRegion": 0.00989,
+        "sharpness": 1296.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/77/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/77-portrait-v5-1c4edf082292.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7886,
+        "faceHash": "9529ec6ac50e9dc5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          70,
+          4149,
+          597,
+          4676
+        ],
+        "sourceSize": [
+          800,
+          13769
+        ],
+        "detectedFace": [
+          156.152,
+          4210.352,
+          355.273,
+          405.078
+        ],
+        "outsideFaceWhiteFraction": 0.04594,
+        "largestWhiteRegion": 0.01483,
+        "sharpness": 916.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/78/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/78-portrait-v5-3dbe552d66e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8667,
+        "faceHash": "95356ae425cbf08d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          340,
+          11549,
+          615,
+          11824
+        ],
+        "sourceSize": [
+          800,
+          14444
+        ],
+        "detectedFace": [
+          371.973,
+          11592.285,
+          211.523,
+          188.086
+        ],
+        "outsideFaceWhiteFraction": 0.00095,
+        "largestWhiteRegion": 0.00055,
+        "sharpness": 3009.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/79/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/79-portrait-v5-8ac86d46933e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8315,
+        "faceHash": "946a6acd6b9a6392",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          178,
+          9204,
+          574,
+          9600
+        ],
+        "sourceSize": [
+          800,
+          14444
+        ],
+        "detectedFace": [
+          223.438,
+          9251.562,
+          304.297,
+          301.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2165.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/80/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/80-portrait-v5-5f1ad6f53da0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8472,
+        "faceHash": "8b366dc6a59932d4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          434,
+          13028,
+          800,
+          13394
+        ],
+        "sourceSize": [
+          800,
+          14228
+        ],
+        "detectedFace": [
+          518.555,
+          13072.461,
+          281.641,
+          276.172
+        ],
+        "outsideFaceWhiteFraction": 0.01627,
+        "largestWhiteRegion": 0.00974,
+        "sharpness": 2143.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/81-portrait-v5-044247748c75.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8306,
+        "faceHash": "975136836a4ed0ee",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          158,
+          3706,
+          494,
+          4042
+        ],
+        "sourceSize": [
+          800,
+          12850
+        ],
+        "detectedFace": [
+          203.516,
+          3744.434,
+          245.703,
+          258.398
+        ],
+        "outsideFaceWhiteFraction": 0.05473,
+        "largestWhiteRegion": 0.01189,
+        "sharpness": 4720.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/82/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/82-portrait-v5-10c8275bbc23.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "c76661eb4a947913",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          307,
+          11626,
+          618,
+          11937
+        ],
+        "sourceSize": [
+          800,
+          13116
+        ],
+        "detectedFace": [
+          343.457,
+          11675.293,
+          238.867,
+          211.523
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1781.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/83/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/83-portrait-v5-8bb69487a92b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8398,
+        "faceHash": "d72068d6e09637d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          221,
+          427,
+          538,
+          744
+        ],
+        "sourceSize": [
+          800,
+          10800
+        ],
+        "detectedFace": [
+          266.309,
+          464.062,
+          225.586,
+          243.75
+        ],
+        "outsideFaceWhiteFraction": 0.00632,
+        "largestWhiteRegion": 0.00551,
+        "sharpness": 1377.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/84/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/84-portrait-v5-143bbc9f90cd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.812,
+        "faceHash": "962d7a8f92d2649a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          171,
+          3825,
+          643,
+          4297
+        ],
+        "sourceSize": [
+          800,
+          12588
+        ],
+        "detectedFace": [
+          247.266,
+          3879.883,
+          319.531,
+          362.891
+        ],
+        "outsideFaceWhiteFraction": 0.01022,
+        "largestWhiteRegion": 0.01018,
+        "sharpness": 2441.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/85-portrait-v5-320e18061ad0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8218,
+        "faceHash": "c74ea4bbcd726488",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          299,
+          9820,
+          726,
+          10247
+        ],
+        "sourceSize": [
+          800,
+          15883
+        ],
+        "detectedFace": [
+          351.074,
+          9848.145,
+          322.852,
+          371.68
+        ],
+        "outsideFaceWhiteFraction": 0.04858,
+        "largestWhiteRegion": 0.00847,
+        "sharpness": 6875.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/86/003_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/86-portrait-v5-119534612945.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8027,
+        "faceHash": "91d46956e5bb06d1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          287,
+          2698,
+          730,
+          3141
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          360.156,
+          2726.465,
+          361.719,
+          385.352
+        ],
+        "outsideFaceWhiteFraction": 0.01859,
+        "largestWhiteRegion": 0.01241,
+        "sharpness": 4680.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/87/002.webp?v=1782126925",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/87-portrait-v5-3f37773752b1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8237,
+        "faceHash": "9b847d9884df227a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          75,
+          12881,
+          652,
+          13458
+        ],
+        "sourceSize": [
+          800,
+          15555
+        ],
+        "detectedFace": [
+          157.617,
+          12967.773,
+          501.953,
+          402.734
+        ],
+        "outsideFaceWhiteFraction": 0.01689,
+        "largestWhiteRegion": 0.01088,
+        "sharpness": 2392.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/88/002_p1.webp?v=1790898456",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/88-portrait-v5-47e131c2252c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8755,
+        "faceHash": "d5c913d21d2d61b9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          58,
+          7132,
+          323,
+          7397
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          121.289,
+          7162.109,
+          168.359,
+          203.906
+        ],
+        "outsideFaceWhiteFraction": 0.01924,
+        "largestWhiteRegion": 0.00908,
+        "sharpness": 5269.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/89/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/89-portrait-v5-22a8f7a3d3ca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7969,
+        "faceHash": "83783f9a81ca64eb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          101,
+          9241,
+          601,
+          9741
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          128.809,
+          9299.219,
+          376.367,
+          384.375
+        ],
+        "outsideFaceWhiteFraction": 0.04692,
+        "largestWhiteRegion": 0.01079,
+        "sharpness": 4332.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/90/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/90-portrait-v5-95a0665e2018.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8159,
+        "faceHash": "d7207bc0d98a6799",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          102,
+          1217,
+          757,
+          1872
+        ],
+        "sourceSize": [
+          800,
+          15888
+        ],
+        "detectedFace": [
+          177.539,
+          1312.109,
+          503.516,
+          465.234
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1692.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/91/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/91-portrait-v5-f9c377f598e6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8818,
+        "faceHash": "d1616182b59e3e4f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          544,
+          3548,
+          800,
+          3804
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          624.219,
+          3583.789,
+          175.781,
+          184.766
+        ],
+        "outsideFaceWhiteFraction": 0.01186,
+        "largestWhiteRegion": 0.00278,
+        "sharpness": 6392.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/92/004_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/92-portrait-v5-58fcac88d7f4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8828,
+        "faceHash": "8ffcebc3a1096384",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          222,
+          750,
+          478,
+          1006
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          264.844,
+          779.59,
+          169.922,
+          196.289
+        ],
+        "outsideFaceWhiteFraction": 0.01628,
+        "largestWhiteRegion": 0.0024,
+        "sharpness": 19415.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/93/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/93-portrait-v5-dccf29eb8fa8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.874,
+        "faceHash": "c2436be3a58d343e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          276,
+          3195,
+          545,
+          3464
+        ],
+        "sourceSize": [
+          800,
+          15694
+        ],
+        "detectedFace": [
+          309.961,
+          3226.562,
+          201.953,
+          206.641
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2505.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/94/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/94-portrait-v5-7d90b849e8c5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.812,
+        "faceHash": "9a52029f9faa7274",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          159,
+          11438,
+          556,
+          11835
+        ],
+        "sourceSize": [
+          800,
+          12755
+        ],
+        "detectedFace": [
+          223.438,
+          11483.496,
+          267.578,
+          305.273
+        ],
+        "outsideFaceWhiteFraction": 0.00027,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1734.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/95/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/95-portrait-v5-e1242ca4ecfa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8018,
+        "faceHash": "da1c3a90f16b623d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          81,
+          4528,
+          447,
+          4894
+        ],
+        "sourceSize": [
+          800,
+          13261
+        ],
+        "detectedFace": [
+          123.828,
+          4589.746,
+          281.25,
+          241.602
+        ],
+        "outsideFaceWhiteFraction": 0.00241,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 2570.69,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/96/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/96-portrait-v5-86263ef811c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7939,
+        "faceHash": "c7606b91a41e7e1d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          55,
+          3040,
+          725,
+          3710
+        ],
+        "sourceSize": [
+          800,
+          11711
+        ],
+        "detectedFace": [
+          160.547,
+          3116.992,
+          458.594,
+          515.625
+        ],
+        "outsideFaceWhiteFraction": 0.01405,
+        "largestWhiteRegion": 0.00468,
+        "sharpness": 2799.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/97/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/97-portrait-v5-d63ceefade63.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "8130bf98c4cf34cf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          227,
+          1423,
+          677,
+          1873
+        ],
+        "sourceSize": [
+          800,
+          15477
+        ],
+        "detectedFace": [
+          290.625,
+          1475.293,
+          322.656,
+          346.289
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 3922.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/98/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/98-portrait-v5-e5c0c6ffcba9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8569,
+        "faceHash": "d1f37a93f0432c0d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          75,
+          7448,
+          402,
+          7775
+        ],
+        "sourceSize": [
+          800,
+          12011
+        ],
+        "detectedFace": [
+          128.516,
+          7485.645,
+          219.531,
+          251.367
+        ],
+        "outsideFaceWhiteFraction": 0.00336,
+        "largestWhiteRegion": 0.00023,
+        "sharpness": 2484.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/99/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/99-portrait-v5-abe0e279e5ee.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8667,
+        "faceHash": "dfa47a8670a861cb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          269,
+          11542,
+          573,
+          11846
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          313.086,
+          11577.344,
+          216.797,
+          233.984
+        ],
+        "outsideFaceWhiteFraction": 0.02682,
+        "largestWhiteRegion": 0.00481,
+        "sharpness": 10047.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/100/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/100-portrait-v5-54789a2c8532.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8447,
+        "faceHash": "c56027d3289d7b93",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          293,
+          3726,
+          664,
+          4097
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          335.547,
+          3787.402,
+          285.156,
+          247.852
+        ],
+        "outsideFaceWhiteFraction": 0.01154,
+        "largestWhiteRegion": 0.00935,
+        "sharpness": 3962.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/101/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/101-portrait-v5-baa0bc999a86.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "94617d8e479954f1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          123,
+          12798,
+          389,
+          13064
+        ],
+        "sourceSize": [
+          800,
+          13650
+        ],
+        "detectedFace": [
+          154.004,
+          12835.059,
+          204.492,
+          191.992
+        ],
+        "outsideFaceWhiteFraction": 0.02534,
+        "largestWhiteRegion": 0.01642,
+        "sharpness": 4186.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/102/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/102-portrait-v5-d1118b95193f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7905,
+        "faceHash": "813f6a70c58b959d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          235,
+          6282,
+          800,
+          6847
+        ],
+        "sourceSize": [
+          800,
+          14416
+        ],
+        "detectedFace": [
+          374.121,
+          6347.656,
+          350.977,
+          434.375
+        ],
+        "outsideFaceWhiteFraction": 0.0204,
+        "largestWhiteRegion": 0.0099,
+        "sharpness": 1877.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/103/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/103-portrait-v5-8a6aacd861da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8398,
+        "faceHash": "90607acf859d2f55",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          200,
+          13437,
+          564,
+          13801
+        ],
+        "sourceSize": [
+          800,
+          14444
+        ],
+        "detectedFace": [
+          251.562,
+          13478.906,
+          260.938,
+          279.688
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 888.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/104/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/104-portrait-v5-3e79a4d21c35.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8296,
+        "faceHash": "8bccfeb3cc13209c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          332,
+          1949,
+          705,
+          2322
+        ],
+        "sourceSize": [
+          800,
+          12955
+        ],
+        "detectedFace": [
+          366.406,
+          1972.949,
+          303.906,
+          324.414
+        ],
+        "outsideFaceWhiteFraction": 0.04684,
+        "largestWhiteRegion": 0.01654,
+        "sharpness": 5981.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/105/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/105-portrait-v5-a75b786f4361.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8047,
+        "faceHash": "d17b78a507ce2d48",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          337,
+          9787,
+          683,
+          10133
+        ],
+        "sourceSize": [
+          800,
+          15055
+        ],
+        "detectedFace": [
+          377.539,
+          9826.562,
+          265.234,
+          266.016
+        ],
+        "outsideFaceWhiteFraction": 0.02455,
+        "largestWhiteRegion": 0.00645,
+        "sharpness": 4781.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/106/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/106-portrait-v5-871f796f073a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "953b6ee50a7a0b92",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          259,
+          6376,
+          699,
+          6816
+        ],
+        "sourceSize": [
+          800,
+          12322
+        ],
+        "detectedFace": [
+          306.738,
+          6404.492,
+          345.117,
+          382.422
+        ],
+        "outsideFaceWhiteFraction": 0.01292,
+        "largestWhiteRegion": 0.00691,
+        "sharpness": 2603.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/107/003.webp?v=1788180120",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/107-portrait-v5-f19e18db0c2b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "80f771d20f5e26f0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          121,
+          4867,
+          605,
+          5351
+        ],
+        "sourceSize": [
+          800,
+          9236
+        ],
+        "detectedFace": [
+          176.855,
+          4927.344,
+          372.461,
+          364.062
+        ],
+        "outsideFaceWhiteFraction": 0.02916,
+        "largestWhiteRegion": 0.00764,
+        "sharpness": 4842.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/108/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/108-portrait-v5-f1ff60ef9264.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8765,
+        "faceHash": "8cf06bc4999a25db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          64,
+          799,
+          320,
+          1055
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          116.602,
+          854.883,
+          151.367,
+          144.922
+        ],
+        "outsideFaceWhiteFraction": 0.01109,
+        "largestWhiteRegion": 0.01109,
+        "sharpness": 3374.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/109/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/109-portrait-v5-120d3b055e78.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8452,
+        "faceHash": "c6660f93b10b783d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          87,
+          11759,
+          466,
+          12138
+        ],
+        "sourceSize": [
+          800,
+          13316
+        ],
+        "detectedFace": [
+          148.047,
+          11802.539,
+          257.031,
+          291.797
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 3512.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/110/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/110-portrait-v5-5eccbf06c0a1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "c7617bc4a42e36d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          141,
+          8639,
+          642,
+          9140
+        ],
+        "sourceSize": [
+          800,
+          13333
+        ],
+        "detectedFace": [
+          220.312,
+          8696.875,
+          342.188,
+          385.156
+        ],
+        "outsideFaceWhiteFraction": 0.01183,
+        "largestWhiteRegion": 0.00645,
+        "sharpness": 3044.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/111/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/111-portrait-v5-f8cadee7f1c0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8701,
+        "faceHash": "c7636f87a43c3a18",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          455,
+          3150,
+          711,
+          3406
+        ],
+        "sourceSize": [
+          800,
+          11001
+        ],
+        "detectedFace": [
+          516.211,
+          3205.371,
+          133.203,
+          144.336
+        ],
+        "outsideFaceWhiteFraction": 0.00333,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 5325.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/112/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/112-portrait-v5-e1c14402c1a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "947e28dbe23d39c0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          10929,
+          396,
+          11325
+        ],
+        "sourceSize": [
+          800,
+          12222
+        ],
+        "detectedFace": [
+          0.879,
+          10974.902,
+          220.117,
+          304.492
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2726.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/113/002.webp?v=1793363862",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/113-portrait-v5-1e8e57b2bcd2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8765,
+        "faceHash": "c42e6892f5db2339",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          127,
+          6739,
+          383,
+          6995
+        ],
+        "sourceSize": [
+          800,
+          10636
+        ],
+        "detectedFace": [
+          184.814,
+          6790.234,
+          141.309,
+          153.516
+        ],
+        "outsideFaceWhiteFraction": 0.02911,
+        "largestWhiteRegion": 0.01582,
+        "sharpness": 4154.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/114/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/114-portrait-v5-4d7de2268c88.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8306,
+        "faceHash": "97633c9fb4cc7028",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          187,
+          6316,
+          692,
+          6821
+        ],
+        "sourceSize": [
+          800,
+          13100
+        ],
+        "detectedFace": [
+          244.922,
+          6387.402,
+          388.281,
+          361.914
+        ],
+        "outsideFaceWhiteFraction": 0.02228,
+        "largestWhiteRegion": 0.01025,
+        "sharpness": 2846.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/115/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/115-portrait-v5-8b7e9ec40b37.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "c46c5a85bade6513",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          269,
+          6105,
+          800,
+          6636
+        ],
+        "sourceSize": [
+          800,
+          13333
+        ],
+        "detectedFace": [
+          453.906,
+          6166.406,
+          346.875,
+          408.203
+        ],
+        "outsideFaceWhiteFraction": 0.01268,
+        "largestWhiteRegion": 0.0052,
+        "sharpness": 2770.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/116/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/116-portrait-v5-79bb723daabf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8525,
+        "faceHash": "94e37a837d12e09d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          248,
+          10679,
+          543,
+          10974
+        ],
+        "sourceSize": [
+          800,
+          14830
+        ],
+        "detectedFace": [
+          252.246,
+          10667.969,
+          286.133,
+          277.344
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1444.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/117/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/117-portrait-v5-310998009f8b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7788,
+        "faceHash": "a3402bc2b5d3f52e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          113,
+          3251,
+          622,
+          3760
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          208.105,
+          3292.969,
+          387.695,
+          493.75
+        ],
+        "outsideFaceWhiteFraction": 0.03151,
+        "largestWhiteRegion": 0.01595,
+        "sharpness": 724.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/118/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/118-portrait-v5-0a232d7d7280.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "82676ac738196dc7",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          383,
+          5549,
+          639,
+          5805
+        ],
+        "sourceSize": [
+          800,
+          14200
+        ],
+        "detectedFace": [
+          412.891,
+          5578.955,
+          195.312,
+          195.215
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2079.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/119/002.webp?v=1786895949",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/119-portrait-v5-de3e8e64b9a5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "91607895f5d6271b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          58,
+          7415,
+          474,
+          7831
+        ],
+        "sourceSize": [
+          800,
+          13480
+        ],
+        "detectedFace": [
+          107.812,
+          7463.086,
+          317.188,
+          319.922
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1408.93,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/120/004.webp?v=1782959902",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/120-portrait-v5-2aaccc9b0c3b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8716,
+        "faceHash": "c66e0f90de6b3039",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          393,
+          5172,
+          665,
+          5444
+        ],
+        "sourceSize": [
+          800,
+          15466
+        ],
+        "detectedFace": [
+          431.25,
+          5203.516,
+          195.312,
+          209.375
+        ],
+        "outsideFaceWhiteFraction": 0.00087,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 945.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/122/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/122-portrait-v5-9cdd21265244.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "dea321f7039a3e11",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          312,
+          9248,
+          662,
+          9598
+        ],
+        "sourceSize": [
+          800,
+          12065
+        ],
+        "detectedFace": [
+          364.551,
+          9288.867,
+          244.336,
+          269.141
+        ],
+        "outsideFaceWhiteFraction": 0.01442,
+        "largestWhiteRegion": 0.0061,
+        "sharpness": 1198.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/123/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/123-portrait-v5-c6e6c61877d3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "9f407f826c99788d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          298,
+          7043,
+          648,
+          7393
+        ],
+        "sourceSize": [
+          800,
+          11350
+        ],
+        "detectedFace": [
+          333.105,
+          7083.008,
+          237.695,
+          269.141
+        ],
+        "outsideFaceWhiteFraction": 0.02426,
+        "largestWhiteRegion": 0.01622,
+        "sharpness": 1499.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/124/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/124-portrait-v5-05abba929803.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8345,
+        "faceHash": "923a6dc3d49d3364",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          246,
+          3133,
+          604,
+          3491
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          287.012,
+          3204.199,
+          275.195,
+          215.43
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 580.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/125/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/125-portrait-v5-ea54a51ffbed.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8335,
+        "faceHash": "9ca13a9cc7ca1ee1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          3953,
+          321,
+          4274
+        ],
+        "sourceSize": [
+          800,
+          14925
+        ],
+        "detectedFace": [
+          0.098,
+          3935.449,
+          304.297,
+          311.914
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2218.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/126/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/126-portrait-v5-3734d28a1cc7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8701,
+        "faceHash": "9270784e879727b3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          71,
+          13501,
+          327,
+          13757
+        ],
+        "sourceSize": [
+          800,
+          14755
+        ],
+        "detectedFace": [
+          133.594,
+          13559.082,
+          130.273,
+          139.648
+        ],
+        "outsideFaceWhiteFraction": 0.01257,
+        "largestWhiteRegion": 0.00282,
+        "sharpness": 2062.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/127/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/127-portrait-v5-1b47402b33a3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "81687e8783877be4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          5109,
+          593,
+          5513
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          235.84,
+          5160.645,
+          311.133,
+          300.586
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 798.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "128": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/128",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/128/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/128-portrait-v5-99aeeccc0a86.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8398,
+        "faceHash": "89677ad4c59c9691",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          35,
+          6091,
+          347,
+          6403
+        ],
+        "sourceSize": [
+          800,
+          13825
+        ],
+        "detectedFace": [
+          79.102,
+          6127.344,
+          223.242,
+          240.234
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 793.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "129": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/129",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/129/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/129-portrait-v5-6a076df9ac1f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7549,
+        "faceHash": "95143d85d26a6d6d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          63,
+          7783,
+          452,
+          8172
+        ],
+        "sourceSize": [
+          800,
+          14760
+        ],
+        "detectedFace": [
+          107.422,
+          7828.125,
+          299.609,
+          297.852
+        ],
+        "outsideFaceWhiteFraction": 0.00743,
+        "largestWhiteRegion": 0.00743,
+        "sharpness": 1039.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "130": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/130",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/130/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/130-portrait-v5-4676e0a3d76a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.812,
+        "faceHash": "d62539cb844b6c7c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          11807,
+          580,
+          12168
+        ],
+        "sourceSize": [
+          800,
+          12800
+        ],
+        "detectedFace": [
+          242.188,
+          11838.281,
+          313.672,
+          298.438
+        ],
+        "outsideFaceWhiteFraction": 0.0164,
+        "largestWhiteRegion": 0.00745,
+        "sharpness": 3238.18,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "131": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/131",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/131/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/131-portrait-v5-8165b6312c61.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "86d47a6e65892d39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          246,
+          11843,
+          502,
+          12099
+        ],
+        "sourceSize": [
+          800,
+          12980
+        ],
+        "detectedFace": [
+          289.746,
+          11874.805,
+          169.336,
+          193.359
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1454.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "132": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/132",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/132/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/132-portrait-v5-bdf3a085388a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7842,
+        "faceHash": "c3610982a5fe7f85",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          101,
+          7918,
+          642,
+          8459
+        ],
+        "sourceSize": [
+          800,
+          13705
+        ],
+        "detectedFace": [
+          146.484,
+          7980.273,
+          381.25,
+          416.406
+        ],
+        "outsideFaceWhiteFraction": 0.03377,
+        "largestWhiteRegion": 0.01529,
+        "sharpness": 2040.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "133": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/133",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/133/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/133-portrait-v5-63e28b9ee155.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "9a166dcb972872a5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          275,
+          13118,
+          563,
+          13406
+        ],
+        "sourceSize": [
+          800,
+          14470
+        ],
+        "detectedFace": [
+          253.516,
+          13120.508,
+          280.078,
+          248.828
+        ],
+        "outsideFaceWhiteFraction": 0.05312,
+        "largestWhiteRegion": 0.01639,
+        "sharpness": 1090.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "134": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/134",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/134/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/134-portrait-v5-9093c395bd8b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "d22639db824a6f35",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          354,
+          2466,
+          617,
+          2729
+        ],
+        "sourceSize": [
+          800,
+          14605
+        ],
+        "detectedFace": [
+          365.527,
+          2505.029,
+          202.539,
+          184.668
+        ],
+        "outsideFaceWhiteFraction": 0.02858,
+        "largestWhiteRegion": 0.0163,
+        "sharpness": 2018.27,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "135": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/135",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/135/009.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/135-portrait-v5-eaaa9d2afd1e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8428,
+        "faceHash": "c72723f2b5b9a481",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          226,
+          2172,
+          488,
+          2434
+        ],
+        "sourceSize": [
+          760,
+          12910
+        ],
+        "detectedFace": [
+          234.531,
+          2158.096,
+          244.18,
+          254.199
+        ],
+        "outsideFaceWhiteFraction": 0.00159,
+        "largestWhiteRegion": 0.00119,
+        "sharpness": 1189.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "136": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/136",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/136/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/136-portrait-v5-e711ca30c4d5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "875c7877e19962e0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          363,
+          4183,
+          674,
+          4494
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          398.926,
+          4222.954,
+          238.984,
+          231.006
+        ],
+        "outsideFaceWhiteFraction": 0.00363,
+        "largestWhiteRegion": 0.0033,
+        "sharpness": 1464.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "137": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/137",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/137/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/137-portrait-v5-e5488ac9ef5b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.877,
+        "faceHash": "c26069d9cd9f0f32",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          116,
+          319,
+          372,
+          575
+        ],
+        "sourceSize": [
+          760,
+          13000
+        ],
+        "detectedFace": [
+          166.621,
+          361.909,
+          155.488,
+          169.775
+        ],
+        "outsideFaceWhiteFraction": 0.04034,
+        "largestWhiteRegion": 0.01208,
+        "sharpness": 2711.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "138": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/138",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/138/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/138-portrait-v5-6ad8fbd33ff6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7832,
+        "faceHash": "c7476af3b19085d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          80,
+          13860,
+          780,
+          14560
+        ],
+        "sourceSize": [
+          800,
+          14855
+        ],
+        "detectedFace": [
+          200.586,
+          13940.43,
+          458.984,
+          538.672
+        ],
+        "outsideFaceWhiteFraction": 0.01878,
+        "largestWhiteRegion": 0.01759,
+        "sharpness": 1595.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "139": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/139",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/139/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/139-portrait-v5-481a34531e53.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "b49321ec4f2a6cb6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          269,
+          11065,
+          646,
+          11442
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          293.848,
+          11097.168,
+          327.93,
+          313.477
+        ],
+        "outsideFaceWhiteFraction": 0.02322,
+        "largestWhiteRegion": 0.00882,
+        "sharpness": 2115.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "140": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/140",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/140/003.webp?v=1782986596",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/140-portrait-v5-872019e486dd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "97636bc8bd1c24b8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          67,
+          1403,
+          323,
+          1659
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          102.93,
+          1436.719,
+          184.766,
+          188.281
+        ],
+        "outsideFaceWhiteFraction": 0.01723,
+        "largestWhiteRegion": 0.00711,
+        "sharpness": 2944.46,
+        "reviewed": true
+      }
+    },
+    "141": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/141",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/141/003.webp?v=1782986423",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/141-portrait-v5-a9eb915981a0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "95094a77b83e2d4d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          315,
+          11660,
+          571,
+          11916
+        ],
+        "sourceSize": [
+          800,
+          14420
+        ],
+        "detectedFace": [
+          377.148,
+          11708.984,
+          130.859,
+          158.203
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 714.01,
+        "reviewed": true
+      }
+    },
+    "142": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/142",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/142/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/142-portrait-v5-d45a22b81193.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7744,
+        "faceHash": "82347f83dc8d33c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          180,
+          4461,
+          735,
+          5016
+        ],
+        "sourceSize": [
+          800,
+          13860
+        ],
+        "detectedFace": [
+          282.617,
+          4539.16,
+          426.953,
+          398.242
+        ],
+        "outsideFaceWhiteFraction": 0.03142,
+        "largestWhiteRegion": 0.0116,
+        "sharpness": 3660.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "143": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/143",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/143/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/143-portrait-v5-15d50ece1037.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "96217ac628ae7795",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          309,
+          9989,
+          631,
+          10311
+        ],
+        "sourceSize": [
+          800,
+          14405
+        ],
+        "detectedFace": [
+          368.359,
+          10041.211,
+          247.656,
+          217.578
+        ],
+        "outsideFaceWhiteFraction": 0.02129,
+        "largestWhiteRegion": 0.00621,
+        "sharpness": 1460.76,
+        "reviewed": true
+      }
+    },
+    "144": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/144",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/144/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/144-portrait-v5-b0b46d6fa2e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "ce4c3f9950a4619f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          142,
+          2042,
+          435,
+          2335
+        ],
+        "sourceSize": [
+          800,
+          14770
+        ],
+        "detectedFace": [
+          178.711,
+          2075.391,
+          220.312,
+          225.391
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1265.54,
+        "reviewed": true
+      }
+    },
+    "145": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/145",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/145/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/145-portrait-v5-e102870b93e4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "cb107a95f6c9649a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          134,
+          4442,
+          390,
+          4698
+        ],
+        "sourceSize": [
+          800,
+          13750
+        ],
+        "detectedFace": [
+          163.867,
+          4474.219,
+          195.703,
+          191.406
+        ],
+        "outsideFaceWhiteFraction": 0.03819,
+        "largestWhiteRegion": 0.01651,
+        "sharpness": 2131.19,
+        "reviewed": true
+      }
+    },
+    "146": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/146",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/146/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/146-portrait-v5-7419690437ff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "96643fd39091656e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          122,
+          11490,
+          378,
+          11746
+        ],
+        "sourceSize": [
+          800,
+          14035
+        ],
+        "detectedFace": [
+          154.59,
+          11528.076,
+          190.039,
+          180.176
+        ],
+        "outsideFaceWhiteFraction": 0.03297,
+        "largestWhiteRegion": 0.01082,
+        "sharpness": 1372.83,
+        "reviewed": true
+      }
+    },
+    "147": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/147",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/147/003.webp?v=1782986284",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/147-portrait-v5-e2a397eabc81.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "c3346f97848e725c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          393,
+          1315,
+          748,
+          1670
+        ],
+        "sourceSize": [
+          800,
+          14005
+        ],
+        "detectedFace": [
+          442.578,
+          1356.152,
+          255.469,
+          272.852
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1577.18,
+        "reviewed": true
+      }
+    },
+    "148": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/148",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/148/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/148-portrait-v5-7f55790188c8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "9ff008d6833b272d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          317,
+          12508,
+          573,
+          12764
+        ],
+        "sourceSize": [
+          800,
+          13865
+        ],
+        "detectedFace": [
+          389.062,
+          12557.422,
+          137.5,
+          157.812
+        ],
+        "outsideFaceWhiteFraction": 0.03009,
+        "largestWhiteRegion": 0.01212,
+        "sharpness": 1232.02,
+        "reviewed": true
+      }
+    },
+    "149": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/149",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/149/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/149-portrait-v5-f1cf26552b8f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8701,
+        "faceHash": "8f5c08cee31b37a8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          152,
+          5349,
+          408,
+          5605
+        ],
+        "sourceSize": [
+          800,
+          14430
+        ],
+        "detectedFace": [
+          200.977,
+          5387.109,
+          158.594,
+          179.688
+        ],
+        "outsideFaceWhiteFraction": 0.01079,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 1012.26,
+        "reviewed": true
+      }
+    },
+    "150": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/150",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/150/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/150-portrait-v5-70d555ca7498.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "fa071144b5ca375b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          108,
+          9835,
+          364,
+          10091
+        ],
+        "sourceSize": [
+          800,
+          14670
+        ],
+        "detectedFace": [
+          166.064,
+          9881.934,
+          139.355,
+          162.305
+        ],
+        "outsideFaceWhiteFraction": 0.02371,
+        "largestWhiteRegion": 0.01674,
+        "sharpness": 2007.43,
+        "reviewed": true
+      }
+    },
+    "151": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/151",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/151/002.webp?v=1792280271",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/151-portrait-v5-173c9552ebdb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8813,
+        "faceHash": "976378ce9c1e26d0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          243,
+          8056,
+          499,
+          8312
+        ],
+        "sourceSize": [
+          800,
+          14450
+        ],
+        "detectedFace": [
+          285.449,
+          8091.016,
+          171.289,
+          185.547
+        ],
+        "outsideFaceWhiteFraction": 0.00069,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2100.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "152": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/152",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/152/7c9c58.webp?v=1790353511",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/152-portrait-v5-3d3a91b53505.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "897569c7d0de7214",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          232,
+          446,
+          678,
+          892
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          283.118,
+          516.357,
+          343.433,
+          305.859
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 720.24,
+        "reviewed": true
+      }
+    },
+    "153": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/153",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/153/ef4708.webp?v=1790355517",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/153-portrait-v5-058cf043705e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "c30b39b4b16b6399",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          313,
+          14943,
+          684,
+          15314
+        ],
+        "sourceSize": [
+          900,
+          15963
+        ],
+        "detectedFace": [
+          369.91,
+          14985.461,
+          256.86,
+          285.425
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2174.26,
+        "reviewed": true
+      }
+    },
+    "154": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/154",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/154/361f85.webp?v=1790867368",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/154-portrait-v5-8612131b9531.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8672,
+        "faceHash": "92b53efe406b2334",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          262,
+          7204,
+          518,
+          7460
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          297.51,
+          7236.694,
+          184.57,
+          190.283
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 450.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters-merged/sss-class-suicide-hunter/144008/005.webp?v=1791412460",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/6-portrait-v5-d5a4a8e2df11.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8843,
+        "faceHash": "83616b82bc9e3e1e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          238,
+          4082,
+          494,
+          4338
+        ],
+        "sourceSize": [
+          720,
+          6039
+        ],
+        "detectedFace": [
+          298.477,
+          4138.066,
+          134.297,
+          144.492
+        ],
+        "outsideFaceWhiteFraction": 0.00218,
+        "largestWhiteRegion": 0.0004,
+        "sharpness": 5769.37,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters-merged/sss-class-suicide-hunter/144108/004.webp?v=1791412460",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/22-portrait-v5-ab4d7003f5dd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "d3a57ae690da05d8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          281,
+          1419,
+          616,
+          1754
+        ],
+        "sourceSize": [
+          720,
+          8235
+        ],
+        "detectedFace": [
+          342.422,
+          1462.148,
+          258.047,
+          248.906
+        ],
+        "outsideFaceWhiteFraction": 0.00136,
+        "largestWhiteRegion": 0.00136,
+        "sharpness": 4530.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/23-portrait-v5-4c7483045b97.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7993,
+        "faceHash": "da282dc6e6c9f219",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          3931,
+          467,
+          4398
+        ],
+        "sourceSize": [
+          720,
+          13176
+        ],
+        "detectedFace": [
+          0.264,
+          3985.488,
+          335.215,
+          358.945
+        ],
+        "outsideFaceWhiteFraction": 0.05022,
+        "largestWhiteRegion": 0.01285,
+        "sharpness": 3333.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/121/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/121-portrait-v5-71e969736aed.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8359,
+        "faceHash": "f48764d04d893fd1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          318,
+          8150,
+          574,
+          8406
+        ],
+        "sourceSize": [
+          800,
+          13405
+        ],
+        "detectedFace": [
+          382.324,
+          8208.594,
+          128.32,
+          139.062
+        ],
+        "outsideFaceWhiteFraction": 0.00397,
+        "largestWhiteRegion": 0.00316,
+        "sharpness": 2036.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "155": {
+      "chapterUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8/chapter/155",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sss-class-suicide-hunter/155/c539b7.webp?v=1791471919",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-suicide-hunter/155-portrait-v5-e853e0e43b37.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "c25a2eb389c9f389",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          206,
+          211,
+          410,
+          415
+        ],
+        "sourceSize": [
+          1532,
+          1024
+        ],
+        "detectedFace": [
+          250.596,
+          228.435,
+          140.259,
+          149.048
+        ],
+        "outsideFaceWhiteFraction": 0.02551,
+        "largestWhiteRegion": 0.01355,
+        "sharpness": 1760.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

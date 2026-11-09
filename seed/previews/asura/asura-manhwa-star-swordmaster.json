@@ -1,0 +1,5604 @@
+{
+  "titleId": "asura-manhwa-star-swordmaster",
+  "revision": 5,
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/1/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/1-portrait-v5-2b4019e158dd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "93527bc3e5086d59",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          156,
+          9083,
+          517,
+          9444
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          205.859,
+          9124.512,
+          261.328,
+          277.539
+        ],
+        "outsideFaceWhiteFraction": 0.04008,
+        "largestWhiteRegion": 0.01749,
+        "sharpness": 3342.63,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/2-portrait-v5-1598deb34dd6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7812,
+        "faceHash": "c1b82f43156f589e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          178,
+          11225,
+          544,
+          11591
+        ],
+        "sourceSize": [
+          800,
+          13105
+        ],
+        "detectedFace": [
+          236.719,
+          11267.578,
+          248.438,
+          281.25
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1948.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/3/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/3-portrait-v5-248d7e891d55.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "83fc2ec231c566dc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          79,
+          12483,
+          335,
+          12739
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          122.852,
+          12517.969,
+          167.578,
+          185.938
+        ],
+        "outsideFaceWhiteFraction": 0.01625,
+        "largestWhiteRegion": 0.00677,
+        "sharpness": 1862.37,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/5-portrait-v5-8bc014868c37.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7505,
+        "faceHash": "c4313dc252ce7ed8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          12860,
+          595,
+          13455
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          100.195,
+          12936.328,
+          457.812,
+          441.406
+        ],
+        "outsideFaceWhiteFraction": 0.01686,
+        "largestWhiteRegion": 0.01686,
+        "sharpness": 2137.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/6/006.webp?v=1789864012",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/6-portrait-v5-e4b66ede0eeb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "91393ac6e46d2769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          81,
+          10156,
+          337,
+          10412
+        ],
+        "sourceSize": [
+          800,
+          14810
+        ],
+        "detectedFace": [
+          124.17,
+          10190.234,
+          170.02,
+          188.281
+        ],
+        "outsideFaceWhiteFraction": 0.00058,
+        "largestWhiteRegion": 0.00058,
+        "sharpness": 1017.97,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/7/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/7-portrait-v5-c1334efb66dd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8735,
+        "faceHash": "cea76ad5a01d2b62",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          32,
+          8243,
+          288,
+          8499
+        ],
+        "sourceSize": [
+          800,
+          14400
+        ],
+        "detectedFace": [
+          73.633,
+          8291.602,
+          172.852,
+          158.984
+        ],
+        "outsideFaceWhiteFraction": 0.01483,
+        "largestWhiteRegion": 0.00877,
+        "sharpness": 2551.06,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/8/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/8-portrait-v5-bbfa014177e9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "fbfb4ac1a00ee710",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          379,
+          9028,
+          668,
+          9317
+        ],
+        "sourceSize": [
+          800,
+          15966
+        ],
+        "detectedFace": [
+          396.68,
+          9061.426,
+          214.453,
+          222.266
+        ],
+        "outsideFaceWhiteFraction": 0.04395,
+        "largestWhiteRegion": 0.01247,
+        "sharpness": 1312.02,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/9/002.webp?v=1784765268",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/9-portrait-v5-844d8e0fbc4e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8823,
+        "faceHash": "d8b57bd2301a264f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          267,
+          7651,
+          523,
+          7907
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          314.746,
+          7695.703,
+          160.742,
+          165.625
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3087.54,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/10/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/10-portrait-v5-6cc1957cd43f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "c2b028cfe10dfb36",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          491,
+          6453,
+          750,
+          6712
+        ],
+        "sourceSize": [
+          800,
+          13920
+        ],
+        "detectedFace": [
+          520.898,
+          6490.039,
+          199.609,
+          185.547
+        ],
+        "outsideFaceWhiteFraction": 0.00119,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 1210.31,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/11/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/11-portrait-v5-30292485a5e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7578,
+        "faceHash": "f7e10eee30797880",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          352,
+          3268,
+          557,
+          3473
+        ],
+        "sourceSize": [
+          800,
+          14580
+        ],
+        "detectedFace": [
+          355.176,
+          3268.652,
+          199.023,
+          178.32
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 266.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/12/d6b5f8.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/12-portrait-v5-85af5f75e1e1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "d5396acaf48c1b26",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          21,
+          10332,
+          277,
+          10588
+        ],
+        "sourceSize": [
+          800,
+          14544
+        ],
+        "detectedFace": [
+          68.115,
+          10371.436,
+          161.621,
+          177.051
+        ],
+        "outsideFaceWhiteFraction": 0.00488,
+        "largestWhiteRegion": 0.00488,
+        "sharpness": 2219.39,
+        "reviewed": true
+      }
+    },
+    "130": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/130",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/130/4eda7a.webp?v=1784651775",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/130-portrait-v5-e2d8228f21cc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "91d01be2bcc972d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          31,
+          13526,
+          437,
+          13932
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          101.074,
+          13572.949,
+          266.309,
+          312.012
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1720.25,
+        "reviewed": true
+      }
+    },
+    "131": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/131",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/131/9cba95.webp?v=1785255794",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/131-portrait-v5-3c5eb4ec02f9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "99486cd6f11b61bc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          257,
+          2388,
+          627,
+          2758
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          314.099,
+          2430.286,
+          256.421,
+          284.546
+        ],
+        "outsideFaceWhiteFraction": 0.01955,
+        "largestWhiteRegion": 0.01526,
+        "sharpness": 1317.34,
+        "reviewed": true
+      }
+    },
+    "132": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/132",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/132/bd0e1e.webp?v=1786199908",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/132-portrait-v5-90fc5ee22767.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7876,
+        "faceHash": "d4c26ba5b98da43a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          111,
+          2031,
+          474,
+          2394
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          188.47,
+          2073.23,
+          207.532,
+          279.492
+        ],
+        "outsideFaceWhiteFraction": 0.00761,
+        "largestWhiteRegion": 0.00171,
+        "sharpness": 2162.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "133": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/133",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/133/d1d0bf.webp?v=1786464944",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/133-portrait-v5-b30d8212ad21.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7378,
+        "faceHash": "8785adc9d3d0b295",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          72,
+          6069,
+          726,
+          6723
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          147.656,
+          6162.012,
+          503.174,
+          467.139
+        ],
+        "outsideFaceWhiteFraction": 0.0007,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 1090.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/13/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/13-portrait-v5-774be4bfd198.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8735,
+        "faceHash": "83a07e90b1dd5aa7",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          367,
+          6539,
+          630,
+          6802
+        ],
+        "sourceSize": [
+          800,
+          13215
+        ],
+        "detectedFace": [
+          396.973,
+          6573.633,
+          202.148,
+          194.141
+        ],
+        "outsideFaceWhiteFraction": 0.00078,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 1373.61,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/14/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/14-portrait-v5-87c0b3adc389.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "dd893aa765276609",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          242,
+          697,
+          557,
+          1012
+        ],
+        "sourceSize": [
+          800,
+          11698
+        ],
+        "detectedFace": [
+          285.938,
+          733.496,
+          226.953,
+          242.383
+        ],
+        "outsideFaceWhiteFraction": 0.00537,
+        "largestWhiteRegion": 0.00156,
+        "sharpness": 1511.22,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/15/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/15-portrait-v5-beeb119b4ef8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "dd8469b236e54671",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          151,
+          7486,
+          407,
+          7742
+        ],
+        "sourceSize": [
+          800,
+          13600
+        ],
+        "detectedFace": [
+          187.451,
+          7533.496,
+          182.52,
+          161.914
+        ],
+        "outsideFaceWhiteFraction": 0.01364,
+        "largestWhiteRegion": 0.01126,
+        "sharpness": 1458.5,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/16-portrait-v5-00af8c1b663b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "91cd6af2d0b82c9e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          229,
+          7504,
+          590,
+          7865
+        ],
+        "sourceSize": [
+          800,
+          13965
+        ],
+        "detectedFace": [
+          246.094,
+          7556.055,
+          277.344,
+          256.641
+        ],
+        "outsideFaceWhiteFraction": 0.01749,
+        "largestWhiteRegion": 0.01735,
+        "sharpness": 1068.97,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/17-portrait-v5-970997781046.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "85847c1e73386c7e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          217,
+          11971,
+          607,
+          12361
+        ],
+        "sourceSize": [
+          800,
+          13895
+        ],
+        "detectedFace": [
+          269.629,
+          12015.723,
+          284.961,
+          299.805
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 696.07,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/18/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/18-portrait-v5-952edf859cb6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8799,
+        "faceHash": "c9c56c96b538666c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          461,
+          7941,
+          721,
+          8201
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          500.391,
+          7970.801,
+          182.031,
+          200.195
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2540.25,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/19/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/19-portrait-v5-e8250148c99a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "89d5f5c276756a40",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          226,
+          13485,
+          516,
+          13775
+        ],
+        "sourceSize": [
+          800,
+          15379
+        ],
+        "detectedFace": [
+          259.668,
+          13518.652,
+          222.07,
+          222.852
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1569.61,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/20-portrait-v5-c3e55a37cfb9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "cba770ccf21e23e0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          12,
+          3209,
+          304,
+          3501
+        ],
+        "sourceSize": [
+          800,
+          12997
+        ],
+        "detectedFace": [
+          91.162,
+          3260.938,
+          133.105,
+          188.672
+        ],
+        "outsideFaceWhiteFraction": 0.02115,
+        "largestWhiteRegion": 0.01746,
+        "sharpness": 1842.13,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/21-portrait-v5-7eb2eaf5d78c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "d1206a395daf3a95",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          278,
+          4965,
+          594,
+          5281
+        ],
+        "sourceSize": [
+          800,
+          13770
+        ],
+        "detectedFace": [
+          314.551,
+          5001.953,
+          242.773,
+          241.797
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 909.45,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/22/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/22-portrait-v5-3a46cae1f4e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "8ce43dc3b02d6a6e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          170,
+          3459,
+          455,
+          3744
+        ],
+        "sourceSize": [
+          800,
+          13530
+        ],
+        "detectedFace": [
+          203.027,
+          3491.602,
+          218.945,
+          219.141
+        ],
+        "outsideFaceWhiteFraction": 0.03258,
+        "largestWhiteRegion": 0.01645,
+        "sharpness": 1061.92,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/25/003.webp?v=1793078370",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/25-portrait-v5-de02f1b8790d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "dfa56ad6a11b224c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          493,
+          3402,
+          791,
+          3700
+        ],
+        "sourceSize": [
+          800,
+          14480
+        ],
+        "detectedFace": [
+          535.156,
+          3436.328,
+          213.281,
+          228.906
+        ],
+        "outsideFaceWhiteFraction": 0.00655,
+        "largestWhiteRegion": 0.00647,
+        "sharpness": 1269.77,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/26-portrait-v5-6808f396c4fe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "d5942f426a696acb",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          360,
+          6845,
+          616,
+          7101
+        ],
+        "sourceSize": [
+          800,
+          14675
+        ],
+        "detectedFace": [
+          408.984,
+          6892.578,
+          158.594,
+          160.938
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 306.06,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/27-portrait-v5-e1e139d28752.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "98193c87f4c56ba5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          324,
+          3360,
+          637,
+          3673
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          324.609,
+          3380.762,
+          264.062,
+          272.07
+        ],
+        "outsideFaceWhiteFraction": 0.03912,
+        "largestWhiteRegion": 0.01503,
+        "sharpness": 1541.24,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/28/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/28-portrait-v5-9432448c5b56.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "93f16ba2e5833899",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          198,
+          923,
+          556,
+          1281
+        ],
+        "sourceSize": [
+          800,
+          14955
+        ],
+        "detectedFace": [
+          267.773,
+          946.484,
+          266.797,
+          310.938
+        ],
+        "outsideFaceWhiteFraction": 0.04018,
+        "largestWhiteRegion": 0.00954,
+        "sharpness": 2020.36,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/30/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/30-portrait-v5-81f252f7c977.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "ca752892d44df24f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          454,
+          4649,
+          719,
+          4914
+        ],
+        "sourceSize": [
+          800,
+          13510
+        ],
+        "detectedFace": [
+          491.211,
+          4679.883,
+          191.016,
+          203.516
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 597.01,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/31/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/31-portrait-v5-80bd1bfb114b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "d4ab7ac51b962592",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          65,
+          5878,
+          378,
+          6191
+        ],
+        "sourceSize": [
+          800,
+          12565
+        ],
+        "detectedFace": [
+          93.359,
+          5914.062,
+          217.969,
+          240.625
+        ],
+        "outsideFaceWhiteFraction": 0.01961,
+        "largestWhiteRegion": 0.01436,
+        "sharpness": 1798.98,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/33/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/33-portrait-v5-86c7fa7771bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "8dbc3dca94dc6c14",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          466,
+          13298,
+          724,
+          13556
+        ],
+        "sourceSize": [
+          800,
+          14925
+        ],
+        "detectedFace": [
+          509.375,
+          13328.223,
+          171.875,
+          198.242
+        ],
+        "outsideFaceWhiteFraction": 0.00461,
+        "largestWhiteRegion": 0.00308,
+        "sharpness": 1172.98,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/36/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/36-portrait-v5-b135268c5d85.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "c070695b35ba1ece",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          529,
+          3008,
+          785,
+          3264
+        ],
+        "sourceSize": [
+          800,
+          13530
+        ],
+        "detectedFace": [
+          574.219,
+          3044.336,
+          166.406,
+          182.422
+        ],
+        "outsideFaceWhiteFraction": 0.01619,
+        "largestWhiteRegion": 0.01619,
+        "sharpness": 1805.33,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/126/e99a27.webp?v=1781638370",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/126-portrait-v5-42fb4ee55871.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "dd856ab12cd6a2c3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          644,
+          8685,
+          900,
+          8941
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          742.236,
+          8742.48,
+          120.41,
+          140.625
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1129.85,
+        "reviewed": true
+      }
+    },
+    "128": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/128",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/128/0edcbe.webp?v=1783451963",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/128-portrait-v5-a27ab5c9682d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "d76e7a0de0b8c390",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          509,
+          13543,
+          800,
+          13834
+        ],
+        "sourceSize": [
+          800,
+          14925
+        ],
+        "detectedFace": [
+          625.586,
+          13576.172,
+          174.609,
+          224.219
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 923.21,
+        "reviewed": true
+      }
+    },
+    "134": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/134",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/134/f85e93.webp?v=1787070537",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/134-portrait-v5-e2cbc7cdbb38.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "d2b47886a55d65a9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          553,
+          11028,
+          842,
+          11317
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          603.809,
+          11047.302,
+          228.516,
+          251.147
+        ],
+        "outsideFaceWhiteFraction": 0.0184,
+        "largestWhiteRegion": 0.0076,
+        "sharpness": 1982.41,
+        "reviewed": true
+      }
+    },
+    "135": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/135",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/135/faf8ae.webp?v=1787672848",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/135-portrait-v5-c113c3471b81.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8794,
+        "faceHash": "87a82e87a14e7799",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          234,
+          15038,
+          490,
+          15294
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          269.385,
+          15072.528,
+          185.01,
+          187.317
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1367.23,
+        "reviewed": true
+      }
+    },
+    "136": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/136",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/136/d920f9.webp?v=1791648922",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/136-portrait-v5-7fd5ff35aebd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7222,
+        "faceHash": "aac996683aa5c9e6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          448,
+          2662,
+          897,
+          3111
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          556.348,
+          2741.968,
+          232.91,
+          289.38
+        ],
+        "outsideFaceWhiteFraction": 0.02081,
+        "largestWhiteRegion": 0.01765,
+        "sharpness": 2169.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "140": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/140",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/140/d7040b.webp?v=1790703158",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/140-portrait-v5-0b53978bb578.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "c3c72f9e3878701c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          520,
+          626,
+          847
+        ],
+        "sourceSize": [
+          900,
+          5866
+        ],
+        "detectedFace": [
+          361.34,
+          558.105,
+          201.929,
+          251.367
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 641.79,
+        "reviewed": true
+      }
+    },
+    "141": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/141",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/141/db4fe1.webp?v=1791644026",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/141-portrait-v5-b1174c68df5e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "88b469d2e1ca2f6d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          315,
+          2332,
+          611,
+          2628
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          349.146,
+          2375.024,
+          228.076,
+          210.498
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1449.99,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/37/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/37-portrait-v5-8b54f09fd050.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "d4814bc2e71e2b6e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          394,
+          235,
+          674,
+          515
+        ],
+        "sourceSize": [
+          800,
+          13425
+        ],
+        "detectedFace": [
+          437.891,
+          253.027,
+          192.188,
+          243.164
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1248.46,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/38/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/38-portrait-v5-5d51a026e51a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "cb1226193b2d2f37",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          107,
+          10918,
+          366,
+          11177
+        ],
+        "sourceSize": [
+          800,
+          13875
+        ],
+        "detectedFace": [
+          146.094,
+          10948.096,
+          180.469,
+          199.512
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 687.56,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/41/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/41-portrait-v5-5ed3cd0fae47.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "91c55ee7c3972988",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          216,
+          8059,
+          551,
+          8394
+        ],
+        "sourceSize": [
+          800,
+          13455
+        ],
+        "detectedFace": [
+          270.312,
+          8080.566,
+          225.781,
+          291.211
+        ],
+        "outsideFaceWhiteFraction": 0.01459,
+        "largestWhiteRegion": 0.01338,
+        "sharpness": 1286.38,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/42/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/42-portrait-v5-c48b18cc0b0c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "91b739d21ecb2564",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          11693,
+          256,
+          11949
+        ],
+        "sourceSize": [
+          800,
+          14220
+        ],
+        "detectedFace": [
+          -0.049,
+          11737.891,
+          124.316,
+          165.625
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1001.12,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/43-portrait-v5-4e979f051e5c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "da646996b719710d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          244,
+          666,
+          500,
+          922
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          265.527,
+          694.678,
+          212.695,
+          198.73
+        ],
+        "outsideFaceWhiteFraction": 0.03329,
+        "largestWhiteRegion": 0.01474,
+        "sharpness": 1982.49,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/44/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/44-portrait-v5-a8e8cbebf966.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "8888acc3f16d7b5c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          257,
+          7152,
+          625,
+          7520
+        ],
+        "sourceSize": [
+          800,
+          14575
+        ],
+        "detectedFace": [
+          298.926,
+          7210.449,
+          283.398,
+          250.977
+        ],
+        "outsideFaceWhiteFraction": 0.009,
+        "largestWhiteRegion": 0.00388,
+        "sharpness": 451.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/46/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/46-portrait-v5-eab3b474b847.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "83e07c86e0de7b4c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          6,
+          8062,
+          262,
+          8318
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          54.443,
+          8095.703,
+          159.473,
+          189.062
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 825.33,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/47/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/47-portrait-v5-d103e333165a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "95e56a96353c6661",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          126,
+          6873,
+          382,
+          7129
+        ],
+        "sourceSize": [
+          800,
+          13840
+        ],
+        "detectedFace": [
+          166.309,
+          6908.008,
+          175.977,
+          186.328
+        ],
+        "outsideFaceWhiteFraction": 0.01251,
+        "largestWhiteRegion": 0.00536,
+        "sharpness": 2163.34,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/48/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/48-portrait-v5-6fa35c95fda3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "a07c2fc340e8f3ae",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          193,
+          12159,
+          449,
+          12415
+        ],
+        "sourceSize": [
+          800,
+          13405
+        ],
+        "detectedFace": [
+          246.777,
+          12196.143,
+          180.664,
+          180.762
+        ],
+        "outsideFaceWhiteFraction": 0.02333,
+        "largestWhiteRegion": 0.01755,
+        "sharpness": 1176.82,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/49/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/49-portrait-v5-93b8b26389aa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "d482f692a47a6e4d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          432,
+          13855,
+          678,
+          14101
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          461.523,
+          13841.797,
+          228.516,
+          239.258
+        ],
+        "outsideFaceWhiteFraction": 0.00243,
+        "largestWhiteRegion": 0.00114,
+        "sharpness": 967.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/50/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/50-portrait-v5-fa3e2e854f63.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "d5b02ccbf06c332e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          450,
+          846,
+          718,
+          1114
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          467.969,
+          864.355,
+          232.812,
+          231.445
+        ],
+        "outsideFaceWhiteFraction": 0.05203,
+        "largestWhiteRegion": 0.01341,
+        "sharpness": 1256.41,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/51/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/51-portrait-v5-746d0d336d50.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "dcb868d1258d3975",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          325,
+          8868,
+          613,
+          9156
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          363.184,
+          8901.367,
+          211.133,
+          221.484
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1214.54,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/53/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/53-portrait-v5-4909be82d91f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "81c4bf865e2d399a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          3644,
+          336,
+          3980
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          -0.098,
+          3682.715,
+          207.031,
+          258.398
+        ],
+        "outsideFaceWhiteFraction": 0.00557,
+        "largestWhiteRegion": 0.0011,
+        "sharpness": 1112.35,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/54/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/54-portrait-v5-c74ac0c82df1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "c2a0a0dc957d2f6b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          207,
+          7728,
+          512,
+          8033
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          241.797,
+          7770.117,
+          234.766,
+          221.484
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1300.83,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/55/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/55-portrait-v5-0aa6573086c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "c07229dbb6cd704e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          6091,
+          290,
+          6381
+        ],
+        "sourceSize": [
+          800,
+          14510
+        ],
+        "detectedFace": [
+          0.0,
+          6124.023,
+          179.492,
+          223.438
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 610.08,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/57/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/57-portrait-v5-618e7f5a23c8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8799,
+        "faceHash": "83a95fc3b15c3d0c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          150,
+          10008,
+          407,
+          10265
+        ],
+        "sourceSize": [
+          800,
+          14050
+        ],
+        "detectedFace": [
+          193.799,
+          10037.305,
+          169.043,
+          198.047
+        ],
+        "outsideFaceWhiteFraction": 0.00092,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1277.63,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/59/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/59-portrait-v5-466d10b2587f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "88eb3d83c2d8de31",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          6279,
+          334,
+          6613
+        ],
+        "sourceSize": [
+          800,
+          15685
+        ],
+        "detectedFace": [
+          21.484,
+          6317.773,
+          237.891,
+          256.641
+        ],
+        "outsideFaceWhiteFraction": 0.02255,
+        "largestWhiteRegion": 0.00876,
+        "sharpness": 1782.06,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/61/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/61-portrait-v5-c2e435ee205b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "9db56ccb72743604",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          158,
+          4775,
+          414,
+          5031
+        ],
+        "sourceSize": [
+          800,
+          13385
+        ],
+        "detectedFace": [
+          197.852,
+          4825.586,
+          175.391,
+          154.297
+        ],
+        "outsideFaceWhiteFraction": 0.00124,
+        "largestWhiteRegion": 0.00069,
+        "sharpness": 4022.05,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/62/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/62-portrait-v5-7b72fc4998eb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "c84a2797671a365d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          285,
+          723,
+          562,
+          1000
+        ],
+        "sourceSize": [
+          800,
+          14385
+        ],
+        "detectedFace": [
+          334.375,
+          755.176,
+          178.125,
+          212.695
+        ],
+        "outsideFaceWhiteFraction": 0.00041,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 902.48,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/63/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/63-portrait-v5-0a856965af3b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "dcf0748d531c33e4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          59,
+          11782,
+          315,
+          12038
+        ],
+        "sourceSize": [
+          800,
+          14340
+        ],
+        "detectedFace": [
+          138.623,
+          11840.039,
+          118.652,
+          140.234
+        ],
+        "outsideFaceWhiteFraction": 0.02231,
+        "largestWhiteRegion": 0.0107,
+        "sharpness": 1644.71,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/64/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/64-portrait-v5-df6ae93b45a1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "8c9fa3737071682b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          270,
+          13363,
+          526,
+          13619
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          314.453,
+          13392.871,
+          166.406,
+          196.68
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 950.35,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/65/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/65-portrait-v5-a7ca11570256.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "c5256e0e713b706e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          23,
+          2936,
+          279,
+          3192
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          57.959,
+          2958.984,
+          185.84,
+          210.156
+        ],
+        "outsideFaceWhiteFraction": 0.03697,
+        "largestWhiteRegion": 0.01636,
+        "sharpness": 1835.19,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/66/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/66-portrait-v5-115e378ac2ab.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "d1f92ec6707921a5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          254,
+          11344,
+          510,
+          11600
+        ],
+        "sourceSize": [
+          800,
+          14075
+        ],
+        "detectedFace": [
+          290.625,
+          11382.422,
+          183.594,
+          179.688
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1389.08,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/67/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/67-portrait-v5-68711998a122.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.876,
+        "faceHash": "9a902cc7634d3e6d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          51,
+          12830,
+          307,
+          13086
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          115.576,
+          12868.262,
+          155.762,
+          180.273
+        ],
+        "outsideFaceWhiteFraction": 0.04025,
+        "largestWhiteRegion": 0.01654,
+        "sharpness": 1489.84,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/68/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/68-portrait-v5-11f2c6a9a542.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "895139c6a45f37a9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          66,
+          7453,
+          404,
+          7791
+        ],
+        "sourceSize": [
+          800,
+          13060
+        ],
+        "detectedFace": [
+          124.121,
+          7492.188,
+          221.289,
+          260.156
+        ],
+        "outsideFaceWhiteFraction": 0.00481,
+        "largestWhiteRegion": 0.00171,
+        "sharpness": 1456.53,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/69/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/69-portrait-v5-e6e81fa4cc60.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "8b4b7d84e09c63b9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          125,
+          2986,
+          453,
+          3314
+        ],
+        "sourceSize": [
+          800,
+          13780
+        ],
+        "detectedFace": [
+          173.438,
+          3024.121,
+          230.469,
+          252.539
+        ],
+        "outsideFaceWhiteFraction": 0.00526,
+        "largestWhiteRegion": 0.00143,
+        "sharpness": 1490.0,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/70/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/70-portrait-v5-45b084b0cd43.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "d5916d93a16c6b4c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          377,
+          2615,
+          706,
+          2944
+        ],
+        "sourceSize": [
+          800,
+          13640
+        ],
+        "detectedFace": [
+          432.227,
+          2653.027,
+          217.578,
+          253.32
+        ],
+        "outsideFaceWhiteFraction": 0.00815,
+        "largestWhiteRegion": 0.00449,
+        "sharpness": 2327.19,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/71/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/71-portrait-v5-6fcba35fd997.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "d09e7095a1897af5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          330,
+          6741,
+          642,
+          7053
+        ],
+        "sourceSize": [
+          800,
+          13395
+        ],
+        "detectedFace": [
+          357.91,
+          6761.621,
+          256.836,
+          271.68
+        ],
+        "outsideFaceWhiteFraction": 0.00095,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 1661.5,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/4/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/4-portrait-v5-a0c6a5ddfcb4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7656,
+        "faceHash": "c0bb898fa63969c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          145,
+          1741,
+          620,
+          2216
+        ],
+        "sourceSize": [
+          800,
+          13690
+        ],
+        "detectedFace": [
+          200.0,
+          1841.699,
+          365.625,
+          272.852
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1665.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/23-portrait-v5-40002e36bb31.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "9959398ff04c633c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          210,
+          11725,
+          638,
+          12153
+        ],
+        "sourceSize": [
+          800,
+          14025
+        ],
+        "detectedFace": [
+          221.484,
+          11753.125,
+          342.969,
+          371.875
+        ],
+        "outsideFaceWhiteFraction": 0.04683,
+        "largestWhiteRegion": 0.01761,
+        "sharpness": 2279.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/24-portrait-v5-66691bb7c674.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8306,
+        "faceHash": "87d66bc3299e3548",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          145,
+          6630,
+          581,
+          7066
+        ],
+        "sourceSize": [
+          800,
+          13025
+        ],
+        "detectedFace": [
+          223.438,
+          6680.371,
+          279.297,
+          335.742
+        ],
+        "outsideFaceWhiteFraction": 0.00682,
+        "largestWhiteRegion": 0.00485,
+        "sharpness": 1632.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/29/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/29-portrait-v5-18eb98a9aba6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "9fa76ad62198624d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          261,
+          5054,
+          711,
+          5504
+        ],
+        "sourceSize": [
+          800,
+          13490
+        ],
+        "detectedFace": [
+          312.5,
+          5114.355,
+          346.094,
+          329.883
+        ],
+        "outsideFaceWhiteFraction": 0.01193,
+        "largestWhiteRegion": 0.00546,
+        "sharpness": 2036.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/32/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/32-portrait-v5-3e447e12b2d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7588,
+        "faceHash": "91b96ec2f437a4c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          48,
+          703,
+          792,
+          1447
+        ],
+        "sourceSize": [
+          800,
+          12835
+        ],
+        "detectedFace": [
+          134.766,
+          788.281,
+          569.531,
+          572.656
+        ],
+        "outsideFaceWhiteFraction": 0.00572,
+        "largestWhiteRegion": 0.00273,
+        "sharpness": 2389.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/34/002.webp?v=1785589992",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/34-portrait-v5-db4b8ef98571.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7812,
+        "faceHash": "de2e4261e1cd9785",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          181,
+          9047,
+          800,
+          9666
+        ],
+        "sourceSize": [
+          800,
+          14875
+        ],
+        "detectedFace": [
+          372.266,
+          9086.719,
+          427.344,
+          538.672
+        ],
+        "outsideFaceWhiteFraction": 0.0173,
+        "largestWhiteRegion": 0.01653,
+        "sharpness": 913.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/35/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/35-portrait-v5-1ef7a58caf5f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "91356bc2943b6b4d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          153,
+          3571,
+          674,
+          4092
+        ],
+        "sourceSize": [
+          800,
+          13880
+        ],
+        "detectedFace": [
+          213.477,
+          3654.199,
+          400.391,
+          355.273
+        ],
+        "outsideFaceWhiteFraction": 0.01691,
+        "largestWhiteRegion": 0.00468,
+        "sharpness": 1740.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/39/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/39-portrait-v5-b54d38290200.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "8eb87dc56686b0ca",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          272,
+          7904,
+          599,
+          8231
+        ],
+        "sourceSize": [
+          800,
+          14360
+        ],
+        "detectedFace": [
+          319.141,
+          7942.578,
+          284.375,
+          250.781
+        ],
+        "outsideFaceWhiteFraction": 0.0249,
+        "largestWhiteRegion": 0.01585,
+        "sharpness": 1958.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/40/007.webp?v=1785592607",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/40-portrait-v5-09d7929081e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7915,
+        "faceHash": "c7f76dc8b1c4320c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          126,
+          2609,
+          750,
+          3233
+        ],
+        "sourceSize": [
+          800,
+          13675
+        ],
+        "detectedFace": [
+          166.602,
+          2668.75,
+          542.578,
+          503.906
+        ],
+        "outsideFaceWhiteFraction": 0.03482,
+        "largestWhiteRegion": 0.01334,
+        "sharpness": 2537.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/45/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/45-portrait-v5-b6cdb4e6fb85.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7173,
+        "faceHash": "cdd415ed9292da58",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          119,
+          13740,
+          734,
+          14355
+        ],
+        "sourceSize": [
+          800,
+          14900
+        ],
+        "detectedFace": [
+          202.734,
+          13810.352,
+          447.656,
+          473.438
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 857.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/52-portrait-v5-ed1453b65a9c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8271,
+        "faceHash": "d0b46ecbe06229db",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          176,
+          496,
+          515,
+          835
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          215.234,
+          540.43,
+          260.547,
+          249.609
+        ],
+        "outsideFaceWhiteFraction": 0.03773,
+        "largestWhiteRegion": 0.01657,
+        "sharpness": 1192.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/56/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/56-portrait-v5-da5729dc750f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7778,
+        "faceHash": "e0e01fa3c1c7cfc2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          132,
+          14554,
+          677,
+          15099
+        ],
+        "sourceSize": [
+          800,
+          15855
+        ],
+        "detectedFace": [
+          219.434,
+          14616.602,
+          369.727,
+          419.141
+        ],
+        "outsideFaceWhiteFraction": 0.00166,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 1072.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/119/136af6.webp?v=1776790911",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/119-portrait-v5-05954b8344fe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.792,
+        "faceHash": "ff80e8d3d1d27482",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          235,
+          3005,
+          491,
+          3261
+        ],
+        "sourceSize": [
+          800,
+          14780
+        ],
+        "detectedFace": [
+          290.527,
+          3052.148,
+          145.898,
+          161.328
+        ],
+        "outsideFaceWhiteFraction": 0.02126,
+        "largestWhiteRegion": 0.00536,
+        "sharpness": 1824.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/120/4e9215.webp?v=1777396429",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/120-portrait-v5-f90975afad8f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "82e27a89f01f633b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          167,
+          8932,
+          657,
+          9422
+        ],
+        "sourceSize": [
+          900,
+          14551
+        ],
+        "detectedFace": [
+          198.962,
+          8974.072,
+          426.05,
+          405.615
+        ],
+        "outsideFaceWhiteFraction": 0.03734,
+        "largestWhiteRegion": 0.01651,
+        "sharpness": 2506.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/121/37b0e7.webp?v=1778006939",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/121-portrait-v5-efcac7922b57.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7798,
+        "faceHash": "dbe674dda7110458",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          402,
+          13605,
+          673,
+          13876
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          460.742,
+          13636.133,
+          152.734,
+          208.203
+        ],
+        "outsideFaceWhiteFraction": 0.00255,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 1138.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/122/92d0af.webp?v=1779205912",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/122-portrait-v5-98d2d8562178.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7822,
+        "faceHash": "f8f8dc070a56a5aa",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          356,
+          14224,
+          771,
+          14639
+        ],
+        "sourceSize": [
+          900,
+          15965
+        ],
+        "detectedFace": [
+          374.634,
+          14299.146,
+          319.482,
+          264.111
+        ],
+        "outsideFaceWhiteFraction": 0.02136,
+        "largestWhiteRegion": 0.01341,
+        "sharpness": 1554.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/123/175dc7.webp?v=1779813475",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/123-portrait-v5-f3da1abc2029.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7275,
+        "faceHash": "85e4a6d0d2ed7866",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          69,
+          4101,
+          852,
+          4884
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          158.862,
+          4152.173,
+          604.248,
+          681.152
+        ],
+        "outsideFaceWhiteFraction": 0.03741,
+        "largestWhiteRegion": 0.0163,
+        "sharpness": 1257.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/124/07b9a8.webp?v=1780420264",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/124-portrait-v5-4fb6bb23d34d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "92f039c7259e24f9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          153,
+          15144,
+          490,
+          15481
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          192.041,
+          15182.727,
+          259.277,
+          259.058
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1579.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/125/ee4066.webp?v=1781018558",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/125-portrait-v5-dd65ca7ca9b5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7754,
+        "faceHash": "bdd30200cded7a3c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          496,
+          9523,
+          879,
+          9906
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          602.271,
+          9547.559,
+          170.068,
+          333.105
+        ],
+        "outsideFaceWhiteFraction": 0.00082,
+        "largestWhiteRegion": 0.00043,
+        "sharpness": 1135.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/127/b5a755.webp?v=1782836618",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/127-portrait-v5-684f76c24070.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7251,
+        "faceHash": "9db5270240f46d9f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          50,
+          2063,
+          818,
+          2831
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          138.208,
+          2184.741,
+          590.625,
+          524.268
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 569.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "129": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/129",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/129/7dfa25.webp?v=1784050943",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/129-portrait-v5-ceb46c8bdf26.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7563,
+        "faceHash": "fca95e82175a2e85",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          112,
+          14473,
+          744,
+          15105
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          192.041,
+          14545.679,
+          472.412,
+          486.475
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 363.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "138": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/138",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/138/60fe30.webp?v=1789568026",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/138-portrait-v5-9b0441b2df15.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8403,
+        "faceHash": "9292accf605c5bb5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          349,
+          5531,
+          605,
+          5787
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          379.248,
+          5561.938,
+          195.117,
+          193.359
+        ],
+        "outsideFaceWhiteFraction": 0.04016,
+        "largestWhiteRegion": 0.01248,
+        "sharpness": 1371.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "139": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/139",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/139/f8ce12.webp?v=1790101786",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/139-portrait-v5-385f4bc36d7d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7891,
+        "faceHash": "cfc11c8d7b1a03dc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          482,
+          10445,
+          738,
+          10701
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          518.115,
+          10479.858,
+          182.812,
+          186.768
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 718.46,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/58/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/58-portrait-v5-8928942a2af5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8286,
+        "faceHash": "8898eb476bab8a4e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          79,
+          8536,
+          344,
+          8801
+        ],
+        "sourceSize": [
+          800,
+          14385
+        ],
+        "detectedFace": [
+          109.57,
+          8569.385,
+          203.516,
+          197.559
+        ],
+        "outsideFaceWhiteFraction": 0.01921,
+        "largestWhiteRegion": 0.01195,
+        "sharpness": 1098.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/60-portrait-v5-bf4134c9e968.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7397,
+        "faceHash": "c9663bc7e11a258e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          239,
+          2996,
+          656,
+          3413
+        ],
+        "sourceSize": [
+          800,
+          14480
+        ],
+        "detectedFace": [
+          286.719,
+          3065.625,
+          321.094,
+          278.516
+        ],
+        "outsideFaceWhiteFraction": 0.00435,
+        "largestWhiteRegion": 0.00375,
+        "sharpness": 1265.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/72/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/72-portrait-v5-9a31e47d47da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7739,
+        "faceHash": "d784329f25347e98",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          490,
+          9269,
+          772,
+          9551
+        ],
+        "sourceSize": [
+          800,
+          13260
+        ],
+        "detectedFace": [
+          534.57,
+          9301.66,
+          192.578,
+          216.992
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 389.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/73/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/73-portrait-v5-30c69fe02534.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8066,
+        "faceHash": "81fabec5cb60631c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          61,
+          11519,
+          452,
+          11910
+        ],
+        "sourceSize": [
+          800,
+          12944
+        ],
+        "detectedFace": [
+          133.203,
+          11613.965,
+          300.781,
+          200.586
+        ],
+        "outsideFaceWhiteFraction": 0.02499,
+        "largestWhiteRegion": 0.00636,
+        "sharpness": 2640.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/74/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/74-portrait-v5-1619c848de39.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "816bf89ed21cc5e1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          81,
+          4886,
+          337,
+          5142
+        ],
+        "sourceSize": [
+          800,
+          13650
+        ],
+        "detectedFace": [
+          142.285,
+          4933.887,
+          132.617,
+          160.742
+        ],
+        "outsideFaceWhiteFraction": 0.04155,
+        "largestWhiteRegion": 0.01366,
+        "sharpness": 1885.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/75/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/75-portrait-v5-6ab7243d2e91.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "85a47ed3312b2f4c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          451,
+          11631,
+          732,
+          11912
+        ],
+        "sourceSize": [
+          800,
+          14910
+        ],
+        "detectedFace": [
+          500.977,
+          11663.281,
+          180.859,
+          216.016
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1384.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/76/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/76-portrait-v5-a3c8741d88f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "ddd5a3a3222664dc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          243,
+          5368,
+          499,
+          5624
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          288.965,
+          5414.062,
+          165.039,
+          163.281
+        ],
+        "outsideFaceWhiteFraction": 0.00105,
+        "largestWhiteRegion": 0.00047,
+        "sharpness": 1210.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/77/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/77-portrait-v5-1f351d48d4de.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8516,
+        "faceHash": "d62b29c56b9c6076",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          483,
+          1098,
+          739,
+          1354
+        ],
+        "sourceSize": [
+          800,
+          14400
+        ],
+        "detectedFace": [
+          516.797,
+          1133.594,
+          187.5,
+          185.156
+        ],
+        "outsideFaceWhiteFraction": 0.00374,
+        "largestWhiteRegion": 0.00276,
+        "sharpness": 1453.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/78/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/78-portrait-v5-e2e7ac164aa4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "c8906ddbe4cc313d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          315,
+          9980,
+          630,
+          10295
+        ],
+        "sourceSize": [
+          800,
+          13205
+        ],
+        "detectedFace": [
+          351.074,
+          10018.164,
+          242.383,
+          238.672
+        ],
+        "outsideFaceWhiteFraction": 0.03671,
+        "largestWhiteRegion": 0.01219,
+        "sharpness": 1839.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/79/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/79-portrait-v5-71408e4f2d5c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "92989595ceda6a69",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          151,
+          3284,
+          687,
+          3820
+        ],
+        "sourceSize": [
+          800,
+          10200
+        ],
+        "detectedFace": [
+          246.973,
+          3345.703,
+          343.555,
+          412.5
+        ],
+        "outsideFaceWhiteFraction": 0.00635,
+        "largestWhiteRegion": 0.00456,
+        "sharpness": 1036.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/80/83e1a0.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/80-portrait-v5-13d6a5c6b1fe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "83147ea9714df06e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          164,
+          2688,
+          542,
+          3066
+        ],
+        "sourceSize": [
+          800,
+          13540
+        ],
+        "detectedFace": [
+          207.324,
+          2753.32,
+          290.82,
+          247.266
+        ],
+        "outsideFaceWhiteFraction": 0.01024,
+        "largestWhiteRegion": 0.00642,
+        "sharpness": 1171.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/81-portrait-v5-7b536a8dcc35.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "ffdc03806c4b20df",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          453,
+          8892,
+          800,
+          9239
+        ],
+        "sourceSize": [
+          800,
+          14365
+        ],
+        "detectedFace": [
+          543.164,
+          8931.738,
+          233.984,
+          266.992
+        ],
+        "outsideFaceWhiteFraction": 0.02269,
+        "largestWhiteRegion": 0.00865,
+        "sharpness": 1035.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/82/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/82-portrait-v5-1966b2a39984.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "c5f42d4723683b5c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          282,
+          12759,
+          644,
+          13121
+        ],
+        "sourceSize": [
+          800,
+          14640
+        ],
+        "detectedFace": [
+          328.223,
+          12801.172,
+          268.555,
+          278.125
+        ],
+        "outsideFaceWhiteFraction": 0.00159,
+        "largestWhiteRegion": 0.00075,
+        "sharpness": 798.78,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/83/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/83-portrait-v5-f959979b6315.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7388,
+        "faceHash": "d24a0d9c3af9e193",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          288,
+          4284,
+          544,
+          4540
+        ],
+        "sourceSize": [
+          800,
+          13770
+        ],
+        "detectedFace": [
+          334.961,
+          4331.299,
+          161.328,
+          161.23
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 674.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/84/003.webp?v=1787198308",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/84-portrait-v5-4d7b933806e1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7217,
+        "faceHash": "d703e3e980942e7e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          40,
+          4226,
+          798,
+          4984
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          110.938,
+          4275.0,
+          615.625,
+          659.375
+        ],
+        "outsideFaceWhiteFraction": 0.00604,
+        "largestWhiteRegion": 0.00568,
+        "sharpness": 1831.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/85/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/85-portrait-v5-bdeaba1b34a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8652,
+        "faceHash": "81c168cd8d3f35cb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          198,
+          10241,
+          459,
+          10502
+        ],
+        "sourceSize": [
+          800,
+          14010
+        ],
+        "detectedFace": [
+          235.84,
+          10271.68,
+          184.961,
+          200.586
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 472.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/86/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/86-portrait-v5-6493196bedf7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7642,
+        "faceHash": "d62ba5d8e4f10cac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          459,
+          3020,
+          794,
+          3355
+        ],
+        "sourceSize": [
+          800,
+          13690
+        ],
+        "detectedFace": [
+          524.023,
+          3058.301,
+          173.828,
+          257.422
+        ],
+        "outsideFaceWhiteFraction": 0.03592,
+        "largestWhiteRegion": 0.01579,
+        "sharpness": 1376.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/87/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/87-portrait-v5-5d418a80a20a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7847,
+        "faceHash": "81c80fc6ea737c2e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          4991,
+          800,
+          5572
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          376.758,
+          5058.203,
+          361.328,
+          446.875
+        ],
+        "outsideFaceWhiteFraction": 0.00136,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 1145.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/88/8a8095.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/88-portrait-v5-a1363cc3426c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8281,
+        "faceHash": "8a523f8bd0c9af8c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          280,
+          7882,
+          654,
+          8256
+        ],
+        "sourceSize": [
+          800,
+          13740
+        ],
+        "detectedFace": [
+          327.93,
+          7924.609,
+          278.516,
+          287.891
+        ],
+        "outsideFaceWhiteFraction": 0.035,
+        "largestWhiteRegion": 0.01741,
+        "sharpness": 1536.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/89/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/89-portrait-v5-fd187797b4e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8164,
+        "faceHash": "89f23e82d1dd7330",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          300,
+          5593,
+          667,
+          5960
+        ],
+        "sourceSize": [
+          800,
+          13845
+        ],
+        "detectedFace": [
+          357.031,
+          5617.188,
+          308.594,
+          318.75
+        ],
+        "outsideFaceWhiteFraction": 0.00552,
+        "largestWhiteRegion": 0.00537,
+        "sharpness": 1332.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/90/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/90-portrait-v5-b3ef8c85a9a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8237,
+        "faceHash": "dca07e9763582ce8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          311,
+          3157,
+          800,
+          3646
+        ],
+        "sourceSize": [
+          800,
+          14955
+        ],
+        "detectedFace": [
+          523.047,
+          3213.379,
+          276.562,
+          376.367
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1685.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/91/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/91-portrait-v5-e6438bf8e063.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8428,
+        "faceHash": "80f63caf52c86f0b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          433,
+          944,
+          700,
+          1211
+        ],
+        "sourceSize": [
+          800,
+          12820
+        ],
+        "detectedFace": [
+          464.648,
+          974.609,
+          203.516,
+          205.469
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 772.87,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/92/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/92-portrait-v5-6c6b60d66f80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7983,
+        "faceHash": "81a87ce6b1d33437",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          144,
+          7266,
+          651,
+          7773
+        ],
+        "sourceSize": [
+          800,
+          14970
+        ],
+        "detectedFace": [
+          213.672,
+          7324.121,
+          367.969,
+          390.039
+        ],
+        "outsideFaceWhiteFraction": 0.00708,
+        "largestWhiteRegion": 0.0033,
+        "sharpness": 2759.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/93/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/93-portrait-v5-79ce2d1ba37f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.835,
+        "faceHash": "963666c28c1bf3e1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          176,
+          5657,
+          466,
+          5947
+        ],
+        "sourceSize": [
+          800,
+          14788
+        ],
+        "detectedFace": [
+          232.031,
+          5689.941,
+          178.516,
+          223.242
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1381.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/94/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/94-portrait-v5-3c2aeb2cadae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8608,
+        "faceHash": "80443f2732a7f3f1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          258,
+          10475,
+          570,
+          10787
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          302.93,
+          10495.41,
+          223.047,
+          271.68
+        ],
+        "outsideFaceWhiteFraction": 0.03624,
+        "largestWhiteRegion": 0.0072,
+        "sharpness": 1518.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/95/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/95-portrait-v5-8d34be163c5f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "dcbc6a920ddb2741",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          54,
+          5468,
+          428,
+          5842
+        ],
+        "sourceSize": [
+          800,
+          13110
+        ],
+        "detectedFace": [
+          110.254,
+          5511.621,
+          261.523,
+          287.695
+        ],
+        "outsideFaceWhiteFraction": 0.01054,
+        "largestWhiteRegion": 0.0031,
+        "sharpness": 2421.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/96/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/96-portrait-v5-002c6182861b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7432,
+        "faceHash": "c4b42fc2d0c8fbb4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          168,
+          6548,
+          800,
+          7180
+        ],
+        "sourceSize": [
+          800,
+          13333
+        ],
+        "detectedFace": [
+          290.82,
+          6621.484,
+          448.047,
+          485.938
+        ],
+        "outsideFaceWhiteFraction": 0.00235,
+        "largestWhiteRegion": 0.00078,
+        "sharpness": 1923.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/97/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/97-portrait-v5-d22c614fb334.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7632,
+        "faceHash": "c4e96e87201e3fc9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          65,
+          9611,
+          458,
+          10004
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          146.582,
+          9656.641,
+          230.664,
+          302.344
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 881.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/98/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/98-portrait-v5-1abc9bf9570a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "96e23ec6d2c87b09",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          363,
+          11045,
+          800,
+          11482
+        ],
+        "sourceSize": [
+          800,
+          13820
+        ],
+        "detectedFace": [
+          415.82,
+          11105.762,
+          336.328,
+          315.82
+        ],
+        "outsideFaceWhiteFraction": 0.03323,
+        "largestWhiteRegion": 0.00562,
+        "sharpness": 2928.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/99/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/99-portrait-v5-78b9e8c0efe9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "9ea4aec7656a68c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          152,
+          7234,
+          633,
+          7715
+        ],
+        "sourceSize": [
+          800,
+          13835
+        ],
+        "detectedFace": [
+          228.125,
+          7289.453,
+          329.688,
+          370.312
+        ],
+        "outsideFaceWhiteFraction": 0.00038,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1609.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/100/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/100-portrait-v5-00a2bc0b81d4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7778,
+        "faceHash": "d5a949c5e486b599",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          84,
+          9018,
+          704,
+          9638
+        ],
+        "sourceSize": [
+          800,
+          13815
+        ],
+        "detectedFace": [
+          191.797,
+          9090.039,
+          404.688,
+          476.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 468.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/101/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/101-portrait-v5-183baba84c50.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "d4cc6a5f313ec550",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          84,
+          993,
+          340,
+          1249
+        ],
+        "sourceSize": [
+          800,
+          13095
+        ],
+        "detectedFace": [
+          135.938,
+          1027.344,
+          153.125,
+          188.281
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 989.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/102/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/102-portrait-v5-883622192a83.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.792,
+        "faceHash": "825985fbb4cc67d0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          9894,
+          738,
+          10367
+        ],
+        "sourceSize": [
+          800,
+          13585
+        ],
+        "detectedFace": [
+          319.336,
+          9976.562,
+          363.672,
+          307.031
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3242.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/103/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/103-portrait-v5-f662e8aef0c2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.791,
+        "faceHash": "ec85ecc7c0d7e20a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          83,
+          11087,
+          649,
+          11653
+        ],
+        "sourceSize": [
+          800,
+          13315
+        ],
+        "detectedFace": [
+          173.34,
+          11152.539,
+          384.57,
+          435.547
+        ],
+        "outsideFaceWhiteFraction": 0.03188,
+        "largestWhiteRegion": 0.01543,
+        "sharpness": 1622.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/104/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/104-portrait-v5-b84a2b30a33c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.833,
+        "faceHash": "d7a86296a70d33d4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          202,
+          11982,
+          623,
+          12403
+        ],
+        "sourceSize": [
+          800,
+          14555
+        ],
+        "detectedFace": [
+          251.855,
+          12031.055,
+          320.508,
+          323.828
+        ],
+        "outsideFaceWhiteFraction": 0.00067,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 2839.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/105/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/105-portrait-v5-d9785bfd7602.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7998,
+        "faceHash": "dfa0288a9adef170",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          52,
+          4906,
+          319,
+          5173
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          125.146,
+          4937.305,
+          120.801,
+          205.078
+        ],
+        "outsideFaceWhiteFraction": 0.01031,
+        "largestWhiteRegion": 0.00497,
+        "sharpness": 1519.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/106/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/106-portrait-v5-ddefb01d02ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8257,
+        "faceHash": "deb9629e26893354",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          265,
+          13443,
+          743,
+          13921
+        ],
+        "sourceSize": [
+          800,
+          14520
+        ],
+        "detectedFace": [
+          328.516,
+          13497.656,
+          350.781,
+          367.969
+        ],
+        "outsideFaceWhiteFraction": 0.00208,
+        "largestWhiteRegion": 0.00208,
+        "sharpness": 3222.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/107/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/107-portrait-v5-6f4af7bc827b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "b5a24a6a6d2ca4f5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          32,
+          6345,
+          388,
+          6701
+        ],
+        "sourceSize": [
+          800,
+          14875
+        ],
+        "detectedFace": [
+          91.602,
+          6386.523,
+          236.719,
+          273.828
+        ],
+        "outsideFaceWhiteFraction": 0.01457,
+        "largestWhiteRegion": 0.00984,
+        "sharpness": 938.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/108/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/108-portrait-v5-d67845b662e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "dab83bc3246f6348",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          8887,
+          293,
+          9180
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          53.271,
+          8920.898,
+          179.004,
+          225.391
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 871.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/109/002.webp?v=1770738109",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/109-portrait-v5-41f43ff0d909.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.791,
+        "faceHash": "d0a26ad44f992bf8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          305,
+          4217,
+          713,
+          4625
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          338.672,
+          4243.945,
+          341.406,
+          354.688
+        ],
+        "outsideFaceWhiteFraction": 0.02808,
+        "largestWhiteRegion": 0.01796,
+        "sharpness": 1549.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/110/002.webp?v=1771420046",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/110-portrait-v5-ae52b83a8627.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7964,
+        "faceHash": "c3e26ad22589fa1d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          114,
+          12009,
+          657,
+          12552
+        ],
+        "sourceSize": [
+          800,
+          14280
+        ],
+        "detectedFace": [
+          203.418,
+          12071.875,
+          363.477,
+          417.969
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2040.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/111/002.webp?v=1772040319",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/111-portrait-v5-7ea2711dba9c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8428,
+        "faceHash": "c9a23d8ea6c8c6f4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          23,
+          6117,
+          351,
+          6445
+        ],
+        "sourceSize": [
+          800,
+          13465
+        ],
+        "detectedFace": [
+          62.695,
+          6138.672,
+          249.023,
+          285.547
+        ],
+        "outsideFaceWhiteFraction": 0.02513,
+        "largestWhiteRegion": 0.0106,
+        "sharpness": 2121.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/112/003.webp?v=1772594047",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/112-portrait-v5-101675d50c56.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8203,
+        "faceHash": "90adeed0b469329d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          200,
+          775,
+          594,
+          1169
+        ],
+        "sourceSize": [
+          800,
+          13971
+        ],
+        "detectedFace": [
+          249.121,
+          800.781,
+          296.68,
+          342.969
+        ],
+        "outsideFaceWhiteFraction": 0.03511,
+        "largestWhiteRegion": 0.01308,
+        "sharpness": 1227.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/113/002.webp?v=1773158896",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/113-portrait-v5-d56e008832cc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8096,
+        "faceHash": "ff81bccb90ca3225",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          238,
+          12275,
+          523,
+          12560
+        ],
+        "sourceSize": [
+          800,
+          13690
+        ],
+        "detectedFace": [
+          266.699,
+          12293.848,
+          227.93,
+          247.461
+        ],
+        "outsideFaceWhiteFraction": 0.04533,
+        "largestWhiteRegion": 0.00798,
+        "sharpness": 1941.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/fa54299a/114/004.webp?v=1773764908",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/114-portrait-v5-1533d877a3d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "ba90a2c86163efd5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          234,
+          6051,
+          550,
+          6367
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          288.281,
+          6087.109,
+          207.422,
+          242.969
+        ],
+        "outsideFaceWhiteFraction": 0.0005,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 2022.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/115/a469a6.webp?v=1774366915",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/115-portrait-v5-63f5264807ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7554,
+        "faceHash": "8521781f64ce93f9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          335,
+          8507,
+          672,
+          8844
+        ],
+        "sourceSize": [
+          800,
+          13180
+        ],
+        "detectedFace": [
+          374.414,
+          8546.484,
+          258.984,
+          258.984
+        ],
+        "outsideFaceWhiteFraction": 0.00128,
+        "largestWhiteRegion": 0.00064,
+        "sharpness": 860.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/116/492ed0.webp?v=1774982469",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/116-portrait-v5-a2a2cf6eaea4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7847,
+        "faceHash": "e0dd03b469c0fa8f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          9857,
+          485,
+          10342
+        ],
+        "sourceSize": [
+          800,
+          14202
+        ],
+        "detectedFace": [
+          0.391,
+          9912.5,
+          345.898,
+          373.438
+        ],
+        "outsideFaceWhiteFraction": 0.0226,
+        "largestWhiteRegion": 0.01575,
+        "sharpness": 2147.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/117/fc89d2.webp?v=1775575721",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/117-portrait-v5-5fb31f0b8f1a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8589,
+        "faceHash": "dfb76a94858dac20",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          17,
+          5418,
+          274,
+          5675
+        ],
+        "sourceSize": [
+          800,
+          13982
+        ],
+        "detectedFace": [
+          55.811,
+          5447.852,
+          179.785,
+          197.461
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1758.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/118/3dd8ee.webp?v=1776264844",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/118-portrait-v5-3ca0d6a9d497.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8218,
+        "faceHash": "99f5ed92b00a6729",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          211,
+          6026,
+          620,
+          6435
+        ],
+        "sourceSize": [
+          800,
+          14600
+        ],
+        "detectedFace": [
+          257.422,
+          6052.734,
+          315.625,
+          355.469
+        ],
+        "outsideFaceWhiteFraction": 0.04233,
+        "largestWhiteRegion": 0.01048,
+        "sharpness": 1204.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "137": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/137",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/137/f921ce.webp?v=1788892787",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/137-portrait-v5-1736306ffda2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8408,
+        "faceHash": "9de0bace542c53b1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          111,
+          223,
+          326,
+          438
+        ],
+        "sourceSize": [
+          1200,
+          800
+        ],
+        "detectedFace": [
+          114.844,
+          225.732,
+          208.301,
+          183.105
+        ],
+        "outsideFaceWhiteFraction": 0.05339,
+        "largestWhiteRegion": 0.01344,
+        "sharpness": 5414.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

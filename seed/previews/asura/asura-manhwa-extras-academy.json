@@ -1,0 +1,5182 @@
+{
+  "titleId": "asura-manhwa-extras-academy",
+  "revision": 5,
+  "previews": {
+    "0": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/0",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/0/005.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/0-portrait-v5-052d406c3ac3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8472,
+        "faceHash": "8ca37b1d69c1dc0e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          5,
+          3253,
+          209,
+          3457
+        ],
+        "sourceSize": [
+          800,
+          15500
+        ],
+        "detectedFace": [
+          26.318,
+          3256.543,
+          160.449,
+          172.07
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 655.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/1/003_p1.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/1-portrait-v5-5be116fe12fb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8184,
+        "faceHash": "95617a96e5703e91",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          2,
+          14115,
+          467,
+          14580
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          56.641,
+          14168.555,
+          356.25,
+          357.422
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1995.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/3/b8426a.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/3-portrait-v5-8ab43e4e406b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "ad1631caf66c32ac",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          286,
+          10685,
+          542,
+          10941
+        ],
+        "sourceSize": [
+          800,
+          13950
+        ],
+        "detectedFace": [
+          328.223,
+          10720.898,
+          171.68,
+          183.984
+        ],
+        "outsideFaceWhiteFraction": 0.04532,
+        "largestWhiteRegion": 0.01057,
+        "sharpness": 1571.94,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/4/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/4-portrait-v5-0f2d2a85109a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "d7a1609d35ca929d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          89,
+          4343,
+          345,
+          4599
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          127.734,
+          4399.512,
+          178.516,
+          142.773
+        ],
+        "outsideFaceWhiteFraction": 0.02292,
+        "largestWhiteRegion": 0.01074,
+        "sharpness": 2683.02,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/6/002.webp?v=1793529499",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/6-portrait-v5-6a2157214c04.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "d1182ccff04f31bc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          346,
+          8557,
+          637,
+          8848
+        ],
+        "sourceSize": [
+          800,
+          13890
+        ],
+        "detectedFace": [
+          379.785,
+          8593.75,
+          224.023,
+          216.797
+        ],
+        "outsideFaceWhiteFraction": 0.01591,
+        "largestWhiteRegion": 0.01588,
+        "sharpness": 1174.99,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/7/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/7-portrait-v5-1f7d5931ddfa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "d3233c9681c9373d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          306,
+          7476,
+          562,
+          7732
+        ],
+        "sourceSize": [
+          800,
+          11800
+        ],
+        "detectedFace": [
+          337.891,
+          7510.156,
+          192.969,
+          186.719
+        ],
+        "outsideFaceWhiteFraction": 0.02283,
+        "largestWhiteRegion": 0.01372,
+        "sharpness": 1066.24,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/8/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/8-portrait-v5-2dfc70d65180.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "b52ab5ca81e0cead",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          135,
+          1153,
+          391,
+          1409
+        ],
+        "sourceSize": [
+          800,
+          13600
+        ],
+        "detectedFace": [
+          187.109,
+          1197.461,
+          151.172,
+          167.578
+        ],
+        "outsideFaceWhiteFraction": 0.00266,
+        "largestWhiteRegion": 0.00188,
+        "sharpness": 1946.4,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/9/006.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/9-portrait-v5-1c10c7a278f3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "d3216ecbe4cc332c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          340,
+          4594,
+          721,
+          4975
+        ],
+        "sourceSize": [
+          800,
+          11554
+        ],
+        "detectedFace": [
+          384.277,
+          4641.211,
+          293.164,
+          286.328
+        ],
+        "outsideFaceWhiteFraction": 0.00044,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2937.29,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/10/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/10-portrait-v5-4fc6f3b3e428.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "ae40752d829e67f8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          250,
+          4209,
+          647,
+          4606
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          296.094,
+          4254.199,
+          303.906,
+          305.664
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 794.28,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/11/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/11-portrait-v5-564ba5ac6906.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "8ad56ca8d59bac51",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          250,
+          7524,
+          551,
+          7825
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          263.574,
+          7563.77,
+          231.445,
+          220.898
+        ],
+        "outsideFaceWhiteFraction": 0.02827,
+        "largestWhiteRegion": 0.01387,
+        "sharpness": 339.07,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/116/1f86e7.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/116-portrait-v5-1ce3ac8704f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "d6273cc3f1b03358",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          529,
+          3315,
+          804,
+          3590
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          560.962,
+          3348.633,
+          211.377,
+          207.422
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 865.04,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/117/a3881e.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/117-portrait-v5-35e0fff84972.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "c63c78c2a4cf7349",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          328,
+          4468,
+          593,
+          4733
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          358.484,
+          4498.682,
+          204.126,
+          203.906
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 744.14,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/118/7c40ad.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/118-portrait-v5-1bd71965df69.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.876,
+        "faceHash": "96b53bd289496359",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          218,
+          8122,
+          474,
+          8378
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          265.43,
+          8161.304,
+          161.719,
+          177.979
+        ],
+        "outsideFaceWhiteFraction": 0.0018,
+        "largestWhiteRegion": 0.00174,
+        "sharpness": 1330.91,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/119/dea75b.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/119-portrait-v5-f8db9b7a3504.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "c8667d91f08b334d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          416,
+          3531,
+          672,
+          3787
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          468.457,
+          3574.457,
+          150.293,
+          168.86
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 616.38,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/12/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/12-portrait-v5-ee03d44cba91.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "823d38c7d0cf6798",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          9,
+          5987,
+          329,
+          6307
+        ],
+        "sourceSize": [
+          800,
+          13142
+        ],
+        "detectedFace": [
+          45.996,
+          6032.715,
+          245.898,
+          229.102
+        ],
+        "outsideFaceWhiteFraction": 0.00066,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 1937.5,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/13/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/13-portrait-v5-238bef99584a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "8aee6cc7e4893319",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          465,
+          8952,
+          721,
+          9208
+        ],
+        "sourceSize": [
+          800,
+          14875
+        ],
+        "detectedFace": [
+          516.211,
+          8999.609,
+          153.516,
+          161.719
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2445.45,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/14/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/14-portrait-v5-12d51336cfa8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "d6a428dc255b763c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          350,
+          582,
+          606,
+          838
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          393.555,
+          632.275,
+          168.359,
+          155.371
+        ],
+        "outsideFaceWhiteFraction": 0.04883,
+        "largestWhiteRegion": 0.0114,
+        "sharpness": 2996.1,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/15/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/15-portrait-v5-c6aa56e0531b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "c4257b9dec2c22d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          272,
+          5437,
+          528,
+          5693
+        ],
+        "sourceSize": [
+          800,
+          11350
+        ],
+        "detectedFace": [
+          323.926,
+          5493.555,
+          152.93,
+          143.75
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 318.09,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/16/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/16-portrait-v5-e513fb8555da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "950e629731dc4b7a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          258,
+          3332,
+          514,
+          3588
+        ],
+        "sourceSize": [
+          800,
+          14230
+        ],
+        "detectedFace": [
+          306.25,
+          3378.32,
+          159.375,
+          162.891
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1102.7,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/17/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/17-portrait-v5-5314a087d195.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8809,
+        "faceHash": "870f2bcba14d3565",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          400,
+          3575,
+          656,
+          3831
+        ],
+        "sourceSize": [
+          800,
+          12728
+        ],
+        "detectedFace": [
+          437.109,
+          3611.914,
+          182.031,
+          183.008
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1779.1,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/18/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/18-portrait-v5-69eb4a237680.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "d0616b066b3b65b3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          506,
+          6310,
+          762,
+          6566
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          545.117,
+          6342.773,
+          178.516,
+          190.234
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1648.07,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/19/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/19-portrait-v5-f85ed7660344.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "c1852edbb24f3a4c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          10251,
+          621,
+          10573
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          345.215,
+          10287.695,
+          229.883,
+          247.656
+        ],
+        "outsideFaceWhiteFraction": 0.00043,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 1011.2,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/21/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/21-portrait-v5-4abba3910570.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "c174e9123769be23",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          173,
+          9967,
+          429,
+          10223
+        ],
+        "sourceSize": [
+          800,
+          13225
+        ],
+        "detectedFace": [
+          203.125,
+          10000.586,
+          196.484,
+          189.453
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1036.54,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/22/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/22-portrait-v5-653aa149966d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "853a7a93a1cdc659",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          354,
+          6644,
+          756,
+          7046
+        ],
+        "sourceSize": [
+          800,
+          13762
+        ],
+        "detectedFace": [
+          400.0,
+          6696.875,
+          309.375,
+          296.094
+        ],
+        "outsideFaceWhiteFraction": 0.01816,
+        "largestWhiteRegion": 0.00775,
+        "sharpness": 2399.38,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/23/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/23-portrait-v5-14e0f1df8b8a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "d9a03897b19dea49",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          195,
+          6108,
+          603,
+          6516
+        ],
+        "sourceSize": [
+          800,
+          14105
+        ],
+        "detectedFace": [
+          241.797,
+          6166.309,
+          314.062,
+          290.82
+        ],
+        "outsideFaceWhiteFraction": 0.02663,
+        "largestWhiteRegion": 0.01352,
+        "sharpness": 5445.69,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/24/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/24-portrait-v5-9ab370a1f58c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "dce8ecd634d36038",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          166,
+          4476,
+          422,
+          4732
+        ],
+        "sourceSize": [
+          800,
+          13495
+        ],
+        "detectedFace": [
+          214.453,
+          4531.348,
+          158.984,
+          144.336
+        ],
+        "outsideFaceWhiteFraction": 0.0047,
+        "largestWhiteRegion": 0.00294,
+        "sharpness": 3620.69,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/25/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/25-portrait-v5-6899adea6bcc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "dea968c4e5d92591",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          420,
+          12732,
+          676,
+          12988
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          478.711,
+          12771.68,
+          169.922,
+          175.781
+        ],
+        "outsideFaceWhiteFraction": 0.0508,
+        "largestWhiteRegion": 0.01068,
+        "sharpness": 2863.27,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/27/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/27-portrait-v5-5fb2b1aeb9a4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "d4e06a9f398a669c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          172,
+          3318,
+          493,
+          3639
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          209.277,
+          3360.254,
+          247.07,
+          236.523
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1760.64,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/28/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/28-portrait-v5-09760c1e00bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "8af479ca7c3e6421",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          249,
+          12576,
+          530,
+          12857
+        ],
+        "sourceSize": [
+          800,
+          14395
+        ],
+        "detectedFace": [
+          301.465,
+          12611.816,
+          215.82,
+          208.789
+        ],
+        "outsideFaceWhiteFraction": 0.03989,
+        "largestWhiteRegion": 0.01349,
+        "sharpness": 2198.91,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/29/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/29-portrait-v5-3e772f4b2782.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "9ba129d6348867cf",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          201,
+          14144,
+          489,
+          14432
+        ],
+        "sourceSize": [
+          800,
+          14955
+        ],
+        "detectedFace": [
+          233.984,
+          14190.527,
+          221.875,
+          194.727
+        ],
+        "outsideFaceWhiteFraction": 0.02919,
+        "largestWhiteRegion": 0.0117,
+        "sharpness": 2809.28,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/30/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/30-portrait-v5-2b474ac46a87.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "d9386c97a5c97254",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          295,
+          2265,
+          565,
+          2535
+        ],
+        "sourceSize": [
+          800,
+          13089
+        ],
+        "detectedFace": [
+          327.832,
+          2296.289,
+          203.711,
+          207.422
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2928.03,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/31/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/31-portrait-v5-5c99b503345b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "99397a8465366d55",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          432,
+          11213,
+          688,
+          11469
+        ],
+        "sourceSize": [
+          800,
+          13780
+        ],
+        "detectedFace": [
+          489.648,
+          11258.398,
+          141.016,
+          166.016
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 979.01,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/32/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/32-portrait-v5-e799a37ff5cc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "859d9e54968279dc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          284,
+          90,
+          553,
+          359
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          296.094,
+          129.346,
+          207.031,
+          190.527
+        ],
+        "outsideFaceWhiteFraction": 0.04692,
+        "largestWhiteRegion": 0.01187,
+        "sharpness": 1211.83,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/33/008.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/33-portrait-v5-f494f25e466d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "94f862973497631e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          236,
+          281,
+          541,
+          586
+        ],
+        "sourceSize": [
+          800,
+          14685
+        ],
+        "detectedFace": [
+          270.996,
+          319.922,
+          234.57,
+          228.125
+        ],
+        "outsideFaceWhiteFraction": 0.00703,
+        "largestWhiteRegion": 0.00237,
+        "sharpness": 1304.14,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/34/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/34-portrait-v5-8c7fd8569cd9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "81b03e9fbc8a3365",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          144,
+          8918,
+          434,
+          9208
+        ],
+        "sourceSize": [
+          800,
+          14255
+        ],
+        "detectedFace": [
+          177.344,
+          8959.18,
+          223.047,
+          206.641
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1168.19,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/35/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/35-portrait-v5-5a74d4afb53e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "8e75699ab458734c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          253,
+          3974,
+          514,
+          4235
+        ],
+        "sourceSize": [
+          800,
+          14495
+        ],
+        "detectedFace": [
+          283.594,
+          4016.211,
+          200.781,
+          176.953
+        ],
+        "outsideFaceWhiteFraction": 0.00069,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 1536.61,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/112/1bef87.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/112-portrait-v5-58e189a83ad3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "df743dd2e9d2a100",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          158,
+          5812,
+          414,
+          6068
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          193.469,
+          5860.547,
+          185.669,
+          159.082
+        ],
+        "outsideFaceWhiteFraction": 0.00185,
+        "largestWhiteRegion": 0.00067,
+        "sharpness": 1971.44,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/113/ae1ad7.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/113-portrait-v5-a6d23037daff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "96f26b860091eb9f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          105,
+          14667,
+          361,
+          14923
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          148.7,
+          14714.648,
+          169.299,
+          159.961
+        ],
+        "outsideFaceWhiteFraction": 0.00049,
+        "largestWhiteRegion": 0.00049,
+        "sharpness": 748.63,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/114/797e8f.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/114-portrait-v5-e1a648d534af.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "94fc7ee299833198",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          322,
+          10717,
+          578,
+          10973
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          356.396,
+          10760.229,
+          187.207,
+          169.189
+        ],
+        "outsideFaceWhiteFraction": 0.04619,
+        "largestWhiteRegion": 0.01529,
+        "sharpness": 2049.31,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/115/7156da.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/115-portrait-v5-957ef1462d13.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8701,
+        "faceHash": "d1357d82f05e62d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          396,
+          2720,
+          652,
+          2976
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          430.115,
+          2760.205,
+          187.427,
+          175.781
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1533.12,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/120/b05387.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/120-portrait-v5-c314c9a8c9b1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "c1a56183f69ecc9c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          541,
+          966,
+          797,
+          1222
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          598.315,
+          1004.59,
+          141.064,
+          179.297
+        ],
+        "outsideFaceWhiteFraction": 0.0079,
+        "largestWhiteRegion": 0.005,
+        "sharpness": 1354.15,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/122/08caa1.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/122-portrait-v5-a5b1f13da77d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "a249359b6a97619d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          143,
+          11512,
+          497,
+          11866
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          183.582,
+          11557.727,
+          272.241,
+          263.452
+        ],
+        "outsideFaceWhiteFraction": 0.0374,
+        "largestWhiteRegion": 0.01309,
+        "sharpness": 1443.79,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/123/e81911.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/123-portrait-v5-f0f8167368c0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "83b138d9e19e354b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          579,
+          10356,
+          900,
+          10677
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          715.869,
+          10393.506,
+          183.691,
+          246.973
+        ],
+        "outsideFaceWhiteFraction": 0.00069,
+        "largestWhiteRegion": 0.00069,
+        "sharpness": 1419.8,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/124/384b1c.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/124-portrait-v5-f0a665abd7b5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "df11e03f859a3e88",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          180,
+          1000,
+          437,
+          1257
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          214.178,
+          1029.309,
+          188.196,
+          197.534
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 677.61,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/125/a6a45d.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/125-portrait-v5-5a2d66f85dba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "92961bd649daca69",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          351,
+          14025,
+          607,
+          14281
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          397.046,
+          14066.016,
+          164.795,
+          173.145
+        ],
+        "outsideFaceWhiteFraction": 0.00064,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 1070.09,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/126/b977d2.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/126-portrait-v5-75c8e0f4d6c3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "9b406593a41f7e9c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          339,
+          7139,
+          621,
+          7421
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          371.558,
+          7182.861,
+          216.65,
+          194.238
+        ],
+        "outsideFaceWhiteFraction": 0.02605,
+        "largestWhiteRegion": 0.00896,
+        "sharpness": 1299.81,
+        "reviewed": true
+      }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/127/94ac1a.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/127-portrait-v5-1cc1d0329211.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "ff987ec2918b9320",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          237,
+          6966,
+          558,
+          7287
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          288.281,
+          7003.125,
+          219.287,
+          246.973
+        ],
+        "outsideFaceWhiteFraction": 0.00368,
+        "largestWhiteRegion": 0.00352,
+        "sharpness": 1353.82,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/36/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/36-portrait-v5-5021c67a7d66.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "cbadebd3f1287040",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          265,
+          3875,
+          555,
+          4165
+        ],
+        "sourceSize": [
+          800,
+          14650
+        ],
+        "detectedFace": [
+          298.145,
+          3911.133,
+          223.242,
+          217.578
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1462.56,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/37/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/37-portrait-v5-45d80e775a44.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "d0d41f9fc147831b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          245,
+          3260,
+          501,
+          3516
+        ],
+        "sourceSize": [
+          800,
+          14640
+        ],
+        "detectedFace": [
+          285.938,
+          3304.688,
+          174.219,
+          166.016
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 942.14,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/38/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/38-portrait-v5-4d812b0762d3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "d9b929847cdd72c0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          193,
+          8076,
+          666,
+          8549
+        ],
+        "sourceSize": [
+          800,
+          14815
+        ],
+        "detectedFace": [
+          223.633,
+          8120.898,
+          411.328,
+          383.203
+        ],
+        "outsideFaceWhiteFraction": 0.0088,
+        "largestWhiteRegion": 0.00375,
+        "sharpness": 2887.04,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/40/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/40-portrait-v5-e4e7fec06b8f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "959b6ecba2a9224d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          337,
+          5378,
+          601,
+          5642
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          367.285,
+          5414.844,
+          202.93,
+          190.039
+        ],
+        "outsideFaceWhiteFraction": 0.01105,
+        "largestWhiteRegion": 0.00389,
+        "sharpness": 2452.6,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/41/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/41-portrait-v5-399918c7539e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "d5fd62c13b916198",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          134,
+          6826,
+          477,
+          7169
+        ],
+        "sourceSize": [
+          800,
+          14823
+        ],
+        "detectedFace": [
+          173.34,
+          6866.797,
+          263.867,
+          261.328
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2069.49,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/42/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/42-portrait-v5-8655e106d007.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "929767c2224b7ace",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          342,
+          3442,
+          629,
+          3729
+        ],
+        "sourceSize": [
+          800,
+          10775
+        ],
+        "detectedFace": [
+          394.922,
+          3478.516,
+          221.094,
+          214.062
+        ],
+        "outsideFaceWhiteFraction": 0.02185,
+        "largestWhiteRegion": 0.01396,
+        "sharpness": 3026.52,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/43/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/43-portrait-v5-7c8d685742fb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "a950adcab52a55cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          136,
+          6909,
+          392,
+          7165
+        ],
+        "sourceSize": [
+          800,
+          13605
+        ],
+        "detectedFace": [
+          171.191,
+          6949.512,
+          186.523,
+          175.195
+        ],
+        "outsideFaceWhiteFraction": 0.00841,
+        "largestWhiteRegion": 0.00838,
+        "sharpness": 487.12,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/44/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/44-portrait-v5-2e1682364dae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "8a296ba2755ee255",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          379,
+          3818,
+          635,
+          4074
+        ],
+        "sourceSize": [
+          800,
+          14575
+        ],
+        "detectedFace": [
+          441.992,
+          3864.453,
+          159.766,
+          162.5
+        ],
+        "outsideFaceWhiteFraction": 0.01291,
+        "largestWhiteRegion": 0.01291,
+        "sharpness": 1054.07,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/45/006.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/45-portrait-v5-be4a78d078fa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "93817ed7a4cf2249",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          405,
+          8169,
+          774,
+          8538
+        ],
+        "sourceSize": [
+          800,
+          14235
+        ],
+        "detectedFace": [
+          447.852,
+          8226.172,
+          283.984,
+          255.469
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2184.19,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/46/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/46-portrait-v5-3ab84b6a27a8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "84b23bd364cd56ac",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          357,
+          5057,
+          708,
+          5408
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          397.949,
+          5118.75,
+          269.727,
+          226.562
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2600.97,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/47/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/47-portrait-v5-5465f397b12f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "87f56bd2e3382491",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          233,
+          6103,
+          504,
+          6374
+        ],
+        "sourceSize": [
+          800,
+          12150
+        ],
+        "detectedFace": [
+          264.453,
+          6149.658,
+          208.203,
+          178.418
+        ],
+        "outsideFaceWhiteFraction": 0.00925,
+        "largestWhiteRegion": 0.00259,
+        "sharpness": 2330.28,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/48/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/48-portrait-v5-1f30423e73cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "c3a33c8de18cf3d0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          278,
+          11660,
+          562,
+          11944
+        ],
+        "sourceSize": [
+          800,
+          14210
+        ],
+        "detectedFace": [
+          312.695,
+          11692.48,
+          215.234,
+          218.164
+        ],
+        "outsideFaceWhiteFraction": 0.0049,
+        "largestWhiteRegion": 0.00224,
+        "sharpness": 3474.34,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/49/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/49-portrait-v5-2f9293df3e85.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "87e33856b51bc338",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          504,
+          13722,
+          762,
+          13980
+        ],
+        "sourceSize": [
+          800,
+          14475
+        ],
+        "detectedFace": [
+          541.211,
+          13749.219,
+          224.609,
+          202.93
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 467.48,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/50/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/50-portrait-v5-b95a975f4f70.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "d8f03b86e4cd2f0c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          443,
+          6137,
+          756,
+          6450
+        ],
+        "sourceSize": [
+          800,
+          13814
+        ],
+        "detectedFace": [
+          463.281,
+          6162.012,
+          271.875,
+          262.305
+        ],
+        "outsideFaceWhiteFraction": 0.04076,
+        "largestWhiteRegion": 0.01492,
+        "sharpness": 1659.23,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/51/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/51-portrait-v5-599e1cd3860b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8809,
+        "faceHash": "dde56983301c275d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          36,
+          5821,
+          292,
+          6077
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          81.25,
+          5874.414,
+          165.82,
+          149.609
+        ],
+        "outsideFaceWhiteFraction": 0.00465,
+        "largestWhiteRegion": 0.0034,
+        "sharpness": 3600.39,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/52/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/52-portrait-v5-f12d56e7286e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8057,
+        "faceHash": "d0d118f21b3e2d8f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          292,
+          1889,
+          721,
+          2318
+        ],
+        "sourceSize": [
+          800,
+          13915
+        ],
+        "detectedFace": [
+          345.703,
+          1938.281,
+          321.875,
+          329.688
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1500.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/54/007.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/54-portrait-v5-1884735b5135.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "ceb509c2f5c3918d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          647,
+          555,
+          903
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          345.02,
+          689.404,
+          164.648,
+          171.777
+        ],
+        "outsideFaceWhiteFraction": 0.00136,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 1160.52,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/55/008.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/55-portrait-v5-0be341ac14a0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "902e6fd3b40d72cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          2587,
+          256,
+          2843
+        ],
+        "sourceSize": [
+          800,
+          13875
+        ],
+        "detectedFace": [
+          0.098,
+          2625.0,
+          166.113,
+          180.469
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 1056.27,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/56/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/56-portrait-v5-08e30df39979.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "c4f67fc22b093c0d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          396,
+          10572,
+          691,
+          10867
+        ],
+        "sourceSize": [
+          800,
+          14885
+        ],
+        "detectedFace": [
+          429.883,
+          10625.781,
+          226.953,
+          188.281
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1534.56,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/57/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/57-portrait-v5-2db7acd54bfa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "dc3569c1a19f6319",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          167,
+          1397,
+          423,
+          1653
+        ],
+        "sourceSize": [
+          800,
+          13150
+        ],
+        "detectedFace": [
+          196.826,
+          1442.09,
+          196.582,
+          166.211
+        ],
+        "outsideFaceWhiteFraction": 0.01276,
+        "largestWhiteRegion": 0.01138,
+        "sharpness": 1334.12,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/58/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/58-portrait-v5-6167f4890e6c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8765,
+        "faceHash": "982d2bc6359e65c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          160,
+          3102,
+          416,
+          3358
+        ],
+        "sourceSize": [
+          800,
+          13415
+        ],
+        "detectedFace": [
+          205.762,
+          3158.984,
+          165.039,
+          142.188
+        ],
+        "outsideFaceWhiteFraction": 0.00819,
+        "largestWhiteRegion": 0.00438,
+        "sharpness": 2075.15,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/59/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/59-portrait-v5-b9174340d0a4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "83613d82f4df72c8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          5184,
+          555,
+          5440
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          313.77,
+          5224.219,
+          191.992,
+          175.0
+        ],
+        "outsideFaceWhiteFraction": 0.00076,
+        "largestWhiteRegion": 0.00056,
+        "sharpness": 2193.47,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/60/005.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/60-portrait-v5-db457c3e4e81.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "c13949976d9a5653",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          314,
+          9072,
+          594,
+          9352
+        ],
+        "sourceSize": [
+          800,
+          13830
+        ],
+        "detectedFace": [
+          346.484,
+          9112.207,
+          215.625,
+          200.586
+        ],
+        "outsideFaceWhiteFraction": 0.00513,
+        "largestWhiteRegion": 0.00441,
+        "sharpness": 974.91,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/61/006.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/61-portrait-v5-3db3f8680242.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "99bc3c94accd6361",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          83,
+          10557,
+          339,
+          10813
+        ],
+        "sourceSize": [
+          800,
+          13585
+        ],
+        "detectedFace": [
+          122.021,
+          10603.906,
+          178.613,
+          162.5
+        ],
+        "outsideFaceWhiteFraction": 0.0063,
+        "largestWhiteRegion": 0.00252,
+        "sharpness": 1463.56,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/62/008.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/62-portrait-v5-78c859f1f499.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "867a33c1e8cf52e4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          385,
+          7354,
+          641,
+          7610
+        ],
+        "sourceSize": [
+          800,
+          13414
+        ],
+        "detectedFace": [
+          434.375,
+          7404.492,
+          157.812,
+          155.078
+        ],
+        "outsideFaceWhiteFraction": 0.00824,
+        "largestWhiteRegion": 0.00758,
+        "sharpness": 1684.27,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/63/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/63-portrait-v5-fe15830ef996.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8804,
+        "faceHash": "97307dc6e48a263d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          292,
+          9739,
+          550,
+          9997
+        ],
+        "sourceSize": [
+          800,
+          14360
+        ],
+        "detectedFace": [
+          321.582,
+          9774.951,
+          198.242,
+          186.426
+        ],
+        "outsideFaceWhiteFraction": 0.05304,
+        "largestWhiteRegion": 0.01546,
+        "sharpness": 1626.37,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/64/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/64-portrait-v5-9cd5ea7cf7f8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "96756bca25937198",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          299,
+          2257,
+          611,
+          2569
+        ],
+        "sourceSize": [
+          800,
+          12760
+        ],
+        "detectedFace": [
+          334.668,
+          2300.391,
+          240.039,
+          225.0
+        ],
+        "outsideFaceWhiteFraction": 0.00406,
+        "largestWhiteRegion": 0.00406,
+        "sharpness": 339.5,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/65/005.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/65-portrait-v5-8d5d03935199.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "9c947f82704b734e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          160,
+          3248,
+          416,
+          3504
+        ],
+        "sourceSize": [
+          800,
+          14770
+        ],
+        "detectedFace": [
+          199.414,
+          3277.246,
+          177.734,
+          197.07
+        ],
+        "outsideFaceWhiteFraction": 0.01318,
+        "largestWhiteRegion": 0.00839,
+        "sharpness": 2296.8,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/66/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/66-portrait-v5-eae25f3cf13f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "9af07bc0e18a64f3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          221,
+          4063,
+          541,
+          4383
+        ],
+        "sourceSize": [
+          800,
+          14023
+        ],
+        "detectedFace": [
+          280.469,
+          4100.195,
+          244.531,
+          246.484
+        ],
+        "outsideFaceWhiteFraction": 0.03009,
+        "largestWhiteRegion": 0.01064,
+        "sharpness": 3508.31,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/67/659344.webp?v=1793525889",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/67-portrait-v5-15c5641a03eb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "80507cdbe8d92fe1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          136,
+          10744,
+          398,
+          11006
+        ],
+        "sourceSize": [
+          800,
+          14860
+        ],
+        "detectedFace": [
+          166.406,
+          10776.172,
+          201.172,
+          198.438
+        ],
+        "outsideFaceWhiteFraction": 0.01753,
+        "largestWhiteRegion": 0.00772,
+        "sharpness": 1589.56,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/68/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/68-portrait-v5-118a8515f1f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "d4cc69c1b71f6618",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          30,
+          7444,
+          308,
+          7722
+        ],
+        "sourceSize": [
+          800,
+          13350
+        ],
+        "detectedFace": [
+          46.973,
+          7476.465,
+          207.617,
+          213.477
+        ],
+        "outsideFaceWhiteFraction": 0.04567,
+        "largestWhiteRegion": 0.01779,
+        "sharpness": 2227.35,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/69/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/69-portrait-v5-0cc0d2117b79.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "8cef2cc1f0fcc229",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          99,
+          12933,
+          391,
+          13225
+        ],
+        "sourceSize": [
+          800,
+          14055
+        ],
+        "detectedFace": [
+          145.752,
+          12966.406,
+          198.73,
+          225.0
+        ],
+        "outsideFaceWhiteFraction": 0.01785,
+        "largestWhiteRegion": 0.00648,
+        "sharpness": 1525.89,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/70/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/70-portrait-v5-034411362283.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "9af035c7648f219d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          325,
+          605,
+          587,
+          867
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          355.566,
+          646.24,
+          201.367,
+          180.176
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1703.57,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/71/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/71-portrait-v5-74ca0ff8cb37.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "d9fd29c0a4ad7291",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          514,
+          11499,
+          770,
+          11755
+        ],
+        "sourceSize": [
+          800,
+          14480
+        ],
+        "detectedFace": [
+          551.758,
+          11531.299,
+          180.859,
+          191.309
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 639.15,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/100/dc2587.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/100-portrait-v5-31c7f83b1188.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8115,
+        "faceHash": "ddfd6dc0b09650c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          211,
+          7975,
+          467,
+          8231
+        ],
+        "sourceSize": [
+          800,
+          12490
+        ],
+        "detectedFace": [
+          252.344,
+          8007.422,
+          174.219,
+          191.406
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1047.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/2/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/2-portrait-v5-4d5253904d87.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7578,
+        "faceHash": "92513c4ff0cfe186",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          61,
+          9108,
+          800,
+          9847
+        ],
+        "sourceSize": [
+          800,
+          13225
+        ],
+        "detectedFace": [
+          110.547,
+          9176.562,
+          642.188,
+          602.344
+        ],
+        "outsideFaceWhiteFraction": 0.00128,
+        "largestWhiteRegion": 0.00089,
+        "sharpness": 2009.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/5/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/5-portrait-v5-5f7d7e3ff7bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7632,
+        "faceHash": "85257d9577503aaa",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          231,
+          4311,
+          532,
+          4612
+        ],
+        "sourceSize": [
+          800,
+          13695
+        ],
+        "detectedFace": [
+          265.625,
+          4350.586,
+          231.25,
+          222.656
+        ],
+        "outsideFaceWhiteFraction": 0.00235,
+        "largestWhiteRegion": 0.00076,
+        "sharpness": 693.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/20/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/20-portrait-v5-8f1f4e079b32.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8369,
+        "faceHash": "aa4b1660d8adcb76",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          302,
+          9169,
+          616,
+          9483
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          357.422,
+          9204.688,
+          203.125,
+          241.797
+        ],
+        "outsideFaceWhiteFraction": 0.00995,
+        "largestWhiteRegion": 0.00935,
+        "sharpness": 511.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/26/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/26-portrait-v5-02dab3277b01.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "dfe42cd6300a66b9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          176,
+          10887,
+          580,
+          11291
+        ],
+        "sourceSize": [
+          800,
+          13040
+        ],
+        "detectedFace": [
+          245.703,
+          10933.594,
+          264.453,
+          310.938
+        ],
+        "outsideFaceWhiteFraction": 0.01726,
+        "largestWhiteRegion": 0.0106,
+        "sharpness": 5052.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/39/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/39-portrait-v5-30117cc494ff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8452,
+        "faceHash": "93b53cd011c77566",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          66,
+          12276,
+          448,
+          12658
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          145.801,
+          12332.715,
+          223.242,
+          268.945
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 260.9,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/53/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/53-portrait-v5-bba1bd3f3637.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "83363c86650da7de",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          219,
+          897,
+          741,
+          1419
+        ],
+        "sourceSize": [
+          800,
+          13739
+        ],
+        "detectedFace": [
+          258.203,
+          931.445,
+          444.531,
+          453.516
+        ],
+        "outsideFaceWhiteFraction": 0.05043,
+        "largestWhiteRegion": 0.01071,
+        "sharpness": 1045.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/72/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/72-portrait-v5-bfa3100417f3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8423,
+        "faceHash": "b216e9b295b2c86b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          150,
+          4878,
+          555,
+          5283
+        ],
+        "sourceSize": [
+          800,
+          11675
+        ],
+        "detectedFace": [
+          215.625,
+          4924.512,
+          274.609,
+          311.914
+        ],
+        "outsideFaceWhiteFraction": 0.00139,
+        "largestWhiteRegion": 0.00067,
+        "sharpness": 644.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/73/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/73-portrait-v5-70947594a950.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8423,
+        "faceHash": "d6f02cd3740968dd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          474,
+          7360,
+          764,
+          7650
+        ],
+        "sourceSize": [
+          800,
+          13650
+        ],
+        "detectedFace": [
+          526.953,
+          7378.516,
+          223.438,
+          252.344
+        ],
+        "outsideFaceWhiteFraction": 0.00311,
+        "largestWhiteRegion": 0.00311,
+        "sharpness": 465.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/74/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/74-portrait-v5-b68da66fc8e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7993,
+        "faceHash": "9eec1c84f0d82eda",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          133,
+          7936,
+          789,
+          8592
+        ],
+        "sourceSize": [
+          800,
+          14600
+        ],
+        "detectedFace": [
+          208.789,
+          8027.93,
+          504.297,
+          473.047
+        ],
+        "outsideFaceWhiteFraction": 0.01215,
+        "largestWhiteRegion": 0.00746,
+        "sharpness": 3918.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/75/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/75-portrait-v5-216d6c76fad9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8359,
+        "faceHash": "8b7a68d67586689a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          117,
+          8407,
+          464,
+          8754
+        ],
+        "sourceSize": [
+          800,
+          15130
+        ],
+        "detectedFace": [
+          156.641,
+          8463.672,
+          266.797,
+          234.18
+        ],
+        "outsideFaceWhiteFraction": 0.02487,
+        "largestWhiteRegion": 0.01181,
+        "sharpness": 1430.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/76/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/76-portrait-v5-4af093eddbdd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7476,
+        "faceHash": "dcf06ada294da564",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          56,
+          588,
+          741,
+          1273
+        ],
+        "sourceSize": [
+          800,
+          14945
+        ],
+        "detectedFace": [
+          213.672,
+          666.797,
+          450.0,
+          526.953
+        ],
+        "outsideFaceWhiteFraction": 0.01768,
+        "largestWhiteRegion": 0.01285,
+        "sharpness": 1232.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/77/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/77-portrait-v5-8a465efb9924.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7617,
+        "faceHash": "8532bd87605ae7cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          44,
+          3582,
+          800,
+          4338
+        ],
+        "sourceSize": [
+          800,
+          15652
+        ],
+        "detectedFace": [
+          164.062,
+          3709.375,
+          581.25,
+          500.781
+        ],
+        "outsideFaceWhiteFraction": 0.01276,
+        "largestWhiteRegion": 0.00522,
+        "sharpness": 2126.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/101/c54923.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/101-portrait-v5-5df06b05bbb3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "caad2bd22c3b3c8c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          116,
+          8973,
+          643,
+          9500
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          248.828,
+          9033.984,
+          318.75,
+          405.469
+        ],
+        "outsideFaceWhiteFraction": 0.03053,
+        "largestWhiteRegion": 0.0137,
+        "sharpness": 792.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/102/83aec9.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/102-portrait-v5-dcbf27cea380.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "81f0258ef6cfe60c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          271,
+          12491,
+          614,
+          12834
+        ],
+        "sourceSize": [
+          800,
+          14144
+        ],
+        "detectedFace": [
+          310.742,
+          12545.703,
+          263.672,
+          232.812
+        ],
+        "outsideFaceWhiteFraction": 0.00142,
+        "largestWhiteRegion": 0.00113,
+        "sharpness": 2055.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/103/932579.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/103-portrait-v5-702815c53732.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8555,
+        "faceHash": "c4643a9af08df2dc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          260,
+          10023,
+          550,
+          10313
+        ],
+        "sourceSize": [
+          800,
+          11695
+        ],
+        "detectedFace": [
+          296.289,
+          10056.25,
+          216.797,
+          223.438
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 690.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/104/da935b.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/104-portrait-v5-e7f774e5abdc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7686,
+        "faceHash": "95072a5a776d3a62",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          604,
+          10502,
+          900,
+          10798
+        ],
+        "sourceSize": [
+          900,
+          14230
+        ],
+        "detectedFace": [
+          664.673,
+          10543.469,
+          228.076,
+          212.476
+        ],
+        "outsideFaceWhiteFraction": 0.02812,
+        "largestWhiteRegion": 0.01659,
+        "sharpness": 1405.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/105/acaa55.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/105-portrait-v5-f11c4da1777f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "c040aab7b4979b9e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          236,
+          7972,
+          513,
+          8249
+        ],
+        "sourceSize": [
+          800,
+          13465
+        ],
+        "detectedFace": [
+          250.781,
+          7957.422,
+          248.438,
+          268.75
+        ],
+        "outsideFaceWhiteFraction": 0.04613,
+        "largestWhiteRegion": 0.01059,
+        "sharpness": 2915.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/106/cc88aa.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/106-portrait-v5-2b7c774b1d4d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8667,
+        "faceHash": "c7ae6ed0b48c3465",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          291,
+          323,
+          652,
+          684
+        ],
+        "sourceSize": [
+          900,
+          13506
+        ],
+        "detectedFace": [
+          339.148,
+          364.417,
+          263.892,
+          277.515
+        ],
+        "outsideFaceWhiteFraction": 0.00108,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 1785.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/107/8beb2d.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/107-portrait-v5-7d807e07753e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8657,
+        "faceHash": "faebb187a0dc821c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          142,
+          7232,
+          472,
+          7562
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          180.396,
+          7270.532,
+          254.004,
+          253.564
+        ],
+        "outsideFaceWhiteFraction": 0.00146,
+        "largestWhiteRegion": 0.00104,
+        "sharpness": 1021.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/108/3ff779.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/108-portrait-v5-4297bcc6a3d3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7539,
+        "faceHash": "912139cbb19dceb2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          879,
+          404,
+          1283
+        ],
+        "sourceSize": [
+          900,
+          2404
+        ],
+        "detectedFace": [
+          26.257,
+          925.818,
+          251.367,
+          310.913
+        ],
+        "outsideFaceWhiteFraction": 0.01288,
+        "largestWhiteRegion": 0.01169,
+        "sharpness": 1107.64,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/109/57242d.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/109-portrait-v5-6695b96462ac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8237,
+        "faceHash": "92323ec6e85e215f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          111,
+          12189,
+          777,
+          12855
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          188.086,
+          12271.729,
+          511.963,
+          499.658
+        ],
+        "outsideFaceWhiteFraction": 0.01407,
+        "largestWhiteRegion": 0.00482,
+        "sharpness": 2315.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/110/87106f.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/110-portrait-v5-532c5e908b98.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7437,
+        "faceHash": "c44c4a74ef934d72",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          241,
+          14542,
+          725,
+          15026
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          321.68,
+          14597.754,
+          322.559,
+          372.656
+        ],
+        "outsideFaceWhiteFraction": 0.00023,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 1235.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/111/2fd47e.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/111-portrait-v5-97cf3049a0e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "d9a94ec3b01e43cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          342,
+          1450,
+          598,
+          1706
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          398.694,
+          1500.018,
+          142.163,
+          155.237
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1131.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/121/6f320f.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/121-portrait-v5-cf7e5c85cfa3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8496,
+        "faceHash": "9d757a83b09ca70a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          196,
+          1556,
+          595,
+          1955
+        ],
+        "sourceSize": [
+          900,
+          3037
+        ],
+        "detectedFace": [
+          242.139,
+          1602.136,
+          306.738,
+          306.079
+        ],
+        "outsideFaceWhiteFraction": 0.01764,
+        "largestWhiteRegion": 0.00771,
+        "sharpness": 1513.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/78/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/78-portrait-v5-f52a351fda35.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7397,
+        "faceHash": "8f247bd2f1c6308d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          81,
+          5470,
+          800,
+          6189
+        ],
+        "sourceSize": [
+          800,
+          12770
+        ],
+        "detectedFace": [
+          219.336,
+          5560.742,
+          552.734,
+          537.109
+        ],
+        "outsideFaceWhiteFraction": 0.00189,
+        "largestWhiteRegion": 0.00131,
+        "sharpness": 1070.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/79/004.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/79-portrait-v5-c4f65a7dafa1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8496,
+        "faceHash": "deb82fd0b059a0d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          458,
+          6603,
+          769,
+          6914
+        ],
+        "sourceSize": [
+          800,
+          13553
+        ],
+        "detectedFace": [
+          503.125,
+          6632.52,
+          270.312,
+          251.367
+        ],
+        "outsideFaceWhiteFraction": 0.0106,
+        "largestWhiteRegion": 0.00664,
+        "sharpness": 2804.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/80/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/80-portrait-v5-459c05f06264.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8062,
+        "faceHash": "d0373b9290db6699",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          259,
+          7272,
+          557,
+          7570
+        ],
+        "sourceSize": [
+          800,
+          13002
+        ],
+        "detectedFace": [
+          295.703,
+          7306.152,
+          224.219,
+          229.102
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2655.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/81/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/81-portrait-v5-ec918bdbc2f8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8594,
+        "faceHash": "d58518d6478a753d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          297,
+          1957,
+          553,
+          2213
+        ],
+        "sourceSize": [
+          800,
+          13814
+        ],
+        "detectedFace": [
+          330.762,
+          1986.865,
+          189.258,
+          196.973
+        ],
+        "outsideFaceWhiteFraction": 0.00127,
+        "largestWhiteRegion": 0.00069,
+        "sharpness": 2477.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/82/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/82-portrait-v5-fafef2fa1918.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "8d2e26c6748e3cdc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          306,
+          14147,
+          583,
+          14424
+        ],
+        "sourceSize": [
+          800,
+          14880
+        ],
+        "detectedFace": [
+          338.574,
+          14187.568,
+          212.695,
+          196.191
+        ],
+        "outsideFaceWhiteFraction": 0.0154,
+        "largestWhiteRegion": 0.00534,
+        "sharpness": 1358.26,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/83/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/83-portrait-v5-b26e191607ce.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7671,
+        "faceHash": "a94af48932fd4758",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          203,
+          3096,
+          578,
+          3471
+        ],
+        "sourceSize": [
+          800,
+          12050
+        ],
+        "detectedFace": [
+          272.07,
+          3148.73,
+          288.672,
+          269.336
+        ],
+        "outsideFaceWhiteFraction": 0.02124,
+        "largestWhiteRegion": 0.0114,
+        "sharpness": 813.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/84/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/84-portrait-v5-59362c8ce8f3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.875,
+        "faceHash": "d46a7a93e5ca2629",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          163,
+          843,
+          419,
+          1099
+        ],
+        "sourceSize": [
+          800,
+          13325
+        ],
+        "detectedFace": [
+          208.984,
+          889.062,
+          164.062,
+          164.453
+        ],
+        "outsideFaceWhiteFraction": 0.01674,
+        "largestWhiteRegion": 0.00604,
+        "sharpness": 1021.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/85/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/85-portrait-v5-a91cf0ca1540.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8296,
+        "faceHash": "dc7d4dc0b09670cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          217,
+          3768,
+          546,
+          4097
+        ],
+        "sourceSize": [
+          800,
+          14023
+        ],
+        "detectedFace": [
+          257.031,
+          3805.469,
+          249.609,
+          253.125
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1199.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/86/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/86-portrait-v5-f577d3e15c5f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "c1b036cbe8cb538d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          345,
+          952,
+          601,
+          1208
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          393.262,
+          1003.711,
+          160.352,
+          153.516
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1494.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/87/002.webp?v=1793525704",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/87-portrait-v5-a2ab2ca97dcc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8438,
+        "faceHash": "d5242dd23f4b26d1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          213,
+          13790,
+          536,
+          14113
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          250.684,
+          13835.359,
+          248.242,
+          232.031
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2038.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/88/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/88-portrait-v5-e98ac82b2a51.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "8fa5e9d2981aa399",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          114,
+          4891,
+          638,
+          5415
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          174.805,
+          4952.93,
+          403.125,
+          400.781
+        ],
+        "outsideFaceWhiteFraction": 0.02895,
+        "largestWhiteRegion": 0.01086,
+        "sharpness": 4906.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/89/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/89-portrait-v5-85b7c8c2edc1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8525,
+        "faceHash": "95257a8ee19c2679",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          64,
+          7860,
+          320,
+          8116
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          111.084,
+          7898.438,
+          162.402,
+          178.32
+        ],
+        "outsideFaceWhiteFraction": 0.0033,
+        "largestWhiteRegion": 0.00255,
+        "sharpness": 1104.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/90/003.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/90-portrait-v5-109116c78cff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8315,
+        "faceHash": "d96e6c9731183678",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          269,
+          6830,
+          594,
+          7155
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          315.43,
+          6867.188,
+          232.422,
+          250.0
+        ],
+        "outsideFaceWhiteFraction": 0.00533,
+        "largestWhiteRegion": 0.00278,
+        "sharpness": 2306.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/91/002.webp?v=1793579562",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/91-portrait-v5-41b1508621c1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.875,
+        "faceHash": "816238dad2dec755",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          102,
+          3254,
+          403,
+          3555
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          140.527,
+          3288.574,
+          224.414,
+          231.445
+        ],
+        "outsideFaceWhiteFraction": 0.00433,
+        "largestWhiteRegion": 0.00143,
+        "sharpness": 2255.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/92/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/92-portrait-v5-d9460c8cbe4b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.834,
+        "faceHash": "ceed3892f42e2b24",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          212,
+          9587,
+          602,
+          9977
+        ],
+        "sourceSize": [
+          800,
+          14015
+        ],
+        "detectedFace": [
+          256.543,
+          9632.52,
+          300.195,
+          299.219
+        ],
+        "outsideFaceWhiteFraction": 0.00334,
+        "largestWhiteRegion": 0.00093,
+        "sharpness": 2013.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/93/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/93-portrait-v5-fec2a340c60d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "e5a9ec15b19fa0b0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          268,
+          9634,
+          761,
+          10127
+        ],
+        "sourceSize": [
+          800,
+          14208
+        ],
+        "detectedFace": [
+          290.625,
+          9719.141,
+          378.906,
+          322.266
+        ],
+        "outsideFaceWhiteFraction": 0.01949,
+        "largestWhiteRegion": 0.01114,
+        "sharpness": 2653.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/94/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/94-portrait-v5-9368ce70b02f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "d4d168d3b18db22e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          7,
+          6855,
+          450,
+          7298
+        ],
+        "sourceSize": [
+          800,
+          12850
+        ],
+        "detectedFace": [
+          67.578,
+          6905.762,
+          322.656,
+          340.82
+        ],
+        "outsideFaceWhiteFraction": 0.00787,
+        "largestWhiteRegion": 0.00197,
+        "sharpness": 1830.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/95/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/95-portrait-v5-d707f9d579cd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8296,
+        "faceHash": "a95657e0815f23f8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          411,
+          11815,
+          792,
+          12196
+        ],
+        "sourceSize": [
+          800,
+          14375
+        ],
+        "detectedFace": [
+          454.688,
+          11859.961,
+          292.969,
+          291.016
+        ],
+        "outsideFaceWhiteFraction": 0.00856,
+        "largestWhiteRegion": 0.00839,
+        "sharpness": 548.07,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/96/005.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/96-portrait-v5-eb6abc190cb3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "a001bfcf97de2226",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          412,
+          9196,
+          668,
+          9452
+        ],
+        "sourceSize": [
+          800,
+          12495
+        ],
+        "detectedFace": [
+          478.32,
+          9227.93,
+          123.047,
+          191.797
+        ],
+        "outsideFaceWhiteFraction": 0.0498,
+        "largestWhiteRegion": 0.01537,
+        "sharpness": 1011.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/97/002.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/97-portrait-v5-617e79a4d17d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.873,
+        "faceHash": "8bf828d4e19dc339",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          466,
+          7798,
+          725,
+          8057
+        ],
+        "sourceSize": [
+          800,
+          11870
+        ],
+        "detectedFace": [
+          496.289,
+          7827.734,
+          198.047,
+          199.023
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 727.01,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/98/c66349.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/98-portrait-v5-9a1a3d2a88f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "83ad2585f49ae9f0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          198,
+          7191,
+          501,
+          7494
+        ],
+        "sourceSize": [
+          800,
+          14120
+        ],
+        "detectedFace": [
+          238.184,
+          7226.562,
+          222.852,
+          232.812
+        ],
+        "outsideFaceWhiteFraction": 0.00102,
+        "largestWhiteRegion": 0.00064,
+        "sharpness": 1324.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-extras-academy-survival-guide/99/9e8d07.webp?v=1791864274",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-extras-academy/99-portrait-v5-0a516a19b0b3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8271,
+        "faceHash": "b8ac28d367cd326c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          249,
+          11505,
+          625,
+          11881
+        ],
+        "sourceSize": [
+          800,
+          14110
+        ],
+        "detectedFace": [
+          292.383,
+          11547.949,
+          288.672,
+          289.258
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1301.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

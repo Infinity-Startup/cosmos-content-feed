@@ -1,0 +1,3110 @@
+{
+  "titleId": "asura-manhwa-reincarnation-of-the-fist-king",
+  "revision": 5,
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/1/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/1-portrait-v5-b29680119e82.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "85d73dcb68c86b24",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          24,
+          3107,
+          429,
+          3512
+        ],
+        "sourceSize": [
+          800,
+          13217
+        ],
+        "detectedFace": [
+          77.441,
+          3153.418,
+          299.023,
+          311.523
+        ],
+        "outsideFaceWhiteFraction": 0.00069,
+        "largestWhiteRegion": 0.00066,
+        "sharpness": 2640.82,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/2/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/2-portrait-v5-77ef530b7af2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "ca0f7fb2207d3330",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          117,
+          13654,
+          373,
+          13910
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          171.729,
+          13684.766,
+          147.168,
+          194.531
+        ],
+        "outsideFaceWhiteFraction": 0.00226,
+        "largestWhiteRegion": 0.00189,
+        "sharpness": 1370.63,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/3/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/3-portrait-v5-18cda8e8f370.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "86496c0fe41dfe34",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          422,
+          2436,
+          753,
+          2767
+        ],
+        "sourceSize": [
+          800,
+          14785
+        ],
+        "detectedFace": [
+          471.68,
+          2474.414,
+          230.859,
+          254.688
+        ],
+        "outsideFaceWhiteFraction": 0.00076,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 1100.94,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/4/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/4-portrait-v5-755fe08926f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "90393bd2e64c6679",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          64,
+          6922,
+          373,
+          7231
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          123.242,
+          6957.422,
+          189.844,
+          237.5
+        ],
+        "outsideFaceWhiteFraction": 0.00026,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1374.0,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/5-portrait-v5-ed23f5c61679.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "96407e8382df1b5d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          233,
+          9037,
+          545,
+          9349
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          281.641,
+          9072.949,
+          214.062,
+          239.844
+        ],
+        "outsideFaceWhiteFraction": 0.02245,
+        "largestWhiteRegion": 0.01137,
+        "sharpness": 1506.55,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/6/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/6-portrait-v5-e4165d3e97cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "d1953a1e3d30695b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          20,
+          1127,
+          276,
+          1383
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          56.006,
+          1162.305,
+          184.668,
+          186.328
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1547.23,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/7/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/7-portrait-v5-ada177e339d6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "8b5c2f82768b722d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          303,
+          2303,
+          564,
+          2564
+        ],
+        "sourceSize": [
+          800,
+          12000
+        ],
+        "detectedFace": [
+          344.727,
+          2333.594,
+          176.953,
+          200.781
+        ],
+        "outsideFaceWhiteFraction": 0.01263,
+        "largestWhiteRegion": 0.00841,
+        "sharpness": 1357.11,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/8-portrait-v5-48c6f7807d99.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8647,
+        "faceHash": "c0c97d97743c6638",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          366,
+          5170,
+          570,
+          5374
+        ],
+        "sourceSize": [
+          800,
+          9765
+        ],
+        "detectedFace": [
+          407.617,
+          5183.398,
+          121.484,
+          155.859
+        ],
+        "outsideFaceWhiteFraction": 0.02821,
+        "largestWhiteRegion": 0.01039,
+        "sharpness": 470.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/9-portrait-v5-1333d502a75e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "d7174b982d3f3070",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          69,
+          1840,
+          346,
+          2117
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          116.357,
+          1871.582,
+          182.52,
+          212.891
+        ],
+        "outsideFaceWhiteFraction": 0.02254,
+        "largestWhiteRegion": 0.00717,
+        "sharpness": 2614.23,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/11-portrait-v5-8f9bf972ad44.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8369,
+        "faceHash": "d6607b272dd0e03e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          417,
+          5107,
+          673,
+          5363
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          446.094,
+          5162.988,
+          196.875,
+          143.555
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1139.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/12/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/12-portrait-v5-b181fdfbdc50.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8599,
+        "faceHash": "d296488b2d8d3e7c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          46,
+          13910,
+          348,
+          14212
+        ],
+        "sourceSize": [
+          800,
+          14605
+        ],
+        "detectedFace": [
+          112.109,
+          13945.137,
+          206.25,
+          232.227
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1941.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/66/e97a70.webp?v=1788147724",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/66-portrait-v5-685d881ee1ed.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "95946ecaea4a336c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          50,
+          12953,
+          314,
+          13217
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          86.517,
+          12983.917,
+          190.833,
+          202.917
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2273.36,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/67/8d9603.webp?v=1788181038",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/67-portrait-v5-3767c769757c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8057,
+        "faceHash": "806b2bc1ef8d3678",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          94,
+          6056,
+          634,
+          6596
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          163.916,
+          6118.396,
+          400.342,
+          415.503
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 3494.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/68/960b42.webp?v=1788641854",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/68-portrait-v5-76731a8b6f89.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "86b07e92b1a9734d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          177,
+          14160,
+          433,
+          14416
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          221.649,
+          14204.498,
+          166.223,
+          167.761
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2187.63,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/13/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/13-portrait-v5-2f59d9a42a7e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "c1703f9ea45bd219",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          303,
+          8270,
+          559,
+          8526
+        ],
+        "sourceSize": [
+          800,
+          14670
+        ],
+        "detectedFace": [
+          350.977,
+          8316.602,
+          160.547,
+          163.672
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1175.27,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/14/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/14-portrait-v5-acb1a106762e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8672,
+        "faceHash": "966e2895311ae7cb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          300,
+          9797,
+          518,
+          10015
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          317.09,
+          9784.766,
+          183.789,
+          212.109
+        ],
+        "outsideFaceWhiteFraction": 0.0041,
+        "largestWhiteRegion": 0.00269,
+        "sharpness": 1147.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/15-portrait-v5-76fa26c1a1c3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "c5656d9ba463322d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          193,
+          4267,
+          449,
+          4523
+        ],
+        "sourceSize": [
+          800,
+          14375
+        ],
+        "detectedFace": [
+          230.762,
+          4301.367,
+          180.273,
+          187.5
+        ],
+        "outsideFaceWhiteFraction": 0.00052,
+        "largestWhiteRegion": 0.0004,
+        "sharpness": 2602.52,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/16/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/16-portrait-v5-64a13274f46b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "85e86bd3219e3738",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          59,
+          13912,
+          327,
+          14180
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          104.248,
+          13942.781,
+          177.832,
+          205.859
+        ],
+        "outsideFaceWhiteFraction": 0.02763,
+        "largestWhiteRegion": 0.01643,
+        "sharpness": 1974.04,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/17/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/17-portrait-v5-d9fbd70422cd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "80773ede62c9e348",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          534,
+          9670,
+          790,
+          9926
+        ],
+        "sourceSize": [
+          800,
+          13985
+        ],
+        "detectedFace": [
+          581.055,
+          9712.109,
+          161.328,
+          171.484
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2396.42,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/18/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/18-portrait-v5-ad5c9a716dc2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.855,
+        "faceHash": "90c83b9f393865e3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          510,
+          3070,
+          800,
+          3360
+        ],
+        "sourceSize": [
+          800,
+          14452
+        ],
+        "detectedFace": [
+          551.953,
+          3102.93,
+          215.625,
+          223.438
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1878.31,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/19/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/19-portrait-v5-7a5882e2c386.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "d7a00bfa212f06bd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          107,
+          9705,
+          381,
+          9979
+        ],
+        "sourceSize": [
+          800,
+          10510
+        ],
+        "detectedFace": [
+          150.537,
+          9737.109,
+          187.207,
+          210.547
+        ],
+        "outsideFaceWhiteFraction": 0.00108,
+        "largestWhiteRegion": 0.00104,
+        "sharpness": 1912.9,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/20/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/20-portrait-v5-b54ce397dc6d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "826925972adacde3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          432,
+          5059,
+          723,
+          5350
+        ],
+        "sourceSize": [
+          800,
+          12915
+        ],
+        "detectedFace": [
+          465.43,
+          5096.68,
+          223.828,
+          215.234
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1191.03,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/21-portrait-v5-43f9bf795e4e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7959,
+        "faceHash": "d4f07ae6f0933161",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          104,
+          3718,
+          385,
+          3999
+        ],
+        "sourceSize": [
+          800,
+          13760
+        ],
+        "detectedFace": [
+          121.973,
+          3738.672,
+          244.336,
+          240.234
+        ],
+        "outsideFaceWhiteFraction": 0.052,
+        "largestWhiteRegion": 0.01428,
+        "sharpness": 4110.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/22/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/22-portrait-v5-9d8f1cdbe20a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "92246d84657d67d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          466,
+          9454,
+          722,
+          9710
+        ],
+        "sourceSize": [
+          800,
+          14625
+        ],
+        "detectedFace": [
+          516.992,
+          9506.055,
+          154.297,
+          152.734
+        ],
+        "outsideFaceWhiteFraction": 0.03481,
+        "largestWhiteRegion": 0.01451,
+        "sharpness": 1663.81,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/23/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/23-portrait-v5-fae4e1740667.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "80ad2eb68cc8769f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          544,
+          535,
+          800,
+          791
+        ],
+        "sourceSize": [
+          800,
+          14725
+        ],
+        "detectedFace": [
+          593.555,
+          583.789,
+          162.109,
+          158.984
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2414.24,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/24-portrait-v5-2dd59b0be5b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "df712494709a35cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          233,
+          7334,
+          496,
+          7597
+        ],
+        "sourceSize": [
+          800,
+          13866
+        ],
+        "detectedFace": [
+          248.438,
+          7363.867,
+          196.094,
+          202.344
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 974.5,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/25-portrait-v5-47ca2354fee3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8379,
+        "faceHash": "ca4c6db3b44833cd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          213,
+          3683,
+          800,
+          4270
+        ],
+        "sourceSize": [
+          800,
+          13472
+        ],
+        "detectedFace": [
+          241.016,
+          3752.539,
+          451.562,
+          448.828
+        ],
+        "outsideFaceWhiteFraction": 0.00204,
+        "largestWhiteRegion": 0.00061,
+        "sharpness": 4746.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/26-portrait-v5-d70fdea76995.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "96323cc1d32dab9c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          7536,
+          283,
+          7819
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          22.168,
+          7568.457,
+          217.969,
+          217.773
+        ],
+        "outsideFaceWhiteFraction": 0.00026,
+        "largestWhiteRegion": 0.00023,
+        "sharpness": 1546.01,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/27/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/27-portrait-v5-5c350b67a207.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7686,
+        "faceHash": "c4e11b87e4ea7968",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          150,
+          2451,
+          692,
+          2993
+        ],
+        "sourceSize": [
+          800,
+          14685
+        ],
+        "detectedFace": [
+          202.734,
+          2486.523,
+          437.5,
+          471.094
+        ],
+        "outsideFaceWhiteFraction": 0.03697,
+        "largestWhiteRegion": 0.00568,
+        "sharpness": 6923.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/28/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/28-portrait-v5-dada0412cdba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "d3170c389e8dba36",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          2988,
+          533,
+          3255
+        ],
+        "sourceSize": [
+          800,
+          12855
+        ],
+        "detectedFace": [
+          312.891,
+          3027.881,
+          173.828,
+          187.793
+        ],
+        "outsideFaceWhiteFraction": 0.04768,
+        "largestWhiteRegion": 0.01796,
+        "sharpness": 2276.67,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/29/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/29-portrait-v5-71df83fda8da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "8a78294ba74c676d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          477,
+          987,
+          759,
+          1269
+        ],
+        "sourceSize": [
+          800,
+          14870
+        ],
+        "detectedFace": [
+          514.453,
+          1019.336,
+          206.25,
+          216.797
+        ],
+        "outsideFaceWhiteFraction": 0.00861,
+        "largestWhiteRegion": 0.0032,
+        "sharpness": 1161.22,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/30/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/30-portrait-v5-1ba47928cd41.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "96b079de62696968",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          276,
+          6599,
+          532,
+          6855
+        ],
+        "sourceSize": [
+          800,
+          11040
+        ],
+        "detectedFace": [
+          330.664,
+          6650.342,
+          147.266,
+          152.637
+        ],
+        "outsideFaceWhiteFraction": 0.00346,
+        "largestWhiteRegion": 0.00346,
+        "sharpness": 951.89,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/31/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/31-portrait-v5-5e432d5b5622.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "d6827a91399e3374",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          338,
+          7295,
+          594,
+          7551
+        ],
+        "sourceSize": [
+          800,
+          8200
+        ],
+        "detectedFace": [
+          395.215,
+          7349.902,
+          140.82,
+          146.289
+        ],
+        "outsideFaceWhiteFraction": 0.00089,
+        "largestWhiteRegion": 0.00089,
+        "sharpness": 726.88,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/32/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/32-portrait-v5-558c5a5e7abc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "da0b6df5b6c41a30",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          205,
+          3632,
+          501,
+          3928
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          244.922,
+          3665.918,
+          216.797,
+          227.734
+        ],
+        "outsideFaceWhiteFraction": 0.01999,
+        "largestWhiteRegion": 0.01151,
+        "sharpness": 2102.34,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/33-portrait-v5-bff1c2ccf803.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "93f87fc0e0cf302c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          440,
+          5753,
+          776,
+          6089
+        ],
+        "sourceSize": [
+          800,
+          14295
+        ],
+        "detectedFace": [
+          484.57,
+          5791.797,
+          246.484,
+          258.594
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1891.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/34/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/34-portrait-v5-285e02b012a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "df23749e169c9328",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          471,
+          11643,
+          727,
+          11899
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          518.555,
+          11687.5,
+          160.547,
+          167.578
+        ],
+        "outsideFaceWhiteFraction": 0.00336,
+        "largestWhiteRegion": 0.00336,
+        "sharpness": 1594.39,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/35/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/35-portrait-v5-80f4d0627e61.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "9e666b9935189663",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          32,
+          13036,
+          288,
+          13292
+        ],
+        "sourceSize": [
+          800,
+          14570
+        ],
+        "detectedFace": [
+          81.396,
+          13070.508,
+          157.52,
+          186.328
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1604.7,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/36/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/36-portrait-v5-ed4ac2f9fc84.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "93386bc265356769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          99,
+          3438,
+          477,
+          3816
+        ],
+        "sourceSize": [
+          800,
+          13835
+        ],
+        "detectedFace": [
+          161.328,
+          3482.031,
+          253.125,
+          290.625
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1313.05,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/62/19d34c.webp?v=1785601665",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/62-portrait-v5-71120ed5bda4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "c74328dfb0583b3c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          102,
+          9898,
+          451,
+          10247
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          144.58,
+          9938.452,
+          263.672,
+          268.506
+        ],
+        "outsideFaceWhiteFraction": 0.00156,
+        "largestWhiteRegion": 0.00143,
+        "sharpness": 1744.35,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/64/3dc1b0.webp?v=1786814433",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/64-portrait-v5-6186f1e73438.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "823f6c92b3d24b3c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          424,
+          8509,
+          766,
+          8851
+        ],
+        "sourceSize": [
+          900,
+          15548
+        ],
+        "detectedFace": [
+          475.928,
+          8548.022,
+          237.305,
+          263.232
+        ],
+        "outsideFaceWhiteFraction": 0.00464,
+        "largestWhiteRegion": 0.00371,
+        "sharpness": 2129.95,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/69/4e5f49.webp?v=1789270584",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/69-portrait-v5-8604dd47aed6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "df0370c13c7c76b0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          326,
+          4129,
+          584,
+          4387
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          322.888,
+          4151.459,
+          224.341,
+          212.366
+        ],
+        "outsideFaceWhiteFraction": 0.00751,
+        "largestWhiteRegion": 0.00719,
+        "sharpness": 1849.98,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/71/9e8c6c.webp?v=1791209780",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/71-portrait-v5-932a14b8425c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "952978c3e99a365c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          86,
+          3688,
+          402,
+          4004
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          140.955,
+          3708.105,
+          250.269,
+          275.098
+        ],
+        "outsideFaceWhiteFraction": 0.00049,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 3804.18,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/72/bea527.webp?v=1791146108",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/72-portrait-v5-cd8e2cbc4dc1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "867b3ea2c2cc4d1d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          623,
+          9614,
+          900,
+          9891
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          678.735,
+          9646.381,
+          185.01,
+          212.805
+        ],
+        "outsideFaceWhiteFraction": 0.01556,
+        "largestWhiteRegion": 0.01509,
+        "sharpness": 2170.23,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/73/f8d564.webp?v=1791726526",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/73-portrait-v5-69f222247dc4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "c731689468cd6f65",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          495,
+          966,
+          754,
+          1225
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          529.321,
+          1004.919,
+          162.158,
+          182.153
+        ],
+        "outsideFaceWhiteFraction": 0.02306,
+        "largestWhiteRegion": 0.01794,
+        "sharpness": 1919.08,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/74/b2caa9.webp?v=1792320287",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/74-portrait-v5-5d3f91a967b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "c13f6ea6f4ca6424",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          465,
+          4420,
+          773,
+          4728
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          514.38,
+          4455.945,
+          208.74,
+          236.646
+        ],
+        "outsideFaceWhiteFraction": 0.00882,
+        "largestWhiteRegion": 0.00279,
+        "sharpness": 1449.47,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/75/50b080.webp?v=1793120118",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/75-portrait-v5-7ecaaf86e545.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "96b539c36649734c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          868,
+          256,
+          1124
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          45.154,
+          912.085,
+          133.374,
+          166.992
+        ],
+        "outsideFaceWhiteFraction": 0.00618,
+        "largestWhiteRegion": 0.00594,
+        "sharpness": 1482.59,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/76/b5a2a4.webp?v=1793490694",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/76-portrait-v5-6b2b2152466c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "c63d6ace276531d0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          16,
+          1179,
+          272,
+          1435
+        ],
+        "sourceSize": [
+          900,
+          3207
+        ],
+        "detectedFace": [
+          63.721,
+          1236.401,
+          160.84,
+          141.064
+        ],
+        "outsideFaceWhiteFraction": 0.02135,
+        "largestWhiteRegion": 0.01167,
+        "sharpness": 2370.49,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/37/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/37-portrait-v5-8d1365792f75.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "dd2068bb278dd2d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          140,
+          5327,
+          396,
+          5583
+        ],
+        "sourceSize": [
+          800,
+          12895
+        ],
+        "detectedFace": [
+          157.568,
+          5371.68,
+          186.426,
+          166.797
+        ],
+        "outsideFaceWhiteFraction": 0.00156,
+        "largestWhiteRegion": 0.00127,
+        "sharpness": 1635.36,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/38-portrait-v5-e574cb9cd17a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "cbb83cc932cd3165",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          529,
+          6973,
+          785,
+          7229
+        ],
+        "sourceSize": [
+          800,
+          13913
+        ],
+        "detectedFace": [
+          566.992,
+          7002.93,
+          180.859,
+          195.703
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 3377.15,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/39/005.webp?v=1770924097",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/39-portrait-v5-f17a83888410.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "c7c12dcdf625320e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          439,
+          8884,
+          713,
+          9158
+        ],
+        "sourceSize": [
+          800,
+          11335
+        ],
+        "detectedFace": [
+          474.219,
+          8915.43,
+          203.906,
+          210.547
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2091.4,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/40/003.webp?v=1771448149",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/40-portrait-v5-6b3515f01efc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "da7a6fc52581302f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          12518,
+          290,
+          12808
+        ],
+        "sourceSize": [
+          800,
+          14815
+        ],
+        "detectedFace": [
+          0.0,
+          12551.172,
+          161.523,
+          223.438
+        ],
+        "outsideFaceWhiteFraction": 0.00708,
+        "largestWhiteRegion": 0.00633,
+        "sharpness": 1867.51,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/41/007.webp?v=1771817848",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/41-portrait-v5-2bc1ca8909e3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "d5f12bd36269320d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          459,
+          4307,
+          715,
+          4563
+        ],
+        "sourceSize": [
+          800,
+          14030
+        ],
+        "detectedFace": [
+          509.766,
+          4349.707,
+          154.688,
+          171.289
+        ],
+        "outsideFaceWhiteFraction": 0.00728,
+        "largestWhiteRegion": 0.00293,
+        "sharpness": 1263.19,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/44/1a4b47.webp?v=1773994553",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/44-portrait-v5-298c20c26fd5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "c16d2d9732e03769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          360,
+          9153,
+          736,
+          9529
+        ],
+        "sourceSize": [
+          800,
+          14630
+        ],
+        "detectedFace": [
+          430.859,
+          9196.094,
+          234.375,
+          289.062
+        ],
+        "outsideFaceWhiteFraction": 0.00055,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 2359.78,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/46/58cd67.webp?v=1775269280",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/46-portrait-v5-eb3da163a66b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "dd727096e7c99211",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          496,
+          882,
+          798,
+          1184
+        ],
+        "sourceSize": [
+          800,
+          10168
+        ],
+        "detectedFace": [
+          531.055,
+          925.293,
+          232.422,
+          215.82
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1645.94,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/47/ac638b.webp?v=1775872272",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/47-portrait-v5-051c7225a63e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "cf6c3d9372653406",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          459,
+          12445,
+          769,
+          12755
+        ],
+        "sourceSize": [
+          800,
+          13942
+        ],
+        "detectedFace": [
+          522.266,
+          12480.273,
+          183.594,
+          238.672
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1443.82,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/48/a02b89.webp?v=1776680987",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/48-portrait-v5-cf7a0f2bbe2c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "dbba6a8435396361",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          118,
+          6748,
+          374,
+          7004
+        ],
+        "sourceSize": [
+          800,
+          13060
+        ],
+        "detectedFace": [
+          155.078,
+          6779.639,
+          181.25,
+          193.457
+        ],
+        "outsideFaceWhiteFraction": 0.00179,
+        "largestWhiteRegion": 0.00119,
+        "sharpness": 1455.74,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/49/6ef1df.webp?v=1776741127",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/49-portrait-v5-39b1d4e17b9d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "c22d3990e1cf7378",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          207,
+          877,
+          463,
+          1133
+        ],
+        "sourceSize": [
+          800,
+          14290
+        ],
+        "detectedFace": [
+          245.703,
+          909.668,
+          178.906,
+          190.039
+        ],
+        "outsideFaceWhiteFraction": 0.02019,
+        "largestWhiteRegion": 0.01262,
+        "sharpness": 1812.44,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/51/6e5b48.webp?v=1778120295",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/51-portrait-v5-7134dfca74cc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "93c53aced8486739",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          6975,
+          256,
+          7231
+        ],
+        "sourceSize": [
+          900,
+          12630
+        ],
+        "detectedFace": [
+          27.356,
+          7012.024,
+          169.739,
+          181.714
+        ],
+        "outsideFaceWhiteFraction": 0.05019,
+        "largestWhiteRegion": 0.01443,
+        "sharpness": 1420.36,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/52/3a7c58.webp?v=1778458894",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/52-portrait-v5-d5b61e1b186f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "d70a6e93b1d8386c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          437,
+          5975,
+          769,
+          6307
+        ],
+        "sourceSize": [
+          900,
+          14735
+        ],
+        "detectedFace": [
+          485.815,
+          6013.037,
+          234.229,
+          255.762
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1265.81,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/54/963876.webp?v=1779553489",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/54-portrait-v5-fc61a1ef03c5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "c1f12fdb6c0c9295",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          492,
+          9149,
+          808,
+          9465
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          542.725,
+          9185.01,
+          215.332,
+          243.457
+        ],
+        "outsideFaceWhiteFraction": 0.00043,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2480.33,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/55/358f0c.webp?v=1780168027",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/55-portrait-v5-560efcb25283.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "923f68c5694ab68d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          335,
+          5198,
+          688,
+          5551
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          387.488,
+          5239.16,
+          248.95,
+          271.582
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1425.14,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/57/f222ed.webp?v=1782003379",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/57-portrait-v5-cc911091e51a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "ff60f881708066fd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          527,
+          14071,
+          795,
+          14339
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          523.169,
+          14089.746,
+          233.35,
+          231.152
+        ],
+        "outsideFaceWhiteFraction": 0.00653,
+        "largestWhiteRegion": 0.00363,
+        "sharpness": 1096.23,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/58/d030d1.webp?v=1782584566",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/58-portrait-v5-7901b6486c07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "c76e3c91311c36ec",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          489,
+          5205,
+          751,
+          5467
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          538.11,
+          5235.425,
+          163.037,
+          201.709
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1244.24,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/59/b1064d.webp?v=1783192524",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/59-portrait-v5-8aff810579e9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8823,
+        "faceHash": "86732bc83cb652e9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          199,
+          12801,
+          468,
+          13070
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          237.415,
+          12832.251,
+          191.821,
+          206.982
+        ],
+        "outsideFaceWhiteFraction": 0.00397,
+        "largestWhiteRegion": 0.00397,
+        "sharpness": 1446.72,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/10/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/10-portrait-v5-13636ac5cd8a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8345,
+        "faceHash": "85f0789e8df87461",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          97,
+          4953,
+          419,
+          5275
+        ],
+        "sourceSize": [
+          800,
+          10045
+        ],
+        "detectedFace": [
+          109.277,
+          4935.059,
+          297.461,
+          313.086
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2564.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/42/002.webp?v=1772605451",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/42-portrait-v5-c52dffde2539.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7935,
+        "faceHash": "a249569f69da6a29",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          158,
+          9581,
+          689,
+          10112
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          236.523,
+          9642.578,
+          373.047,
+          408.203
+        ],
+        "outsideFaceWhiteFraction": 0.00311,
+        "largestWhiteRegion": 0.00262,
+        "sharpness": 1539.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/43/002.webp?v=1773111660",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/43-portrait-v5-6a77690abbfe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8159,
+        "faceHash": "90f03e8f3197631b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          293,
+          2998,
+          760,
+          3465
+        ],
+        "sourceSize": [
+          800,
+          8790
+        ],
+        "detectedFace": [
+          360.449,
+          3051.855,
+          332.227,
+          359.18
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1747.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/45/ffa8f3.webp?v=1774835610",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/45-portrait-v5-dbb6bfa7af38.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7563,
+        "faceHash": "9e852a5a657a6699",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          7,
+          3626,
+          562,
+          4181
+        ],
+        "sourceSize": [
+          800,
+          14469
+        ],
+        "detectedFace": [
+          130.371,
+          3707.812,
+          375.977,
+          391.016
+        ],
+        "outsideFaceWhiteFraction": 0.04024,
+        "largestWhiteRegion": 0.01747,
+        "sharpness": 1999.18,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/50/27dedf.webp?v=1777778213",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/50-portrait-v5-102b303f5125.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8286,
+        "faceHash": "92617b8ec9c9c633",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          10769,
+          556,
+          11128
+        ],
+        "sourceSize": [
+          900,
+          14739
+        ],
+        "detectedFace": [
+          238.184,
+          10817.578,
+          276.416,
+          261.475
+        ],
+        "outsideFaceWhiteFraction": 0.0011,
+        "largestWhiteRegion": 0.0011,
+        "sharpness": 1608.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/53/7a7ce1.webp?v=1778951449",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/53-portrait-v5-75fcd7207f6d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8315,
+        "faceHash": "ca657994870e66d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          454,
+          11249,
+          881,
+          11676
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          506.03,
+          11297.9,
+          322.119,
+          328.711
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 3936.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/56/007809.webp?v=1781373598",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/56-portrait-v5-6a5b15fba41b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8276,
+        "faceHash": "9f5028de0ade6b38",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          353,
+          5562,
+          609,
+          5818
+        ],
+        "sourceSize": [
+          900,
+          14295
+        ],
+        "detectedFace": [
+          415.063,
+          5629.065,
+          132.275,
+          122.388
+        ],
+        "outsideFaceWhiteFraction": 0.0148,
+        "largestWhiteRegion": 0.00996,
+        "sharpness": 1974.95,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/60/22bf44.webp?v=1783869892",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/60-portrait-v5-72bc3bd544c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7402,
+        "faceHash": "d2336dc11fca7846",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          116,
+          4029,
+          900,
+          4813
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          326.953,
+          4119.214,
+          490.43,
+          602.93
+        ],
+        "outsideFaceWhiteFraction": 0.00143,
+        "largestWhiteRegion": 0.00142,
+        "sharpness": 2815.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/61/98713b.webp?v=1785601658",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/61-portrait-v5-3095bfd461a8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "c4963c8f30ce435f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          131,
+          7309,
+          447,
+          7625
+        ],
+        "sourceSize": [
+          900,
+          14830
+        ],
+        "detectedFace": [
+          175.671,
+          7345.459,
+          227.417,
+          243.457
+        ],
+        "outsideFaceWhiteFraction": 0.00783,
+        "largestWhiteRegion": 0.00502,
+        "sharpness": 1619.11,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/63/40d3c5.webp?v=1785601813",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/63-portrait-v5-fb5926482baf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7168,
+        "faceHash": "96e53196975e3838",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          77,
+          7426,
+          781,
+          8130
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          199.292,
+          7506.958,
+          460.107,
+          541.846
+        ],
+        "outsideFaceWhiteFraction": 0.02119,
+        "largestWhiteRegion": 0.00322,
+        "sharpness": 4543.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/65/8240e3.webp?v=1786814713",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/65-portrait-v5-512838c34d7f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8335,
+        "faceHash": "96146a1b3d3b66e1",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          331,
+          5161,
+          587,
+          5417
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          381.665,
+          5207.959,
+          155.127,
+          161.719
+        ],
+        "outsideFaceWhiteFraction": 0.00473,
+        "largestWhiteRegion": 0.00157,
+        "sharpness": 1799.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnation-of-the-fist-king/70/a2ef3b.webp?v=1789853759",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnation-of-the-fist-king/70-portrait-v5-b9b4bf3d96ae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8359,
+        "faceHash": "91a02c7fb58df2c4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          31,
+          9031,
+          361,
+          9361
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          71.082,
+          9069.324,
+          250.488,
+          254.224
+        ],
+        "outsideFaceWhiteFraction": 0.0007,
+        "largestWhiteRegion": 0.00067,
+        "sharpness": 1909.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

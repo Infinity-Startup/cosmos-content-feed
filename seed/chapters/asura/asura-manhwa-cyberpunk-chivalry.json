@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-cyberpunk-chivalry",
+  "seriesUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582",
+  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "chapterCount": 6,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "After Life",
+      "url": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-11-05T17:03:33.497854Z"
+    },
+    {
+      "number": 2,
+      "title": "The Cloud Dragon Sets Forth",
+      "url": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-11-05T23:47:54.926817Z"
+    },
+    {
+      "number": 3,
+      "title": "The Cloud Dragon Sets Forth (2)",
+      "url": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-11-05T23:56:14.561502Z"
+    },
+    {
+      "number": 4,
+      "title": "The Cloud Dragon Sets Forth (3)",
+      "url": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-11-06T00:02:53.639559Z"
+    },
+    {
+      "number": 5,
+      "title": "Enter the Void",
+      "url": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-11-06T00:03:47.522472Z"
+    },
+    {
+      "number": 6,
+      "title": "Enter the Void (2)",
+      "url": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-11-06T00:04:28.447561Z"
+    }
+  ]
+}

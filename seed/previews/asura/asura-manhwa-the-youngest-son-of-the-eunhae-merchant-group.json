@@ -1,0 +1,3160 @@
+{
+  "titleId": "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group",
+  "revision": 5,
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/2-portrait-v5-49283e28d26f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8145,
+        "faceHash": "d13a3b93e0ce606d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          260,
+          3321,
+          785,
+          3846
+        ],
+        "sourceSize": [
+          800,
+          14645
+        ],
+        "detectedFace": [
+          347.266,
+          3381.836,
+          350.0,
+          403.516
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2514.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/1/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/1-portrait-v5-7d38e0673847.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8262,
+        "faceHash": "d13f3b92e049636c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          261,
+          2771,
+          554,
+          3064
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          275.488,
+          2754.297,
+          263.086,
+          325.781
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2107.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/4/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/4-portrait-v5-eed97950ff45.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.813,
+        "faceHash": "d10b1fbe606c7436",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          416,
+          7448,
+          784,
+          7816
+        ],
+        "sourceSize": [
+          800,
+          14700
+        ],
+        "detectedFace": [
+          432.617,
+          7428.613,
+          334.766,
+          357.617
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 856.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/5-portrait-v5-a7d707b591fb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8716,
+        "faceHash": "d5362f122cc7693c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          379,
+          5774,
+          635,
+          6030
+        ],
+        "sourceSize": [
+          800,
+          14200
+        ],
+        "detectedFace": [
+          433.594,
+          5838.477,
+          146.094,
+          127.734
+        ],
+        "outsideFaceWhiteFraction": 0.01126,
+        "largestWhiteRegion": 0.00632,
+        "sharpness": 3050.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/6/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/6-portrait-v5-f8b37a4b8028.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "c1603f816c2f337b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          255,
+          3909,
+          692,
+          4346
+        ],
+        "sourceSize": [
+          800,
+          14800
+        ],
+        "detectedFace": [
+          310.254,
+          3959.766,
+          325.586,
+          335.938
+        ],
+        "outsideFaceWhiteFraction": 0.01004,
+        "largestWhiteRegion": 0.00647,
+        "sharpness": 824.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/7/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/7-portrait-v5-a484503bd9ce.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8564,
+        "faceHash": "92127b96e19e633a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          101,
+          6708,
+          451,
+          7058
+        ],
+        "sourceSize": [
+          800,
+          14395
+        ],
+        "detectedFace": [
+          153.906,
+          6748.73,
+          244.141,
+          268.945
+        ],
+        "outsideFaceWhiteFraction": 0.00719,
+        "largestWhiteRegion": 0.00719,
+        "sharpness": 1910.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/8-portrait-v5-e14fd10e595b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.854,
+        "faceHash": "95133e52f069636d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          216,
+          1247,
+          643,
+          1674
+        ],
+        "sourceSize": [
+          800,
+          14985
+        ],
+        "detectedFace": [
+          289.648,
+          1322.363,
+          237.109,
+          275.586
+        ],
+        "outsideFaceWhiteFraction": 0.04524,
+        "largestWhiteRegion": 0.01791,
+        "sharpness": 3174.5,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/3/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/3-portrait-v5-ed38d10e30dc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.811,
+        "faceHash": "d52228b8b48e6f2f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          424,
+          13908,
+          773,
+          14257
+        ],
+        "sourceSize": [
+          800,
+          14745
+        ],
+        "detectedFace": [
+          469.141,
+          13889.355,
+          257.812,
+          338.477
+        ],
+        "outsideFaceWhiteFraction": 0.01068,
+        "largestWhiteRegion": 0.00383,
+        "sharpness": 3505.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/9-portrait-v5-7f2f132f3558.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8521,
+        "faceHash": "d15469e6ddd22598",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          201,
+          670,
+          525,
+          994
+        ],
+        "sourceSize": [
+          800,
+          14750
+        ],
+        "detectedFace": [
+          247.266,
+          707.324,
+          230.859,
+          249.023
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2496.39,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/10-portrait-v5-2dfee61feab2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "84593b99b57c362c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          270,
+          9033,
+          800,
+          9563
+        ],
+        "sourceSize": [
+          800,
+          14955
+        ],
+        "detectedFace": [
+          394.043,
+          9094.336,
+          375.195,
+          407.422
+        ],
+        "outsideFaceWhiteFraction": 0.01501,
+        "largestWhiteRegion": 0.01495,
+        "sharpness": 3608.98,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/12/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/12-portrait-v5-22c93b903b63.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7842,
+        "faceHash": "af253da078cb469c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          280,
+          2456,
+          685,
+          2861
+        ],
+        "sourceSize": [
+          800,
+          14390
+        ],
+        "detectedFace": [
+          354.98,
+          2507.031,
+          311.914,
+          301.953
+        ],
+        "outsideFaceWhiteFraction": 0.04683,
+        "largestWhiteRegion": 0.01669,
+        "sharpness": 2857.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/11/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/11-portrait-v5-4f435bf6728c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8223,
+        "faceHash": "97953d80f0cf436c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          164,
+          8889,
+          602,
+          9327
+        ],
+        "sourceSize": [
+          800,
+          13920
+        ],
+        "detectedFace": [
+          217.188,
+          8939.355,
+          332.422,
+          336.914
+        ],
+        "outsideFaceWhiteFraction": 0.00331,
+        "largestWhiteRegion": 0.00285,
+        "sharpness": 2384.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/73/679c97.webp?v=1787622650",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/73-portrait-v5-59c9c2b656aa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8306,
+        "faceHash": "95780fe26bd1388e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          180,
+          7868,
+          800,
+          8488
+        ],
+        "sourceSize": [
+          800,
+          13502
+        ],
+        "detectedFace": [
+          300.977,
+          7939.453,
+          434.766,
+          476.953
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1170.1,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/72/0d0437.webp?v=1786950525",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/72-portrait-v5-5c4c08405ab5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7915,
+        "faceHash": "d0375f824abf4358",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          564,
+          10242,
+          900,
+          10578
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          691.26,
+          10280.566,
+          184.57,
+          258.398
+        ],
+        "outsideFaceWhiteFraction": 0.00574,
+        "largestWhiteRegion": 0.00574,
+        "sharpness": 1297.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/75/fff12c.webp?v=1788797555",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/75-portrait-v5-bd847a103e69.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8223,
+        "faceHash": "8b8b3ab83a8361dd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          237,
+          9301,
+          591,
+          9655
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          317.285,
+          9323.657,
+          236.426,
+          308.057
+        ],
+        "outsideFaceWhiteFraction": 0.01553,
+        "largestWhiteRegion": 0.01553,
+        "sharpness": 1296.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/76/965483.webp?v=1789397331",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/76-portrait-v5-96ea44cd5b76.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8188,
+        "faceHash": "81af2f9661c7709a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          310,
+          5006,
+          749,
+          5445
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          339.038,
+          5039.648,
+          381.885,
+          371.777
+        ],
+        "outsideFaceWhiteFraction": 0.05333,
+        "largestWhiteRegion": 0.01791,
+        "sharpness": 3046.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/77/4efb2c.webp?v=1790169087",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/77-portrait-v5-044cad396ffd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8726,
+        "faceHash": "c3612ef6b488627d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          586,
+          8041,
+          815,
+          8270
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          597.656,
+          8028.149,
+          205.664,
+          222.803
+        ],
+        "outsideFaceWhiteFraction": 0.01532,
+        "largestWhiteRegion": 0.01033,
+        "sharpness": 1450.88,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/74/a6f68d.webp?v=1788153088",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/74-portrait-v5-339a37ed18d8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8364,
+        "faceHash": "943e3e92f1092f2d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          143,
+          4247,
+          652,
+          4756
+        ],
+        "sourceSize": [
+          900,
+          16031
+        ],
+        "detectedFace": [
+          233.789,
+          4305.542,
+          327.832,
+          391.553
+        ],
+        "outsideFaceWhiteFraction": 0.00066,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 1518.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/79/ba5431.webp?v=1791200911",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/79-portrait-v5-b46c01a9ec24.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8745,
+        "faceHash": "d0362e97686939c7",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          623,
+          7266,
+          879,
+          7522
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          666.431,
+          7296.68,
+          170.068,
+          194.238
+        ],
+        "outsideFaceWhiteFraction": 0.00739,
+        "largestWhiteRegion": 0.00612,
+        "sharpness": 2476.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/80/921b6a.webp?v=1791813006",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/80-portrait-v5-d24585e40194.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8052,
+        "faceHash": "d0373fb4684b4959",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          320,
+          6155,
+          802,
+          6637
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          375.293,
+          6214.307,
+          370.898,
+          364.307
+        ],
+        "outsideFaceWhiteFraction": 0.00035,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 1899.18,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/81/217c30.webp?v=1792378787",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/81-portrait-v5-7f6570615298.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8721,
+        "faceHash": "97197bd3206c6566",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          549,
+          7668,
+          805,
+          7924
+        ],
+        "sourceSize": [
+          900,
+          15794
+        ],
+        "detectedFace": [
+          616.113,
+          7723.938,
+          122.168,
+          143.921
+        ],
+        "outsideFaceWhiteFraction": 0.00101,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 1847.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/83/31937f.webp?v=1793592449",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/83-portrait-v5-93e803889e91.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7773,
+        "faceHash": "941a29db3ec97a43",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          431,
+          8883,
+          712,
+          9164
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          499.438,
+          8915.9,
+          144.58,
+          216.101
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1730.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/78/7b8203.webp?v=1790602364",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/78-portrait-v5-7fa082ee4737.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8418,
+        "faceHash": "d0821f0fa57c79c6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          390,
+          9295,
+          798,
+          9703
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          466.919,
+          9341.895,
+          254.443,
+          313.77
+        ],
+        "outsideFaceWhiteFraction": 0.01204,
+        "largestWhiteRegion": 0.00961,
+        "sharpness": 2948.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/14/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/14-portrait-v5-99d901de21d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "92373b97f84a7428",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          102,
+          7921,
+          554,
+          8373
+        ],
+        "sourceSize": [
+          800,
+          14530
+        ],
+        "detectedFace": [
+          192.383,
+          7901.172,
+          450.391,
+          491.797
+        ],
+        "outsideFaceWhiteFraction": 0.01469,
+        "largestWhiteRegion": 0.00764,
+        "sharpness": 3205.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/13/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/13-portrait-v5-af9c36c0667d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8267,
+        "faceHash": "88582fd3b4ce346e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          148,
+          828,
+          611,
+          1291
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          175.0,
+          865.82,
+          408.203,
+          449.609
+        ],
+        "outsideFaceWhiteFraction": 0.00708,
+        "largestWhiteRegion": 0.00395,
+        "sharpness": 3517.95,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/16/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/16-portrait-v5-e829782d308e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8315,
+        "faceHash": "855c7a95b89e254e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          3718,
+          800,
+          4321
+        ],
+        "sourceSize": [
+          800,
+          14895
+        ],
+        "detectedFace": [
+          433.203,
+          3787.5,
+          366.406,
+          464.062
+        ],
+        "outsideFaceWhiteFraction": 0.01384,
+        "largestWhiteRegion": 0.0118,
+        "sharpness": 2703.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/15-portrait-v5-1ae025aac0f5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8726,
+        "faceHash": "83163d92748fe25d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          344,
+          4314,
+          551,
+          4521
+        ],
+        "sourceSize": [
+          800,
+          13975
+        ],
+        "detectedFace": [
+          290.137,
+          4307.812,
+          225.195,
+          218.75
+        ],
+        "outsideFaceWhiteFraction": 0.0025,
+        "largestWhiteRegion": 0.00156,
+        "sharpness": 1475.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/18/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/18-portrait-v5-d1c724ff4742.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8296,
+        "faceHash": "81dd2ad4e19e2778",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          177,
+          5750,
+          590,
+          6163
+        ],
+        "sourceSize": [
+          800,
+          13590
+        ],
+        "detectedFace": [
+          208.887,
+          5728.125,
+          349.805,
+          400.781
+        ],
+        "outsideFaceWhiteFraction": 0.01086,
+        "largestWhiteRegion": 0.00684,
+        "sharpness": 3110.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/17-portrait-v5-82809804f2ca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7935,
+        "faceHash": "8a683d96788e774c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          8560,
+          572,
+          9132
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          109.961,
+          8626.172,
+          408.984,
+          439.844
+        ],
+        "outsideFaceWhiteFraction": 0.01553,
+        "largestWhiteRegion": 0.01552,
+        "sharpness": 1724.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/19/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/19-portrait-v5-636a187f993d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.856,
+        "faceHash": "f5844a678bda750a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          291,
+          861,
+          547,
+          1117
+        ],
+        "sourceSize": [
+          800,
+          14660
+        ],
+        "detectedFace": [
+          329.004,
+          898.828,
+          152.93,
+          180.078
+        ],
+        "outsideFaceWhiteFraction": 0.04031,
+        "largestWhiteRegion": 0.01253,
+        "sharpness": 5190.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/21/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/21-portrait-v5-dd21f43cd649.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.874,
+        "faceHash": "94613a46e1d8cf79",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          155,
+          7125,
+          411,
+          7381
+        ],
+        "sourceSize": [
+          800,
+          14465
+        ],
+        "detectedFace": [
+          194.775,
+          7162.305,
+          176.465,
+          181.641
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1534.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/20-portrait-v5-3263f06cceae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8271,
+        "faceHash": "96363ac0e11f6fc8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          185,
+          4488,
+          523,
+          4826
+        ],
+        "sourceSize": [
+          800,
+          14680
+        ],
+        "detectedFace": [
+          237.5,
+          4509.473,
+          283.984,
+          294.336
+        ],
+        "outsideFaceWhiteFraction": 0.01509,
+        "largestWhiteRegion": 0.01201,
+        "sharpness": 1687.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/22-portrait-v5-247345eec3cc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7969,
+        "faceHash": "d5857e96e09e213c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          15,
+          3191,
+          520,
+          3696
+        ],
+        "sourceSize": [
+          800,
+          14890
+        ],
+        "detectedFace": [
+          96.094,
+          3249.023,
+          342.578,
+          388.672
+        ],
+        "outsideFaceWhiteFraction": 0.0029,
+        "largestWhiteRegion": 0.00127,
+        "sharpness": 2269.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/25-portrait-v5-2fb53cff81a4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7354,
+        "faceHash": "ac01ff04fd0bee0c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          292,
+          7714,
+          592,
+          8014
+        ],
+        "sourceSize": [
+          800,
+          13545
+        ],
+        "detectedFace": [
+          326.27,
+          7767.773,
+          231.055,
+          192.578
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 330.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/23-portrait-v5-109e48403831.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8525,
+        "faceHash": "d7044054cfda5f17",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          85,
+          8318,
+          341,
+          8574
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          120.898,
+          8347.656,
+          183.594,
+          196.094
+        ],
+        "outsideFaceWhiteFraction": 0.01187,
+        "largestWhiteRegion": 0.01016,
+        "sharpness": 2543.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/26-portrait-v5-290b7b2b62d7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8066,
+        "faceHash": "d0cc28df0d9b92d3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          379,
+          2495,
+          800,
+          2916
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          489.258,
+          2543.652,
+          263.672,
+          323.633
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 730.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/27-portrait-v5-6267c316c8da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.793,
+        "faceHash": "81fa7f8524873d0b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          93,
+          6607,
+          367,
+          6881
+        ],
+        "sourceSize": [
+          800,
+          13550
+        ],
+        "detectedFace": [
+          140.771,
+          6638.867,
+          178.223,
+          210.938
+        ],
+        "outsideFaceWhiteFraction": 0.01851,
+        "largestWhiteRegion": 0.00894,
+        "sharpness": 1620.85,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/29/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/29-portrait-v5-080a0639bd92.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "9d9930807e8f705f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          133,
+          4901,
+          580,
+          5348
+        ],
+        "sourceSize": [
+          800,
+          14525
+        ],
+        "detectedFace": [
+          219.043,
+          4952.246,
+          274.023,
+          343.945
+        ],
+        "outsideFaceWhiteFraction": 0.00337,
+        "largestWhiteRegion": 0.00308,
+        "sharpness": 2382.76,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/24/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/24-portrait-v5-12405376cc59.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8306,
+        "faceHash": "911b3b52e4e96749",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          195,
+          2139,
+          595,
+          2539
+        ],
+        "sourceSize": [
+          800,
+          11765
+        ],
+        "detectedFace": [
+          235.059,
+          2171.68,
+          320.117,
+          388.672
+        ],
+        "outsideFaceWhiteFraction": 0.01825,
+        "largestWhiteRegion": 0.00652,
+        "sharpness": 836.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/30/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/30-portrait-v5-f6d6b21872e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8105,
+        "faceHash": "d2893b9d381f643c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          91,
+          5436,
+          506,
+          5851
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          194.434,
+          5483.594,
+          207.227,
+          319.141
+        ],
+        "outsideFaceWhiteFraction": 0.00774,
+        "largestWhiteRegion": 0.00774,
+        "sharpness": 1771.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/31/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/31-portrait-v5-22fad2f8c9bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7876,
+        "faceHash": "8e071ddc10dc3b5b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          108,
+          8055,
+          596,
+          8543
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          185.547,
+          8095.117,
+          405.859,
+          473.828
+        ],
+        "outsideFaceWhiteFraction": 0.00975,
+        "largestWhiteRegion": 0.00746,
+        "sharpness": 1614.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/28/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/28-portrait-v5-1778f1d4ba75.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7754,
+        "faceHash": "ce4c2e9270a46e6f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          141,
+          1793,
+          681,
+          2333
+        ],
+        "sourceSize": [
+          800,
+          13075
+        ],
+        "detectedFace": [
+          203.711,
+          1875.781,
+          415.234,
+          375.391
+        ],
+        "outsideFaceWhiteFraction": 0.00203,
+        "largestWhiteRegion": 0.00198,
+        "sharpness": 1641.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/32/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/32-portrait-v5-1e062d17059d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8174,
+        "faceHash": "cf446ec7b04e306e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          292,
+          12901,
+          750,
+          13359
+        ],
+        "sourceSize": [
+          800,
+          14510
+        ],
+        "detectedFace": [
+          350.781,
+          12876.562,
+          414.844,
+          444.531
+        ],
+        "outsideFaceWhiteFraction": 0.00447,
+        "largestWhiteRegion": 0.00429,
+        "sharpness": 3053.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/33-portrait-v5-5bd9475fe704.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8574,
+        "faceHash": "955d3ac7b51c2668",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          361,
+          6183,
+          730,
+          6552
+        ],
+        "sourceSize": [
+          800,
+          14840
+        ],
+        "detectedFace": [
+          420.898,
+          6225.781,
+          248.828,
+          283.594
+        ],
+        "outsideFaceWhiteFraction": 0.00281,
+        "largestWhiteRegion": 0.00142,
+        "sharpness": 2674.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/35/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/35-portrait-v5-6cd619d5a3a0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "83153da6e4c3633b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          128,
+          8018,
+          630,
+          8520
+        ],
+        "sourceSize": [
+          800,
+          14040
+        ],
+        "detectedFace": [
+          149.219,
+          7990.625,
+          460.547,
+          487.5
+        ],
+        "outsideFaceWhiteFraction": 0.00804,
+        "largestWhiteRegion": 0.00352,
+        "sharpness": 3045.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/36-portrait-v5-13bb3032d47f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "c3945bc2b54b780f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          193,
+          9210,
+          697,
+          9714
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          238.086,
+          9183.594,
+          413.672,
+          489.062
+        ],
+        "outsideFaceWhiteFraction": 0.02983,
+        "largestWhiteRegion": 0.00999,
+        "sharpness": 2278.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/37/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/37-portrait-v5-6888a8ec6dc8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8638,
+        "faceHash": "95793b83e44c256d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          310,
+          4503,
+          613,
+          4806
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          348.926,
+          4538.086,
+          225.586,
+          233.203
+        ],
+        "outsideFaceWhiteFraction": 0.00557,
+        "largestWhiteRegion": 0.00203,
+        "sharpness": 2288.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/38/002.webp?v=1790288399",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/38-portrait-v5-d6727f4a6aec.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.874,
+        "faceHash": "d2377a82f0496379",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          103,
+          9090,
+          373,
+          9360
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          143.799,
+          9121.387,
+          188.965,
+          208.008
+        ],
+        "outsideFaceWhiteFraction": 0.00229,
+        "largestWhiteRegion": 0.00049,
+        "sharpness": 1631.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/34-portrait-v5-f98d1695fc66.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7671,
+        "faceHash": "9dd543d188da321f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          202,
+          9174,
+          700,
+          9672
+        ],
+        "sourceSize": [
+          800,
+          13100
+        ],
+        "detectedFace": [
+          242.969,
+          9147.461,
+          416.406,
+          483.594
+        ],
+        "outsideFaceWhiteFraction": 0.00308,
+        "largestWhiteRegion": 0.00127,
+        "sharpness": 2003.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/39/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/39-portrait-v5-9266def97bbf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8037,
+        "faceHash": "c76a09d68fc728c5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          162,
+          4760,
+          768,
+          5366
+        ],
+        "sourceSize": [
+          800,
+          13450
+        ],
+        "detectedFace": [
+          189.844,
+          4835.156,
+          466.406,
+          454.688
+        ],
+        "outsideFaceWhiteFraction": 0.0495,
+        "largestWhiteRegion": 0.01195,
+        "sharpness": 2409.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/41/72241b.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/41-portrait-v5-e3cde957f00e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8247,
+        "faceHash": "c62f02d0bf4b3e0d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          36,
+          2575,
+          490,
+          3029
+        ],
+        "sourceSize": [
+          800,
+          14905
+        ],
+        "detectedFace": [
+          0.098,
+          2554.883,
+          375.0,
+          493.359
+        ],
+        "outsideFaceWhiteFraction": 0.00528,
+        "largestWhiteRegion": 0.0036,
+        "sharpness": 2890.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/42/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/42-portrait-v5-14e6e716b6cb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8623,
+        "faceHash": "96697b864d9a6692",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          247,
+          6284,
+          550,
+          6587
+        ],
+        "sourceSize": [
+          800,
+          14555
+        ],
+        "detectedFace": [
+          291.699,
+          6318.555,
+          214.258,
+          233.203
+        ],
+        "outsideFaceWhiteFraction": 0.00031,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 792.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/44/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/44-portrait-v5-e988ecbbd25c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7251,
+        "faceHash": "cb333ccc36cb30cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          477,
+          8997,
+          800,
+          9320
+        ],
+        "sourceSize": [
+          800,
+          14630
+        ],
+        "detectedFace": [
+          538.477,
+          9034.277,
+          243.359,
+          248.242
+        ],
+        "outsideFaceWhiteFraction": 0.01776,
+        "largestWhiteRegion": 0.01622,
+        "sharpness": 1560.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/40/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/40-portrait-v5-57d75358cf0f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.834,
+        "faceHash": "d00f68cf17c8336d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          116,
+          1006,
+          445,
+          1335
+        ],
+        "sourceSize": [
+          800,
+          14675
+        ],
+        "detectedFace": [
+          157.812,
+          1044.336,
+          244.531,
+          252.734
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1450.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/45-portrait-v5-cc1cfd6268b7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7246,
+        "faceHash": "8e861a9e2d367a3a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          94,
+          717,
+          800,
+          1423
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          317.578,
+          798.438,
+          474.219,
+          542.969
+        ],
+        "outsideFaceWhiteFraction": 0.00244,
+        "largestWhiteRegion": 0.00154,
+        "sharpness": 937.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/46/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/46-portrait-v5-d4f4a5e64fd4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8237,
+        "faceHash": "85c15f53d18a766c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          400,
+          2772,
+          800,
+          3172
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          454.883,
+          2798.242,
+          309.766,
+          348.047
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1982.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/47/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/47-portrait-v5-ba2a42265c52.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8145,
+        "faceHash": "913b7a96e08d2d2d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          108,
+          4943,
+          704,
+          5539
+        ],
+        "sourceSize": [
+          800,
+          14110
+        ],
+        "detectedFace": [
+          204.297,
+          5011.914,
+          403.906,
+          458.203
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1715.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/48/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/48-portrait-v5-f5727a3827aa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8198,
+        "faceHash": "9e91489e2596795b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          242,
+          3940,
+          619,
+          4317
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          315.332,
+          3984.082,
+          231.055,
+          289.648
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1763.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/49/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/49-portrait-v5-31f5873f4238.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7939,
+        "faceHash": "83e3d1d86c6c0d9d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          128,
+          3744,
+          646,
+          4262
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          187.793,
+          3812.988,
+          398.242,
+          380.273
+        ],
+        "outsideFaceWhiteFraction": 0.00348,
+        "largestWhiteRegion": 0.00241,
+        "sharpness": 2662.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/50/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/50-portrait-v5-e7ad5c76457e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "c4a93fc0749bb19c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          161,
+          5429,
+          590,
+          5858
+        ],
+        "sourceSize": [
+          800,
+          13530
+        ],
+        "detectedFace": [
+          237.891,
+          5478.418,
+          275.781,
+          329.883
+        ],
+        "outsideFaceWhiteFraction": 0.00777,
+        "largestWhiteRegion": 0.00331,
+        "sharpness": 3699.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/51/f1acc5.webp?v=1775428863",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/51-portrait-v5-3beed4610afd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "c6446cdfb4c8332e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          189,
+          10250,
+          596,
+          10657
+        ],
+        "sourceSize": [
+          800,
+          14830
+        ],
+        "detectedFace": [
+          198.438,
+          10228.027,
+          389.062,
+          394.727
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2694.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/53/f49d96.webp?v=1775518930",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/53-portrait-v5-03ddfb3a6843.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7954,
+        "faceHash": "c0e13b873c0e77d2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          4945,
+          690,
+          5635
+        ],
+        "sourceSize": [
+          800,
+          14130
+        ],
+        "detectedFace": [
+          14.844,
+          5024.609,
+          418.359,
+          530.469
+        ],
+        "outsideFaceWhiteFraction": 0.02708,
+        "largestWhiteRegion": 0.01437,
+        "sharpness": 2281.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/43-portrait-v5-e1542e0b35e4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7983,
+        "faceHash": "89323d8ae2c9771d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          310,
+          1387,
+          764,
+          1841
+        ],
+        "sourceSize": [
+          800,
+          13333
+        ],
+        "detectedFace": [
+          191.016,
+          1391.797,
+          493.75,
+          444.531
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2506.15,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/54/9a3747.webp?v=1776838693",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/54-portrait-v5-25a123acf6b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.832,
+        "faceHash": "97f00ad0ab937d46",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          41,
+          5551,
+          411,
+          5921
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          73.535,
+          5593.75,
+          258.398,
+          284.375
+        ],
+        "outsideFaceWhiteFraction": 0.01958,
+        "largestWhiteRegion": 0.00786,
+        "sharpness": 3637.33,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/55/94e0e2.webp?v=1776838729",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/55-portrait-v5-d73ebfa91354.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7544,
+        "faceHash": "d5de4aa8dbc18b41",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          127,
+          4173,
+          721,
+          4767
+        ],
+        "sourceSize": [
+          800,
+          11135
+        ],
+        "detectedFace": [
+          234.766,
+          4241.797,
+          378.906,
+          456.641
+        ],
+        "outsideFaceWhiteFraction": 0.00964,
+        "largestWhiteRegion": 0.00453,
+        "sharpness": 3633.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/56/f479ac.webp?v=1777425033",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/56-portrait-v5-33af672d68b8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8467,
+        "faceHash": "d5e05a5b292f2715",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          440,
+          3916,
+          787,
+          4263
+        ],
+        "sourceSize": [
+          900,
+          11335
+        ],
+        "detectedFace": [
+          482.52,
+          3955.957,
+          261.914,
+          267.188
+        ],
+        "outsideFaceWhiteFraction": 0.00497,
+        "largestWhiteRegion": 0.00351,
+        "sharpness": 1597.57,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/52/39e291.webp?v=1775428929",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/52-portrait-v5-bb9367718177.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "c0a56ddbd84d5b18",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          103,
+          476,
+          377,
+          750
+        ],
+        "sourceSize": [
+          800,
+          14545
+        ],
+        "detectedFace": [
+          107.422,
+          493.359,
+          224.609,
+          238.281
+        ],
+        "outsideFaceWhiteFraction": 0.03818,
+        "largestWhiteRegion": 0.01199,
+        "sharpness": 1006.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/57/b84cb1.webp?v=1778324973",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/57-portrait-v5-643f15588f82.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "d0293e87f83af509",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          282,
+          939,
+          600,
+          1257
+        ],
+        "sourceSize": [
+          900,
+          12836
+        ],
+        "detectedFace": [
+          316.846,
+          959.216,
+          247.412,
+          276.636
+        ],
+        "outsideFaceWhiteFraction": 0.02023,
+        "largestWhiteRegion": 0.00446,
+        "sharpness": 1094.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/58/8ce63d.webp?v=1778497129",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/58-portrait-v5-f90a585aaabe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8203,
+        "faceHash": "81d02f4b52ad7b3c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          412,
+          5382,
+          900,
+          5870
+        ],
+        "sourceSize": [
+          900,
+          8859
+        ],
+        "detectedFace": [
+          476.367,
+          5447.9,
+          375.293,
+          356.396
+        ],
+        "outsideFaceWhiteFraction": 0.01909,
+        "largestWhiteRegion": 0.0123,
+        "sharpness": 1261.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/59/a0afa3.webp?v=1779057773",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/59-portrait-v5-4582bdc48ac9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "84363fa0748b674f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          126,
+          8762,
+          770,
+          9406
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          216.431,
+          8836.743,
+          462.744,
+          495.264
+        ],
+        "outsideFaceWhiteFraction": 0.02005,
+        "largestWhiteRegion": 0.00742,
+        "sharpness": 2695.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/60/92cc7a.webp?v=1779729569",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/60-portrait-v5-712a82b9bb6c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7925,
+        "faceHash": "923e64c4dd5d7321",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          286,
+          5601,
+          900,
+          6215
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          558.765,
+          5709.485,
+          271.143,
+          396.167
+        ],
+        "outsideFaceWhiteFraction": 0.01936,
+        "largestWhiteRegion": 0.0175,
+        "sharpness": 1575.73,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/62/208eb4.webp?v=1781014471",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/62-portrait-v5-e16d7ef7c229.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8691,
+        "faceHash": "91793bd3a11c276c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          362,
+          6738,
+          622,
+          6998
+        ],
+        "sourceSize": [
+          900,
+          13735
+        ],
+        "detectedFace": [
+          400.122,
+          6768.018,
+          184.131,
+          199.951
+        ],
+        "outsideFaceWhiteFraction": 0.00122,
+        "largestWhiteRegion": 0.00113,
+        "sharpness": 1168.71,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/63/584874.webp?v=1781518961",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/63-portrait-v5-a3cc297392f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.814,
+        "faceHash": "d1e15bc2f09b711c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          134,
+          2428,
+          674,
+          2968
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          265.869,
+          2489.941,
+          336.621,
+          415.723
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2414.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/64/6cdba6.webp?v=1782652298",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/64-portrait-v5-abfaf7409261.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.877,
+        "faceHash": "d7026c9722de33ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          288,
+          1269,
+          544,
+          1525
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          334.753,
+          1304.517,
+          161.938,
+          185.889
+        ],
+        "outsideFaceWhiteFraction": 0.00153,
+        "largestWhiteRegion": 0.00153,
+        "sharpness": 2112.47,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/65/374b05.webp?v=1782728917",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/65-portrait-v5-480e713d5477.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "941b3afc29da6d03",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          194,
+          7067,
+          803,
+          7676
+        ],
+        "sourceSize": [
+          900,
+          13162
+        ],
+        "detectedFace": [
+          269.604,
+          7137.598,
+          458.35,
+          468.457
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2587.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/61/fbbc04.webp?v=1780580410",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/61-portrait-v5-69e3cd3f41ec.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "83d16a1c3d597539",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          319,
+          6821,
+          613,
+          7115
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          369.58,
+          6854.81,
+          193.359,
+          226.318
+        ],
+        "outsideFaceWhiteFraction": 0.02388,
+        "largestWhiteRegion": 0.01602,
+        "sharpness": 1727.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/66/3fdaa5.webp?v=1783338385",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/66-portrait-v5-bea610e6dd92.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7954,
+        "faceHash": "9c4e7887f11e26f0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          150,
+          3560,
+          900,
+          4310
+        ],
+        "sourceSize": [
+          900,
+          16250
+        ],
+        "detectedFace": [
+          286.304,
+          3647.021,
+          526.025,
+          576.562
+        ],
+        "outsideFaceWhiteFraction": 0.00075,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 2817.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/67/a05142.webp?v=1783972738",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/67-portrait-v5-9c7819e90b68.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "90107e3e70dee0cf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          170,
+          9733,
+          602,
+          10165
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          228.406,
+          9783.215,
+          314.868,
+          332.007
+        ],
+        "outsideFaceWhiteFraction": 0.00603,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 3454.69,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/68/e48073.webp?v=1784560945",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/68-portrait-v5-db1722223752.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8496,
+        "faceHash": "c2dd2bd7294a2cca",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          346,
+          4210,
+          713,
+          4577
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          410.339,
+          4252.588,
+          237.524,
+          282.568
+        ],
+        "outsideFaceWhiteFraction": 0.05293,
+        "largestWhiteRegion": 0.01427,
+        "sharpness": 2671.96,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/69/56fb16.webp?v=1785176644",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/69-portrait-v5-b154ecd6a3e2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "d0362ddbf2c8e28c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          7891,
+          321,
+          8212
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          0.055,
+          7928.174,
+          203.027,
+          246.973
+        ],
+        "outsideFaceWhiteFraction": 0.00235,
+        "largestWhiteRegion": 0.00235,
+        "sharpness": 983.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/70/9b6307.webp?v=1785736840",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/70-portrait-v5-2b8ec65dbc4f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8721,
+        "faceHash": "95854a2a6f5f3c4a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          44,
+          2632,
+          300,
+          2888
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          81.519,
+          2664.844,
+          181.494,
+          189.844
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1280.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/71/aaee07.webp?v=1786349578",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/71-portrait-v5-77f5aac38fac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8271,
+        "faceHash": "d5c04edf21de252c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          131,
+          9534,
+          793,
+          10196
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          249.39,
+          9610.181,
+          425.83,
+          509.326
+        ],
+        "outsideFaceWhiteFraction": 0.00491,
+        "largestWhiteRegion": 0.00137,
+        "sharpness": 2487.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-youngest-son-of-the-eunhae-merchant-group/82/84ee53.webp?v=1792997887",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group/82-portrait-v5-9337194a3a3d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8208,
+        "faceHash": "c0c0693f3d1fb692",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          163,
+          11979,
+          419,
+          12235
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          184.68,
+          11965.649,
+          213.354,
+          248.291
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 734.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

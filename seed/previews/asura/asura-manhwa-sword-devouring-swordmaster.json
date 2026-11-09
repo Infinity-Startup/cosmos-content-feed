@@ -1,0 +1,2066 @@
+{
+  "titleId": "asura-manhwa-sword-devouring-swordmaster",
+  "revision": 5,
+  "previews": {
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/3/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/3-portrait-v5-3f5c3349cef9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.792,
+        "faceHash": "8abd2dd6254c6378",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          129,
+          8481,
+          765,
+          9117
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          231.25,
+          8554.102,
+          431.25,
+          489.453
+        ],
+        "outsideFaceWhiteFraction": 0.00507,
+        "largestWhiteRegion": 0.00204,
+        "sharpness": 2520.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/2/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/2-portrait-v5-175172b9f5b2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "c6ea28a9a1bdaaa6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          307,
+          1226,
+          677,
+          1596
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          382.129,
+          1268.555,
+          267.773,
+          284.766
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 837.55,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/5/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/5-portrait-v5-23e81af96ac7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8135,
+        "faceHash": "85e1699b359c36cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          324,
+          6629,
+          800,
+          7105
+        ],
+        "sourceSize": [
+          800,
+          14965
+        ],
+        "detectedFace": [
+          444.922,
+          6683.984,
+          305.469,
+          366.016
+        ],
+        "outsideFaceWhiteFraction": 0.00429,
+        "largestWhiteRegion": 0.00208,
+        "sharpness": 4945.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/1/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/1-portrait-v5-73ec0bf65477.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7563,
+        "faceHash": "d77a2b91238734c6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          127,
+          2557,
+          630,
+          3060
+        ],
+        "sourceSize": [
+          800,
+          14095
+        ],
+        "detectedFace": [
+          249.902,
+          2615.234,
+          256.836,
+          386.719
+        ],
+        "outsideFaceWhiteFraction": 0.0052,
+        "largestWhiteRegion": 0.00319,
+        "sharpness": 3833.84,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/4/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/4-portrait-v5-3e1bfe2a09a4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "d7e36d8da4cc3244",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          454,
+          9119,
+          741,
+          9406
+        ],
+        "sourceSize": [
+          800,
+          14695
+        ],
+        "detectedFace": [
+          498.242,
+          9151.66,
+          198.828,
+          220.898
+        ],
+        "outsideFaceWhiteFraction": 0.00272,
+        "largestWhiteRegion": 0.00159,
+        "sharpness": 2816.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/7/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/7-portrait-v5-72ef39d6b63c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "9ea77f93b00831c5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          459,
+          11940,
+          702,
+          12183
+        ],
+        "sourceSize": [
+          800,
+          13590
+        ],
+        "detectedFace": [
+          504.297,
+          11967.969,
+          151.562,
+          186.719
+        ],
+        "outsideFaceWhiteFraction": 0.006,
+        "largestWhiteRegion": 0.00139,
+        "sharpness": 3270.74,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/8/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/8-portrait-v5-cbcb18e6f178.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8296,
+        "faceHash": "95c07ad1709f6275",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          119,
+          8872,
+          375,
+          9128
+        ],
+        "sourceSize": [
+          800,
+          13260
+        ],
+        "detectedFace": [
+          159.131,
+          8927.148,
+          176.66,
+          145.703
+        ],
+        "outsideFaceWhiteFraction": 0.00276,
+        "largestWhiteRegion": 0.00253,
+        "sharpness": 1797.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/9/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/9-portrait-v5-68f88840da99.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8525,
+        "faceHash": "df4f7dbc988e4020",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          318,
+          8969,
+          574,
+          9225
+        ],
+        "sourceSize": [
+          800,
+          12245
+        ],
+        "detectedFace": [
+          373.34,
+          9019.531,
+          145.508,
+          154.297
+        ],
+        "outsideFaceWhiteFraction": 0.00082,
+        "largestWhiteRegion": 0.00027,
+        "sharpness": 1472.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/6/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/6-portrait-v5-c7e9decfa23e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8604,
+        "faceHash": "824a39de0ef1358f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          175,
+          6602,
+          443,
+          6870
+        ],
+        "sourceSize": [
+          800,
+          12940
+        ],
+        "detectedFace": [
+          206.543,
+          6633.008,
+          204.883,
+          206.055
+        ],
+        "outsideFaceWhiteFraction": 0.00237,
+        "largestWhiteRegion": 0.00047,
+        "sharpness": 3099.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/11-portrait-v5-43a921e167f7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8062,
+        "faceHash": "894179af552e364d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          143,
+          3288,
+          571,
+          3716
+        ],
+        "sourceSize": [
+          800,
+          12715
+        ],
+        "detectedFace": [
+          199.609,
+          3337.793,
+          315.234,
+          329.102
+        ],
+        "outsideFaceWhiteFraction": 0.00032,
+        "largestWhiteRegion": 0.00017,
+        "sharpness": 1161.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/12/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/12-portrait-v5-6ec2e7777edc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7563,
+        "faceHash": "d1b46fb327859298",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          138,
+          3548,
+          800,
+          4210
+        ],
+        "sourceSize": [
+          800,
+          12065
+        ],
+        "detectedFace": [
+          260.547,
+          3625.0,
+          482.031,
+          508.984
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3750.48,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/43/b405ec.webp?v=1787507100",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/43-portrait-v5-0d13362af0c0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8232,
+        "faceHash": "c7ad9ab00ce26f07",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          366,
+          9058,
+          623,
+          9315
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          396.277,
+          9087.891,
+          197.095,
+          197.314
+        ],
+        "outsideFaceWhiteFraction": 0.00548,
+        "largestWhiteRegion": 0.00293,
+        "sharpness": 529.79,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/44/5fd43a.webp?v=1788113195",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/44-portrait-v5-c52bd5afe1f3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8271,
+        "faceHash": "90a36a3a6d5f05d3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          234,
+          4180,
+          490,
+          4436
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          283.228,
+          4220.892,
+          156.885,
+          174.573
+        ],
+        "outsideFaceWhiteFraction": 0.00046,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 3648.28,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/46/b5e796.webp?v=1789326737",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/46-portrait-v5-97e7db860a06.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8237,
+        "faceHash": "877c3d38a6a99631",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          276,
+          14648,
+          480,
+          14852
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          323.438,
+          14684.326,
+          108.984,
+          115.137
+        ],
+        "outsideFaceWhiteFraction": 0.0276,
+        "largestWhiteRegion": 0.00378,
+        "sharpness": 1188.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/10/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/10-portrait-v5-bcd47f85c53c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7427,
+        "faceHash": "956268b65aa76d31",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          146,
+          5394,
+          790,
+          6038
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          191.797,
+          5435.742,
+          551.562,
+          559.766
+        ],
+        "outsideFaceWhiteFraction": 0.00726,
+        "largestWhiteRegion": 0.00592,
+        "sharpness": 3442.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/47/58d680.webp?v=1789927984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/47-portrait-v5-2341f705806b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8286,
+        "faceHash": "c4cdc39614cc4f1f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          499,
+          2854,
+          900,
+          3255
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          572.168,
+          2900.281,
+          304.102,
+          308.716
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2282.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/45/551608.webp?v=1788713368",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/45-portrait-v5-abbf108a781d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8252,
+        "faceHash": "c6f42ddc89ca6958",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          345,
+          5860,
+          805,
+          6320
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          398.364,
+          5924.487,
+          353.76,
+          330.908
+        ],
+        "outsideFaceWhiteFraction": 0.0058,
+        "largestWhiteRegion": 0.00226,
+        "sharpness": 4953.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/48/50b06f.webp?v=1790532086",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/48-portrait-v5-f285ddc50479.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8032,
+        "faceHash": "f6a138ce931c0f4d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          246,
+          8467,
+          676,
+          8897
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          134.473,
+          8482.764,
+          467.139,
+          398.145
+        ],
+        "outsideFaceWhiteFraction": 0.00456,
+        "largestWhiteRegion": 0.00177,
+        "sharpness": 3090.3,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/50/766199.webp?v=1791743177",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/50-portrait-v5-3948c2ce62c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8149,
+        "faceHash": "d3b5188fb4160f4e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          575,
+          9688,
+          833,
+          9946
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          572.168,
+          9708.289,
+          224.121,
+          216.431
+        ],
+        "outsideFaceWhiteFraction": 0.02666,
+        "largestWhiteRegion": 0.01611,
+        "sharpness": 3963.36,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/52/ac76ea.webp?v=1792947910",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/52-portrait-v5-19d169fa6b0b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.793,
+        "faceHash": "9de0629639d9c699",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          72,
+          5099,
+          653,
+          5680
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          142.712,
+          5165.662,
+          439.673,
+          446.704
+        ],
+        "outsideFaceWhiteFraction": 0.01036,
+        "largestWhiteRegion": 0.00774,
+        "sharpness": 3519.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/49/76a4ce.webp?v=1791646876",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/49-portrait-v5-e82f00c78d95.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7744,
+        "faceHash": "bde1d2853596ce30",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          49,
+          4929,
+          253,
+          5133
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          76.904,
+          4927.588,
+          148.535,
+          181.934
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1164.59,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/51/4e3e9c.webp?v=1792504428",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/51-portrait-v5-db5f44d45d90.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8325,
+        "faceHash": "d5363dd668d2015e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          103,
+          12682,
+          495,
+          13074
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          115.466,
+          12660.425,
+          367.163,
+          381.006
+        ],
+        "outsideFaceWhiteFraction": 0.0069,
+        "largestWhiteRegion": 0.00246,
+        "sharpness": 4462.49,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/53/9de51b.webp?v=1793551510",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/53-portrait-v5-939513f906fc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8511,
+        "faceHash": "ca3c3592364d67c9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          353,
+          5414,
+          750,
+          5811
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          398.804,
+          5470.093,
+          305.42,
+          283.887
+        ],
+        "outsideFaceWhiteFraction": 0.00212,
+        "largestWhiteRegion": 0.00087,
+        "sharpness": 2895.17,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/54/4fa1d9.webp?v=1794185708",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/54-portrait-v5-983d91b3a264.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.834,
+        "faceHash": "c94e2e95ad1a369a",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          396,
+          14589,
+          686,
+          14879
+        ],
+        "sourceSize": [
+          900,
+          16154
+        ],
+        "detectedFace": [
+          445.715,
+          14573.804,
+          189.624,
+          281.689
+        ],
+        "outsideFaceWhiteFraction": 0.00209,
+        "largestWhiteRegion": 0.00038,
+        "sharpness": 2950.09,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/13/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/13-portrait-v5-c94550adce09.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.752,
+        "faceHash": "82e4f4dc4f998473",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          311,
+          7026,
+          663,
+          7378
+        ],
+        "sourceSize": [
+          800,
+          14050
+        ],
+        "detectedFace": [
+          393.359,
+          7066.602,
+          187.5,
+          270.703
+        ],
+        "outsideFaceWhiteFraction": 0.00214,
+        "largestWhiteRegion": 0.00124,
+        "sharpness": 2913.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/14/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/14-portrait-v5-f97654e76f2b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.833,
+        "faceHash": "dbbd2bd2355b3040",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          8543,
+          483,
+          9026
+        ],
+        "sourceSize": [
+          800,
+          12962
+        ],
+        "detectedFace": [
+          16.602,
+          8599.121,
+          335.352,
+          371.289
+        ],
+        "outsideFaceWhiteFraction": 0.00163,
+        "largestWhiteRegion": 0.00163,
+        "sharpness": 3440.83,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/16/002.webp?v=1771300497",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/16-portrait-v5-8df915ad2bf1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "df2529c270e967a4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          120,
+          2453,
+          700,
+          3033
+        ],
+        "sourceSize": [
+          800,
+          13566
+        ],
+        "detectedFace": [
+          215.625,
+          2520.312,
+          388.281,
+          446.094
+        ],
+        "outsideFaceWhiteFraction": 0.01639,
+        "largestWhiteRegion": 0.01402,
+        "sharpness": 4850.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/17/002.webp?v=1771924269",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/17-portrait-v5-80eeedecb97e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7607,
+        "faceHash": "da366dcb64193689",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          5356,
+          738,
+          6094
+        ],
+        "sourceSize": [
+          800,
+          14144
+        ],
+        "detectedFace": [
+          40.82,
+          5440.625,
+          441.406,
+          567.969
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 994.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/15/005.webp?v=1770924098",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/15-portrait-v5-9a44ec076a45.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8125,
+        "faceHash": "969e6ae33c8a698c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          120,
+          9139,
+          376,
+          9395
+        ],
+        "sourceSize": [
+          800,
+          13391
+        ],
+        "detectedFace": [
+          135.693,
+          9170.703,
+          189.551,
+          192.969
+        ],
+        "outsideFaceWhiteFraction": 0.04018,
+        "largestWhiteRegion": 0.01312,
+        "sharpness": 7148.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/18/003.webp?v=1772640181",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/18-portrait-v5-0ef45e2082c6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7788,
+        "faceHash": "8a256a57c5db1cc9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          11,
+          1310,
+          592,
+          1891
+        ],
+        "sourceSize": [
+          800,
+          12463
+        ],
+        "detectedFace": [
+          102.344,
+          1376.562,
+          397.656,
+          446.875
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 3012.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/850c67bc/19/004_p1.webp?v=1773445332",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/19-portrait-v5-2a9574306ee8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7891,
+        "faceHash": "cf509cd2935a1579",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          214,
+          651,
+          865
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          2.539,
+          288.867,
+          494.922,
+          500.391
+        ],
+        "outsideFaceWhiteFraction": 0.00963,
+        "largestWhiteRegion": 0.00404,
+        "sharpness": 3916.7,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/22/9ecb23.webp?v=1774884914",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/22-portrait-v5-80b30037df4c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8345,
+        "faceHash": "823b3f92acaf5a22",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          278,
+          6231,
+          551,
+          6504
+        ],
+        "sourceSize": [
+          800,
+          13325
+        ],
+        "detectedFace": [
+          309.863,
+          6263.672,
+          209.961,
+          207.422
+        ],
+        "outsideFaceWhiteFraction": 0.01529,
+        "largestWhiteRegion": 0.01056,
+        "sharpness": 2956.65,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/d77629ef/20/006.webp?v=1773873908",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/20-portrait-v5-f8bdf9d82d07.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7656,
+        "faceHash": "c0b83f038ccf71e5",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          240,
+          1945,
+          702,
+          2407
+        ],
+        "sourceSize": [
+          800,
+          8090
+        ],
+        "detectedFace": [
+          303.906,
+          1998.34,
+          333.594,
+          355.664
+        ],
+        "outsideFaceWhiteFraction": 0.00269,
+        "largestWhiteRegion": 0.00269,
+        "sharpness": 2044.6,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/21/4d75a8.webp?v=1774809530",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/21-portrait-v5-1ed203c3a164.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8101,
+        "faceHash": "805e17c38b797c27",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          259,
+          4133,
+          518,
+          4392
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          296.582,
+          4170.117,
+          224.805,
+          185.547
+        ],
+        "outsideFaceWhiteFraction": 0.01781,
+        "largestWhiteRegion": 0.01024,
+        "sharpness": 2580.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/23/e0d94d.webp?v=1776838577",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/23-portrait-v5-4f2d59d4da96.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8291,
+        "faceHash": "85af46b878d839f0",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          241,
+          8438,
+          577,
+          8774
+        ],
+        "sourceSize": [
+          800,
+          14394
+        ],
+        "detectedFace": [
+          315.527,
+          8476.562,
+          186.914,
+          258.594
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2056.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/26/52c4ef.webp?v=1777815176",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/26-portrait-v5-014f0c635e0a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "82703f93754c3e9c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          111,
+          10434,
+          422,
+          10745
+        ],
+        "sourceSize": [
+          900,
+          12385
+        ],
+        "detectedFace": [
+          151.062,
+          10470.19,
+          230.493,
+          239.502
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2404.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/24/ac7c95.webp?v=1776838636",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/24-portrait-v5-ad1c155a974e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8174,
+        "faceHash": "d5d96b9486959266",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          71,
+          2577,
+          671,
+          3177
+        ],
+        "sourceSize": [
+          800,
+          12595
+        ],
+        "detectedFace": [
+          140.625,
+          2667.383,
+          461.328,
+          418.359
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 3243.23,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/25/75ebc0.webp?v=1776869469",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/25-portrait-v5-12e0a8a8523c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "91d0ced3b39865ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          60,
+          5555,
+          323,
+          5818
+        ],
+        "sourceSize": [
+          800,
+          12660
+        ],
+        "detectedFace": [
+          90.039,
+          5589.111,
+          202.344,
+          195.215
+        ],
+        "outsideFaceWhiteFraction": 0.00017,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 3936.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/27/84fc23.webp?v=1777913413",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/27-portrait-v5-ef215221d6dc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8652,
+        "faceHash": "86a06ad128df375e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          48,
+          2021,
+          304,
+          2277
+        ],
+        "sourceSize": [
+          900,
+          11755
+        ],
+        "detectedFace": [
+          84.595,
+          2057.904,
+          183.032,
+          182.922
+        ],
+        "outsideFaceWhiteFraction": 0.00584,
+        "largestWhiteRegion": 0.0013,
+        "sharpness": 3218.44,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/29/2be628.webp?v=1779055177",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/29-portrait-v5-fe17bb996f60.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8071,
+        "faceHash": "cb3570d3578e6238",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          328,
+          9643,
+          849,
+          10164
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          402.539,
+          9703.235,
+          371.777,
+          400.562
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 2476.08,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/31/1e9154.webp?v=1780246502",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/31-portrait-v5-fa892206e0d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8535,
+        "faceHash": "8a2a2fc0f89fc23b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          123,
+          2845,
+          412,
+          3134
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          177.319,
+          2896.106,
+          152.051,
+          186.548
+        ],
+        "outsideFaceWhiteFraction": 0.02972,
+        "largestWhiteRegion": 0.01733,
+        "sharpness": 2764.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/28/a9c909.webp?v=1778704257",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/28-portrait-v5-d3eb1708d305.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7959,
+        "faceHash": "8f03787e28cca78e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          338,
+          4115,
+          900,
+          4677
+        ],
+        "sourceSize": [
+          900,
+          14347
+        ],
+        "detectedFace": [
+          484.277,
+          4151.953,
+          415.723,
+          488.672
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1917.99,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/32/6839fc.webp?v=1780861291",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/32-portrait-v5-dcc9f4bc1f15.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8457,
+        "faceHash": "da5e35ccd2cc4e18",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          528,
+          10104,
+          865,
+          10441
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          550.415,
+          10131.592,
+          293.115,
+          281.25
+        ],
+        "outsideFaceWhiteFraction": 0.02798,
+        "largestWhiteRegion": 0.00729,
+        "sharpness": 3561.75,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/30/07db33.webp?v=1779648056",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/30-portrait-v5-93036ec725c4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.834,
+        "faceHash": "c2833fc0d9cc6b9c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          249,
+          670,
+          690,
+          1111
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          313.22,
+          720.483,
+          313.11,
+          339.038
+        ],
+        "outsideFaceWhiteFraction": 0.00214,
+        "largestWhiteRegion": 0.00092,
+        "sharpness": 2882.61,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/34/03fb26.webp?v=1782059407",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/34-portrait-v5-90d1b8758a5e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8613,
+        "faceHash": "cd59b9c0e14f6329",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          299,
+          1001,
+          718,
+          1420
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          347.827,
+          1061.169,
+          322.119,
+          298.169
+        ],
+        "outsideFaceWhiteFraction": 0.00362,
+        "largestWhiteRegion": 0.00162,
+        "sharpness": 4370.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/33/b760a0.webp?v=1781458295",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/33-portrait-v5-7fdf5baee976.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7158,
+        "faceHash": "d36b05c0f687252f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          182,
+          5647,
+          815,
+          6280
+        ],
+        "sourceSize": [
+          900,
+          14765
+        ],
+        "detectedFace": [
+          265.43,
+          5720.361,
+          465.82,
+          486.914
+        ],
+        "outsideFaceWhiteFraction": 0.00647,
+        "largestWhiteRegion": 0.00392,
+        "sharpness": 5410.0,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/35/00a05e.webp?v=1782669237",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/35-portrait-v5-12463e6c0feb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8403,
+        "faceHash": "af616abe019db780",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          183,
+          6772,
+          581,
+          7170
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          228.845,
+          6825.037,
+          306.519,
+          292.017
+        ],
+        "outsideFaceWhiteFraction": 0.00839,
+        "largestWhiteRegion": 0.00305,
+        "sharpness": 3350.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/36/6b3dfc.webp?v=1783287099",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/36-portrait-v5-098d54b6e55f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "90760dda6bc99b94",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          312,
+          1611,
+          658,
+          1957
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          351.782,
+          1651.465,
+          265.869,
+          265.43
+        ],
+        "outsideFaceWhiteFraction": 0.02664,
+        "largestWhiteRegion": 0.01694,
+        "sharpness": 4782.78,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/39/3e7301.webp?v=1785162149",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/39-portrait-v5-6ad99e31c618.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.877,
+        "faceHash": "a91562a5a59d91bb",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          4977,
+          453,
+          5233
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          245.764,
+          5028.992,
+          159.302,
+          151.831
+        ],
+        "outsideFaceWhiteFraction": 0.02003,
+        "largestWhiteRegion": 0.0083,
+        "sharpness": 4578.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/38/7d3f0d.webp?v=1784477206",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/38-portrait-v5-bf1b3b9e4524.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8193,
+        "faceHash": "c1136ecf2c2d7561",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          345,
+          527,
+          731,
+          913
+        ],
+        "sourceSize": [
+          900,
+          14545
+        ],
+        "detectedFace": [
+          405.066,
+          571.289,
+          266.528,
+          297.07
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2191.74,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/37/a77945.webp?v=1783878519",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/37-portrait-v5-860aab71da24.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8442,
+        "faceHash": "a68d663f1d38a383",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          101,
+          7248,
+          459,
+          7606
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          142.822,
+          7298.657,
+          275.098,
+          256.201
+        ],
+        "outsideFaceWhiteFraction": 0.00056,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 3432.52,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/41/db2778.webp?v=1786298440",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/41-portrait-v5-b8e016c469d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8774,
+        "faceHash": "dd3c7882e01f67c8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          167,
+          9073,
+          476,
+          9382
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          212.421,
+          9108.765,
+          217.2,
+          237.744
+        ],
+        "outsideFaceWhiteFraction": 0.00104,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 4550.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/42/56b7a6.webp?v=1786901536",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/42-portrait-v5-225d6b9d22b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8618,
+        "faceHash": "d50b7be2d09427e8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          19,
+          8224,
+          379,
+          8584
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          90.857,
+          8265.015,
+          262.573,
+          277.295
+        ],
+        "outsideFaceWhiteFraction": 0.02699,
+        "largestWhiteRegion": 0.01247,
+        "sharpness": 6106.41,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sword-devouring-swordmaster/40/f14101.webp?v=1785685144",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sword-devouring-swordmaster/40-portrait-v5-0bd4520cc78a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.749,
+        "faceHash": "c83d3d9193c365c6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          155,
+          10183,
+          791,
+          10819
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          261.475,
+          10256.616,
+          423.633,
+          489.111
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1890.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}

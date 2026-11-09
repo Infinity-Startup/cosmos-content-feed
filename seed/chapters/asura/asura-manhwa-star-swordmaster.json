@@ -1,0 +1,997 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-star-swordmaster",
+  "seriesUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8",
+  "checkedAt": "2026-10-12T00:37:13.492970+00:00",
+  "chapterCount": 141,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/1",
+      "premium": false,
+      "publishedAt": "2023-09-19T14:26:40Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/2",
+      "premium": false,
+      "publishedAt": "2023-09-19T14:51:01Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/3",
+      "premium": false,
+      "publishedAt": "2023-09-19T15:14:19Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/4",
+      "premium": false,
+      "publishedAt": "2023-09-19T15:34:33Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/5",
+      "premium": false,
+      "publishedAt": "2023-09-19T16:00:57Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/6",
+      "premium": false,
+      "publishedAt": "2023-09-19T16:21:40Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/7",
+      "premium": false,
+      "publishedAt": "2023-09-19T16:23:15Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/8",
+      "premium": false,
+      "publishedAt": "2023-09-19T16:31:02Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/9",
+      "premium": false,
+      "publishedAt": "2023-09-26T15:34:02Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/10",
+      "premium": false,
+      "publishedAt": "2023-10-03T14:58:38Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/11",
+      "premium": false,
+      "publishedAt": "2023-10-10T17:13:15Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/12",
+      "premium": false,
+      "publishedAt": "2023-10-17T15:06:18Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/13",
+      "premium": false,
+      "publishedAt": "2023-10-24T16:14:30Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/14",
+      "premium": false,
+      "publishedAt": "2023-11-02T16:14:55Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/15",
+      "premium": false,
+      "publishedAt": "2023-11-07T16:19:01Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/16",
+      "premium": false,
+      "publishedAt": "2023-11-14T16:34:26Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/17",
+      "premium": false,
+      "publishedAt": "2023-11-21T15:38:29Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/18",
+      "premium": false,
+      "publishedAt": "2023-11-28T15:50:40Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/19",
+      "premium": false,
+      "publishedAt": "2023-12-05T18:22:10Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/20",
+      "premium": false,
+      "publishedAt": "2023-12-12T23:00:27Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/21",
+      "premium": false,
+      "publishedAt": "2023-12-19T15:43:43Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/22",
+      "premium": false,
+      "publishedAt": "2023-12-26T21:46:09Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/23",
+      "premium": false,
+      "publishedAt": "2024-01-02T15:46:36Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/24",
+      "premium": false,
+      "publishedAt": "2024-01-09T15:51:33Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/25",
+      "premium": false,
+      "publishedAt": "2024-01-16T15:19:45Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/26",
+      "premium": false,
+      "publishedAt": "2024-01-24T20:14:38Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/27",
+      "premium": false,
+      "publishedAt": "2024-01-30T18:22:26Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/28",
+      "premium": false,
+      "publishedAt": "2024-02-06T17:50:19Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/29",
+      "premium": false,
+      "publishedAt": "2024-02-13T17:09:17Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/30",
+      "premium": false,
+      "publishedAt": "2024-02-20T16:21:46Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/31",
+      "premium": false,
+      "publishedAt": "2024-02-29T20:18:26Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/32",
+      "premium": false,
+      "publishedAt": "2024-03-05T15:11:25Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/33",
+      "premium": false,
+      "publishedAt": "2024-03-12T15:13:13Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/34",
+      "premium": false,
+      "publishedAt": "2024-03-26T15:26:02Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/35",
+      "premium": false,
+      "publishedAt": "2024-04-02T15:42:22Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/36",
+      "premium": false,
+      "publishedAt": "2024-04-10T02:41:58Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/37",
+      "premium": false,
+      "publishedAt": "2024-04-16T15:36:07Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/38",
+      "premium": false,
+      "publishedAt": "2024-04-23T15:21:41Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/39",
+      "premium": false,
+      "publishedAt": "2024-04-30T15:47:38Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/40",
+      "premium": false,
+      "publishedAt": "2024-05-07T15:02:46Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/41",
+      "premium": false,
+      "publishedAt": "2024-05-14T14:54:59Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/42",
+      "premium": false,
+      "publishedAt": "2024-05-21T15:55:07Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/43",
+      "premium": false,
+      "publishedAt": "2024-05-28T15:28:59Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/44",
+      "premium": false,
+      "publishedAt": "2024-06-04T15:32:30Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/45",
+      "premium": false,
+      "publishedAt": "2024-06-11T17:33:19Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/46",
+      "premium": false,
+      "publishedAt": "2024-06-18T15:23:08Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/47",
+      "premium": false,
+      "publishedAt": "2024-06-25T15:48:38Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/48",
+      "premium": false,
+      "publishedAt": "2024-07-02T15:26:06Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/49",
+      "premium": false,
+      "publishedAt": "2024-07-09T15:03:47Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/50",
+      "premium": false,
+      "publishedAt": "2024-07-16T14:59:28Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/51",
+      "premium": false,
+      "publishedAt": "2024-07-23T15:21:44Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/52",
+      "premium": false,
+      "publishedAt": "2024-07-30T15:31:50Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/53",
+      "premium": false,
+      "publishedAt": "2024-08-06T15:08:41Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/54",
+      "premium": false,
+      "publishedAt": "2024-08-13T15:14:14Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/55",
+      "premium": false,
+      "publishedAt": "2024-08-20T14:56:58Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/56",
+      "premium": false,
+      "publishedAt": "2024-08-27T15:00:22Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/57",
+      "premium": false,
+      "publishedAt": "2024-09-03T15:50:35Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/58",
+      "premium": false,
+      "publishedAt": "2024-09-10T14:59:06Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/59",
+      "premium": false,
+      "publishedAt": "2024-09-17T15:26:22Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/60",
+      "premium": false,
+      "publishedAt": "2024-10-01T14:53:43Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/61",
+      "premium": false,
+      "publishedAt": "2024-10-08T14:30:41Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/62",
+      "premium": false,
+      "publishedAt": "2024-10-15T14:44:35Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/63",
+      "premium": false,
+      "publishedAt": "2024-10-22T14:48:12Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/64",
+      "premium": false,
+      "publishedAt": "2024-10-29T14:56:42Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/65",
+      "premium": false,
+      "publishedAt": "2024-11-05T15:09:33Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/66",
+      "premium": false,
+      "publishedAt": "2024-11-12T16:22:26Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/67",
+      "premium": false,
+      "publishedAt": "2024-11-19T14:51:48Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/68",
+      "premium": false,
+      "publishedAt": "2024-11-27T04:31:05Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/69",
+      "premium": false,
+      "publishedAt": "2024-12-03T14:53:33Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/70",
+      "premium": false,
+      "publishedAt": "2024-12-10T15:22:37Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/71",
+      "premium": false,
+      "publishedAt": "2024-12-17T15:11:23Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/72",
+      "premium": false,
+      "publishedAt": "2024-12-24T16:41:15Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/73",
+      "premium": false,
+      "publishedAt": "2025-01-01T19:12:26Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/74",
+      "premium": false,
+      "publishedAt": "2025-01-07T18:52:02Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/75",
+      "premium": false,
+      "publishedAt": "2025-01-14T14:52:02Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/76",
+      "premium": false,
+      "publishedAt": "2025-01-21T15:40:02Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/77",
+      "premium": false,
+      "publishedAt": "2025-02-04T17:25:02Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/78",
+      "premium": false,
+      "publishedAt": "2025-02-11T15:17:02Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/79",
+      "premium": false,
+      "publishedAt": "2025-02-18T17:32:02Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/80",
+      "premium": false,
+      "publishedAt": "2025-02-26T05:32:02Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/81",
+      "premium": false,
+      "publishedAt": "2025-03-05T14:39:02Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/82",
+      "premium": false,
+      "publishedAt": "2025-03-11T23:15:02Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/83",
+      "premium": false,
+      "publishedAt": "2025-03-18T18:23:03Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/84",
+      "premium": false,
+      "publishedAt": "2025-03-25T17:25:02Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/85",
+      "premium": false,
+      "publishedAt": "2025-04-01T17:43:02Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/86",
+      "premium": false,
+      "publishedAt": "2025-04-09T16:00:03Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/87",
+      "premium": false,
+      "publishedAt": "2025-12-22T23:53:56Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/88",
+      "premium": false,
+      "publishedAt": "2025-04-22T16:10:02Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/89",
+      "premium": false,
+      "publishedAt": "2025-04-29T16:15:02Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/90",
+      "premium": false,
+      "publishedAt": "2025-05-06T17:34:02Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/91",
+      "premium": false,
+      "publishedAt": "2025-05-13T15:33:02Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/92",
+      "premium": false,
+      "publishedAt": "2025-05-21T16:38:02Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/93",
+      "premium": false,
+      "publishedAt": "2025-12-24T01:13:31Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/94",
+      "premium": false,
+      "publishedAt": "2025-06-10T15:46:25Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/95",
+      "premium": false,
+      "publishedAt": "2025-06-17T16:33:34Z"
+    },
+    {
+      "number": 96,
+      "title": "S1 END",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/96",
+      "premium": false,
+      "publishedAt": "2025-06-24T17:50:44Z"
+    },
+    {
+      "number": 97,
+      "title": "S2 START",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/97",
+      "premium": false,
+      "publishedAt": "2025-12-23T14:37:12Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/98",
+      "premium": false,
+      "publishedAt": "2025-12-23T15:11:55Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/99",
+      "premium": false,
+      "publishedAt": "2025-12-23T15:21:12Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/100",
+      "premium": false,
+      "publishedAt": "2025-12-23T16:29:17Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/101",
+      "premium": false,
+      "publishedAt": "2025-12-23T17:04:13Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/102",
+      "premium": false,
+      "publishedAt": "2025-12-23T19:00:23Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/103",
+      "premium": false,
+      "publishedAt": "2025-12-30T20:59:59Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/104",
+      "premium": false,
+      "publishedAt": "2026-01-06T16:48:12Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/105",
+      "premium": false,
+      "publishedAt": "2026-01-13T18:04:12Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/106",
+      "premium": false,
+      "publishedAt": "2026-01-20T15:34:12Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/107",
+      "premium": false,
+      "publishedAt": "2026-01-27T17:50:14Z"
+    },
+    {
+      "number": 108,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/108",
+      "premium": false,
+      "publishedAt": "2026-02-03T18:02:44Z"
+    },
+    {
+      "number": 109,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/109",
+      "premium": false,
+      "publishedAt": "2026-02-10T15:40:59Z"
+    },
+    {
+      "number": 110,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/110",
+      "premium": false,
+      "publishedAt": "2026-02-18T13:04:47Z"
+    },
+    {
+      "number": 111,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/111",
+      "premium": false,
+      "publishedAt": "2026-02-25T17:20:48Z"
+    },
+    {
+      "number": 112,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/112",
+      "premium": false,
+      "publishedAt": "2026-03-04T03:05:13Z"
+    },
+    {
+      "number": 113,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/113",
+      "premium": false,
+      "publishedAt": "2026-03-10T15:54:15Z"
+    },
+    {
+      "number": 114,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/114",
+      "premium": false,
+      "publishedAt": "2026-03-17T16:26:34Z"
+    },
+    {
+      "number": 115,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/115",
+      "premium": false,
+      "publishedAt": "2026-03-24T15:41:56.738Z"
+    },
+    {
+      "number": 116,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/116",
+      "premium": false,
+      "publishedAt": "2026-03-31T18:41:09.903Z"
+    },
+    {
+      "number": 117,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/117",
+      "premium": false,
+      "publishedAt": "2026-04-07T15:28:39.186Z"
+    },
+    {
+      "number": 118,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/118",
+      "premium": false,
+      "publishedAt": "2026-04-15T14:54:03.729Z"
+    },
+    {
+      "number": 119,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/119",
+      "premium": false,
+      "publishedAt": "2026-04-21T17:01:49.541Z"
+    },
+    {
+      "number": 120,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/120",
+      "premium": false,
+      "publishedAt": "2026-04-28T17:13:48.56Z"
+    },
+    {
+      "number": 121,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/121",
+      "premium": false,
+      "publishedAt": "2026-05-05T18:48:59.145Z"
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/122",
+      "premium": false,
+      "publishedAt": "2026-05-19T15:51:51.554Z"
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/123",
+      "premium": false,
+      "publishedAt": "2026-05-26T16:37:54.112Z"
+    },
+    {
+      "number": 124,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/124",
+      "premium": false,
+      "publishedAt": "2026-06-02T17:11:03.379215Z"
+    },
+    {
+      "number": 125,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/125",
+      "premium": false,
+      "publishedAt": "2026-06-09T15:19:39.993916Z"
+    },
+    {
+      "number": 126,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/126",
+      "premium": false,
+      "publishedAt": "2026-06-16T19:30:19.983755Z"
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/127",
+      "premium": false,
+      "publishedAt": "2026-06-30T16:21:12.609793Z"
+    },
+    {
+      "number": 128,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/128",
+      "premium": false,
+      "publishedAt": "2026-07-07T19:17:35.872297Z"
+    },
+    {
+      "number": 129,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/129",
+      "premium": false,
+      "publishedAt": "2026-07-14T17:07:41.433858Z"
+    },
+    {
+      "number": 130,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/130",
+      "premium": false,
+      "publishedAt": "2026-07-21T16:34:06.740171Z"
+    },
+    {
+      "number": 131,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/131",
+      "premium": false,
+      "publishedAt": "2026-07-28T16:21:08.157144Z"
+    },
+    {
+      "number": 132,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/132",
+      "premium": false,
+      "publishedAt": "2026-08-04T20:16:16.121294Z"
+    },
+    {
+      "number": 133,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/133",
+      "premium": false,
+      "publishedAt": "2026-08-11T16:13:17.174021Z"
+    },
+    {
+      "number": 134,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/134",
+      "premium": false,
+      "publishedAt": "2026-08-18T16:26:48.971861Z"
+    },
+    {
+      "number": 135,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/135",
+      "premium": false,
+      "publishedAt": "2026-08-25T15:45:32.382672Z"
+    },
+    {
+      "number": 136,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/136",
+      "premium": false,
+      "publishedAt": "2026-09-01T18:07:42.180923Z"
+    },
+    {
+      "number": 137,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/137",
+      "premium": false,
+      "publishedAt": "2026-09-08T18:37:58.661583Z"
+    },
+    {
+      "number": 138,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/138",
+      "premium": false,
+      "publishedAt": "2026-09-16T14:11:02.805413Z"
+    },
+    {
+      "number": 139,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/139",
+      "premium": false,
+      "publishedAt": "2026-09-22T18:27:08.08376Z"
+    },
+    {
+      "number": 140,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/140",
+      "premium": false,
+      "publishedAt": "2026-09-29T17:29:17.496013Z"
+    },
+    {
+      "number": 141,
+      "title": "",
+      "url": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8/chapter/141",
+      "premium": false,
+      "publishedAt": "2026-10-10T14:51:26.068101Z"
+    }
+  ]
+}

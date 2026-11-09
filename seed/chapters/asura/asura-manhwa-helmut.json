@@ -1,0 +1,962 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-helmut",
+  "seriesUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8",
+  "checkedAt": "2026-10-11T18:12:44.208181+00:00",
+  "chapterCount": 136,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/1",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:48:33Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/2",
+      "premium": false,
+      "publishedAt": "2022-09-13T03:55:37Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/3",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:48:53Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/4",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:49:05Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/5",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:49:45Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/6",
+      "premium": false,
+      "publishedAt": "2022-09-13T03:56:42Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/7",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:50:13Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/8",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:50:53Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/9",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:51:27Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/10",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:51:49Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/11",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:52:24Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/12",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:52:40Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/13",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:53:06Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/14",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:53:30Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/15",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:53:42Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/16",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:53:53Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/17",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:54:02Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/18",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:54:12Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/19",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:54:30Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/20",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:54:40Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/21",
+      "premium": false,
+      "publishedAt": "2022-09-10T22:54:45Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/22",
+      "premium": false,
+      "publishedAt": "2022-09-09T14:50:56Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/23",
+      "premium": false,
+      "publishedAt": "2022-09-16T14:16:00Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/24",
+      "premium": false,
+      "publishedAt": "2022-09-23T14:21:35Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/25",
+      "premium": false,
+      "publishedAt": "2022-10-01T03:42:37Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/26",
+      "premium": false,
+      "publishedAt": "2022-10-07T14:08:11Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/27",
+      "premium": false,
+      "publishedAt": "2022-10-14T13:53:38Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/28",
+      "premium": false,
+      "publishedAt": "2022-10-21T13:59:09Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/29",
+      "premium": false,
+      "publishedAt": "2022-10-28T13:58:05Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/30",
+      "premium": false,
+      "publishedAt": "2022-11-04T13:54:31Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/31",
+      "premium": false,
+      "publishedAt": "2022-11-11T14:02:52Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/32",
+      "premium": false,
+      "publishedAt": "2022-11-18T23:36:56Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/33",
+      "premium": false,
+      "publishedAt": "2022-11-25T14:02:28Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/34",
+      "premium": false,
+      "publishedAt": "2022-12-02T22:15:48Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/35",
+      "premium": false,
+      "publishedAt": "2022-12-09T14:24:34Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/36",
+      "premium": false,
+      "publishedAt": "2022-12-23T14:19:32Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/37",
+      "premium": false,
+      "publishedAt": "2022-12-31T22:02:18Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/38",
+      "premium": false,
+      "publishedAt": "2023-01-06T14:09:10Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/39",
+      "premium": false,
+      "publishedAt": "2023-01-13T14:31:43Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/40",
+      "premium": false,
+      "publishedAt": "2023-01-20T15:30:45Z"
+    },
+    {
+      "number": 41,
+      "title": "S2 START",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/41",
+      "premium": false,
+      "publishedAt": "2023-10-28T16:25:10Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/42",
+      "premium": false,
+      "publishedAt": "2023-11-08T13:03:14Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/43",
+      "premium": false,
+      "publishedAt": "2023-11-13T15:39:35Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/44",
+      "premium": false,
+      "publishedAt": "2023-11-22T15:43:01Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/45",
+      "premium": false,
+      "publishedAt": "2023-11-28T15:55:56Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/46",
+      "premium": false,
+      "publishedAt": "2023-12-04T20:53:13Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/47",
+      "premium": false,
+      "publishedAt": "2023-12-10T11:51:45Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/48",
+      "premium": false,
+      "publishedAt": "2023-12-17T19:39:20Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/49",
+      "premium": false,
+      "publishedAt": "2023-12-24T21:04:22Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/50",
+      "premium": false,
+      "publishedAt": "2024-01-05T15:17:49Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/51",
+      "premium": false,
+      "publishedAt": "2024-01-08T22:03:54Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/52",
+      "premium": false,
+      "publishedAt": "2024-01-16T19:35:49Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/53",
+      "premium": false,
+      "publishedAt": "2024-01-22T09:12:19Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/54",
+      "premium": false,
+      "publishedAt": "2024-02-01T10:25:08Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/55",
+      "premium": false,
+      "publishedAt": "2024-02-07T14:26:53Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/56",
+      "premium": false,
+      "publishedAt": "2024-02-12T20:47:08Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/57",
+      "premium": false,
+      "publishedAt": "2024-02-19T21:25:02Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/58",
+      "premium": false,
+      "publishedAt": "2024-02-26T19:25:15Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/59",
+      "premium": false,
+      "publishedAt": "2024-03-03T12:11:54Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/60",
+      "premium": false,
+      "publishedAt": "2024-03-12T15:33:05Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/61",
+      "premium": false,
+      "publishedAt": "2024-03-19T21:38:25Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/62",
+      "premium": false,
+      "publishedAt": "2024-03-27T14:20:48Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/63",
+      "premium": false,
+      "publishedAt": "2024-04-03T23:32:01Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/64",
+      "premium": false,
+      "publishedAt": "2024-04-17T04:11:40Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/65",
+      "premium": false,
+      "publishedAt": "2024-04-24T16:42:05Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/66",
+      "premium": false,
+      "publishedAt": "2024-04-29T12:27:38Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/67",
+      "premium": false,
+      "publishedAt": "2024-05-08T11:46:17Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/68",
+      "premium": false,
+      "publishedAt": "2024-05-16T15:31:16Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/69",
+      "premium": false,
+      "publishedAt": "2024-05-24T02:01:29Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/70",
+      "premium": false,
+      "publishedAt": "2024-05-30T21:18:51Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/71",
+      "premium": false,
+      "publishedAt": "2024-06-06T23:25:08Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/72",
+      "premium": false,
+      "publishedAt": "2024-06-14T21:22:41Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/73",
+      "premium": false,
+      "publishedAt": "2024-06-18T19:30:42Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/74",
+      "premium": false,
+      "publishedAt": "2024-06-28T18:14:07Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/75",
+      "premium": false,
+      "publishedAt": "2024-07-04T01:04:27Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/76",
+      "premium": false,
+      "publishedAt": "2024-07-10T22:08:30Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/77",
+      "premium": false,
+      "publishedAt": "2024-07-15T18:10:45Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/78",
+      "premium": false,
+      "publishedAt": "2024-07-23T23:36:01Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/79",
+      "premium": false,
+      "publishedAt": "2024-07-31T00:56:09Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/80",
+      "premium": false,
+      "publishedAt": "2024-08-12T09:14:51Z"
+    },
+    {
+      "number": 81,
+      "title": "S2 -End-",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/81",
+      "premium": false,
+      "publishedAt": "2024-08-12T09:15:42Z"
+    },
+    {
+      "number": 82,
+      "title": "S3 -Start-",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/82",
+      "premium": false,
+      "publishedAt": "2025-03-16T23:43:06Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/83",
+      "premium": false,
+      "publishedAt": "2025-03-16T23:43:23Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/84",
+      "premium": false,
+      "publishedAt": "2025-03-24T01:34:55Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/85",
+      "premium": false,
+      "publishedAt": "2025-03-31T23:47:02Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/86",
+      "premium": false,
+      "publishedAt": "2025-04-08T04:02:55Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/87",
+      "premium": false,
+      "publishedAt": "2025-04-14T22:49:42Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/88",
+      "premium": false,
+      "publishedAt": "2025-04-22T21:33:47Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/89",
+      "premium": false,
+      "publishedAt": "2025-04-29T03:51:09Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/90",
+      "premium": false,
+      "publishedAt": "2025-05-05T23:15:02Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/91",
+      "premium": false,
+      "publishedAt": "2025-05-19T21:39:40Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/92",
+      "premium": false,
+      "publishedAt": "2025-05-25T21:30:02Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/93",
+      "premium": false,
+      "publishedAt": "2025-06-03T00:12:51Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/94",
+      "premium": false,
+      "publishedAt": "2025-06-09T00:55:44Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/95",
+      "premium": false,
+      "publishedAt": "2025-06-16T01:21:13Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/96",
+      "premium": false,
+      "publishedAt": "2025-06-23T21:26:10Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/97",
+      "premium": false,
+      "publishedAt": "2025-07-01T23:35:04Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/98",
+      "premium": false,
+      "publishedAt": "2025-07-09T22:35:46Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/99",
+      "premium": false,
+      "publishedAt": "2025-07-21T04:11:37Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/100",
+      "premium": false,
+      "publishedAt": "2025-07-28T22:17:00Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/101",
+      "premium": false,
+      "publishedAt": "2025-08-05T19:59:42Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/102",
+      "premium": false,
+      "publishedAt": "2025-08-12T00:42:27Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/103",
+      "premium": false,
+      "publishedAt": "2025-08-17T19:45:57Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/104",
+      "premium": false,
+      "publishedAt": "2025-08-26T04:08:58Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/105",
+      "premium": false,
+      "publishedAt": "2025-08-31T23:30:13Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/106",
+      "premium": false,
+      "publishedAt": "2025-09-09T04:05:17Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/107",
+      "premium": false,
+      "publishedAt": "2025-09-25T21:45:14Z"
+    },
+    {
+      "number": 108,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/108",
+      "premium": false,
+      "publishedAt": "2025-09-29T21:15:14Z"
+    },
+    {
+      "number": 109,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/109",
+      "premium": false,
+      "publishedAt": "2025-10-07T04:24:19Z"
+    },
+    {
+      "number": 110,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/110",
+      "premium": false,
+      "publishedAt": "2025-10-14T04:21:19Z"
+    },
+    {
+      "number": 111,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/111",
+      "premium": false,
+      "publishedAt": "2025-10-21T19:58:17Z"
+    },
+    {
+      "number": 112,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/112",
+      "premium": false,
+      "publishedAt": "2025-10-27T05:31:37Z"
+    },
+    {
+      "number": 113,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/113",
+      "premium": false,
+      "publishedAt": "2025-11-02T20:00:34Z"
+    },
+    {
+      "number": 114,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/114",
+      "premium": false,
+      "publishedAt": "2025-11-13T17:10:14Z"
+    },
+    {
+      "number": 115,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/115",
+      "premium": false,
+      "publishedAt": "2025-11-24T20:53:13Z"
+    },
+    {
+      "number": 116,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/116",
+      "premium": false,
+      "publishedAt": "2025-11-30T17:31:52Z"
+    },
+    {
+      "number": 117,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/117",
+      "premium": false,
+      "publishedAt": "2025-12-07T19:20:16Z"
+    },
+    {
+      "number": 118,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/118",
+      "premium": false,
+      "publishedAt": "2025-12-15T06:48:46Z"
+    },
+    {
+      "number": 119,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/119",
+      "premium": false,
+      "publishedAt": "2025-12-23T21:15:14Z"
+    },
+    {
+      "number": 120,
+      "title": "S3 -End-",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/120",
+      "premium": false,
+      "publishedAt": "2025-12-29T18:50:15Z"
+    },
+    {
+      "number": 121,
+      "title": "S4 - Start -",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/121",
+      "premium": false,
+      "publishedAt": "2026-02-21T16:15:15Z"
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/122",
+      "premium": false,
+      "publishedAt": "2026-02-21T16:17:43Z"
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/123",
+      "premium": false,
+      "publishedAt": "2026-03-02T19:04:20Z"
+    },
+    {
+      "number": 124,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/124",
+      "premium": false,
+      "publishedAt": "2026-03-09T20:23:29Z"
+    },
+    {
+      "number": 125,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/125",
+      "premium": false,
+      "publishedAt": "2026-03-19T02:47:56Z"
+    },
+    {
+      "number": 126,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/126",
+      "premium": false,
+      "publishedAt": "2026-03-23T18:22:09.732Z"
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/127",
+      "premium": false,
+      "publishedAt": "2026-04-07T22:05:16.794Z"
+    },
+    {
+      "number": 128,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/128",
+      "premium": false,
+      "publishedAt": "2026-04-08T01:03:06.44Z"
+    },
+    {
+      "number": 129,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/129",
+      "premium": false,
+      "publishedAt": "2026-04-21T22:46:36.502Z"
+    },
+    {
+      "number": 130,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/130",
+      "premium": false,
+      "publishedAt": "2026-05-01T01:47:32.242Z"
+    },
+    {
+      "number": 131,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/131",
+      "premium": false,
+      "publishedAt": "2026-05-03T19:27:29.914Z"
+    },
+    {
+      "number": 132,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/132",
+      "premium": false,
+      "publishedAt": "2026-05-10T01:18:50.292Z"
+    },
+    {
+      "number": 133,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/133",
+      "premium": false,
+      "publishedAt": "2026-05-16T16:10:55.144Z"
+    },
+    {
+      "number": 134,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/134",
+      "premium": false,
+      "publishedAt": "2026-10-10T23:55:32.367005Z"
+    },
+    {
+      "number": 135,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/135",
+      "premium": false,
+      "publishedAt": "2026-10-10T23:55:40.178161Z"
+    },
+    {
+      "number": 136,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8/chapter/136",
+      "premium": false,
+      "publishedAt": "2026-10-11T00:19:38.466248Z"
+    }
+  ]
+}

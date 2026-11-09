@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-bad-born-blood",
+  "seriesUrl": "https://asurascans.com/comics/bad-born-blood-f212c582",
+  "checkedAt": "2026-11-09T11:03:52.268316+00:00",
+  "chapterCount": 108,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/1",
+      "premium": false,
+      "publishedAt": "2024-11-13T14:31:59Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/2",
+      "premium": false,
+      "publishedAt": "2024-11-13T14:53:19Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/3",
+      "premium": false,
+      "publishedAt": "2024-11-13T14:53:31Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/4",
+      "premium": false,
+      "publishedAt": "2024-11-13T14:54:03Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/5",
+      "premium": false,
+      "publishedAt": "2024-11-13T15:37:10Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/6",
+      "premium": false,
+      "publishedAt": "2024-11-13T16:00:21Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/7",
+      "premium": false,
+      "publishedAt": "2024-11-13T16:03:50Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/8",
+      "premium": false,
+      "publishedAt": "2024-11-20T20:39:07Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/9",
+      "premium": false,
+      "publishedAt": "2024-11-20T22:06:53Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/10",
+      "premium": false,
+      "publishedAt": "2024-11-27T18:59:31Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/11",
+      "premium": false,
+      "publishedAt": "2024-11-27T22:25:26Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/12",
+      "premium": false,
+      "publishedAt": "2024-12-05T19:46:40Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/13",
+      "premium": false,
+      "publishedAt": "2024-12-05T19:52:03Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/14",
+      "premium": false,
+      "publishedAt": "2024-12-12T13:56:43Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/15",
+      "premium": false,
+      "publishedAt": "2024-12-20T17:30:39Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/16",
+      "premium": false,
+      "publishedAt": "2024-12-27T23:37:22Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/17",
+      "premium": false,
+      "publishedAt": "2025-01-04T01:14:08Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/18",
+      "premium": false,
+      "publishedAt": "2025-01-11T22:26:02Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/19",
+      "premium": false,
+      "publishedAt": "2025-01-17T23:20:02Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/20",
+      "premium": false,
+      "publishedAt": "2025-01-26T05:36:02Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/21",
+      "premium": false,
+      "publishedAt": "2025-02-03T02:53:02Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/22",
+      "premium": false,
+      "publishedAt": "2025-02-08T18:29:02Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/23",
+      "premium": false,
+      "publishedAt": "2025-02-15T22:25:02Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/24",
+      "premium": false,
+      "publishedAt": "2025-02-22T21:51:02Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/25",
+      "premium": false,
+      "publishedAt": "2025-02-28T12:41:02Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/26",
+      "premium": false,
+      "publishedAt": "2025-03-08T12:31:02Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/27",
+      "premium": false,
+      "publishedAt": "2025-03-13T19:56:02Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/28",
+      "premium": false,
+      "publishedAt": "2025-03-22T03:30:02Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/29",
+      "premium": false,
+      "publishedAt": "2025-03-28T20:14:02Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/30",
+      "premium": false,
+      "publishedAt": "2025-04-07T23:53:02Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/31",
+      "premium": false,
+      "publishedAt": "2025-04-13T01:13:02Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/32",
+      "premium": false,
+      "publishedAt": "2025-04-19T23:34:02Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/33",
+      "premium": false,
+      "publishedAt": "2025-04-26T11:11:02Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/34",
+      "premium": false,
+      "publishedAt": "2025-05-04T00:00:02Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/35",
+      "premium": false,
+      "publishedAt": "2025-05-11T02:22:02Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/36",
+      "premium": false,
+      "publishedAt": "2025-05-20T00:00:02Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/37",
+      "premium": false,
+      "publishedAt": "2025-05-29T00:00:31Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/38",
+      "premium": false,
+      "publishedAt": "2025-06-04T19:38:22Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/39",
+      "premium": false,
+      "publishedAt": "2025-06-09T21:47:23Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/40",
+      "premium": false,
+      "publishedAt": "2025-06-18T00:01:50Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/41",
+      "premium": false,
+      "publishedAt": "2025-06-22T00:01:30Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/42",
+      "premium": false,
+      "publishedAt": "2025-06-30T00:01:31Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/43",
+      "premium": false,
+      "publishedAt": "2025-07-06T18:42:51Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/44",
+      "premium": false,
+      "publishedAt": "2025-07-16T00:01:28Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/45",
+      "premium": false,
+      "publishedAt": "2025-07-21T00:00:35Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/46",
+      "premium": false,
+      "publishedAt": "2025-07-31T00:02:09Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/47",
+      "premium": false,
+      "publishedAt": "2025-08-07T00:00:26Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/48",
+      "premium": false,
+      "publishedAt": "2025-08-12T00:01:08Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/49",
+      "premium": false,
+      "publishedAt": "2025-08-20T00:00:24Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/50",
+      "premium": false,
+      "publishedAt": "2025-08-26T06:47:12Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/51",
+      "premium": false,
+      "publishedAt": "2025-08-31T23:30:12Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/52",
+      "premium": false,
+      "publishedAt": "2025-09-11T00:00:26Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/53",
+      "premium": false,
+      "publishedAt": "2025-09-19T00:00:25Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/54",
+      "premium": false,
+      "publishedAt": "2025-09-28T04:03:48Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/55",
+      "premium": false,
+      "publishedAt": "2025-09-27T22:00:55Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/56",
+      "premium": false,
+      "publishedAt": "2025-10-08T19:12:11Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/57",
+      "premium": false,
+      "publishedAt": "2025-10-14T18:57:11Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/58",
+      "premium": false,
+      "publishedAt": "2025-10-22T11:04:13Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/59",
+      "premium": false,
+      "publishedAt": "2025-10-28T15:29:19Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/60",
+      "premium": false,
+      "publishedAt": "2025-11-05T13:01:16Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/61",
+      "premium": false,
+      "publishedAt": "2025-11-14T21:29:13Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/62",
+      "premium": false,
+      "publishedAt": "2025-11-18T19:39:23Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/63",
+      "premium": false,
+      "publishedAt": "2025-11-26T16:17:13Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/64",
+      "premium": false,
+      "publishedAt": "2025-12-02T10:46:13Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/65",
+      "premium": false,
+      "publishedAt": "2025-12-05T17:17:17Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/66",
+      "premium": false,
+      "publishedAt": "2025-12-14T11:56:12Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/67",
+      "premium": false,
+      "publishedAt": "2025-12-28T13:57:13Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/68",
+      "premium": false,
+      "publishedAt": "2026-01-05T21:36:14Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/69",
+      "premium": false,
+      "publishedAt": "2026-01-11T10:11:34Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/70",
+      "premium": false,
+      "publishedAt": "2026-01-18T19:34:15Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/71",
+      "premium": false,
+      "publishedAt": "2026-01-25T19:34:13Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/72",
+      "premium": false,
+      "publishedAt": "2026-02-01T20:57:14Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/73",
+      "premium": false,
+      "publishedAt": "2026-02-13T07:01:14Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/74",
+      "premium": false,
+      "publishedAt": "2026-02-15T12:39:14Z"
+    },
+    {
+      "number": 74.5,
+      "title": "Special Episode - Ilay Carthica",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/74.5",
+      "premium": false,
+      "publishedAt": "2026-02-24T12:54:34Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/75",
+      "premium": false,
+      "publishedAt": "2026-03-26T06:15:34.975Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/76",
+      "premium": false,
+      "publishedAt": "2026-03-07T22:03:30Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/77",
+      "premium": false,
+      "publishedAt": "2026-03-15T15:02:39Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/78",
+      "premium": false,
+      "publishedAt": "2026-04-09T10:28:18.797Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/79",
+      "premium": false,
+      "publishedAt": "2026-04-11T08:25:23.824Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/80",
+      "premium": false,
+      "publishedAt": "2026-04-11T09:35:49.946Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/81",
+      "premium": false,
+      "publishedAt": "2026-04-14T17:41:12.01Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/82",
+      "premium": false,
+      "publishedAt": "2026-04-20T10:34:20.646Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/83",
+      "premium": false,
+      "publishedAt": "2026-05-06T17:52:49.533Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/84",
+      "premium": false,
+      "publishedAt": "2026-05-08T18:10:00.552Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/85",
+      "premium": false,
+      "publishedAt": "2026-05-10T10:14:25.539Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/86",
+      "premium": false,
+      "publishedAt": "2026-05-16T21:47:05.458Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/87",
+      "premium": false,
+      "publishedAt": "2026-05-22T10:22:41.729Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/88",
+      "premium": false,
+      "publishedAt": "2026-05-28T11:31:52.99Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/89",
+      "premium": false,
+      "publishedAt": "2026-06-10T22:00:19.455Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/90",
+      "premium": false,
+      "publishedAt": "2026-06-19T09:24:43.479576Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/91",
+      "premium": false,
+      "publishedAt": "2026-06-25T20:53:19.512812Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/92",
+      "premium": false,
+      "publishedAt": "2026-07-02T00:42:32.805186Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/93",
+      "premium": false,
+      "publishedAt": "2026-07-08T21:26:09.569422Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/94",
+      "premium": false,
+      "publishedAt": "2026-07-16T08:55:40.988669Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/95",
+      "premium": false,
+      "publishedAt": "2026-08-13T08:35:07.99458Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/96",
+      "premium": false,
+      "publishedAt": "2026-08-20T05:52:05.770383Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/97",
+      "premium": false,
+      "publishedAt": "2026-08-27T10:16:38.060773Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/98",
+      "premium": false,
+      "publishedAt": "2026-09-03T08:10:36.93654Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/99",
+      "premium": false,
+      "publishedAt": "2026-09-10T13:47:17.912357Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/100",
+      "premium": false,
+      "publishedAt": "2026-09-17T22:08:35.630038Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/101",
+      "premium": false,
+      "publishedAt": "2026-09-24T19:19:51.926816Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/102",
+      "premium": false,
+      "publishedAt": "2026-10-01T20:33:26.318249Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/103",
+      "premium": false,
+      "publishedAt": "2026-10-09T00:13:25.283716Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/104",
+      "premium": false,
+      "publishedAt": "2026-10-15T20:01:35.119692Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/105",
+      "premium": false,
+      "publishedAt": "2026-10-22T18:17:17.411197Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/106",
+      "premium": false,
+      "publishedAt": "2026-10-29T19:30:35.71066Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/bad-born-blood-f212c582/chapter/107",
+      "premium": false,
+      "publishedAt": "2026-11-07T12:10:43.282065Z"
+    }
+  ]
+}

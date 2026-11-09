@@ -1,0 +1,836 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-novel-cultivation-demon-extermination",
+  "seriesUrl": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination",
+  "checkedAt": "2026-10-11T18:12:44.516284+00:00",
+  "chapterCount": 118,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Prologue + Act 1. The Land of Dokkaebi (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/1",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 2,
+      "title": "Act 1. The Land of Dokkaebi (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/2",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 3,
+      "title": "Act 1. The Land of Dokkaebi (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/3",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 4,
+      "title": "Act 2. Wailing Dragon Demon (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/4",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 5,
+      "title": "Act 2. Wailing Dragon Demon (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/5",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 6,
+      "title": "Act 2. Wailing Dragon Demon (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/6",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 7,
+      "title": "Act 2. Wailing Dragon Demon (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/7",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 8,
+      "title": "Act 3. Daemudo Entrance Examination (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/8",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 9,
+      "title": "Act 3. Daemudo Entrance Examination (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/9",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 10,
+      "title": "Act 3. Daemudo Entrance Examination (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/10",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 11,
+      "title": "Act 3. Daemudo Entrance Examination (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/11",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 12,
+      "title": "Act 3. Daemudo Entrance Examination (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/12",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 13,
+      "title": "Act 3. Daemudo Entrance Examination (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/13",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 14,
+      "title": "Act 3. Daemudo Entrance Examination (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/14",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 15,
+      "title": "Act 3. Daemudo Entrance Examination (8)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/15",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 16,
+      "title": "Act 3. Daemudo Entrance Examination (9)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/16",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 17,
+      "title": "Act 3. Daemudo Entrance Examination (10)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/17",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 18,
+      "title": "Act 3. Daemudo Entrance Examination (11)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/18",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 19,
+      "title": "Act 3. Daemudo Entrance Examination (12)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/19",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 20,
+      "title": "Act 4. The Bamboo Tube Beauty (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/20",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 21,
+      "title": "Act 4. The Bamboo Tube Beauty (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/21",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 22,
+      "title": "Act 4. The Bamboo Tube Beauty (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/22",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 23,
+      "title": "Act 4. The Bamboo Tube Beauty (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/23",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 24,
+      "title": "Act 4. The Bamboo Tube Beauty (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/24",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 25,
+      "title": "Act 4. The Bamboo Tube Beauty (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/25",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 26,
+      "title": "Act 4. The Bamboo Tube Beauty (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/26",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 27,
+      "title": "Act 4. The Bamboo Tube Beauty (8)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/27",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 28,
+      "title": "Act 4. The Bamboo Tube Beauty (9)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/28",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 29,
+      "title": "Act 4. The Bamboo Tube Beauty (10)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/29",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 30,
+      "title": "Act 4. The Bamboo Tube Beauty (11)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/30",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 31,
+      "title": "Act 5. Iron Sun Thunder Sect (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/31",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 32,
+      "title": "Act 5. Iron Sun Thunder Sect (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/32",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 33,
+      "title": "Act 5. Iron Sun Thunder Sect (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/33",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 34,
+      "title": "Act 5. Iron Sun Thunder Sect (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/34",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 35,
+      "title": "Act 5. Iron Sun Thunder Sect (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/35",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 36,
+      "title": "Act 5. Iron Sun Thunder Sect (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/36",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 37,
+      "title": "Act 5. Iron Sun Thunder Sect (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/37",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 38,
+      "title": "Act 6. Heavenly-Demonic Dual-Meridian Constitution (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/38",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 39,
+      "title": "Act 6. Heavenly-Demonic Dual-Meridian Constitution (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/39",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 40,
+      "title": "Act 6. Heavenly-Demonic Dual-Meridian Constitution (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/40",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 41,
+      "title": "Act 6. Heavenly-Demonic Dual-Meridian Constitution (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/41",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 42,
+      "title": "Act 6. Heavenly-Demonic Dual-Meridian Constitution (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/42",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 43,
+      "title": "Act 6. Heavenly-Demonic Dual-Meridian Constitution (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/43",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 44,
+      "title": "Act 7. Designated Mission (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/44",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 45,
+      "title": "Act 7. Designated Mission (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/45",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 46,
+      "title": "Act 7. Designated Mission (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/46",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 47,
+      "title": "Act 7. Designated Mission (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/47",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 48,
+      "title": "Act 7. Designated Mission (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/48",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 49,
+      "title": "Act 7. Designated Mission (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/49",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 50,
+      "title": "Act 8. Daemudo’s Main Mountain (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/50",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 51,
+      "title": "Act 8. Daemudo’s Main Mountain (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/51",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 52,
+      "title": "Act 8. Daemudo’s Main Mountain (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/52",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 53,
+      "title": "Act 8. Daemudo’s Main Mountain (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/53",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 54,
+      "title": "Act 8. Daemudo’s Main Mountain (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/54",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 55,
+      "title": "Act 8. Daemudo’s Main Mountain (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/55",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 56,
+      "title": "Act 9. The Demonic Beast Farm on Wailing Mountain (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/56",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 57,
+      "title": "Act 9. The Demonic Beast Farm on Wailing Mountain (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/57",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 58,
+      "title": "Act 9. The Demonic Beast Farm on Wailing Mountain (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/58",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 59,
+      "title": "Act 9. The Demonic Beast Farm on Wailing Mountain (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/59",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 60,
+      "title": "Act 10. Silver Dragon Mine (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/60",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 61,
+      "title": "Act 10. Silver Dragon Mine (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/61",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 62,
+      "title": "Act 10. Silver Dragon Mine (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/62",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 63,
+      "title": "Act 10. Silver Dragon Mine (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/63",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 64,
+      "title": "Act 10. Silver Dragon Mine (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/64",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 65,
+      "title": "Act 11. Dine Before You Depart, Open for Business (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/65",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 66,
+      "title": "Act 11. Dine Before You Depart, Open for Business (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/66",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 67,
+      "title": "Act 11. Dine Before You Depart, Open for Business (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/67",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 68,
+      "title": "Act 11. Dine Before You Depart, Open for Business (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/68",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 69,
+      "title": "Act 11. Dine Before You Depart, Open for Business (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/69",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 70,
+      "title": "Act 11. Dine Before You Depart, Open for Business (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/70",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 71,
+      "title": "Act 11. Dine Before You Depart, Open for Business (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/71",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 72,
+      "title": "Act 12. Dark Heaven Secret Realm (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/72",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 73,
+      "title": "Act 12. Dark Heaven Secret Realm (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/73",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 74,
+      "title": "Act 12. Dark Heaven Secret Realm (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/74",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 75,
+      "title": "Act 12. Dark Heaven Secret Realm (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/75",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 76,
+      "title": "Act 12. Dark Heaven Secret Realm (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/76",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 77,
+      "title": "Act 12. Dark Heaven Secret Realm (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/77",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 78,
+      "title": "Act 12. Dark Heaven Secret Realm (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/78",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 79,
+      "title": "Act 12. Dark Heaven Secret Realm (8)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/79",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 80,
+      "title": "Act 12. Dark Heaven Secret Realm (9)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/80",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 81,
+      "title": "Act 12. Dark Heaven Secret Realm (10)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/81",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 82,
+      "title": "Act 12. Dark Heaven Secret Realm (11)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/82",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 83,
+      "title": "Act 13. Breaking Through to Foundation Establishment (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/83",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 84,
+      "title": "Act 13. Breaking Through to Foundation Establishment (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/84",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 85,
+      "title": "Act 13. Breaking Through to Foundation Establishment (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/85",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 86,
+      "title": "Act 13. Breaking Through to Foundation Establishment (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/86",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 87,
+      "title": "Act 13. Breaking Through to Foundation Establishment (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/87",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 88,
+      "title": "Act 13. Breaking Through to Foundation Establishment (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/88",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 89,
+      "title": "Act 13. Breaking Through to Foundation Establishment (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/89",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 90,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/90",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 91,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/91",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 92,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/92",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 93,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/93",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 94,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/94",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 95,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/95",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 96,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/96",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 97,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (8)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/97",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 98,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (9)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/98",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 99,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (10)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/99",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 100,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (11)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/100",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 101,
+      "title": "Act 14. Upheaval in the Continent’s Affairs (12)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/101",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 102,
+      "title": "Act 15. To the Northern Continent (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/102",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 103,
+      "title": "Act 15. To the Northern Continent (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/103",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 104,
+      "title": "Act 15. To the Northern Continent (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/104",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 105,
+      "title": "Act 15. To the Northern Continent (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/105",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 106,
+      "title": "Act 15. To the Northern Continent (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/106",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 107,
+      "title": "Act 15. To the Northern Continent (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/107",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 108,
+      "title": "Act 16. Chance, Connection, Inevitability (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/108",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 109,
+      "title": "Act 16. Chance, Connection, Inevitability (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/109",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 110,
+      "title": "Act 16. Chance, Connection, Inevitability (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/110",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 111,
+      "title": "Act 16. Chance, Connection, Inevitability (4)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/111",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 112,
+      "title": "Act 16. Chance, Connection, Inevitability (5)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "Act 16. Chance, Connection, Inevitability (6)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "Act 16. Chance, Connection, Inevitability (7)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "Act 16. Chance, Connection, Inevitability (8)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/115",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 116,
+      "title": "Act 17. Abyssal Labyrinth (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/116",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 117,
+      "title": "Act 17. Abyssal Labyrinth (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/117",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 118,
+      "title": "Act 17. Abyssal Labyrinth (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    }
+  ]
+}

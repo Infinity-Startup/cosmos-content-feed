@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-steel-eating",
+  "seriesUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8",
+  "checkedAt": "2026-10-12T00:37:13.858006+00:00",
+  "chapterCount": 114,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/1",
+      "premium": false,
+      "publishedAt": "2023-08-29T14:19:53Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/2",
+      "premium": false,
+      "publishedAt": "2023-08-29T15:04:31Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/3",
+      "premium": false,
+      "publishedAt": "2023-08-29T21:14:06Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/4",
+      "premium": false,
+      "publishedAt": "2023-08-30T11:15:04Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/5",
+      "premium": false,
+      "publishedAt": "2023-09-10T13:12:30Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/6",
+      "premium": false,
+      "publishedAt": "2023-09-18T21:31:24Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/7",
+      "premium": false,
+      "publishedAt": "2023-09-27T12:41:08Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/8",
+      "premium": false,
+      "publishedAt": "2023-09-29T22:29:59Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/9",
+      "premium": false,
+      "publishedAt": "2023-10-02T17:09:36Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/10",
+      "premium": false,
+      "publishedAt": "2023-10-07T18:12:18Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/11",
+      "premium": false,
+      "publishedAt": "2023-10-15T12:11:15Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/12",
+      "premium": false,
+      "publishedAt": "2023-10-22T03:34:20Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/13",
+      "premium": false,
+      "publishedAt": "2023-10-30T09:14:17Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/14",
+      "premium": false,
+      "publishedAt": "2023-11-05T22:04:25Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/15",
+      "premium": false,
+      "publishedAt": "2023-11-12T04:12:19Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/16",
+      "premium": false,
+      "publishedAt": "2023-11-23T00:43:33Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/17",
+      "premium": false,
+      "publishedAt": "2023-11-28T22:37:24Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/18",
+      "premium": false,
+      "publishedAt": "2023-12-10T01:14:20Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/19",
+      "premium": false,
+      "publishedAt": "2023-12-10T01:14:52Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/20",
+      "premium": false,
+      "publishedAt": "2023-12-17T19:38:13Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/21",
+      "premium": false,
+      "publishedAt": "2023-12-23T14:23:49Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/22",
+      "premium": false,
+      "publishedAt": "2024-01-07T22:49:12Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/23",
+      "premium": false,
+      "publishedAt": "2024-01-11T00:56:36Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/24",
+      "premium": false,
+      "publishedAt": "2024-01-15T23:21:16Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/25",
+      "premium": false,
+      "publishedAt": "2024-01-20T17:06:59Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/26",
+      "premium": false,
+      "publishedAt": "2024-01-28T16:37:23Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/27",
+      "premium": false,
+      "publishedAt": "2024-02-03T23:17:23Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/28",
+      "premium": false,
+      "publishedAt": "2024-02-14T13:04:49Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/29",
+      "premium": false,
+      "publishedAt": "2024-02-20T20:21:58Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/30",
+      "premium": false,
+      "publishedAt": "2024-02-29T18:47:14Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/31",
+      "premium": false,
+      "publishedAt": "2024-03-03T00:56:44Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/32",
+      "premium": false,
+      "publishedAt": "2024-03-14T00:00:54Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/33",
+      "premium": false,
+      "publishedAt": "2024-03-18T22:27:27Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/34",
+      "premium": false,
+      "publishedAt": "2024-03-25T12:05:05Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/35",
+      "premium": false,
+      "publishedAt": "2024-04-06T19:05:00Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/36",
+      "premium": false,
+      "publishedAt": "2024-04-13T01:50:02Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/37",
+      "premium": false,
+      "publishedAt": "2024-04-23T00:49:45Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/38",
+      "premium": false,
+      "publishedAt": "2024-05-01T17:51:24Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/39",
+      "premium": false,
+      "publishedAt": "2024-05-06T17:28:24Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/40",
+      "premium": false,
+      "publishedAt": "2024-05-13T23:46:13Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/41",
+      "premium": false,
+      "publishedAt": "2024-05-22T01:15:53Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/42",
+      "premium": false,
+      "publishedAt": "2024-05-29T00:29:07Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/43",
+      "premium": false,
+      "publishedAt": "2024-06-04T01:04:07Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/44",
+      "premium": false,
+      "publishedAt": "2024-06-12T00:43:14Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/45",
+      "premium": false,
+      "publishedAt": "2024-06-25T18:26:51Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/46",
+      "premium": false,
+      "publishedAt": "2024-06-25T18:27:24Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/47",
+      "premium": false,
+      "publishedAt": "2024-07-07T20:44:48Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/48",
+      "premium": false,
+      "publishedAt": "2024-07-07T20:44:49Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/49",
+      "premium": false,
+      "publishedAt": "2024-07-13T08:13:45Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/50",
+      "premium": false,
+      "publishedAt": "2024-07-21T23:46:57Z"
+    },
+    {
+      "number": 51,
+      "title": "S1 END",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/51",
+      "premium": false,
+      "publishedAt": "2024-07-30T02:14:38Z"
+    },
+    {
+      "number": 52,
+      "title": "S2 START",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/52",
+      "premium": false,
+      "publishedAt": "2024-12-06T21:27:37Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/53",
+      "premium": false,
+      "publishedAt": "2024-12-06T21:27:54Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/54",
+      "premium": false,
+      "publishedAt": "2024-12-08T19:05:45Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/55",
+      "premium": false,
+      "publishedAt": "2024-12-08T19:08:24Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/56",
+      "premium": false,
+      "publishedAt": "2024-12-08T19:12:31Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/57",
+      "premium": false,
+      "publishedAt": "2024-12-16T21:40:14Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/58",
+      "premium": false,
+      "publishedAt": "2024-12-22T22:36:41Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/59",
+      "premium": false,
+      "publishedAt": "2024-12-30T01:10:51Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/60",
+      "premium": false,
+      "publishedAt": "2025-01-07T02:16:02Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/61",
+      "premium": false,
+      "publishedAt": "2025-01-11T23:28:02Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/62",
+      "premium": false,
+      "publishedAt": "2025-01-19T23:41:02Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/63",
+      "premium": false,
+      "publishedAt": "2025-01-26T22:22:02Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/64",
+      "premium": false,
+      "publishedAt": "2025-02-03T02:54:02Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/65",
+      "premium": false,
+      "publishedAt": "2025-02-09T00:54:02Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/66",
+      "premium": false,
+      "publishedAt": "2025-02-19T23:24:02Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/67",
+      "premium": false,
+      "publishedAt": "2025-02-28T03:18:02Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/68",
+      "premium": false,
+      "publishedAt": "2025-03-06T04:53:02Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/69",
+      "premium": false,
+      "publishedAt": "2025-03-12T01:28:01Z"
+    },
+    {
+      "number": 70,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/70",
+      "premium": false,
+      "publishedAt": "2025-03-17T01:20:02Z"
+    },
+    {
+      "number": 71,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/71",
+      "premium": false,
+      "publishedAt": "2025-03-25T03:02:02Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/72",
+      "premium": false,
+      "publishedAt": "2025-04-04T00:05:02Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/73",
+      "premium": false,
+      "publishedAt": "2025-04-12T00:11:02Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/74",
+      "premium": false,
+      "publishedAt": "2025-04-17T05:50:02Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/75",
+      "premium": false,
+      "publishedAt": "2025-04-24T02:17:02Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/76",
+      "premium": false,
+      "publishedAt": "2025-04-30T01:11:03Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/77",
+      "premium": false,
+      "publishedAt": "2025-05-16T00:32:02Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/78",
+      "premium": false,
+      "publishedAt": "2025-05-21T23:55:02Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/79",
+      "premium": false,
+      "publishedAt": "2025-05-31T01:13:23Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/80",
+      "premium": false,
+      "publishedAt": "2025-06-12T01:34:37Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/81",
+      "premium": false,
+      "publishedAt": "2025-06-12T01:39:48Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/82",
+      "premium": false,
+      "publishedAt": "2025-06-20T04:36:47Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/83",
+      "premium": false,
+      "publishedAt": "2025-06-24T02:01:14Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/84",
+      "premium": false,
+      "publishedAt": "2025-07-02T00:53:14Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/85",
+      "premium": false,
+      "publishedAt": "2025-07-11T23:59:34Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/86",
+      "premium": false,
+      "publishedAt": "2025-07-18T00:39:37Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/87",
+      "premium": false,
+      "publishedAt": "2025-07-20T02:32:26Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/88",
+      "premium": false,
+      "publishedAt": "2025-08-03T00:46:20Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/89",
+      "premium": false,
+      "publishedAt": "2025-08-21T01:13:44Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/90",
+      "premium": false,
+      "publishedAt": "2025-08-30T02:52:51Z"
+    },
+    {
+      "number": 91,
+      "title": "S2 END",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/91",
+      "premium": false,
+      "publishedAt": "2025-09-03T02:40:22Z"
+    },
+    {
+      "number": 92,
+      "title": "S3 START",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/92",
+      "premium": false,
+      "publishedAt": "2026-05-27T13:04:36.4Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/93",
+      "premium": false,
+      "publishedAt": "2026-05-27T16:22:34.16Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/94",
+      "premium": false,
+      "publishedAt": "2026-05-27T16:26:17.878Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/95",
+      "premium": false,
+      "publishedAt": "2026-05-27T17:02:38.353Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/96",
+      "premium": false,
+      "publishedAt": "2026-06-03T17:22:27.649185Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/97",
+      "premium": false,
+      "publishedAt": "2026-06-10T17:19:34.225089Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/98",
+      "premium": false,
+      "publishedAt": "2026-06-17T15:51:01.811462Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/99",
+      "premium": false,
+      "publishedAt": "2026-06-25T18:26:50.28472Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/100",
+      "premium": false,
+      "publishedAt": "2026-07-01T21:55:47.969192Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/101",
+      "premium": false,
+      "publishedAt": "2026-07-08T17:15:22.667962Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/102",
+      "premium": false,
+      "publishedAt": "2026-07-15T16:05:52.912078Z"
+    },
+    {
+      "number": 103,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/103",
+      "premium": false,
+      "publishedAt": "2026-07-22T21:39:39.929571Z"
+    },
+    {
+      "number": 104,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/104",
+      "premium": false,
+      "publishedAt": "2026-07-30T03:20:43.820966Z"
+    },
+    {
+      "number": 105,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/105",
+      "premium": false,
+      "publishedAt": "2026-08-05T14:13:09.589539Z"
+    },
+    {
+      "number": 106,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/106",
+      "premium": false,
+      "publishedAt": "2026-08-12T15:22:22.82791Z"
+    },
+    {
+      "number": 107,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/107",
+      "premium": false,
+      "publishedAt": "2026-08-19T20:13:13.405044Z"
+    },
+    {
+      "number": 108,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/108",
+      "premium": false,
+      "publishedAt": "2026-08-26T16:29:36.847145Z"
+    },
+    {
+      "number": 109,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/109",
+      "premium": false,
+      "publishedAt": "2026-09-03T22:34:33.536103Z"
+    },
+    {
+      "number": 110,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/110",
+      "premium": false,
+      "publishedAt": "2026-09-09T16:41:21.966769Z"
+    },
+    {
+      "number": 111,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/111",
+      "premium": false,
+      "publishedAt": "2026-09-16T17:15:38.689544Z"
+    },
+    {
+      "number": 112,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/112",
+      "premium": false,
+      "publishedAt": "2026-09-24T05:51:50.436269Z"
+    },
+    {
+      "number": 113,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/113",
+      "premium": false,
+      "publishedAt": "2026-09-30T09:41:56.967335Z"
+    },
+    {
+      "number": 114,
+      "title": "",
+      "url": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8/chapter/114",
+      "premium": false,
+      "publishedAt": "2026-10-11T13:52:50.869081Z"
+    }
+  ]
+}

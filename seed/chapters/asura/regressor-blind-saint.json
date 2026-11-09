@@ -1,0 +1,738 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "regressor-blind-saint",
+  "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
+  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
+  "chapterCount": 104,
+  "chapters": [
+    {
+      "number": 0,
+      "title": "Prologue",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/0",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 1,
+      "title": "The Gutter",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/1",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 2,
+      "title": "The Gutter - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/2",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 3,
+      "title": "The Gutter - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/3",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 4,
+      "title": "The Gutter - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/4",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 5,
+      "title": "Regression",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/5",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 6,
+      "title": "The Holy Empire of Elia",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/6",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 7,
+      "title": "The Holy Empire of Elia - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/7",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 8,
+      "title": "The Holy Empire of Elia - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/8",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 9,
+      "title": "Sacred Combat Arts",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/9",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 10,
+      "title": "Sacred Combat Arts - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/10",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 11,
+      "title": "Revelation",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/11",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 12,
+      "title": "Revelation - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/12",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 13,
+      "title": "Revelation - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/13",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 14,
+      "title": "Seven Days and Nights of the Midnight Sun",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/14",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 15,
+      "title": "Seven Days and Nights of the Midnight Sun - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/15",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 16,
+      "title": "Seven Days and Nights of the Midnight Sun - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/16",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 17,
+      "title": "Seven Days and Nights of the Midnight Sun - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/17",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 18,
+      "title": "The End of the Midnight Sun",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/18",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 19,
+      "title": "The End of the Midnight Sun - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/19",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 20,
+      "title": "The End of the Midnight Sun - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/20",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 21,
+      "title": "The End of the Midnight Sun - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/21",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 22,
+      "title": "The End of the Midnight Sun - 5",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/22",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 23,
+      "title": "The Chase",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/23",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 24,
+      "title": "The Chase - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/24",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 25,
+      "title": "The Chase - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/25",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 26,
+      "title": "Adjustment",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/26",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 27,
+      "title": "Adjustment - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/27",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 28,
+      "title": "Adjustment - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/28",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 29,
+      "title": "Training",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/29",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 30,
+      "title": "Training - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/30",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 31,
+      "title": "Questions",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/31",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 32,
+      "title": "Apostle of Love",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/32",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 33,
+      "title": "Apostle of Love - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/33",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 34,
+      "title": "Apostle of Love - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/34",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 35,
+      "title": "Realization",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/35",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 36,
+      "title": "Realization - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/36",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 37,
+      "title": "Realization - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/37",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 38,
+      "title": "Name",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/38",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 39,
+      "title": "Name - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/39",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 40,
+      "title": "Three Years, and a Revelation",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/40",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 41,
+      "title": "Three Years, and a Revelation - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/41",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 42,
+      "title": "Three Years, and a Revelation - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/42",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 43,
+      "title": "To the Great Forest",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/43",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 44,
+      "title": "To the Great Forest - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/44",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 45,
+      "title": "Friede",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/45",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 46,
+      "title": "Friede - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/46",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 47,
+      "title": "Aedrin",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/47",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 48,
+      "title": "Aedrin - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/48",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 49,
+      "title": "Aedrin - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/49",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 50,
+      "title": "The Eve",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/50",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 51,
+      "title": "The Eve - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/51",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 52,
+      "title": "The Eve - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/52",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 53,
+      "title": "Gilli",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/53",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 54,
+      "title": "Gilli - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/54",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 55,
+      "title": "Gilli - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/55",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 56,
+      "title": "Regeneration",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/56",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 57,
+      "title": "Regeneration - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/57",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 58,
+      "title": "Aisha Dragnoff",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/58",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 59,
+      "title": "Aisha Dragnoff - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/59",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 60,
+      "title": "Aisha Dragnoff - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/60",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 61,
+      "title": "Demonic Sword",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/61",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 62,
+      "title": "Demonic Sword - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/62",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 63,
+      "title": "Dovan",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/63",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 64,
+      "title": "Dovan - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/64",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 65,
+      "title": "Dovan - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/65",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 66,
+      "title": "The Monstrosity",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/66",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 67,
+      "title": "The Monstrosity - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/67",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 68,
+      "title": "The Monstrosity - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/68",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 69,
+      "title": "Gartea",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/69",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 70,
+      "title": "Gartea - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/70",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 71,
+      "title": "Fear",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/71",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 72,
+      "title": "Fear - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/72",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 73,
+      "title": "Fear - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/73",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 74,
+      "title": "Masterpiece",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/74",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 75,
+      "title": "To the Empire",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/75",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 76,
+      "title": "To the Empire - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/76",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 77,
+      "title": "The Empire",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/77",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 78,
+      "title": "The Empire - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/78",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 79,
+      "title": "The Empire - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/79",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 80,
+      "title": "The Empire - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/80",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 81,
+      "title": "Suspicions",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/81",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 82,
+      "title": "Suspicions - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/82",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 83,
+      "title": "Albrecht",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/83",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 84,
+      "title": "Albrecht - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/84",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 85,
+      "title": "Investigation",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/85",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 86,
+      "title": "Investigation - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/86",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 87,
+      "title": "Investigation - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/87",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 88,
+      "title": "Investigation - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/88",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 89,
+      "title": "The Imperial Palace",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/89",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 90,
+      "title": "The Imperial Palace - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/90",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 91,
+      "title": "Oriac",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/91",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 92,
+      "title": "Oriac - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/92",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 93,
+      "title": "Chaos",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/93",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 94,
+      "title": "Chaos - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/94",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 95,
+      "title": "Chaos - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/95",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 96,
+      "title": "Chaos - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/96",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 97,
+      "title": "Anilis",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/97",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 98,
+      "title": "Anilis - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/98",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 99,
+      "title": "Anilis - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/99",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 100,
+      "title": "Anilis - 4",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/100",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 101,
+      "title": "Aftermath",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/101",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 102,
+      "title": "Aftermath - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/102",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 103,
+      "title": "Festival",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/103",
+      "premium": false,
+      "publishedAt": null
+    }
+  ]
+}

@@ -1,0 +1,5070 @@
+{
+  "titleId": "asura-manhwa-absolute-regression",
+  "revision": 5,
+  "previews": {
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/3/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/3-portrait-v5-627d07a5bc49.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "c63d39d28d0279dc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          308,
+          6808,
+          590,
+          7090
+        ],
+        "sourceSize": [
+          800,
+          13800
+        ],
+        "detectedFace": [
+          358.789,
+          6840.234,
+          180.078,
+          217.188
+        ],
+        "outsideFaceWhiteFraction": 0.00063,
+        "largestWhiteRegion": 0.00037,
+        "sharpness": 1472.22,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/4/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/4-portrait-v5-6459138ca081.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "c2647fc2a81e75aa",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          92,
+          13150,
+          348,
+          13406
+        ],
+        "sourceSize": [
+          800,
+          14150
+        ],
+        "detectedFace": [
+          145.996,
+          13186.328,
+          148.633,
+          183.594
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2960.43,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/5/006.webp?v=1783515615",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/5-portrait-v5-87f96691eb7b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "c52c6ab3ac8c74da",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          518,
+          13386,
+          774,
+          13642
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          560.742,
+          13428.32,
+          170.703,
+          171.484
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2394.32,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/6/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/6-portrait-v5-14cfd7cc8ba4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "df326cd9c295324c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          495,
+          12712,
+          751,
+          12968
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          533.008,
+          12745.752,
+          179.297,
+          188.965
+        ],
+        "outsideFaceWhiteFraction": 0.00122,
+        "largestWhiteRegion": 0.00122,
+        "sharpness": 4173.61,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/7/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/7-portrait-v5-d8e7e4fb8f20.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "d3612c96b51fe2d0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          265,
+          10989,
+          521,
+          11245
+        ],
+        "sourceSize": [
+          800,
+          14165
+        ],
+        "detectedFace": [
+          321.387,
+          11031.25,
+          143.164,
+          171.094
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2380.62,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/8/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/8-portrait-v5-2930187d0a5b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "90277a97e15a26d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          7131,
+          531,
+          7396
+        ],
+        "sourceSize": [
+          800,
+          14995
+        ],
+        "detectedFace": [
+          315.527,
+          7161.914,
+          165.43,
+          203.516
+        ],
+        "outsideFaceWhiteFraction": 0.0015,
+        "largestWhiteRegion": 0.00066,
+        "sharpness": 1523.67,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/9/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/9-portrait-v5-07b8320b8367.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "c47c2b80748f3ecd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          111,
+          10260,
+          367,
+          10516
+        ],
+        "sourceSize": [
+          800,
+          11657
+        ],
+        "detectedFace": [
+          153.76,
+          10295.898,
+          170.605,
+          184.766
+        ],
+        "outsideFaceWhiteFraction": 0.0036,
+        "largestWhiteRegion": 0.0025,
+        "sharpness": 4304.81,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/11/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/11-portrait-v5-cb6fbabfb2e6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8779,
+        "faceHash": "915d2a5e633947b1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          15598,
+          264,
+          15862
+        ],
+        "sourceSize": [
+          800,
+          16232
+        ],
+        "detectedFace": [
+          21.094,
+          15628.582,
+          164.258,
+          203.32
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1452.9,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/12/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/12-portrait-v5-53b613d9f758.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "dc0855aa3539f3a3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          5262,
+          360,
+          5622
+        ],
+        "sourceSize": [
+          800,
+          14475
+        ],
+        "detectedFace": [
+          66.797,
+          5303.906,
+          209.57,
+          276.562
+        ],
+        "outsideFaceWhiteFraction": 0.03494,
+        "largestWhiteRegion": 0.01733,
+        "sharpness": 3517.48,
+        "reviewed": true
+      }
+    },
+    "116": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/116",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/116/0fa7df.webp?v=1787591911",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/116-portrait-v5-d36d0c9e0fc9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "805b34eda789ea5c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          2,
+          554,
+          280,
+          832
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          52.734,
+          585.791,
+          175.781,
+          213.574
+        ],
+        "outsideFaceWhiteFraction": 0.02704,
+        "largestWhiteRegion": 0.0106,
+        "sharpness": 2357.56,
+        "reviewed": true
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/117/3c83f5.webp?v=1788227826",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/117-portrait-v5-ff1edcbcd271.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "96f26ac8698f6427",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          136,
+          15123,
+          424,
+          15411
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          170.288,
+          15155.75,
+          218.848,
+          221.704
+        ],
+        "outsideFaceWhiteFraction": 0.00696,
+        "largestWhiteRegion": 0.00638,
+        "sharpness": 1025.36,
+        "reviewed": true
+      }
+    },
+    "118": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/118",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/118/64e1d9.webp?v=1788808160",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/118-portrait-v5-860de4733e39.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "835f3f24bac291c5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          531,
+          14116,
+          832,
+          14417
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          566.675,
+          14151.05,
+          229.834,
+          231.592
+        ],
+        "outsideFaceWhiteFraction": 0.02472,
+        "largestWhiteRegion": 0.0076,
+        "sharpness": 2355.19,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/13/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/13-portrait-v5-bcdecd26324d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "ce4c4cfc2c316477",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          26,
+          8406,
+          282,
+          8662
+        ],
+        "sourceSize": [
+          800,
+          13780
+        ],
+        "detectedFace": [
+          88.818,
+          8461.67,
+          130.176,
+          144.629
+        ],
+        "outsideFaceWhiteFraction": 0.0011,
+        "largestWhiteRegion": 0.00058,
+        "sharpness": 2268.21,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/14/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/14-portrait-v5-d0a6402aae18.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "9780d2db85a857f8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          447,
+          4845,
+          703,
+          5101
+        ],
+        "sourceSize": [
+          800,
+          13500
+        ],
+        "detectedFace": [
+          489.062,
+          4874.805,
+          171.094,
+          196.484
+        ],
+        "outsideFaceWhiteFraction": 0.00171,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 5404.04,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/15/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/15-portrait-v5-4b2f60bd5ce8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "c1356fc0bd5b7c80",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          197,
+          5442,
+          568,
+          5813
+        ],
+        "sourceSize": [
+          800,
+          12215
+        ],
+        "detectedFace": [
+          264.355,
+          5485.254,
+          236.914,
+          285.352
+        ],
+        "outsideFaceWhiteFraction": 0.00055,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 1820.18,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/16/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/16-portrait-v5-f7c720995dc5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "856b76a8c1cb26c7",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          465,
+          3826,
+          721,
+          4082
+        ],
+        "sourceSize": [
+          800,
+          13037
+        ],
+        "detectedFace": [
+          522.656,
+          3856.152,
+          141.406,
+          195.117
+        ],
+        "outsideFaceWhiteFraction": 0.005,
+        "largestWhiteRegion": 0.00264,
+        "sharpness": 3686.96,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/17/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/17-portrait-v5-88e37895105c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "c7213cc7a18e7378",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          402,
+          1284,
+          730,
+          1612
+        ],
+        "sourceSize": [
+          800,
+          14685
+        ],
+        "detectedFace": [
+          456.836,
+          1322.07,
+          218.359,
+          251.953
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2681.65,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/18/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/18-portrait-v5-382a4edad54e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "91603ccbf38e734c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          493,
+          825,
+          800,
+          1132
+        ],
+        "sourceSize": [
+          800,
+          11755
+        ],
+        "detectedFace": [
+          546.289,
+          860.449,
+          202.734,
+          236.133
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2070.64,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/19/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/19-portrait-v5-35cb44b632fa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "d5255cc6916ed26c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          262,
+          9701,
+          534,
+          9973
+        ],
+        "sourceSize": [
+          800,
+          14535
+        ],
+        "detectedFace": [
+          308.887,
+          9732.227,
+          178.32,
+          208.984
+        ],
+        "outsideFaceWhiteFraction": 0.00264,
+        "largestWhiteRegion": 0.00114,
+        "sharpness": 2580.35,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/20/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/20-portrait-v5-075e6fef750c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "c52d6a736d883c9c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          402,
+          6877,
+          800,
+          7275
+        ],
+        "sourceSize": [
+          800,
+          14750
+        ],
+        "detectedFace": [
+          481.836,
+          6922.852,
+          298.828,
+          305.859
+        ],
+        "outsideFaceWhiteFraction": 0.00682,
+        "largestWhiteRegion": 0.00679,
+        "sharpness": 2542.79,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/21/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/21-portrait-v5-32b209fd2b00.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "c31a60daa7917acd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          403,
+          9097,
+          659,
+          9353
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          466.406,
+          9147.754,
+          129.688,
+          154.883
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2188.55,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/23/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/23-portrait-v5-fdadade35988.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "856c1ab36afe2592",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          346,
+          6914,
+          671,
+          7239
+        ],
+        "sourceSize": [
+          800,
+          14090
+        ],
+        "detectedFace": [
+          360.645,
+          6961.328,
+          249.805,
+          230.469
+        ],
+        "outsideFaceWhiteFraction": 0.03979,
+        "largestWhiteRegion": 0.01759,
+        "sharpness": 3120.25,
+        "reviewed": true
+      }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/24-portrait-v5-94f53498b542.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.876,
+        "faceHash": "93792e84e89275ad",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          284,
+          3416,
+          540,
+          3672
+        ],
+        "sourceSize": [
+          800,
+          13930
+        ],
+        "detectedFace": [
+          339.941,
+          3460.547,
+          143.555,
+          167.188
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3427.13,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/25/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/25-portrait-v5-10e47e1feb69.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "ad8562dad2a9742d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          139,
+          123,
+          419,
+          403
+        ],
+        "sourceSize": [
+          800,
+          14470
+        ],
+        "detectedFace": [
+          187.5,
+          155.078,
+          183.984,
+          215.625
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 4402.93,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/26-portrait-v5-e2870b3af708.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7988,
+        "faceHash": "ad817ec5806b6ab9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          296,
+          8917,
+          592,
+          9213
+        ],
+        "sourceSize": [
+          800,
+          14925
+        ],
+        "detectedFace": [
+          309.766,
+          8954.102,
+          227.344,
+          222.266
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 4180.42,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/27-portrait-v5-a0fdfe76312d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "93656a92bd936469",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          214,
+          2731,
+          595,
+          3112
+        ],
+        "sourceSize": [
+          800,
+          14410
+        ],
+        "detectedFace": [
+          271.191,
+          2774.805,
+          266.992,
+          293.359
+        ],
+        "outsideFaceWhiteFraction": 0.02768,
+        "largestWhiteRegion": 0.01605,
+        "sharpness": 1753.83,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/28/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/28-portrait-v5-8b8aea413e80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "803e23f517cc6f52",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          544,
+          7439,
+          800,
+          7695
+        ],
+        "sourceSize": [
+          800,
+          13300
+        ],
+        "detectedFace": [
+          626.562,
+          7494.922,
+          116.406,
+          143.359
+        ],
+        "outsideFaceWhiteFraction": 0.0006,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 1891.86,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/29/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/29-portrait-v5-f1595568ae1b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "f7222ed4f197300e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          510,
+          14281,
+          800,
+          14571
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          566.211,
+          14319.336,
+          223.047,
+          213.672
+        ],
+        "outsideFaceWhiteFraction": 0.01575,
+        "largestWhiteRegion": 0.01564,
+        "sharpness": 2031.63,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/30/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/30-portrait-v5-5f9d839147da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "87747a4b6b8e3294",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          7682,
+          256,
+          7938
+        ],
+        "sourceSize": [
+          800,
+          14724
+        ],
+        "detectedFace": [
+          1.074,
+          7730.078,
+          144.238,
+          159.375
+        ],
+        "outsideFaceWhiteFraction": 0.00017,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 3709.68,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/31/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/31-portrait-v5-555e92bfdd73.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "db9f4858cd4d2c34",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          496,
+          3506,
+          773,
+          3783
+        ],
+        "sourceSize": [
+          800,
+          14486
+        ],
+        "detectedFace": [
+          555.664,
+          3524.219,
+          192.578,
+          240.625
+        ],
+        "outsideFaceWhiteFraction": 0.01329,
+        "largestWhiteRegion": 0.00966,
+        "sharpness": 3967.29,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/32/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/32-portrait-v5-6ea1eb51234c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "86617a9398276dcb",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          285,
+          11802,
+          552,
+          12069
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          303.32,
+          11819.922,
+          195.703,
+          232.031
+        ],
+        "outsideFaceWhiteFraction": 0.01735,
+        "largestWhiteRegion": 0.00723,
+        "sharpness": 2409.4,
+        "reviewed": true
+      }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/33-portrait-v5-623b6d798397.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "8a6b14e498cfcf70",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          255,
+          1613,
+          553,
+          1911
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          302.637,
+          1647.07,
+          201.758,
+          229.297
+        ],
+        "outsideFaceWhiteFraction": 0.00583,
+        "largestWhiteRegion": 0.00331,
+        "sharpness": 1990.02,
+        "reviewed": true
+      }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/34/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/34-portrait-v5-59bfda66318b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "c12f7986f0491fe4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          269,
+          4647,
+          525,
+          4903
+        ],
+        "sourceSize": [
+          800,
+          13515
+        ],
+        "detectedFace": [
+          330.859,
+          4702.344,
+          133.203,
+          144.531
+        ],
+        "outsideFaceWhiteFraction": 0.00188,
+        "largestWhiteRegion": 0.00069,
+        "sharpness": 2796.36,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/35/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/35-portrait-v5-e339f7da3651.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "c03e6f93c4497b8c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          482,
+          5074,
+          774,
+          5366
+        ],
+        "sourceSize": [
+          800,
+          14144
+        ],
+        "detectedFace": [
+          524.805,
+          5107.129,
+          205.859,
+          224.805
+        ],
+        "outsideFaceWhiteFraction": 0.01305,
+        "largestWhiteRegion": 0.00333,
+        "sharpness": 6380.87,
+        "reviewed": true
+      }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/36/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/36-portrait-v5-9a135eed0a5b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "d8606f9592c839e7",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          57,
+          2602,
+          377,
+          2922
+        ],
+        "sourceSize": [
+          800,
+          14965
+        ],
+        "detectedFace": [
+          105.078,
+          2638.574,
+          224.609,
+          245.898
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 1578.88,
+        "reviewed": true
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/111/3c8f05.webp?v=1784565929",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/111-portrait-v5-770a0994f548.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "cfcf4bd27530242c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          337,
+          2449,
+          593,
+          2705
+        ],
+        "sourceSize": [
+          900,
+          3513
+        ],
+        "detectedFace": [
+          395.178,
+          2496.313,
+          139.526,
+          162.158
+        ],
+        "outsideFaceWhiteFraction": 0.01172,
+        "largestWhiteRegion": 0.00716,
+        "sharpness": 4268.0,
+        "reviewed": true
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/112/f4794c.webp?v=1785170356",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/112-portrait-v5-2b62c308a230.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "cfcb4bd2e5302c2c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          270,
+          14171,
+          541,
+          14442
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          314.099,
+          14201.752,
+          183.472,
+          208.63
+        ],
+        "outsideFaceWhiteFraction": 0.04276,
+        "largestWhiteRegion": 0.01627,
+        "sharpness": 3689.87,
+        "reviewed": true
+      }
+    },
+    "113": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/113",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/113/101733.webp?v=1785781590",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/113-portrait-v5-426848d7739d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8584,
+        "faceHash": "aa1a969cf369634c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          3,
+          4264,
+          330,
+          4591
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          54.437,
+          4302.246,
+          223.572,
+          251.367
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1335.22,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/114/1d523a.webp?v=1786453415",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/114-portrait-v5-3e34b3fbf9db.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "b50a688fa1bc67b2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          288,
+          1098,
+          544,
+          1354
+        ],
+        "sourceSize": [
+          900,
+          3402
+        ],
+        "detectedFace": [
+          338.818,
+          1144.556,
+          154.688,
+          162.158
+        ],
+        "outsideFaceWhiteFraction": 0.01022,
+        "largestWhiteRegion": 0.0041,
+        "sharpness": 2956.74,
+        "reviewed": true
+      }
+    },
+    "119": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/119",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/119/c60eed.webp?v=1789439410",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/119-portrait-v5-f2c745d7c362.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "89567fa1709b558a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          269,
+          13284,
+          551,
+          13566
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          314.099,
+          13302.686,
+          232.69,
+          245.215
+        ],
+        "outsideFaceWhiteFraction": 0.0238,
+        "largestWhiteRegion": 0.00967,
+        "sharpness": 2693.27,
+        "reviewed": true
+      }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/120/fea447.webp?v=1790020715",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/120-portrait-v5-c507aa3fb529.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "d30c6ad6a599339c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          243,
+          1654,
+          663,
+          2074
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          294.543,
+          1702.661,
+          316.187,
+          322.998
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 2152.19,
+        "reviewed": true
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/121/c7b998.webp?v=1790620428",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/121-portrait-v5-ac9dc207fb95.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "80653f543dcb6a4b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          30,
+          3870,
+          358,
+          4198
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          67.236,
+          3912.891,
+          252.686,
+          241.699
+        ],
+        "outsideFaceWhiteFraction": 0.00012,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 2066.46,
+        "reviewed": true
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/123/6009f6.webp?v=1791906338",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/123-portrait-v5-f798b5a573d9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "f10e60fa7781b0dc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          39,
+          5787,
+          302,
+          6050
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          39.99,
+          5804.077,
+          221.265,
+          228.955
+        ],
+        "outsideFaceWhiteFraction": 0.0276,
+        "largestWhiteRegion": 0.01498,
+        "sharpness": 1845.14,
+        "reviewed": true
+      }
+    },
+    "124": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/124",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/124/547dab.webp?v=1792454509",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/124-portrait-v5-632a04d7a8fc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "ad5a3da029d66e91",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          5,
+          15511,
+          322,
+          15828
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          41.199,
+          15548.132,
+          243.896,
+          243.677
+        ],
+        "outsideFaceWhiteFraction": 0.01895,
+        "largestWhiteRegion": 0.0127,
+        "sharpness": 2597.14,
+        "reviewed": true
+      }
+    },
+    "125": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/125",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/125/4201ca.webp?v=1793110072",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/125-portrait-v5-664d0d40cb70.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8145,
+        "faceHash": "80747bc0fdd64659",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          22,
+          11200,
+          482,
+          11660
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          51.746,
+          11230.005,
+          400.122,
+          400.342
+        ],
+        "outsideFaceWhiteFraction": 0.00961,
+        "largestWhiteRegion": 0.0085,
+        "sharpness": 2200.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/37/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/37-portrait-v5-bddaf77249e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8823,
+        "faceHash": "c3681ec7f8c3711c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          459,
+          8333,
+          715,
+          8589
+        ],
+        "sourceSize": [
+          800,
+          13640
+        ],
+        "detectedFace": [
+          510.547,
+          8372.852,
+          153.125,
+          176.172
+        ],
+        "outsideFaceWhiteFraction": 5e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2414.98,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/38-portrait-v5-68504df3e8e7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "8b6a78c63599331d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          228,
+          2961,
+          484,
+          3217
+        ],
+        "sourceSize": [
+          800,
+          12221
+        ],
+        "detectedFace": [
+          285.547,
+          2998.633,
+          173.047,
+          181.641
+        ],
+        "outsideFaceWhiteFraction": 0.00145,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 2696.75,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/39/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/39-portrait-v5-f1032260b272.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "a55a25c8e1d87b59",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          283,
+          646,
+          599,
+          962
+        ],
+        "sourceSize": [
+          800,
+          14235
+        ],
+        "detectedFace": [
+          326.758,
+          681.934,
+          229.297,
+          243.164
+        ],
+        "outsideFaceWhiteFraction": 0.0078,
+        "largestWhiteRegion": 0.00366,
+        "sharpness": 1735.62,
+        "reviewed": true
+      }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/40/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/40-portrait-v5-275c45c0e8fe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "8d4978bbb1c8674c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          523,
+          10956,
+          800,
+          11233
+        ],
+        "sourceSize": [
+          800,
+          14675
+        ],
+        "detectedFace": [
+          620.898,
+          10988.281,
+          177.734,
+          213.281
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 0.00018,
+        "sharpness": 1260.32,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/42/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/42-portrait-v5-cb1647562892.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "80697aa45f855f72",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          9246,
+          386,
+          9632
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          15.625,
+          9290.137,
+          269.141,
+          297.07
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 2020.42,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/43/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/43-portrait-v5-f0a37d972552.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "9e633ce589c81e36",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          225,
+          9049,
+          487,
+          9311
+        ],
+        "sourceSize": [
+          800,
+          14455
+        ],
+        "detectedFace": [
+          276.465,
+          9079.883,
+          158.789,
+          201.172
+        ],
+        "outsideFaceWhiteFraction": 0.00029,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 1834.9,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/44/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/44-portrait-v5-c134f8909754.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8848,
+        "faceHash": "ce4c2ca3d95a2eb4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          510,
+          4242,
+          766,
+          4498
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          569.922,
+          4272.021,
+          164.844,
+          195.996
+        ],
+        "outsideFaceWhiteFraction": 0.02692,
+        "largestWhiteRegion": 0.01602,
+        "sharpness": 4645.62,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/45/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/45-portrait-v5-62c684a15235.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "c7303cc7e18f3968",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          271,
+          3046,
+          607,
+          3382
+        ],
+        "sourceSize": [
+          800,
+          13001
+        ],
+        "detectedFace": [
+          329.297,
+          3084.473,
+          218.75,
+          258.789
+        ],
+        "outsideFaceWhiteFraction": 0.00722,
+        "largestWhiteRegion": 0.00194,
+        "sharpness": 2207.74,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/46/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/46-portrait-v5-70c83cbda7da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.875,
+        "faceHash": "e0573df0f4c340f8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          192,
+          7205,
+          448,
+          7461
+        ],
+        "sourceSize": [
+          800,
+          14295
+        ],
+        "detectedFace": [
+          233.594,
+          7243.896,
+          172.656,
+          178.223
+        ],
+        "outsideFaceWhiteFraction": 0.01744,
+        "largestWhiteRegion": 0.00894,
+        "sharpness": 7681.35,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/47/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/47-portrait-v5-8bbfcf60e6e1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "c23d2bb0d583a66e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          325,
+          2186,
+          663,
+          2524
+        ],
+        "sourceSize": [
+          800,
+          13570
+        ],
+        "detectedFace": [
+          357.812,
+          2224.609,
+          231.25,
+          260.156
+        ],
+        "outsideFaceWhiteFraction": 0.01633,
+        "largestWhiteRegion": 0.01556,
+        "sharpness": 2407.04,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/48/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/48-portrait-v5-c8552bb5cc14.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "d5207bf209fe21cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          436,
+          13451,
+          778,
+          13793
+        ],
+        "sourceSize": [
+          800,
+          14070
+        ],
+        "detectedFace": [
+          475.195,
+          13490.312,
+          262.891,
+          263.281
+        ],
+        "outsideFaceWhiteFraction": 0.02217,
+        "largestWhiteRegion": 0.01274,
+        "sharpness": 1856.34,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/49/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/49-portrait-v5-f57b627fab24.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "fc096cffc4112669",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          226,
+          7038,
+          564,
+          7376
+        ],
+        "sourceSize": [
+          800,
+          13814
+        ],
+        "detectedFace": [
+          281.152,
+          7077.148,
+          226.758,
+          259.766
+        ],
+        "outsideFaceWhiteFraction": 0.01768,
+        "largestWhiteRegion": 0.0114,
+        "sharpness": 2491.74,
+        "reviewed": true
+      }
+    },
+    "50": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/50",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/50/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/50-portrait-v5-6eb760c59511.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "c33c6fd2f0093669",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          290,
+          11130,
+          546,
+          11386
+        ],
+        "sourceSize": [
+          800,
+          14840
+        ],
+        "detectedFace": [
+          341.992,
+          11167.383,
+          151.953,
+          180.859
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3629.78,
+        "reviewed": true
+      }
+    },
+    "52": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/52",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/52/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/52-portrait-v5-8a71fb91e777.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "8a757d8e259a641d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          331,
+          8435,
+          600,
+          8704
+        ],
+        "sourceSize": [
+          800,
+          12956
+        ],
+        "detectedFace": [
+          361.621,
+          8467.188,
+          207.227,
+          204.102
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 374.3,
+        "reviewed": true
+      }
+    },
+    "53": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/53",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/53/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/53-portrait-v5-c8d205ae69e8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "c07c3b82f5ad7318",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          250,
+          6444,
+          533,
+          6727
+        ],
+        "sourceSize": [
+          800,
+          9145
+        ],
+        "detectedFace": [
+          296.777,
+          6476.758,
+          188.477,
+          217.578
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2406.82,
+        "reviewed": true
+      }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/55/008.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/55-portrait-v5-747e0eb2c328.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8735,
+        "faceHash": "d0716ec4e0d9e7c8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          501,
+          12965,
+          774,
+          13238
+        ],
+        "sourceSize": [
+          800,
+          14220
+        ],
+        "detectedFace": [
+          536.133,
+          12982.715,
+          201.953,
+          237.695
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1607.58,
+        "reviewed": true
+      }
+    },
+    "56": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/56",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/56/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/56-portrait-v5-f3133d297231.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "c4331bc6b966135d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          293,
+          4360,
+          549,
+          4616
+        ],
+        "sourceSize": [
+          800,
+          13860
+        ],
+        "detectedFace": [
+          334.375,
+          4393.164,
+          172.656,
+          189.453
+        ],
+        "outsideFaceWhiteFraction": 0.01509,
+        "largestWhiteRegion": 0.00916,
+        "sharpness": 5663.54,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/57/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/57-portrait-v5-f59e94d1ad5a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "97407a86619ae67b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          61,
+          1353,
+          317,
+          1609
+        ],
+        "sourceSize": [
+          800,
+          14110
+        ],
+        "detectedFace": [
+          112.256,
+          1394.971,
+          154.199,
+          172.559
+        ],
+        "outsideFaceWhiteFraction": 0.00108,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 3832.61,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/59/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/59-portrait-v5-3230af0a03cc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "807e1e03e16b2bf9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          254,
+          13194,
+          555,
+          13495
+        ],
+        "sourceSize": [
+          800,
+          14390
+        ],
+        "detectedFace": [
+          307.52,
+          13228.906,
+          194.336,
+          231.25
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1033.58,
+        "reviewed": true
+      }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/60/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/60-portrait-v5-cb9c46b5cfc8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "dca8f2c5d0ccb1b2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          232,
+          12394,
+          599,
+          12761
+        ],
+        "sourceSize": [
+          800,
+          14056
+        ],
+        "detectedFace": [
+          284.863,
+          12436.133,
+          260.742,
+          282.422
+        ],
+        "outsideFaceWhiteFraction": 0.00018,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 1569.54,
+        "reviewed": true
+      }
+    },
+    "61": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/61",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/61/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/61-portrait-v5-0c1f6637c813.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "c3186cb781523e3f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          39,
+          11758,
+          329,
+          12048
+        ],
+        "sourceSize": [
+          800,
+          13480
+        ],
+        "detectedFace": [
+          82.812,
+          11791.309,
+          203.125,
+          222.852
+        ],
+        "outsideFaceWhiteFraction": 0.00017,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1275.23,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/63/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/63-portrait-v5-166b6501c0d0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "da2469b5eb92ba14",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          58,
+          8231,
+          454,
+          8627
+        ],
+        "sourceSize": [
+          800,
+          13510
+        ],
+        "detectedFace": [
+          119.043,
+          8276.172,
+          273.633,
+          304.688
+        ],
+        "outsideFaceWhiteFraction": 0.00128,
+        "largestWhiteRegion": 0.00082,
+        "sharpness": 2723.29,
+        "reviewed": true
+      }
+    },
+    "65": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/65",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/65/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/65-portrait-v5-c55445b561b6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "d037450e6d793335",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          284,
+          9240,
+          540,
+          9496
+        ],
+        "sourceSize": [
+          800,
+          14430
+        ],
+        "detectedFace": [
+          340.527,
+          9281.25,
+          142.383,
+          173.047
+        ],
+        "outsideFaceWhiteFraction": 0.00111,
+        "largestWhiteRegion": 0.00076,
+        "sharpness": 1299.12,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/66/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/66-portrait-v5-d954f4cd47f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "c7307ac2fd8f6058",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          487,
+          13374,
+          743,
+          13630
+        ],
+        "sourceSize": [
+          800,
+          13850
+        ],
+        "detectedFace": [
+          542.578,
+          13416.992,
+          144.531,
+          170.703
+        ],
+        "outsideFaceWhiteFraction": 0.00037,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 1935.38,
+        "reviewed": true
+      }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/68/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/68-portrait-v5-10c2c7b4a994.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "af5225fd03916e91",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          519,
+          11187,
+          775,
+          11443
+        ],
+        "sourceSize": [
+          800,
+          14486
+        ],
+        "detectedFace": [
+          567.773,
+          11222.461,
+          193.359,
+          185.547
+        ],
+        "outsideFaceWhiteFraction": 0.02649,
+        "largestWhiteRegion": 0.0089,
+        "sharpness": 3654.92,
+        "reviewed": true
+      }
+    },
+    "69": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/69",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/69/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/69-portrait-v5-ec654e3acc83.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "ea157caad45ca2cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          13,
+          14234,
+          321,
+          14542
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          70.703,
+          14269.727,
+          192.773,
+          237.109
+        ],
+        "outsideFaceWhiteFraction": 0.00034,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2049.73,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/70/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/70-portrait-v5-cc28acd345ef.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "877469c0b7977429",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          19,
+          12062,
+          275,
+          12318
+        ],
+        "sourceSize": [
+          800,
+          14985
+        ],
+        "detectedFace": [
+          73.047,
+          12105.615,
+          148.438,
+          168.457
+        ],
+        "outsideFaceWhiteFraction": 0.00499,
+        "largestWhiteRegion": 0.00479,
+        "sharpness": 2353.7,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/71/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/71-portrait-v5-fa69b5768ae3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "9b5a31a356ac3c4d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          120,
+          9713,
+          460,
+          10053
+        ],
+        "sourceSize": [
+          800,
+          14335
+        ],
+        "detectedFace": [
+          155.762,
+          9734.766,
+          269.336,
+          295.703
+        ],
+        "outsideFaceWhiteFraction": 0.00842,
+        "largestWhiteRegion": 0.00835,
+        "sharpness": 1836.5,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/1/002.webp?v=1782420718",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/1-portrait-v5-04bb890e5757.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8389,
+        "faceHash": "b14ceab592b46ba4",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          249,
+          8616,
+          568,
+          8935
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          313.086,
+          8653.027,
+          191.797,
+          245.508
+        ],
+        "outsideFaceWhiteFraction": 0.00014,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1938.67,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/2/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/2-portrait-v5-5bd4aafd4621.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7983,
+        "faceHash": "81fb3e86c9c261f8",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          544,
+          5526,
+          800,
+          5782
+        ],
+        "sourceSize": [
+          800,
+          14775
+        ],
+        "detectedFace": [
+          618.945,
+          5591.309,
+          153.516,
+          125.586
+        ],
+        "outsideFaceWhiteFraction": 0.0173,
+        "largestWhiteRegion": 0.00862,
+        "sharpness": 1799.43,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/10/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/10-portrait-v5-4ac3287ddf80.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8481,
+        "faceHash": "d5c056c3d2f53866",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          276,
+          6025,
+          545,
+          6294
+        ],
+        "sourceSize": [
+          800,
+          14820
+        ],
+        "detectedFace": [
+          329.395,
+          6056.25,
+          162.305,
+          207.227
+        ],
+        "outsideFaceWhiteFraction": 0.00035,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 2677.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/22-portrait-v5-5082675001b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.792,
+        "faceHash": "95265e956bc272d2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          172,
+          1767,
+          699,
+          2294
+        ],
+        "sourceSize": [
+          800,
+          10870
+        ],
+        "detectedFace": [
+          246.777,
+          1827.734,
+          378.32,
+          405.078
+        ],
+        "outsideFaceWhiteFraction": 0.00201,
+        "largestWhiteRegion": 0.0009,
+        "sharpness": 3394.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/41/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/41-portrait-v5-ab3ffc296d73.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7485,
+        "faceHash": "83687fc8b953b10e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          64,
+          701,
+          765
+        ],
+        "sourceSize": [
+          800,
+          14135
+        ],
+        "detectedFace": [
+          2.734,
+          109.18,
+          494.141,
+          609.766
+        ],
+        "outsideFaceWhiteFraction": 0.02322,
+        "largestWhiteRegion": 0.01485,
+        "sharpness": 3461.4,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "51": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/51",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/51/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/51-portrait-v5-bc62e13db36e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8433,
+        "faceHash": "8a5471ba95cba279",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          2213,
+          339,
+          2552
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          29.883,
+          2234.766,
+          278.906,
+          294.531
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1106.86,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "54": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/54",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/54/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/54-portrait-v5-de06d9a63e4a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8325,
+        "faceHash": "97617bc6e09525aa",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          94,
+          672,
+          366,
+          944
+        ],
+        "sourceSize": [
+          800,
+          10805
+        ],
+        "detectedFace": [
+          111.23,
+          704.297,
+          236.914,
+          207.812
+        ],
+        "outsideFaceWhiteFraction": 0.02205,
+        "largestWhiteRegion": 0.00838,
+        "sharpness": 2642.66,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "58": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/58",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/58/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/58-portrait-v5-6cfb624f93e5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8662,
+        "faceHash": "d3606ec7a992714e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          254,
+          10576,
+          556,
+          10878
+        ],
+        "sourceSize": [
+          800,
+          14060
+        ],
+        "detectedFace": [
+          310.645,
+          10610.938,
+          189.648,
+          232.031
+        ],
+        "outsideFaceWhiteFraction": 0.00108,
+        "largestWhiteRegion": 0.00035,
+        "sharpness": 2433.04,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "62": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/62",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/62/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/62-portrait-v5-755cb3685844.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7837,
+        "faceHash": "c48f4f79e9961960",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          403,
+          7277,
+          800,
+          7674
+        ],
+        "sourceSize": [
+          800,
+          13745
+        ],
+        "detectedFace": [
+          455.273,
+          7303.125,
+          298.828,
+          345.312
+        ],
+        "outsideFaceWhiteFraction": 0.00127,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 1760.12,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "64": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/64",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/64/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/64-portrait-v5-f09bbed18225.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8384,
+        "faceHash": "f4f891c3a0ec313d",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          507,
+          10875,
+          767,
+          11135
+        ],
+        "sourceSize": [
+          800,
+          14365
+        ],
+        "detectedFace": [
+          547.656,
+          10905.371,
+          178.125,
+          199.805
+        ],
+        "outsideFaceWhiteFraction": 0.00089,
+        "largestWhiteRegion": 0.00021,
+        "sharpness": 1647.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "104": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/104",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/104/b2b754.webp?v=1780333148",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/104-portrait-v5-f5cd12e6d133.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8179,
+        "faceHash": "af527c81ea9f6091",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          48,
+          13589,
+          458,
+          13999
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          106.787,
+          13622.168,
+          356.396,
+          343.652
+        ],
+        "outsideFaceWhiteFraction": 0.0049,
+        "largestWhiteRegion": 0.00302,
+        "sharpness": 2260.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "105": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/105",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/105/b245fe.webp?v=1780940145",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/105-portrait-v5-ac892c68e1d9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8545,
+        "faceHash": "8f5239ca72966d98",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          490,
+          8634,
+          831,
+          8975
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          545.142,
+          8656.567,
+          280.811,
+          296.631
+        ],
+        "outsideFaceWhiteFraction": 0.0112,
+        "largestWhiteRegion": 0.01036,
+        "sharpness": 2130.38,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "106": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/106",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/106/994203.webp?v=1781544796",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/106-portrait-v5-e9cdbaa6a2a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8462,
+        "faceHash": "ce217ffa0486305f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          262,
+          6150,
+          685,
+          6573
+        ],
+        "sourceSize": [
+          900,
+          14105
+        ],
+        "detectedFace": [
+          336.292,
+          6198.706,
+          273.999,
+          325.635
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 1600.21,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "107": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/107",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/107/11185e.webp?v=1782144146",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/107-portrait-v5-83de53fe3b67.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8301,
+        "faceHash": "81542bbf40a97abd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          186,
+          2269,
+          711,
+          2794
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          276.416,
+          2303.174,
+          419.238,
+          456.152
+        ],
+        "outsideFaceWhiteFraction": 0.01085,
+        "largestWhiteRegion": 0.00697,
+        "sharpness": 2667.29,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "108": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/108",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/108/6991c2.webp?v=1782753497",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/108-portrait-v5-7382ed375bda.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8545,
+        "faceHash": "d7206ad7e08a47d9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          314,
+          5637,
+          655,
+          5978
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          349.915,
+          5659.717,
+          268.726,
+          296.191
+        ],
+        "outsideFaceWhiteFraction": 0.03572,
+        "largestWhiteRegion": 0.01588,
+        "sharpness": 3356.03,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "109": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/109",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/109/90c7ad.webp?v=1783386887",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/109-portrait-v5-4625eef8483a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8643,
+        "faceHash": "df2e4130dcd49a27",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          291,
+          15475,
+          565,
+          15749
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          324.207,
+          15493.311,
+          208.081,
+          238.184
+        ],
+        "outsideFaceWhiteFraction": 0.01361,
+        "largestWhiteRegion": 0.01321,
+        "sharpness": 2220.02,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/110/17c544.webp?v=1783964516",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/110-portrait-v5-e26910f42916.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8584,
+        "faceHash": "835d3ba0b2cfe509",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          28,
+          6155,
+          365,
+          6492
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          71.851,
+          6193.323,
+          250.269,
+          259.497
+        ],
+        "outsideFaceWhiteFraction": 0.02367,
+        "largestWhiteRegion": 0.01138,
+        "sharpness": 2409.19,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/115/4ff57b.webp?v=1786983409",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/115-portrait-v5-42637f86efbd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8164,
+        "faceHash": "e061789abc291bcf",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          644,
+          15696,
+          900,
+          15952
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          711.475,
+          15744.897,
+          130.078,
+          158.643
+        ],
+        "outsideFaceWhiteFraction": 0.00063,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 3169.68,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/122/c68336.webp?v=1791665604",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/122-portrait-v5-d4bad1fc3f12.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7563,
+        "faceHash": "95426bc58daad2d3",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          126,
+          231,
+          461,
+          566
+        ],
+        "sourceSize": [
+          1532,
+          1024
+        ],
+        "detectedFace": [
+          201.225,
+          269.577,
+          225.162,
+          257.515
+        ],
+        "outsideFaceWhiteFraction": 0.02347,
+        "largestWhiteRegion": 0.01219,
+        "sharpness": 1991.91,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "126": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/126",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/126/6cd1aa.webp?v=1793633311",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/126-portrait-v5-9654a1f037f4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "cad23fd0a8c6681f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          338,
+          4625,
+          667,
+          4954
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          405.066,
+          4662.598,
+          194.458,
+          253.125
+        ],
+        "outsideFaceWhiteFraction": 0.00052,
+        "largestWhiteRegion": 0.00037,
+        "sharpness": 1620.77,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "67": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/67",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/67/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/67-portrait-v5-72045d279eac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7734,
+        "faceHash": "ce466bc6ae5134d2",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          12783,
+          569,
+          13352
+        ],
+        "sourceSize": [
+          800,
+          13617
+        ],
+        "detectedFace": [
+          41.309,
+          12848.438,
+          330.664,
+          437.5
+        ],
+        "outsideFaceWhiteFraction": 0.00119,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 3738.37,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "72": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/72",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/72/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/72-portrait-v5-9ff2f7b055cd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7764,
+        "faceHash": "c7423cc01fbe903f",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          395,
+          13017,
+          651,
+          13273
+        ],
+        "sourceSize": [
+          800,
+          14040
+        ],
+        "detectedFace": [
+          440.625,
+          13057.031,
+          164.844,
+          175.781
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1476.97,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/73/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/73-portrait-v5-4904fd13256a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8726,
+        "faceHash": "d5277ad509522d2e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          402,
+          2241,
+          658,
+          2497
+        ],
+        "sourceSize": [
+          800,
+          13695
+        ],
+        "detectedFace": [
+          456.25,
+          2282.422,
+          146.875,
+          173.438
+        ],
+        "outsideFaceWhiteFraction": 0.01929,
+        "largestWhiteRegion": 0.00778,
+        "sharpness": 2797.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/74/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/74-portrait-v5-e16ba29f762c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7661,
+        "faceHash": "844e6e8c1d729db6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          181,
+          1602,
+          617,
+          2038
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          209.277,
+          1671.289,
+          379.492,
+          298.047
+        ],
+        "outsideFaceWhiteFraction": 0.00102,
+        "largestWhiteRegion": 0.00098,
+        "sharpness": 1391.27,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "75": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/75",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/75/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/75-portrait-v5-a892a23075df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8477,
+        "faceHash": "d3217ec0add370ac",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          211,
+          4601,
+          584,
+          4974
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          271.387,
+          4643.945,
+          252.148,
+          287.109
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 1872.32,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "76": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/76",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/76/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/76-portrait-v5-b3aa20e590b8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8052,
+        "faceHash": "9d6a30fc0f4832bd",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          296,
+          11850,
+          749,
+          12303
+        ],
+        "sourceSize": [
+          800,
+          12475
+        ],
+        "detectedFace": [
+          364.355,
+          11901.953,
+          316.602,
+          348.438
+        ],
+        "outsideFaceWhiteFraction": 0.02853,
+        "largestWhiteRegion": 0.0092,
+        "sharpness": 3270.81,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/77/9898f4.webp?v=1789863633",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/77-portrait-v5-712631552f35.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8228,
+        "faceHash": "d5991a7be1942966",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          126,
+          4280,
+          382,
+          4536
+        ],
+        "sourceSize": [
+          800,
+          12585
+        ],
+        "detectedFace": [
+          178.223,
+          4326.807,
+          150.977,
+          161.621
+        ],
+        "outsideFaceWhiteFraction": 0.00078,
+        "largestWhiteRegion": 0.00076,
+        "sharpness": 3186.05,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "78": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/78",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/78/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/78-portrait-v5-c7c4cbd0eb1a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7515,
+        "faceHash": "d06c936cd361e46b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          364,
+          2381,
+          800,
+          2817
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          428.32,
+          2490.234,
+          335.547,
+          218.359
+        ],
+        "outsideFaceWhiteFraction": 0.03117,
+        "largestWhiteRegion": 0.01573,
+        "sharpness": 4256.14,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/79/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/79-portrait-v5-182e049f27ea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7876,
+        "faceHash": "c4207fd3a0ce766c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          164,
+          10229,
+          800,
+          10865
+        ],
+        "sourceSize": [
+          800,
+          14625
+        ],
+        "detectedFace": [
+          238.281,
+          10302.344,
+          487.5,
+          489.062
+        ],
+        "outsideFaceWhiteFraction": 0.00598,
+        "largestWhiteRegion": 0.00591,
+        "sharpness": 1384.06,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/80/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/80-portrait-v5-358c2489913b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8013,
+        "faceHash": "d8fa7aa021cdf60c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          307,
+          4371,
+          800,
+          4864
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          432.031,
+          4427.637,
+          367.969,
+          379.102
+        ],
+        "outsideFaceWhiteFraction": 0.0005,
+        "largestWhiteRegion": 0.00046,
+        "sharpness": 1612.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/81/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/81-portrait-v5-4b329aaa0e86.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8223,
+        "faceHash": "d12e6bbca39039cc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          73,
+          9581,
+          538,
+          10046
+        ],
+        "sourceSize": [
+          800,
+          12980
+        ],
+        "detectedFace": [
+          152.246,
+          9634.961,
+          306.836,
+          357.812
+        ],
+        "outsideFaceWhiteFraction": 0.00703,
+        "largestWhiteRegion": 0.00548,
+        "sharpness": 1845.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/82/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/82-portrait-v5-33483f3640df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8599,
+        "faceHash": "eb123dc11e937499",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          14172,
+          388,
+          14560
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          35.547,
+          14216.406,
+          266.016,
+          298.633
+        ],
+        "outsideFaceWhiteFraction": 0.01219,
+        "largestWhiteRegion": 0.01205,
+        "sharpness": 2605.53,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/83/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/83-portrait-v5-fd792818527b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8481,
+        "faceHash": "c4303ba5f4ce235b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          544,
+          8154,
+          800,
+          8410
+        ],
+        "sourceSize": [
+          800,
+          14605
+        ],
+        "detectedFace": [
+          592.578,
+          8178.906,
+          157.812,
+          207.031
+        ],
+        "outsideFaceWhiteFraction": 0.01994,
+        "largestWhiteRegion": 0.01747,
+        "sharpness": 2556.72,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "84": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/84",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/84/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/84-portrait-v5-8ab592d46e47.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8159,
+        "faceHash": "8b6a36f4978d2d22",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          5,
+          5516,
+          365,
+          5876
+        ],
+        "sourceSize": [
+          800,
+          14535
+        ],
+        "detectedFace": [
+          46.484,
+          5539.746,
+          276.367,
+          313.086
+        ],
+        "outsideFaceWhiteFraction": 0.01054,
+        "largestWhiteRegion": 0.00807,
+        "sharpness": 1957.52,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "85": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/85",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/85/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/85-portrait-v5-2f0feba62f90.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8652,
+        "faceHash": "96563ee0ba674a89",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          513,
+          814,
+          771,
+          1072
+        ],
+        "sourceSize": [
+          800,
+          14205
+        ],
+        "detectedFace": [
+          525.0,
+          830.762,
+          197.656,
+          224.414
+        ],
+        "outsideFaceWhiteFraction": 0.0143,
+        "largestWhiteRegion": 0.01279,
+        "sharpness": 1593.16,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "86": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/86",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/86/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/86-portrait-v5-232aa089fcf9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8579,
+        "faceHash": "c14b6b97f01e343c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          228,
+          7369,
+          592,
+          7733
+        ],
+        "sourceSize": [
+          800,
+          14610
+        ],
+        "detectedFace": [
+          302.539,
+          7411.328,
+          215.234,
+          279.688
+        ],
+        "outsideFaceWhiteFraction": 0.00229,
+        "largestWhiteRegion": 0.00182,
+        "sharpness": 1497.92,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "87": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/87",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/87/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/87-portrait-v5-69e7c13b50ce.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "aacc1f9c1cb1e661",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          6,
+          2500,
+          300,
+          2794
+        ],
+        "sourceSize": [
+          800,
+          15285
+        ],
+        "detectedFace": [
+          74.023,
+          2519.824,
+          192.188,
+          255.273
+        ],
+        "outsideFaceWhiteFraction": 0.01767,
+        "largestWhiteRegion": 0.01474,
+        "sharpness": 1619.56,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "88": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/88",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/88/002.webp?v=1771125572",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/88-portrait-v5-70fefd2c4084.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "aa5235cbb68e603b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          446,
+          9933,
+          800,
+          10287
+        ],
+        "sourceSize": [
+          800,
+          14070
+        ],
+        "detectedFace": [
+          489.453,
+          9975.098,
+          272.656,
+          269.336
+        ],
+        "outsideFaceWhiteFraction": 0.00186,
+        "largestWhiteRegion": 0.00168,
+        "sharpness": 1849.13,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "89": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/89",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/89/002.webp?v=1771603562",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/89-portrait-v5-96015e17e31c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8501,
+        "faceHash": "ee0e69f0bd03226e",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          9958,
+          291,
+          10249
+        ],
+        "sourceSize": [
+          800,
+          12486
+        ],
+        "detectedFace": [
+          7.617,
+          9994.824,
+          252.93,
+          218.164
+        ],
+        "outsideFaceWhiteFraction": 0.00778,
+        "largestWhiteRegion": 0.00407,
+        "sharpness": 3730.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "90": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/90",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/90/002.webp?v=1772137336",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/90-portrait-v5-0335e5b31d73.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8291,
+        "faceHash": "c50a5fc0fc2f60dc",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          172,
+          8026,
+          609,
+          8463
+        ],
+        "sourceSize": [
+          800,
+          13570
+        ],
+        "detectedFace": [
+          279.004,
+          8076.855,
+          271.68,
+          336.133
+        ],
+        "outsideFaceWhiteFraction": 0.03514,
+        "largestWhiteRegion": 0.01633,
+        "sharpness": 2878.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "91": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/91",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/91/002.webp?v=1772780602",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/91-portrait-v5-192236016835.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8159,
+        "faceHash": "fd2d03240db3d366",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          513,
+          8467,
+          800,
+          8754
+        ],
+        "sourceSize": [
+          800,
+          14028
+        ],
+        "detectedFace": [
+          596.484,
+          8500.098,
+          136.719,
+          220.898
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 671.54,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "92": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/92",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/38d433f0/92/002.webp?v=1773525619",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/92-portrait-v5-7df3bb28e408.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7866,
+        "faceHash": "85a504d4f5df2b0b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          139,
+          3156,
+          720,
+          3737
+        ],
+        "sourceSize": [
+          800,
+          12081
+        ],
+        "detectedFace": [
+          248.535,
+          3222.656,
+          361.523,
+          446.875
+        ],
+        "outsideFaceWhiteFraction": 0.00342,
+        "largestWhiteRegion": 0.00206,
+        "sharpness": 1343.51,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "93": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/93",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dfbd57a4/93/002.webp?v=1773960321",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/93-portrait-v5-51db9b78dce9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8682,
+        "faceHash": "c5d002dff4386e8b",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          63,
+          4558,
+          319,
+          4814
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          115.234,
+          4600.781,
+          151.367,
+          171.094
+        ],
+        "outsideFaceWhiteFraction": 0.00383,
+        "largestWhiteRegion": 0.00374,
+        "sharpness": 1859.89,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "94": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/94",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/94/9a7671.webp?v=1775431106",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/94-portrait-v5-d6e4f001cd15.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8486,
+        "faceHash": "833e7987a9823f91",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          53,
+          10071,
+          384,
+          10402
+        ],
+        "sourceSize": [
+          800,
+          12906
+        ],
+        "detectedFace": [
+          106.445,
+          10109.18,
+          225.0,
+          254.297
+        ],
+        "outsideFaceWhiteFraction": 0.01074,
+        "largestWhiteRegion": 0.00969,
+        "sharpness": 2823.8,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "95": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/95",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/95/68079f.webp?v=1775436376",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/95-portrait-v5-82b4ef809689.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8169,
+        "faceHash": "a57986518e364bb6",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          197,
+          4054,
+          582,
+          4439
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          241.699,
+          4142.773,
+          296.289,
+          207.422
+        ],
+        "outsideFaceWhiteFraction": 0.00273,
+        "largestWhiteRegion": 0.00063,
+        "sharpness": 3914.35,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "96": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/96",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/96/8c2280.webp?v=1775832318",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/96-portrait-v5-6a1d7116acfb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8413,
+        "faceHash": "c0f0029787fc7c7c",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          214,
+          2423,
+          597,
+          2806
+        ],
+        "sourceSize": [
+          800,
+          14017
+        ],
+        "detectedFace": [
+          270.801,
+          2466.895,
+          269.336,
+          294.336
+        ],
+        "outsideFaceWhiteFraction": 0.01956,
+        "largestWhiteRegion": 0.0089,
+        "sharpness": 2224.63,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "97": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/97",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/97/273284.webp?v=1776707715",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/97-portrait-v5-a3a15deb0bd7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8213,
+        "faceHash": "af007ff281592575",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          0,
+          13500,
+          477,
+          13977
+        ],
+        "sourceSize": [
+          800,
+          14197
+        ],
+        "detectedFace": [
+          5.078,
+          13555.105,
+          359.961,
+          366.602
+        ],
+        "outsideFaceWhiteFraction": 0.03177,
+        "largestWhiteRegion": 0.01505,
+        "sharpness": 3329.45,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "98": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/98",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/98/4d06b5.webp?v=1776998159",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/98-portrait-v5-04ab9971c93e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.832,
+        "faceHash": "97656a93a5de2289",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          129,
+          4873,
+          650,
+          5394
+        ],
+        "sourceSize": [
+          800,
+          12950
+        ],
+        "detectedFace": [
+          219.922,
+          4932.812,
+          339.062,
+          400.781
+        ],
+        "outsideFaceWhiteFraction": 0.00081,
+        "largestWhiteRegion": 0.00052,
+        "sharpness": 1873.25,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "99": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/99",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/99/002506.webp?v=1777831309",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/99-portrait-v5-69b38501968d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8706,
+        "faceHash": "923d2ae6a50f5c69",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          275,
+          3767,
+          548,
+          4040
+        ],
+        "sourceSize": [
+          900,
+          14595
+        ],
+        "detectedFace": [
+          318.164,
+          3784.46,
+          227.637,
+          237.524
+        ],
+        "outsideFaceWhiteFraction": 0.02867,
+        "largestWhiteRegion": 0.01399,
+        "sharpness": 4077.2,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "100": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/100",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/100/c9f038.webp?v=1778203559",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/100-portrait-v5-87cc05954d08.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8711,
+        "faceHash": "87581ee0be87f059",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          447,
+          2486,
+          825,
+          2864
+        ],
+        "sourceSize": [
+          900,
+          13500
+        ],
+        "detectedFace": [
+          476.587,
+          2510.376,
+          318.604,
+          328.271
+        ],
+        "outsideFaceWhiteFraction": 0.00497,
+        "largestWhiteRegion": 0.00253,
+        "sharpness": 2593.58,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "101": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/101",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/101/5e9e54.webp?v=1778549333",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/101-portrait-v5-385f67117fd8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8623,
+        "faceHash": "d33c6894e59b7609",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          334,
+          9214,
+          634,
+          9514
+        ],
+        "sourceSize": [
+          900,
+          12940
+        ],
+        "detectedFace": [
+          371.338,
+          9248.511,
+          225.879,
+          230.713
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 840.94,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "102": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/102",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/102/f898d1.webp?v=1779130096",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/102-portrait-v5-d6ff007db99d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.7632,
+        "faceHash": "fa346094959f71a9",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          448,
+          13891,
+          900,
+          14343
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          545.581,
+          13943.738,
+          267.627,
+          347.388
+        ],
+        "outsideFaceWhiteFraction": 0.01912,
+        "largestWhiteRegion": 0.00598,
+        "sharpness": 3502.34,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    },
+    "103": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-ab39de10/chapter/103",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/103/2e1439.webp?v=1779727562",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/103-portrait-v5-3bd8d215a893.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "editorial-visual-review",
+        "faceConfidence": 0.8325,
+        "faceHash": "80414a0b6bfb7f39",
+        "recognitionLanguages": [],
+        "sourceCrop": [
+          495,
+          9969,
+          863,
+          10337
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          559.863,
+          10011.292,
+          237.305,
+          283.228
+        ],
+        "outsideFaceWhiteFraction": 0.00662,
+        "largestWhiteRegion": 0.0065,
+        "sharpness": 2186.24,
+        "editorialSelection": true,
+        "reviewed": true
+      }
+    }
+  }
+}
