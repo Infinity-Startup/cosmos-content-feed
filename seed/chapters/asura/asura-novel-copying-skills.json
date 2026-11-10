@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-copying-skills",
   "seriesUrl": "https://asurascans.com/novels/copying-skills-with-affinity",
-  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
-  "chapterCount": 111,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 169,
   "chapters": [
     {
       "number": 1,
@@ -780,6 +780,412 @@
       "number": 111,
       "title": "Team Competition (4)",
       "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/111",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 112,
+      "title": "A Wild Card",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "A Wild Card (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "Imitation",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "Disappearance",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/115",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 116,
+      "title": "Disappearance (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/116",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 117,
+      "title": "Communion with a God",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/117",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 118,
+      "title": "Communion with a God (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 119,
+      "title": "Burnt Offering",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/119",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 120,
+      "title": "Burnt Offering (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/120",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 121,
+      "title": "Burnt Offering (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "Disguise",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "Disguise (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/123",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 124,
+      "title": "Distortion",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "Distortion (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "Dragonslaying",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "Fever",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "Fever (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/128",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 129,
+      "title": "Encouragement",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/129",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 130,
+      "title": "Encouragement (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/130",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 131,
+      "title": "Countercurrent",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/131",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 132,
+      "title": "Defying Heaven",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "Defying Heaven (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "Jealousy",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/134",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 135,
+      "title": "Skipping Ahead",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/135",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 136,
+      "title": "Skipping Ahead (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/136",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 137,
+      "title": "Regret",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/137",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 138,
+      "title": "In the Water",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/138",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 139,
+      "title": "In the Water (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/139",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 140,
+      "title": "In the Water (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/140",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 141,
+      "title": "Interrogation",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/141",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 142,
+      "title": "Return",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/142",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 143,
+      "title": "The Perfected One",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/143",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 144,
+      "title": "The Perfected One (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/144",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 145,
+      "title": "The Perfected One (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/145",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 146,
+      "title": "Spirit Invocation",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/146",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 147,
+      "title": "Spirit Invocation (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/147",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 148,
+      "title": "Spirit Invocation (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/148",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 149,
+      "title": "Spirit Invocation (4)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/149",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 150,
+      "title": "The Princess",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/150",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 151,
+      "title": "The Princess (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/151",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 152,
+      "title": "The Princess (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/152",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 153,
+      "title": "Foresight",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/153",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 154,
+      "title": "The Test",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/154",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 155,
+      "title": "The Test (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/155",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 156,
+      "title": "The Test (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/156",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 157,
+      "title": "Vision",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/157",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 158,
+      "title": "Twins",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/158",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 159,
+      "title": "Twins (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/159",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 160,
+      "title": "Late at Night",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/160",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 161,
+      "title": "Late at Night (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/161",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 162,
+      "title": "Meeting",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/162",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 163,
+      "title": "Meeting (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/163",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 164,
+      "title": "Demon-Sealing Mountain",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/164",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 165,
+      "title": "Demon-Sealing Mountain (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/165",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 166,
+      "title": "Demon-Sealing Mountain (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/166",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 167,
+      "title": "Partner",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/167",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 168,
+      "title": "Trouble Always",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/168",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 169,
+      "title": "Trouble Always (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/169",
       "premium": false,
       "publishedAt": null
     }

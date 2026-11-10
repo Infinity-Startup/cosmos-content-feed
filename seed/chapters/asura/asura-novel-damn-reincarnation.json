@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-damn-reincarnation",
   "seriesUrl": "https://asurascans.com/novels/damn-reincarnation",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 284,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 288,
   "chapters": [
     {
       "number": 1,
@@ -1991,6 +1991,34 @@
       "number": 284,
       "title": "Damn Reincarnation",
       "url": "https://asurascans.com/novels/damn-reincarnation/chapter/284",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 285,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/285",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 286,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/286",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 287,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/287",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 288,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/288",
       "premium": false,
       "publishedAt": null
     }

@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-murim-psychopath",
   "seriesUrl": "https://asurascans.com/novels/murim-psychopath",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 170,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 172,
   "chapters": [
     {
       "number": 1,
@@ -1193,6 +1193,20 @@
       "number": 170,
       "title": "Lawless City (1)",
       "url": "https://asurascans.com/novels/murim-psychopath/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "Lawless City (2)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "Spiritual Root Stones (1)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/172",
       "premium": false,
       "publishedAt": null
     }

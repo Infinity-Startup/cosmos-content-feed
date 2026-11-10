@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-reincarnated-sword-demon",
   "seriesUrl": "https://asurascans.com/novels/reincarnated-sword-demon",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 112,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 113,
   "chapters": [
     {
       "number": 1,
@@ -787,6 +787,13 @@
       "number": 112,
       "title": "Right This Instant",
       "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "Individual to Individual",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/113",
       "premium": false,
       "publishedAt": null
     }

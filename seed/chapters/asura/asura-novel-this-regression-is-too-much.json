@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-this-regression-is-too-much",
   "seriesUrl": "https://asurascans.com/novels/this-regression-is-too-much",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 118,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 121,
   "chapters": [
     {
       "number": 1,
@@ -829,6 +829,27 @@
       "number": 118,
       "title": "The Regressor Works Hard (13)",
       "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 119,
+      "title": "The Regressor Is Startled (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/119",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 120,
+      "title": "The Regressor Is Startled (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/120",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 121,
+      "title": "The Regressor Is Startled (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/121",
       "premium": false,
       "publishedAt": null
     }

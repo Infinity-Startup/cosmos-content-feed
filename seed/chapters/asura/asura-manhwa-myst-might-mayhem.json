@@ -3,841 +3,869 @@
   "provider": "asura",
   "titleId": "asura-manhwa-myst-might-mayhem",
   "seriesUrl": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8",
-  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
-  "chapterCount": 119,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 123,
   "chapters": [
     {
       "number": 1,
       "title": "Prologue",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/1",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/1",
       "premium": false,
       "publishedAt": "2024-03-05T17:30:18Z"
     },
     {
       "number": 2,
       "title": "Chance",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/2",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/2",
       "premium": false,
       "publishedAt": "2024-03-05T17:30:25Z"
     },
     {
       "number": 3,
       "title": "Mok Sword Manor",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/3",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/3",
       "premium": false,
       "publishedAt": "2024-03-05T17:30:32Z"
     },
     {
       "number": 4,
       "title": "First, Second, Fourth and Third Children",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/4",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/4",
       "premium": false,
       "publishedAt": "2024-03-05T17:31:07Z"
     },
     {
       "number": 5,
       "title": "The Secret Manual and the Seal",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/5",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/5",
       "premium": false,
       "publishedAt": "2024-03-05T17:31:13Z"
     },
     {
       "number": 6,
       "title": "Righteousness",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/6",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/6",
       "premium": false,
       "publishedAt": "2024-03-05T17:31:20Z"
     },
     {
       "number": 7,
       "title": "Demonic Monk",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/7",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/7",
       "premium": false,
       "publishedAt": "2024-03-05T17:31:28Z"
     },
     {
       "number": 8,
       "title": "Mok Gyeongwoon",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/8",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/8",
       "premium": false,
       "publishedAt": "2024-03-11T15:54:52Z"
     },
     {
       "number": 9,
       "title": "Underneath the Medicinal Hall",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/9",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/9",
       "premium": false,
       "publishedAt": "2024-03-11T15:54:50Z"
     },
     {
       "number": 10,
       "title": "Betrayal",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/10",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/10",
       "premium": false,
       "publishedAt": "2024-03-24T22:02:08Z"
     },
     {
       "number": 11,
       "title": "Evil Within",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/11",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/11",
       "premium": false,
       "publishedAt": "2024-03-24T22:02:10Z"
     },
     {
       "number": 12,
       "title": "Blue Spirit",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/12",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/12",
       "premium": false,
       "publishedAt": "2024-03-25T19:58:21Z"
     },
     {
       "number": 13,
       "title": "Resentful soul",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/13",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/13",
       "premium": false,
       "publishedAt": "2024-03-25T21:34:34Z"
     },
     {
       "number": 14,
       "title": "Ritual of Attachment",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/14",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/14",
       "premium": false,
       "publishedAt": "2024-04-01T14:50:11Z"
     },
     {
       "number": 15,
       "title": "Phoenix Pavilion",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/15",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/15",
       "premium": false,
       "publishedAt": "2024-04-08T16:38:33Z"
     },
     {
       "number": 16,
       "title": "Guard Kam (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/16",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/16",
       "premium": false,
       "publishedAt": "2024-04-22T15:12:23Z"
     },
     {
       "number": 17,
       "title": "Guard Kam (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/17",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/17",
       "premium": false,
       "publishedAt": "2024-04-22T15:12:39Z"
     },
     {
       "number": 18,
       "title": "Guard Kam (3)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/18",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/18",
       "premium": false,
       "publishedAt": "2024-04-22T16:23:40Z"
     },
     {
       "number": 19,
       "title": "Death Qi (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/19",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/19",
       "premium": false,
       "publishedAt": "2024-05-23T11:23:45Z"
     },
     {
       "number": 20,
       "title": "Death Qi (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/20",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/20",
       "premium": false,
       "publishedAt": "2024-05-06T15:47:41Z"
     },
     {
       "number": 21,
       "title": "The Mountain-Piercing Shelled Beast and New Moon (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/21",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/21",
       "premium": false,
       "publishedAt": "2024-05-23T11:23:16Z"
     },
     {
       "number": 22,
       "title": "The Mountain-Piercing Shelled Beast and New Moon (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/22",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/22",
       "premium": false,
       "publishedAt": "2024-05-20T15:11:02Z"
     },
     {
       "number": 23,
       "title": "Chime-moryo",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/23",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/23",
       "premium": false,
       "publishedAt": "2024-05-27T16:28:16Z"
     },
     {
       "number": 24,
       "title": "Outer Hall Master Sang Woongbaek",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/24",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/24",
       "premium": false,
       "publishedAt": "2024-06-03T15:18:26Z"
     },
     {
       "number": 25,
       "title": "Talentless",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/25",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/25",
       "premium": false,
       "publishedAt": "2024-06-10T15:11:10Z"
     },
     {
       "number": 26,
       "title": "Negotiation",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/26",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/26",
       "premium": false,
       "publishedAt": "2024-06-19T11:14:39Z"
     },
     {
       "number": 27,
       "title": "Goh Chan",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/27",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/27",
       "premium": false,
       "publishedAt": "2024-06-24T15:25:32Z"
     },
     {
       "number": 28,
       "title": "Ha Chaerin",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/28",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/28",
       "premium": false,
       "publishedAt": "2024-07-01T15:05:42Z"
     },
     {
       "number": 29,
       "title": "Sacrifice",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/29",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/29",
       "premium": false,
       "publishedAt": "2024-07-08T15:16:44Z"
     },
     {
       "number": 30,
       "title": "Ha Chaerin?",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/30",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/30",
       "premium": false,
       "publishedAt": "2024-07-15T14:49:39Z"
     },
     {
       "number": 31,
       "title": "The manor master has awoken",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/31",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/31",
       "premium": false,
       "publishedAt": "2024-07-23T15:30:14Z"
     },
     {
       "number": 32,
       "title": "Marking",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/32",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/32",
       "premium": false,
       "publishedAt": "2024-07-30T21:28:27Z"
     },
     {
       "number": 33,
       "title": "Ambush",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/33",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/33",
       "premium": false,
       "publishedAt": "2024-08-05T15:24:06Z"
     },
     {
       "number": 34,
       "title": "Heaven Earth Association",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/34",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/34",
       "premium": false,
       "publishedAt": "2024-08-12T15:03:12Z"
     },
     {
       "number": 35,
       "title": "The Existence of the Mark",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/35",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/35",
       "premium": false,
       "publishedAt": "2024-08-19T15:37:10Z"
     },
     {
       "number": 36,
       "title": "Nature of a Shaman",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/36",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/36",
       "premium": false,
       "publishedAt": "2024-08-26T15:16:29Z"
     },
     {
       "number": 37,
       "title": "Lunar Sword",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/37",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/37",
       "premium": false,
       "publishedAt": "2024-09-02T14:43:50Z"
     },
     {
       "number": 38,
       "title": "",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/38",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/38",
       "premium": false,
       "publishedAt": "2024-09-09T15:23:02Z"
     },
     {
       "number": 39,
       "title": "Disciple",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/39",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/39",
       "premium": false,
       "publishedAt": "2024-09-16T15:19:48Z"
     },
     {
       "number": 40,
       "title": "Corpse Blood Valley",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/40",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/40",
       "premium": false,
       "publishedAt": "2024-09-23T15:58:06Z"
     },
     {
       "number": 41,
       "title": "The First Trial (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/41",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/41",
       "premium": false,
       "publishedAt": "2024-09-30T15:12:31Z"
     },
     {
       "number": 42,
       "title": "The First Trial (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/42",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/42",
       "premium": false,
       "publishedAt": "2024-10-07T14:59:39Z"
     },
     {
       "number": 43,
       "title": "Second Trial",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/43",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/43",
       "premium": false,
       "publishedAt": "2024-10-14T15:03:02Z"
     },
     {
       "number": 44,
       "title": "Appetizers",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/44",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/44",
       "premium": false,
       "publishedAt": "2024-10-21T15:56:10Z"
     },
     {
       "number": 45,
       "title": "Flag",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/45",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/45",
       "premium": false,
       "publishedAt": "2024-10-28T15:12:19Z"
     },
     {
       "number": 46,
       "title": "Hunter of the Weak",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/46",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/46",
       "premium": false,
       "publishedAt": "2024-11-04T15:02:28Z"
     },
     {
       "number": 47,
       "title": "Gu Poison (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/47",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/47",
       "premium": false,
       "publishedAt": "2024-11-11T15:40:41Z"
     },
     {
       "number": 48,
       "title": "Gu Poison (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/48",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/48",
       "premium": false,
       "publishedAt": "2024-11-18T15:20:17Z"
     },
     {
       "number": 49,
       "title": "Gu Poison (3)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/49",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/49",
       "premium": false,
       "publishedAt": "2024-11-25T15:34:32Z"
     },
     {
       "number": 50,
       "title": "Gu Poison (4)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/50",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/50",
       "premium": false,
       "publishedAt": "2024-12-02T14:48:44Z"
     },
     {
       "number": 51,
       "title": "Dawn (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/51",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/51",
       "premium": false,
       "publishedAt": "2024-12-09T15:32:09Z"
     },
     {
       "number": 52,
       "title": "Dawn (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/52",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/52",
       "premium": false,
       "publishedAt": "2024-12-16T15:11:43Z"
     },
     {
       "number": 53,
       "title": "First Place",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/53",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/53",
       "premium": false,
       "publishedAt": "2024-12-23T15:06:49Z"
     },
     {
       "number": 54,
       "title": "Fight",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/54",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/54",
       "premium": false,
       "publishedAt": "2024-12-30T15:18:28Z"
     },
     {
       "number": 55,
       "title": "Recruitment",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/55",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/55",
       "premium": false,
       "publishedAt": "2025-01-06T15:00:03Z"
     },
     {
       "number": 56,
       "title": "Killing Star",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/56",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/56",
       "premium": false,
       "publishedAt": "2025-01-13T21:21:02Z"
     },
     {
       "number": 57,
       "title": "Hidden Force (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/57",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/57",
       "premium": false,
       "publishedAt": "2025-01-20T15:17:02Z"
     },
     {
       "number": 58,
       "title": "Hidden Force (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/58",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/58",
       "premium": false,
       "publishedAt": "2025-01-28T02:40:02Z"
     },
     {
       "number": 59,
       "title": "Allegiance",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/59",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/59",
       "premium": false,
       "publishedAt": "2025-02-03T15:29:02Z"
     },
     {
       "number": 60,
       "title": "Past",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/60",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/60",
       "premium": false,
       "publishedAt": "2025-02-10T16:03:40Z"
     },
     {
       "number": 61,
       "title": "Underworld Assassin Pavilion",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/61",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/61",
       "premium": false,
       "publishedAt": "2025-02-17T15:26:53Z"
     },
     {
       "number": 62,
       "title": "Underworld Assassin Pavilion (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/62",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/62",
       "premium": false,
       "publishedAt": "2025-02-26T05:32:02Z"
     },
     {
       "number": 63,
       "title": "Blue Spirit’s Past",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/63",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/63",
       "premium": false,
       "publishedAt": "2025-03-03T15:29:02Z"
     },
     {
       "number": 64,
       "title": "Goal",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/64",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/64",
       "premium": false,
       "publishedAt": "2025-03-10T15:11:02Z"
     },
     {
       "number": 65,
       "title": "Plan (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/65",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/65",
       "premium": false,
       "publishedAt": "2025-03-17T15:02:01Z"
     },
     {
       "number": 66,
       "title": "Plan (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/66",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/66",
       "premium": false,
       "publishedAt": "2025-03-24T15:40:02Z"
     },
     {
       "number": 67,
       "title": "Secret Treasury",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/67",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/67",
       "premium": false,
       "publishedAt": "2025-04-01T13:22:02Z"
     },
     {
       "number": 68,
       "title": "Moonless Void Sword",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/68",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/68",
       "premium": false,
       "publishedAt": "2025-04-07T17:42:02Z"
     },
     {
       "number": 69,
       "title": "Foresight",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/69",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/69",
       "premium": false,
       "publishedAt": "2025-04-14T15:07:02Z"
     },
     {
       "number": 70,
       "title": "Wi Soyeon",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/70",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/70",
       "premium": false,
       "publishedAt": "2025-04-21T16:44:02Z"
     },
     {
       "number": 71,
       "title": "The Red Room",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/71",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/71",
       "premium": false,
       "publishedAt": "2025-04-28T15:50:02Z"
     },
     {
       "number": 72,
       "title": "Ruler of Death",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/72",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/72",
       "premium": false,
       "publishedAt": "2025-05-05T15:38:02Z"
     },
     {
       "number": 73,
       "title": "Ruler of Death 2",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/73",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/73",
       "premium": false,
       "publishedAt": "2025-05-13T02:35:02Z"
     },
     {
       "number": 74,
       "title": "Eternal Beast",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/74",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/74",
       "premium": false,
       "publishedAt": "2025-05-19T15:07:02Z"
     },
     {
       "number": 75,
       "title": "Return",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/75",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/75",
       "premium": false,
       "publishedAt": "2025-05-26T21:35:02Z"
     },
     {
       "number": 76,
       "title": "Reunion",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/76",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/76",
       "premium": false,
       "publishedAt": "2025-06-09T21:33:22Z"
     },
     {
       "number": 77,
       "title": "Final Trial",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/77",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/77",
       "premium": false,
       "publishedAt": "2025-06-17T00:24:38Z"
     },
     {
       "number": 78,
       "title": "Genius",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/78",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/78",
       "premium": false,
       "publishedAt": "2025-06-24T01:02:33Z"
     },
     {
       "number": 79,
       "title": "Subordinate",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/79",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/79",
       "premium": false,
       "publishedAt": "2025-07-01T15:17:14Z"
     },
     {
       "number": 80,
       "title": "Forbidden technique",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/80",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/80",
       "premium": false,
       "publishedAt": "2025-07-07T16:07:27Z"
     },
     {
       "number": 81,
       "title": "Cultivation Technique",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/81",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/81",
       "premium": false,
       "publishedAt": "2025-07-14T23:39:45Z"
     },
     {
       "number": 82,
       "title": "Final Top Trainee",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/82",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/82",
       "premium": false,
       "publishedAt": "2025-07-23T16:21:24Z"
     },
     {
       "number": 83,
       "title": "Orthodox Murim",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/83",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/83",
       "premium": false,
       "publishedAt": "2025-07-29T12:30:22Z"
     },
     {
       "number": 84,
       "title": "Evil’s Rule Sword",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/84",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/84",
       "premium": false,
       "publishedAt": "2025-08-04T19:45:12Z"
     },
     {
       "number": 85,
       "title": "Being",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/85",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/85",
       "premium": false,
       "publishedAt": "2025-08-12T17:13:14Z"
     },
     {
       "number": 86,
       "title": "Heaven Earth Association Path",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/86",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/86",
       "premium": false,
       "publishedAt": "2025-08-19T03:04:13Z"
     },
     {
       "number": 87,
       "title": "Association Leader",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/87",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/87",
       "premium": false,
       "publishedAt": "2025-08-25T23:37:22Z"
     },
     {
       "number": 88,
       "title": "Quasi-Disciple",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/88",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/88",
       "premium": false,
       "publishedAt": "2025-09-05T23:05:23Z"
     },
     {
       "number": 89,
       "title": "Official Disciple",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/89",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/89",
       "premium": false,
       "publishedAt": "2025-09-16T15:22:45Z"
     },
     {
       "number": 90,
       "title": "Jang Neung-ak",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/90",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/90",
       "premium": false,
       "publishedAt": "2025-09-16T22:35:47Z"
     },
     {
       "number": 91,
       "title": "Martial Prowess",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/91",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/91",
       "premium": false,
       "publishedAt": "2025-09-29T16:08:05Z"
     },
     {
       "number": 92,
       "title": "Domination",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/92",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/92",
       "premium": false,
       "publishedAt": "2025-10-06T16:43:09Z"
     },
     {
       "number": 93,
       "title": "Domination (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/93",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/93",
       "premium": false,
       "publishedAt": "2025-10-13T16:32:13Z"
     },
     {
       "number": 94,
       "title": "Checkmate",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/94",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/94",
       "premium": false,
       "publishedAt": "2025-10-20T17:32:13Z"
     },
     {
       "number": 95,
       "title": "Something is off",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/95",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/95",
       "premium": false,
       "publishedAt": "2025-11-19T21:55:13Z"
     },
     {
       "number": 96,
       "title": "Wi Mengcheon",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/96",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/96",
       "premium": false,
       "publishedAt": "2025-11-24T22:50:12Z"
     },
     {
       "number": 97,
       "title": "Zoroastrianism",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/97",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/97",
       "premium": false,
       "publishedAt": "2025-12-02T08:10:14Z"
     },
     {
       "number": 98,
       "title": "Zoroastrianism (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/98",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/98",
       "premium": false,
       "publishedAt": "2025-12-09T08:39:07Z"
     },
     {
       "number": 99,
       "title": "Toad Poison King (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/99",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/99",
       "premium": false,
       "publishedAt": "2025-12-15T23:30:11Z"
     },
     {
       "number": 100,
       "title": "Toad Poison King (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/100",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/100",
       "premium": false,
       "publishedAt": "2025-12-22T23:41:10Z"
     },
     {
       "number": 101,
       "title": "Toad Poison King (3)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/101",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/101",
       "premium": false,
       "publishedAt": "2025-12-30T21:11:13Z"
     },
     {
       "number": 102,
       "title": "Payback",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/102",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/102",
       "premium": false,
       "publishedAt": "2026-01-07T13:19:23Z"
     },
     {
       "number": 103,
       "title": "Jo Taechung",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/103",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/103",
       "premium": false,
       "publishedAt": "2026-01-27T04:21:13Z"
     },
     {
       "number": 104,
       "title": "Variable",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/104",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/104",
       "premium": false,
       "publishedAt": "2026-02-03T15:31:12Z"
     },
     {
       "number": 105,
       "title": "",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/105",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/105",
       "premium": false,
       "publishedAt": "2026-02-09T18:39:35Z"
     },
     {
       "number": 106,
       "title": "Wall",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/106",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/106",
       "premium": false,
       "publishedAt": "2026-02-18T00:29:14Z"
     },
     {
       "number": 107,
       "title": "Realm of Evolution",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/107",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/107",
       "premium": false,
       "publishedAt": "2026-02-24T01:03:44Z"
     },
     {
       "number": 108,
       "title": "Apposition",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/108",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/108",
       "premium": false,
       "publishedAt": "2026-03-03T15:40:33Z"
     },
     {
       "number": 109,
       "title": "Choice ",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/109",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/109",
       "premium": false,
       "publishedAt": "2026-03-11T21:07:39Z"
     },
     {
       "number": 110,
       "title": "The Body",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/110",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/110",
       "premium": false,
       "publishedAt": "2026-09-14T16:09:25.145952Z"
     },
     {
       "number": 111,
       "title": "Heavenly Yin Severed Meridians (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/111",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/111",
       "premium": false,
       "publishedAt": "2026-09-14T17:01:35.368711Z"
     },
     {
       "number": 112,
       "title": "Heavenly Yin Meridian Blockage (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/112",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/112",
       "premium": false,
       "publishedAt": "2026-09-14T19:01:43.832825Z"
     },
     {
       "number": 113,
       "title": "Emotion",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/113",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/113",
       "premium": false,
       "publishedAt": "2026-09-14T19:54:32.73494Z"
     },
     {
       "number": 114,
       "title": "A Story",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/114",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/114",
       "premium": false,
       "publishedAt": "2026-09-14T21:21:57.867396Z"
     },
     {
       "number": 115,
       "title": "Jo Euigong",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/115",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/115",
       "premium": false,
       "publishedAt": "2026-09-15T02:00:54.472689Z"
     },
     {
       "number": 116,
       "title": "Jo Taechung (1)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/116",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/116",
       "premium": false,
       "publishedAt": "2026-09-21T16:00:23.991327Z"
     },
     {
       "number": 117,
       "title": "Jo Taechung (2)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/117",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/117",
       "premium": false,
       "publishedAt": "2026-09-21T16:45:50.286215Z"
     },
     {
       "number": 118,
       "title": "Jo Taechung (3)",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/118",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/118",
       "premium": false,
       "publishedAt": "2026-09-28T18:10:25.458615Z"
     },
     {
       "number": 119,
       "title": "Three eyes",
-      "url": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8/chapter/119",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/119",
       "premium": false,
       "publishedAt": "2026-10-06T02:45:16.955468Z"
+    },
+    {
+      "number": 120,
+      "title": "Implications",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/120",
+      "premium": false,
+      "publishedAt": "2026-10-12T17:20:43.501425Z"
+    },
+    {
+      "number": 121,
+      "title": "Taking Control (1)",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/121",
+      "premium": false,
+      "publishedAt": "2026-10-19T19:29:48.556445Z"
+    },
+    {
+      "number": 122,
+      "title": "Taking Control (2)",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/122",
+      "premium": false,
+      "publishedAt": "2026-10-27T03:34:56.546095Z"
+    },
+    {
+      "number": 123,
+      "title": "Turning Life(?) Around",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/123",
+      "premium": false,
+      "publishedAt": "2026-11-02T16:07:30.756811Z"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "provider": "asura",
   "titleId": "asura-manhwa-killer-pietro",
   "seriesUrl": "https://asurascans.com/comics/killer-pietro-f212c582",
-  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
   "chapterCount": 157,
   "chapters": [
     {
@@ -1102,7 +1102,7 @@
       "number": 156,
       "title": "",
       "url": "https://asurascans.com/comics/killer-pietro-f212c582/chapter/156",
-      "premium": true,
+      "premium": false,
       "publishedAt": "2026-11-09T06:00:38.698223Z"
     }
   ]

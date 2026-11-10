@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-raising-villains",
   "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
-  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
-  "chapterCount": 165,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 243,
   "chapters": [
     {
       "number": 1,
@@ -1158,6 +1158,552 @@
       "number": 165,
       "title": "...Huh? (4)",
       "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/165",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 166,
+      "title": "The Ball (1) (Illustration Included)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/166",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 167,
+      "title": "The Ball (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/167",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 168,
+      "title": "The Ball (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/168",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 169,
+      "title": "Magus Kailas (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/169",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 170,
+      "title": "Magus Kailas (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "Magus Kailas (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "The Sin of Greed (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "The Sin of Greed (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "The Sin of Greed (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "Those Who Realized (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "Those Who Realized (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "Those Who Realized (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Those Who Realized (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "Those Who Realized (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "Birth... Day? (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "Birth... Day? (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/181",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 182,
+      "title": "Birth... Day? (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/182",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 183,
+      "title": "Birth... Day? (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/183",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 184,
+      "title": "Birth... Day? (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/184",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 185,
+      "title": "Greinif (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/185",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 186,
+      "title": "Greinif (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/186",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 187,
+      "title": "Greinif (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/187",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 188,
+      "title": "Greinif (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/188",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 189,
+      "title": "Greinif (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/189",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 190,
+      "title": "Stature (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/190",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 191,
+      "title": "Stature (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/191",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 192,
+      "title": "Stature (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/192",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 193,
+      "title": "Stature (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/193",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 194,
+      "title": "Stature (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/194",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 195,
+      "title": "How to Use It (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/195",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 196,
+      "title": "How to Use It (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/196",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 197,
+      "title": "How to Use It (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/197",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 198,
+      "title": "How to Use It (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/198",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 199,
+      "title": "Sloth and Thunder (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/199",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 200,
+      "title": "Sloth and Thunder (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/200",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 201,
+      "title": "Sloth and Thunder (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/201",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 202,
+      "title": "Sloth and Thunder (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/202",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 203,
+      "title": "Sloth and Thunder (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/203",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 204,
+      "title": "Sloth and Thunder (6)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/204",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 205,
+      "title": "Sloth and Thunder (7)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/205",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 206,
+      "title": "Apostle (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/206",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 207,
+      "title": "Apostle (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/207",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 208,
+      "title": "Apostle (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/208",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 209,
+      "title": "Apostle (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/209",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 210,
+      "title": "The North...? (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/210",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 211,
+      "title": "The North...? (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/211",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 212,
+      "title": "The North...? (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/212",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 213,
+      "title": "The North...? (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/213",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 214,
+      "title": "Darkness in the North (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/214",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 215,
+      "title": "Darkness in the North (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/215",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 216,
+      "title": "Darkness in the North (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/216",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 217,
+      "title": "Outer Gods and Defiance of Heaven (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/217",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 218,
+      "title": "Outer Gods and Defiance of Heaven (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/218",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 219,
+      "title": "Outer Gods and Defiance of Heaven (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/219",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 220,
+      "title": "Outer Gods and Defiance of Heaven (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/220",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 221,
+      "title": "Outer Gods and Defiance of Heaven (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/221",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 222,
+      "title": "The Way Back (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/222",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 223,
+      "title": "The Way Back (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/223",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 224,
+      "title": "The Way Back (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/224",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 225,
+      "title": "The First Magus (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/225",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 226,
+      "title": "The First Magus (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/226",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 227,
+      "title": "Corruption (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/227",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 228,
+      "title": "Corruption (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/228",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 229,
+      "title": "Corruption (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/229",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 230,
+      "title": "Corruption (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/230",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 231,
+      "title": "Destruction (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/231",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 232,
+      "title": "Destruction (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/232",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 233,
+      "title": "Destruction (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/233",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 234,
+      "title": "Escape (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/234",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 235,
+      "title": "Escape (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/235",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 236,
+      "title": "Escape (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/236",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 237,
+      "title": "Escape (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/237",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 238,
+      "title": "Spell Formula (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/238",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 239,
+      "title": "Spell Formula (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/239",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 240,
+      "title": "Spell Formula (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/240",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 241,
+      "title": "Spell Formula (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/241",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 242,
+      "title": "Spell Formula (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/242",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 243,
+      "title": "Spell Formula (6)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/243",
       "premium": false,
       "publishedAt": null
     }

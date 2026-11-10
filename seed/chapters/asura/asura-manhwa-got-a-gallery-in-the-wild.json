@@ -3,7 +3,7 @@
   "provider": "asura",
   "titleId": "asura-manhwa-got-a-gallery-in-the-wild",
   "seriesUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582",
-  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
   "chapterCount": 14,
   "chapters": [
     {
@@ -101,7 +101,7 @@
       "number": 13,
       "title": "",
       "url": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582/chapter/13",
-      "premium": true,
+      "premium": false,
       "publishedAt": "2026-11-09T03:19:26.849249Z"
     }
   ]

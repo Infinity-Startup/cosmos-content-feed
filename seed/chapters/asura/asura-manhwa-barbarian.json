@@ -3,1156 +3,1184 @@
   "provider": "asura",
   "titleId": "asura-manhwa-barbarian",
   "seriesUrl": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8",
-  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
-  "chapterCount": 164,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 168,
   "chapters": [
     {
       "number": 1,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/1",
+      "title": "Tutorial (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/1",
       "premium": false,
       "publishedAt": "2023-04-19T17:44:12Z"
     },
     {
       "number": 2,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/2",
+      "title": "Tutorial (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/2",
       "premium": false,
       "publishedAt": "2023-04-21T17:55:45Z"
     },
     {
       "number": 3,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/3",
+      "title": "Entering the Labyrinth",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/3",
       "premium": false,
       "publishedAt": "2023-04-21T17:55:54Z"
     },
     {
       "number": 4,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/4",
+      "title": "Give and Take",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/4",
       "premium": false,
       "publishedAt": "2023-04-21T17:56:13Z"
     },
     {
       "number": 5,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/5",
+      "title": "Overnight Companion (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/5",
       "premium": false,
       "publishedAt": "2023-04-22T00:07:12Z"
     },
     {
       "number": 6,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/6",
+      "title": "Overnight Companion (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/6",
       "premium": false,
       "publishedAt": "2023-04-22T13:43:22Z"
     },
     {
       "number": 7,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/7",
+      "title": "The Injured Elf",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/7",
       "premium": false,
       "publishedAt": "2023-04-22T13:43:33Z"
     },
     {
       "number": 8,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/8",
+      "title": "Companion (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/8",
       "premium": false,
       "publishedAt": "2023-04-29T15:03:50Z"
     },
     {
       "number": 9,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/9",
+      "title": "Companion (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/9",
       "premium": false,
       "publishedAt": "2023-04-29T15:04:03Z"
     },
     {
       "number": 10,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/10",
+      "title": "The Second Floor (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/10",
       "premium": false,
       "publishedAt": "2023-05-08T21:40:00Z"
     },
     {
       "number": 11,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/11",
+      "title": "The Second Floor (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/11",
       "premium": false,
       "publishedAt": "2023-05-08T21:40:10Z"
     },
     {
       "number": 12,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/12",
+      "title": "The Signal",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/12",
       "premium": false,
       "publishedAt": "2023-05-13T20:28:56Z"
     },
     {
       "number": 13,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/13",
+      "title": "Return",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/13",
       "premium": false,
       "publishedAt": "2023-05-21T12:49:02Z"
     },
     {
       "number": 14,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/14",
+      "title": "Raphdonia (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/14",
       "premium": false,
       "publishedAt": "2023-05-26T12:27:04Z"
     },
     {
       "number": 15,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/15",
+      "title": "Raphdonia (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/15",
       "premium": false,
       "publishedAt": "2023-06-03T15:20:58Z"
     },
     {
       "number": 16,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/16",
+      "title": "Repaying the Favor",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/16",
       "premium": false,
       "publishedAt": "2023-06-09T13:01:11Z"
     },
     {
       "number": 17,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/17",
+      "title": "A New Overnight Companion",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/17",
       "premium": false,
       "publishedAt": "2023-06-19T10:41:20Z"
     },
     {
       "number": 18,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/18",
+      "title": "The Second Expedition",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/18",
       "premium": false,
       "publishedAt": "2023-06-26T20:06:18Z"
     },
     {
       "number": 19,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/19",
+      "title": "Level Up",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/19",
       "premium": false,
       "publishedAt": "2023-07-05T22:09:28Z"
     },
     {
       "number": 20,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/20",
+      "title": "Plunderer (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/20",
       "premium": false,
       "publishedAt": "2023-07-15T22:27:19Z"
     },
     {
       "number": 21,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/21",
+      "title": "Plunderer (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/21",
       "premium": false,
       "publishedAt": "2023-07-17T20:04:44Z"
     },
     {
       "number": 22,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/22",
+      "title": "Plunderer (3)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/22",
       "premium": false,
       "publishedAt": "2023-07-24T20:23:36Z"
     },
     {
       "number": 23,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/23",
+      "title": "The Rift",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/23",
       "premium": false,
       "publishedAt": "2024-01-01T00:00:00Z"
     },
     {
       "number": 24,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/24",
+      "title": "Blood-Tinted Castle (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/24",
       "premium": false,
       "publishedAt": "2023-08-18T18:13:43Z"
     },
     {
       "number": 25,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/25",
+      "title": "Blood-Tinted Castle (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/25",
       "premium": false,
       "publishedAt": "2023-08-18T18:17:33Z"
     },
     {
       "number": 26,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/26",
+      "title": "Blood-Tinted Castle (3)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/26",
       "premium": false,
       "publishedAt": "2023-08-18T21:13:57Z"
     },
     {
       "number": 27,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/27",
+      "title": "Blood-Tinted Castle (4)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/27",
       "premium": false,
       "publishedAt": "2023-09-02T15:54:01Z"
     },
     {
       "number": 28,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/28",
+      "title": "An Unusual Barbarian",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/28",
       "premium": false,
       "publishedAt": "2023-09-12T20:54:01Z"
     },
     {
       "number": 29,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/29",
+      "title": "Warrior (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/29",
       "premium": false,
       "publishedAt": "2023-09-12T12:07:02Z"
     },
     {
       "number": 30,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/30",
+      "title": "Warrior (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/30",
       "premium": false,
       "publishedAt": "2023-09-25T21:14:05Z"
     },
     {
       "number": 31,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/31",
+      "title": "Suspicion",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/31",
       "premium": false,
       "publishedAt": "2023-09-26T21:00:29Z"
     },
     {
       "number": 32,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/32",
+      "title": "A Free Barbarian",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/32",
       "premium": false,
       "publishedAt": "2023-09-27T22:37:29Z"
     },
     {
       "number": 33,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/33",
+      "title": "Falsely Accused",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/33",
       "premium": false,
       "publishedAt": "2023-10-05T21:10:18Z"
     },
     {
       "number": 34,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/34",
+      "title": "Compensation",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/34",
       "premium": false,
       "publishedAt": "2023-10-12T12:19:31Z"
     },
     {
       "number": 35,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/35",
+      "title": "Resolve",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/35",
       "premium": false,
       "publishedAt": "2023-10-20T15:25:29Z"
     },
     {
       "number": 36,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/36",
+      "title": "Recruiting Teammates",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/36",
       "premium": false,
       "publishedAt": "2023-10-27T02:38:53Z"
     },
     {
       "number": 37,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/37",
+      "title": "Evil Spirit",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/37",
       "premium": false,
       "publishedAt": "2023-11-02T12:21:00Z"
     },
     {
       "number": 38,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/38",
+      "title": "The Quarry",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/38",
       "premium": false,
       "publishedAt": "2023-11-10T00:12:28Z"
     },
     {
       "number": 39,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/39",
+      "title": "Outcast Team (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/39",
       "premium": false,
       "publishedAt": "2023-11-16T14:12:35Z"
     },
     {
       "number": 40,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/40",
+      "title": "Outcast Team (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/40",
       "premium": false,
       "publishedAt": "2023-11-23T18:04:39Z"
     },
     {
       "number": 41,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/41",
+      "title": "The Stranded (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/41",
       "premium": false,
       "publishedAt": "2023-12-04T00:32:09Z"
     },
     {
       "number": 42,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/42",
+      "title": "The Stranded (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/42",
       "premium": false,
       "publishedAt": "2023-12-08T08:42:13Z"
     },
     {
       "number": 43,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/43",
+      "title": "Rules of Survival (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/43",
       "premium": false,
       "publishedAt": "2023-12-16T04:24:03Z"
     },
     {
       "number": 44,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/44",
+      "title": "Rules of Survival (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/44",
       "premium": false,
       "publishedAt": "2023-12-23T14:28:38Z"
     },
     {
       "number": 45,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/45",
+      "title": "The Contract",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/45",
       "premium": false,
       "publishedAt": "2023-12-30T16:53:03Z"
     },
     {
       "number": 46,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/46",
+      "title": "Witch's Eye",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/46",
       "premium": false,
       "publishedAt": "2024-01-06T18:35:11Z"
     },
     {
       "number": 47,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/47",
+      "title": "Bait",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/47",
       "premium": false,
       "publishedAt": "2024-01-12T00:46:03Z"
     },
     {
       "number": 48,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/48",
+      "title": "The Line",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/48",
       "premium": false,
       "publishedAt": "2024-01-22T09:11:48Z"
     },
     {
       "number": 49,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/49",
+      "title": "Lord of Chaos",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/49",
       "premium": false,
       "publishedAt": "2024-01-27T21:55:22Z"
     },
     {
       "number": 50,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/50",
+      "title": "Barbarian Hero (1)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/50",
       "premium": false,
       "publishedAt": "2024-02-01T23:11:32Z"
     },
     {
       "number": 51,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/51",
+      "title": "Barbarian Hero (2)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/51",
       "premium": false,
       "publishedAt": "2024-02-10T10:23:24Z"
     },
     {
       "number": 52,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/52",
+      "title": "Prey",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/52",
       "premium": false,
       "publishedAt": "2024-02-14T18:35:59Z"
     },
     {
       "number": 53,
-      "title": "",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/53",
+      "title": "Little Valcan (Season 1 Finale)",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/53",
       "premium": false,
       "publishedAt": "2024-02-21T23:21:51Z"
     },
     {
       "number": 54,
-      "title": "{S2 START}",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/54",
+      "title": "Returning Alive",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/54",
       "premium": false,
       "publishedAt": "2024-06-19T16:32:57Z"
     },
     {
       "number": 55,
       "title": "Ghostbusters",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/55",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/55",
       "premium": false,
       "publishedAt": "2024-06-20T04:17:41Z"
     },
     {
       "number": 56,
       "title": "An Advice for the Future",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/56",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/56",
       "premium": false,
       "publishedAt": "2024-06-21T18:48:58Z"
     },
     {
       "number": 57,
       "title": "First Quest",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/57",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/57",
       "premium": false,
       "publishedAt": "2024-06-21T23:36:48Z"
     },
     {
       "number": 58,
       "title": "Reunion",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/58",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/58",
       "premium": false,
       "publishedAt": "2024-06-22T03:13:39Z"
     },
     {
       "number": 59,
       "title": "Lete’s Blessing",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/59",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/59",
       "premium": false,
       "publishedAt": "2024-06-23T00:39:43Z"
     },
     {
       "number": 60,
       "title": "An Amazing Day",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/60",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/60",
       "premium": false,
       "publishedAt": "2024-06-30T16:03:37Z"
     },
     {
       "number": 61,
       "title": "Encounter with Nobles",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/61",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/61",
       "premium": false,
       "publishedAt": "2024-07-09T12:47:15Z"
     },
     {
       "number": 62,
       "title": "Dimension Collapse",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/62",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/62",
       "premium": false,
       "publishedAt": "2024-07-12T00:06:14Z"
     },
     {
       "number": 63,
       "title": "Username",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/63",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/63",
       "premium": false,
       "publishedAt": "2024-07-18T14:57:02Z"
     },
     {
       "number": 64,
       "title": "Only actions stay on record.",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/64",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/64",
       "premium": false,
       "publishedAt": "2024-07-26T23:11:57Z"
     },
     {
       "number": 65,
       "title": "Barbarian Trophy",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/65",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/65",
       "premium": false,
       "publishedAt": "2024-08-05T04:52:33Z"
     },
     {
       "number": 66,
       "title": "Knight Slayer",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/66",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/66",
       "premium": false,
       "publishedAt": "2024-08-11T03:53:31Z"
     },
     {
       "number": 67,
       "title": "Evil Spirit Detector",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/67",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/67",
       "premium": false,
       "publishedAt": "2024-08-17T22:35:45Z"
     },
     {
       "number": 68,
       "title": "You’re Not Even A Barbarian",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/68",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/68",
       "premium": false,
       "publishedAt": "2024-08-25T23:52:08Z"
     },
     {
       "number": 69,
       "title": "Mafia",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/69",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/69",
       "premium": false,
       "publishedAt": "2024-08-31T01:00:29Z"
     },
     {
       "number": 70,
       "title": "Evil Boss",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/70",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/70",
       "premium": false,
       "publishedAt": "2024-09-07T23:05:51Z"
     },
     {
       "number": 71,
       "title": "{It Is Now Night}",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/71",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/71",
       "premium": false,
       "publishedAt": "2024-09-15T06:41:06Z"
     },
     {
       "number": 72,
       "title": "PK ",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/72",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/72",
       "premium": false,
       "publishedAt": "2024-09-21T20:47:25Z"
     },
     {
       "number": 73,
       "title": "If Misha Wasn’t Here",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/73",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/73",
       "premium": false,
       "publishedAt": "2024-09-30T12:56:03Z"
     },
     {
       "number": 74,
       "title": "Baby Barbarian",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/74",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/74",
       "premium": false,
       "publishedAt": "2024-10-06T19:45:09Z"
     },
     {
       "number": 75,
       "title": "Roaming Monsters",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/75",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/75",
       "premium": false,
       "publishedAt": "2024-10-11T14:42:08Z"
     },
     {
       "number": 76,
       "title": "A Person’s Warrior",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/76",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/76",
       "premium": false,
       "publishedAt": "2024-10-19T12:58:49Z"
     },
     {
       "number": 77,
       "title": "The Hans Effect",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/77",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/77",
       "premium": false,
       "publishedAt": "2024-10-25T16:05:57Z"
     },
     {
       "number": 78,
       "title": "Ominous Clouds",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/78",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/78",
       "premium": false,
       "publishedAt": "2024-11-01T11:51:45Z"
     },
     {
       "number": 79,
       "title": "Mind Games",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/79",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/79",
       "premium": false,
       "publishedAt": "2024-11-07T19:21:20Z"
     },
     {
       "number": 80,
       "title": "Truth / Dark Clouds",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/80",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/80",
       "premium": false,
       "publishedAt": "2024-11-15T22:27:44Z"
     },
     {
       "number": 81,
       "title": "Rebellious",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/81",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/81",
       "premium": false,
       "publishedAt": "2024-11-30T06:06:34Z"
     },
     {
       "number": 82,
       "title": "Two Women",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/82",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/82",
       "premium": false,
       "publishedAt": "2024-12-07T08:48:44Z"
     },
     {
       "number": 83,
       "title": "Korean",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/83",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/83",
       "premium": false,
       "publishedAt": "2024-12-13T02:31:19Z"
     },
     {
       "number": 84,
       "title": "Observer Of The Round Table",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/84",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/84",
       "premium": false,
       "publishedAt": "2024-12-19T22:53:31Z"
     },
     {
       "number": 85,
       "title": "Veteran",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/85",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/85",
       "premium": false,
       "publishedAt": "2024-12-30T00:50:47Z"
     },
     {
       "number": 86,
       "title": "Pure-Blooded Household",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/86",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/86",
       "premium": false,
       "publishedAt": "2025-01-05T00:11:31Z"
     },
     {
       "number": 87,
       "title": "Karlstein",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/87",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/87",
       "premium": false,
       "publishedAt": "2025-01-10T23:02:02Z"
     },
     {
       "number": 88,
       "title": "Teamplay",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/88",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/88",
       "premium": false,
       "publishedAt": "2025-01-17T23:23:02Z"
     },
     {
       "number": 89,
       "title": "Stairs, to each their own",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/89",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/89",
       "premium": false,
       "publishedAt": "2025-01-26T04:22:02Z"
     },
     {
       "number": 90,
       "title": "Team play, play",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/90",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/90",
       "premium": false,
       "publishedAt": "2025-02-03T02:51:02Z"
     },
     {
       "number": 91,
       "title": "Final Form",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/91",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/91",
       "premium": false,
       "publishedAt": "2025-02-09T00:29:02Z"
     },
     {
       "number": 92,
       "title": "Dragonslayer",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/92",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/92",
       "premium": false,
       "publishedAt": "2025-02-16T04:15:02Z"
     },
     {
       "number": 93,
       "title": "Strength Stat at Max",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/93",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/93",
       "premium": false,
       "publishedAt": "2025-02-23T02:33:02Z"
     },
     {
       "number": 94,
       "title": "MP Exhaustion",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/94",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/94",
       "premium": false,
       "publishedAt": "2025-03-05T14:08:02Z"
     },
     {
       "number": 95,
       "title": "Awakening",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/95",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/95",
       "premium": false,
       "publishedAt": "2025-03-09T00:35:02Z"
     },
     {
       "number": 96,
       "title": "Border",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/96",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/96",
       "premium": false,
       "publishedAt": "2025-03-09T00:40:02Z"
     },
     {
       "number": 97,
       "title": "Dog Fight",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/97",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/97",
       "premium": false,
       "publishedAt": "2025-03-16T02:24:02Z"
     },
     {
       "number": 98,
       "title": "Great Legacy",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/98",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/98",
       "premium": false,
       "publishedAt": "2025-03-21T02:39:02Z"
     },
     {
       "number": 99,
       "title": "Do You Like Me?",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/99",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/99",
       "premium": false,
       "publishedAt": "2025-03-29T05:51:02Z"
     },
     {
       "number": 100,
       "title": "(Goodbyes)",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/100",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/100",
       "premium": false,
       "publishedAt": "2025-04-07T00:05:01Z"
     },
     {
       "number": 101,
       "title": "Guide",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/101",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/101",
       "premium": false,
       "publishedAt": "2025-04-11T23:46:02Z"
     },
     {
       "number": 102,
       "title": "Barbarian Road",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/102",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/102",
       "premium": false,
       "publishedAt": "2025-04-19T23:50:02Z"
     },
     {
       "number": 103,
       "title": "The King",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/103",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/103",
       "premium": false,
       "publishedAt": "2025-04-30T23:37:53Z"
     },
     {
       "number": 104,
       "title": "Scouting complete",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/104",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/104",
       "premium": false,
       "publishedAt": "2025-05-05T00:00:02Z"
     },
     {
       "number": 105,
       "title": "Establishing Dominance",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/105",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/105",
       "premium": false,
       "publishedAt": "2025-05-14T03:51:01Z"
     },
     {
       "number": 106,
       "title": "Mr. Lion",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/106",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/106",
       "premium": false,
       "publishedAt": "2025-05-21T23:54:02Z"
     },
     {
       "number": 107,
       "title": "Unemployed King",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/107",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/107",
       "premium": false,
       "publishedAt": "2025-05-28T22:54:20Z"
     },
     {
       "number": 108,
       "title": "Negotiation",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/108",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/108",
       "premium": false,
       "publishedAt": "2025-06-02T20:14:21Z"
     },
     {
       "number": 109,
       "title": "Exposed",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/109",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/109",
       "premium": false,
       "publishedAt": "2025-06-09T01:18:22Z"
     },
     {
       "number": 110,
       "title": "Rat",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/110",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/110",
       "premium": false,
       "publishedAt": "2025-06-20T04:40:57Z"
     },
     {
       "number": 111,
       "title": "Graduation {S2 END}",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/111",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/111",
       "premium": false,
       "publishedAt": "2025-06-25T03:00:47Z"
     },
     {
       "number": 112,
       "title": "Great Demonic Realm",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/112",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/112",
       "premium": false,
       "publishedAt": "2025-07-14T00:37:30Z"
     },
     {
       "number": 113,
       "title": "Pretty or Tasty",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/113",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/113",
       "premium": false,
       "publishedAt": "2025-07-23T23:04:28Z"
     },
     {
       "number": 114,
       "title": "Burning",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/114",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/114",
       "premium": false,
       "publishedAt": "2025-07-30T23:28:54Z"
     },
     {
       "number": 115,
       "title": "Unconfirmed Item",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/115",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/115",
       "premium": false,
       "publishedAt": "2025-08-03T00:11:42Z"
     },
     {
       "number": 116,
       "title": "Tank, Guide, Leader, Barbarian",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/116",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/116",
       "premium": false,
       "publishedAt": "2025-08-14T02:17:27Z"
     },
     {
       "number": 117,
       "title": "That  woman",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/117",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/117",
       "premium": false,
       "publishedAt": "2025-08-21T01:22:51Z"
     },
     {
       "number": 118,
       "title": "Amelia Reinweils",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/118",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/118",
       "premium": false,
       "publishedAt": "2025-09-16T22:27:21Z"
     },
     {
       "number": 119,
       "title": "Doppelgänger",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/119",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/119",
       "premium": false,
       "publishedAt": "2025-09-16T22:27:42Z"
     },
     {
       "number": 120,
       "title": "Confession",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/120",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/120",
       "premium": false,
       "publishedAt": "2025-09-16T22:27:56Z"
     },
     {
       "number": 121,
       "title": "Dice",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/121",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/121",
       "premium": false,
       "publishedAt": "2025-09-16T22:26:57Z"
     },
     {
       "number": 122,
       "title": "Broken Trust",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/122",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/122",
       "premium": false,
       "publishedAt": "2025-09-23T03:05:03Z"
     },
     {
       "number": 123,
       "title": "Crossroads Of Fate",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/123",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/123",
       "premium": false,
       "publishedAt": "2025-09-30T20:15:21Z"
     },
     {
       "number": 124,
       "title": "Aruru",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/124",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/124",
       "premium": false,
       "publishedAt": "2025-10-05T10:31:01Z"
     },
     {
       "number": 125,
       "title": "Overgeared",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/125",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/125",
       "premium": false,
       "publishedAt": "2025-10-13T23:31:17Z"
     },
     {
       "number": 126,
       "title": "Timing",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/126",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/126",
       "premium": false,
       "publishedAt": "2025-10-21T06:33:55Z"
     },
     {
       "number": 127,
       "title": "I’ve Always Wanted One Of These",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/127",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/127",
       "premium": false,
       "publishedAt": "2025-11-04T06:12:32Z"
     },
     {
       "number": 128,
       "title": "Vehell—a Federation",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/128",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/128",
       "premium": false,
       "publishedAt": "2025-11-04T06:12:42Z"
     },
     {
       "number": 129,
       "title": "Master",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/129",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/129",
       "premium": false,
       "publishedAt": "2025-11-09T23:41:48Z"
     },
     {
       "number": 130,
       "title": "Participation Prize",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/130",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/130",
       "premium": false,
       "publishedAt": "2025-11-18T01:54:15Z"
     },
     {
       "number": 131,
       "title": "Next time",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/131",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/131",
       "premium": false,
       "publishedAt": "2025-11-22T02:23:20Z"
     },
     {
       "number": 132,
       "title": "Interview",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/132",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/132",
       "premium": false,
       "publishedAt": "2025-11-30T23:36:19Z"
     },
     {
       "number": 133,
       "title": "Blessing and negotiation",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/133",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/133",
       "premium": false,
       "publishedAt": "2025-12-06T00:36:16Z"
     },
     {
       "number": 134,
       "title": "Short But Long ",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/134",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/134",
       "premium": false,
       "publishedAt": "2025-12-16T01:19:14Z"
     },
     {
       "number": 135,
       "title": "A Choice",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/135",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/135",
       "premium": false,
       "publishedAt": "2025-12-21T01:29:25Z"
     },
     {
       "number": 136,
       "title": "Hehehe",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/136",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/136",
       "premium": false,
       "publishedAt": "2025-12-28T01:47:50Z"
     },
     {
       "number": 137,
       "title": "Companion",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/137",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/137",
       "premium": false,
       "publishedAt": "2026-01-11T23:07:00Z"
     },
     {
       "number": 138,
       "title": "Get Through",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/138",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/138",
       "premium": false,
       "publishedAt": "2026-01-17T21:31:14Z"
     },
     {
       "number": 139,
       "title": "Clash",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/139",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/139",
       "premium": false,
       "publishedAt": "2026-01-25T02:22:15Z"
     },
     {
       "number": 140,
       "title": "A choice that must be made",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/140",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/140",
       "premium": false,
       "publishedAt": "2026-02-03T03:27:51Z"
     },
     {
       "number": 141,
       "title": "Lord",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/141",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/141",
       "premium": false,
       "publishedAt": "2026-02-11T18:37:19Z"
     },
     {
       "number": 142,
       "title": "A Mage’s Sense",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/142",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/142",
       "premium": false,
       "publishedAt": "2026-02-17T03:40:51Z"
     },
     {
       "number": 143,
       "title": "Promise",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/143",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/143",
       "premium": false,
       "publishedAt": "2026-02-25T03:05:52Z"
     },
     {
       "number": 144,
       "title": "He Who Takes the First Step",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/144",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/144",
       "premium": false,
       "publishedAt": "2026-03-04T17:15:24Z"
     },
     {
       "number": 145,
       "title": "A Warrior’s Smile",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/145",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/145",
       "premium": false,
       "publishedAt": "2026-03-07T21:10:37Z"
     },
     {
       "number": 146,
       "title": "Like Flames",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/146",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/146",
       "premium": false,
       "publishedAt": "2026-03-18T04:37:15Z"
     },
     {
       "number": 147,
       "title": "Someone I Know",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/147",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/147",
       "premium": false,
       "publishedAt": "2026-04-07T21:54:34.119Z"
     },
     {
       "number": 148,
       "title": "If There Is a Hell",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/148",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/148",
       "premium": false,
       "publishedAt": "2026-04-07T21:55:08.704Z"
     },
     {
       "number": 149,
       "title": "Leap",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/149",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/149",
       "premium": false,
       "publishedAt": "2026-04-07T22:03:03.756Z"
     },
     {
       "number": 150,
       "title": "Turning the Tables",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/150",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/150",
       "premium": false,
       "publishedAt": "2026-04-16T01:20:14.895Z"
     },
     {
       "number": 151,
       "title": "A Shame To Kill",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/151",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/151",
       "premium": false,
       "publishedAt": "2026-04-18T01:54:41.098Z"
     },
     {
       "number": 152,
       "title": "(Sole Victor) {S3 End}",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/152",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/152",
       "premium": false,
       "publishedAt": "2026-04-28T14:49:18.01Z"
     },
     {
       "number": 153,
       "title": "{S4 Start}",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/153",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/153",
       "premium": false,
       "publishedAt": "2026-08-26T18:30:17.119183Z"
     },
     {
       "number": 154,
       "title": "Survivors",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/154",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/154",
       "premium": false,
       "publishedAt": "2026-08-26T20:03:46.97222Z"
     },
     {
       "number": 155,
       "title": "New Age",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/155",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/155",
       "premium": false,
       "publishedAt": "2026-08-26T23:04:45.65286Z"
     },
     {
       "number": 156,
       "title": "Bloodlust",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/156",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/156",
       "premium": false,
       "publishedAt": "2026-08-26T23:04:51.231017Z"
     },
     {
       "number": 157,
       "title": "XX Is XXXXX",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/157",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/157",
       "premium": false,
       "publishedAt": "2026-08-27T03:28:40.185983Z"
     },
     {
       "number": 158,
       "title": "Approaching",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/158",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/158",
       "premium": false,
       "publishedAt": "2026-08-27T05:34:48.399736Z"
     },
     {
       "number": 159,
       "title": "Anticipation",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/159",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/159",
       "premium": false,
       "publishedAt": "2026-09-03T20:00:39.748653Z"
     },
     {
       "number": 160,
       "title": "Time to Get Stronger",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/160",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/160",
       "premium": false,
       "publishedAt": "2026-09-10T13:39:56.661405Z"
     },
     {
       "number": 161,
       "title": "Elevation",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/161",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/161",
       "premium": false,
       "publishedAt": "2026-09-17T12:46:26.569715Z"
     },
     {
       "number": 162,
       "title": "Anxiety Devours the Soul",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/162",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/162",
       "premium": false,
       "publishedAt": "2026-09-23T22:41:52.828125Z"
     },
     {
       "number": 163,
       "title": "Incompatibility",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/163",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/163",
       "premium": false,
       "publishedAt": "2026-10-01T00:14:26.213179Z"
     },
     {
       "number": 164,
-      "title": "Nometree",
-      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8/chapter/164",
+      "title": "Gnometree",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/164",
       "premium": false,
       "publishedAt": "2026-10-10T20:25:10.479251Z"
+    },
+    {
+      "number": 165,
+      "title": "Manners Maketh Man",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/165",
+      "premium": false,
+      "publishedAt": "2026-10-14T21:12:56.309521Z"
+    },
+    {
+      "number": 166,
+      "title": "What Are You Talking About?",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/166",
+      "premium": false,
+      "publishedAt": "2026-10-22T06:30:16.461745Z"
+    },
+    {
+      "number": 167,
+      "title": "An Uncultured Fellow",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/167",
+      "premium": false,
+      "publishedAt": "2026-10-29T03:15:53.31701Z"
+    },
+    {
+      "number": 168,
+      "title": "A New World",
+      "url": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/168",
+      "premium": false,
+      "publishedAt": "2026-11-06T19:42:33.670197Z"
     }
   ]
 }

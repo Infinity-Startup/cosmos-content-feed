@@ -3,904 +3,932 @@
   "provider": "asura",
   "titleId": "asura-manhwa-extras-academy",
   "seriesUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8",
-  "checkedAt": "2026-10-12T00:37:13.524167+00:00",
-  "chapterCount": 128,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 132,
   "chapters": [
     {
       "number": 0,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/0",
+      "title": "Prologue",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/0",
       "premium": false,
       "publishedAt": "2023-12-28T14:10:30Z"
     },
     {
       "number": 1,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/1",
+      "title": "Seven Days Before School Starts",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/1",
       "premium": false,
       "publishedAt": "2023-12-28T16:03:22Z"
     },
     {
       "number": 2,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/2",
+      "title": "The Day Before School Starts",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/2",
       "premium": false,
       "publishedAt": "2023-12-28T17:27:57Z"
     },
     {
       "number": 3,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/3",
+      "title": "Stray Cat",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/3",
       "premium": false,
       "publishedAt": "2023-12-28T22:05:53Z"
     },
     {
       "number": 4,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/4",
+      "title": "Joint Combat Training (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/4",
       "premium": false,
       "publishedAt": "2023-12-28T22:10:03Z"
     },
     {
       "number": 5,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/5",
+      "title": "Joint Combat Training (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/5",
       "premium": false,
       "publishedAt": "2023-12-29T04:58:45Z"
     },
     {
       "number": 6,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/6",
+      "title": "Golden Daughter (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/6",
       "premium": false,
       "publishedAt": "2023-12-29T04:59:18Z"
     },
     {
       "number": 7,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/7",
+      "title": "Golden Daughter (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/7",
       "premium": false,
       "publishedAt": "2024-01-10T14:34:58Z"
     },
     {
       "number": 8,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/8",
+      "title": "Glaskan Showdown (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/8",
       "premium": false,
       "publishedAt": "2024-01-22T09:13:20Z"
     },
     {
       "number": 9,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/9",
+      "title": "Glaskan Showdown (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/9",
       "premium": false,
       "publishedAt": "2024-01-22T09:14:20Z"
     },
     {
       "number": 10,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/10",
+      "title": "Glaskan Showdown (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/10",
       "premium": false,
       "publishedAt": "2024-01-31T15:30:28Z"
     },
     {
       "number": 11,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/11",
+      "title": "Glaskan Showdown (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/11",
       "premium": false,
       "publishedAt": "2024-02-04T17:45:18Z"
     },
     {
       "number": 12,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/12",
+      "title": "Janica Faylover",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/12",
       "premium": false,
       "publishedAt": "2024-02-14T13:05:50Z"
     },
     {
       "number": 13,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/13",
+      "title": "The Ophilis Hall Occupation (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/13",
       "premium": false,
       "publishedAt": "2024-03-18T11:15:50Z"
     },
     {
       "number": 14,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/14",
+      "title": "The Ophilis Hall Occupation (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/14",
       "premium": false,
       "publishedAt": "2024-03-18T11:17:50Z"
     },
     {
       "number": 15,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/15",
+      "title": "The Ophilis Hall Occupation (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/15",
       "premium": false,
       "publishedAt": "2024-03-03T12:11:21Z"
     },
     {
       "number": 16,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/16",
+      "title": "The Ophilis Hall Occupation (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/16",
       "premium": false,
       "publishedAt": "2024-03-14T13:39:25Z"
     },
     {
       "number": 17,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/17",
+      "title": "The Ophilis Hall Occupation (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/17",
       "premium": false,
       "publishedAt": "2024-03-20T14:21:38Z"
     },
     {
       "number": 18,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/18",
+      "title": "The Ophilis Hall Occupation (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/18",
       "premium": false,
       "publishedAt": "2024-03-28T17:56:32Z"
     },
     {
       "number": 19,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/19",
+      "title": "The Ophilis Hall Occupation (7)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/19",
       "premium": false,
       "publishedAt": "2024-04-03T03:45:57Z"
     },
     {
       "number": 20,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/20",
+      "title": "The Ophilis Hall Occupation (8)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/20",
       "premium": false,
       "publishedAt": "2024-04-10T14:32:44Z"
     },
     {
       "number": 21,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/21",
+      "title": "The Ophilis Hall Occupation (9)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/21",
       "premium": false,
       "publishedAt": "2024-04-17T04:12:13Z"
     },
     {
       "number": 22,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/22",
+      "title": "Cats, Cats, Cats",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/22",
       "premium": false,
       "publishedAt": "2024-04-29T12:25:31Z"
     },
     {
       "number": 23,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/23",
+      "title": "Not Just Anyone Can Be a Professor",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/23",
       "premium": false,
       "publishedAt": "2024-04-29T12:27:06Z"
     },
     {
       "number": 24,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/24",
+      "title": "The Battle for the Sage's Sealed Grimoire (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/24",
       "premium": false,
       "publishedAt": "2024-05-08T11:44:42Z"
     },
     {
       "number": 25,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/25",
+      "title": "The Battle for the Sage's Sealed Grimoire (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/25",
       "premium": false,
       "publishedAt": "2024-05-11T15:24:44Z"
     },
     {
       "number": 26,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/26",
+      "title": "The Battle for the Sage's Sealed Grimoire (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/26",
       "premium": false,
       "publishedAt": "2024-05-23T14:43:13Z"
     },
     {
       "number": 27,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/27",
+      "title": "The Battle for the Sage's Sealed Grimoire (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/27",
       "premium": false,
       "publishedAt": "2024-05-27T23:22:34Z"
     },
     {
       "number": 28,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/28",
+      "title": "Glast Showdown (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/28",
       "premium": false,
       "publishedAt": "2024-06-09T22:14:32Z"
     },
     {
       "number": 29,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/29",
+      "title": "Glast Showdown (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/29",
       "premium": false,
       "publishedAt": "2024-06-18T10:49:13Z"
     },
     {
       "number": 30,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/30",
+      "title": "Glast Showdown (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/30",
       "premium": false,
       "publishedAt": "2024-06-17T20:06:48Z"
     },
     {
       "number": 31,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/31",
+      "title": "Glast Showdown (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/31",
       "premium": false,
       "publishedAt": "2024-06-25T17:38:13Z"
     },
     {
       "number": 32,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/32",
+      "title": "Glast Showdown (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/32",
       "premium": false,
       "publishedAt": "2024-07-02T23:43:40Z"
     },
     {
       "number": 33,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/33",
+      "title": "Glast Showdown (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/33",
       "premium": false,
       "publishedAt": "2024-07-09T21:50:25Z"
     },
     {
       "number": 34,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/34",
+      "title": "Glast Showdown (7)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/34",
       "premium": false,
       "publishedAt": "2024-07-17T14:06:54Z"
     },
     {
       "number": 35,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/35",
+      "title": "Glast Showdown (8)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/35",
       "premium": false,
       "publishedAt": "2024-07-24T12:56:54Z"
     },
     {
       "number": 36,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/36",
+      "title": "Lucy Maeril",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/36",
       "premium": false,
       "publishedAt": "2024-08-02T03:03:28Z"
     },
     {
       "number": 37,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/37",
+      "title": "Surviving the Winter (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/37",
       "premium": false,
       "publishedAt": "2024-08-05T16:05:51Z"
     },
     {
       "number": 38,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/38",
+      "title": "Surviving the Winter (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/38",
       "premium": false,
       "publishedAt": "2024-08-15T00:51:42Z"
     },
     {
       "number": 39,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/39",
+      "title": "Surviving the Winter (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/39",
       "premium": false,
       "publishedAt": "2024-08-19T22:59:50Z"
     },
     {
       "number": 40,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/40",
+      "title": "Surviving the Winter (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/40",
       "premium": false,
       "publishedAt": "2024-08-29T13:26:03Z"
     },
     {
       "number": 41,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/41",
+      "title": "Surviving the Winter (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/41",
       "premium": false,
       "publishedAt": "2024-09-03T18:59:00Z"
     },
     {
       "number": 42,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/42",
+      "title": "The Freshman Class Placement Exam (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/42",
       "premium": false,
       "publishedAt": "2024-09-10T11:20:04Z"
     },
     {
       "number": 43,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/43",
+      "title": "The Freshman Class Placement Exam (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/43",
       "premium": false,
       "publishedAt": "2024-09-16T11:49:33Z"
     },
     {
       "number": 44,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/44",
+      "title": "The Freshman Class Placement Exam (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/44",
       "premium": false,
       "publishedAt": "2024-09-24T17:23:53Z"
     },
     {
       "number": 45,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/45",
+      "title": "The Freshman Class Placement Exam (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/45",
       "premium": false,
       "publishedAt": "2024-10-01T20:19:45Z"
     },
     {
       "number": 46,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/46",
+      "title": "Come, Spring (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/46",
       "premium": false,
       "publishedAt": "2024-10-07T21:57:13Z"
     },
     {
       "number": 47,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/47",
+      "title": "Come, Spring (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/47",
       "premium": false,
       "publishedAt": "2024-10-14T06:09:21Z"
     },
     {
       "number": 48,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/48",
+      "title": "Come, Spring (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/48",
       "premium": false,
       "publishedAt": "2024-10-20T18:21:24Z"
     },
     {
       "number": 49,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/49",
+      "title": "Come, Spring (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/49",
       "premium": false,
       "publishedAt": "2024-10-31T16:33:34Z"
     },
     {
       "number": 50,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/50",
+      "title": "The Student Council Presidential Election: Part I (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/50",
       "premium": false,
       "publishedAt": "2024-11-02T18:37:36Z"
     },
     {
       "number": 51,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/51",
+      "title": "The Student Council Presidential Election: Part I (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/51",
       "premium": false,
       "publishedAt": "2024-11-10T14:45:03Z"
     },
     {
       "number": 52,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/52",
+      "title": "The Student Council Presidential Election: Part I (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/52",
       "premium": false,
       "publishedAt": "2024-11-17T22:02:53Z"
     },
     {
       "number": 53,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/53",
+      "title": "The Student Council Presidential Election: Part I (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/53",
       "premium": false,
       "publishedAt": "2024-11-24T15:04:40Z"
     },
     {
       "number": 54,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/54",
+      "title": "The Student Council Presidential Election: Part I (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/54",
       "premium": false,
       "publishedAt": "2024-12-01T15:14:50Z"
     },
     {
       "number": 55,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/55",
+      "title": "The Student Council Presidential Election: Part I (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/55",
       "premium": false,
       "publishedAt": "2024-12-06T05:33:38Z"
     },
     {
       "number": 56,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/56",
+      "title": "The Student Council Presidential Election: Part I (7)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/56",
       "premium": false,
       "publishedAt": "2024-12-13T16:40:52Z"
     },
     {
       "number": 57,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/57",
+      "title": "The Student Council Presidential Election: Part I (8)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/57",
       "premium": false,
       "publishedAt": "2024-12-21T21:30:19Z"
     },
     {
       "number": 58,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/58",
+      "title": "The Student Council Presidential Election: Part I (9)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/58",
       "premium": false,
       "publishedAt": "2024-12-29T12:53:59Z"
     },
     {
       "number": 59,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/59",
+      "title": "The Student Council Presidential Election: Part II (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/59",
       "premium": false,
       "publishedAt": "2025-01-06T00:01:02Z"
     },
     {
       "number": 60,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/60",
+      "title": "The Student Council Presidential Election: Part II (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/60",
       "premium": false,
       "publishedAt": "2025-01-12T06:02:58Z"
     },
     {
       "number": 61,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/61",
+      "title": "The Student Council Presidential Election: Part II (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/61",
       "premium": false,
       "publishedAt": "2025-01-19T07:31:39Z"
     },
     {
       "number": 62,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/62",
+      "title": "The Student Council Presidential Election: Part II (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/62",
       "premium": false,
       "publishedAt": "2025-01-25T11:34:27Z"
     },
     {
       "number": 63,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/63",
+      "title": "The Student Council Presidential Election: Part II (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/63",
       "premium": false,
       "publishedAt": "2025-02-02T09:20:19Z"
     },
     {
       "number": 64,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/64",
+      "title": "The Student Council Presidential Election: Part II (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/64",
       "premium": false,
       "publishedAt": "2025-02-09T06:10:44Z"
     },
     {
       "number": 65,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/65",
+      "title": "Excuse Me, Miss Janica (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/65",
       "premium": false,
       "publishedAt": "2025-02-16T10:06:07Z"
     },
     {
       "number": 66,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/66",
+      "title": "Excuse Me, Miss Janica (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/66",
       "premium": false,
       "publishedAt": "2025-02-23T12:26:35Z"
     },
     {
       "number": 67,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/67",
+      "title": "The Day the Archmage Died",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/67",
       "premium": false,
       "publishedAt": "2025-03-01T14:15:55Z"
     },
     {
       "number": 68,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/68",
+      "title": "Joint Combat Training 2 (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/68",
       "premium": false,
       "publishedAt": "2025-03-10T05:41:43Z"
     },
     {
       "number": 69,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/69",
+      "title": "Joint Combat Training 2 (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/69",
       "premium": false,
       "publishedAt": "2025-03-14T19:15:38Z"
     },
     {
       "number": 70,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/70",
+      "title": "Joint Combat Training 2 (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/70",
       "premium": false,
       "publishedAt": "2025-03-22T11:52:50Z"
     },
     {
       "number": 71,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/71",
+      "title": "Joint Combat Training 2 (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/71",
       "premium": false,
       "publishedAt": "2025-03-30T17:13:05Z"
     },
     {
       "number": 72,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/72",
+      "title": "Joint Combat Training 2 (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/72",
       "premium": false,
       "publishedAt": "2025-04-06T22:04:15Z"
     },
     {
       "number": 73,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/73",
+      "title": "Joint Combat Training 2 (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/73",
       "premium": false,
       "publishedAt": "2025-04-13T09:59:19Z"
     },
     {
       "number": 74,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/74",
+      "title": "Joint Combat Training 2 (7)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/74",
       "premium": false,
       "publishedAt": "2025-04-21T23:22:40Z"
     },
     {
       "number": 75,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/75",
+      "title": "Joint Combat Training 2 (8)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/75",
       "premium": false,
       "publishedAt": "2025-04-29T03:50:04Z"
     },
     {
       "number": 76,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/76",
+      "title": "Joint Combat Training 2 (9)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/76",
       "premium": false,
       "publishedAt": "2025-05-04T13:09:24Z"
     },
     {
       "number": 77,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/77",
+      "title": "Joint Combat Training 2 (10)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/77",
       "premium": false,
       "publishedAt": "2025-05-11T13:13:29Z"
     },
     {
       "number": 78,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/78",
+      "title": "Joint Combat Training 2 (11)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/78",
       "premium": false,
       "publishedAt": "2025-05-18T21:15:02Z"
     },
     {
       "number": 79,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/79",
+      "title": "Joint Combat Training 2 (12)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/79",
       "premium": false,
       "publishedAt": "2025-05-26T22:00:02Z"
     },
     {
       "number": 80,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/80",
+      "title": "Joint Combat Training 2 (13)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/80",
       "premium": false,
       "publishedAt": "2025-06-02T23:52:12Z"
     },
     {
       "number": 81,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/81",
+      "title": "Joint Combat Training 2 (14)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/81",
       "premium": false,
       "publishedAt": "2025-06-09T21:28:25Z"
     },
     {
       "number": 82,
-      "title": "S1 -END-",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/82",
+      "title": "Joint Combat Training 2 (15) (Season 1 Finale)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/82",
       "premium": false,
       "publishedAt": "2025-06-17T23:25:22Z"
     },
     {
       "number": 83,
-      "title": "S2 -Start-",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/83",
+      "title": "Three Gold Coins (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/83",
       "premium": false,
       "publishedAt": "2026-01-22T17:56:06Z"
     },
     {
       "number": 84,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/84",
+      "title": "Three Gold Coins (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/84",
       "premium": false,
       "publishedAt": "2026-01-22T19:00:25Z"
     },
     {
       "number": 85,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/85",
+      "title": "Three Gold Coins (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/85",
       "premium": false,
       "publishedAt": "2026-01-22T23:22:13Z"
     },
     {
       "number": 86,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/86",
+      "title": "End-of-Semester Evaluation (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/86",
       "premium": false,
       "publishedAt": "2026-01-23T00:09:14Z"
     },
     {
       "number": 87,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/87",
+      "title": "End-of-Semester Evaluation (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/87",
       "premium": false,
       "publishedAt": "2026-01-23T17:07:15Z"
     },
     {
       "number": 88,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/88",
+      "title": "End-of-Semester Evaluation (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/88",
       "premium": false,
       "publishedAt": "2026-01-23T21:44:14Z"
     },
     {
       "number": 89,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/89",
+      "title": "End-of-Semester Evaluation (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/89",
       "premium": false,
       "publishedAt": "2026-01-30T11:26:14Z"
     },
     {
       "number": 90,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/90",
+      "title": "End-of-Semester Evaluation (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/90",
       "premium": false,
       "publishedAt": "2026-02-07T13:44:28Z"
     },
     {
       "number": 91,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/91",
+      "title": "A Triumphant Homecoming (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/91",
       "premium": false,
       "publishedAt": "2026-02-07T20:36:14Z"
     },
     {
       "number": 92,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/92",
+      "title": "A Triumphant Homecoming (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/92",
       "premium": false,
       "publishedAt": "2026-02-13T22:44:54Z"
     },
     {
       "number": 93,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/93",
+      "title": "A Triumphant Homecoming (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/93",
       "premium": false,
       "publishedAt": "2026-02-21T05:27:43Z"
     },
     {
       "number": 94,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/94",
+      "title": "A Triumphant Homecoming (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/94",
       "premium": false,
       "publishedAt": "2026-02-26T22:57:18Z"
     },
     {
       "number": 95,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/95",
+      "title": "Krepin Showdown (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/95",
       "premium": false,
       "publishedAt": "2026-02-27T04:32:28Z"
     },
     {
       "number": 96,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/96",
+      "title": "Krepin Showdown (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/96",
       "premium": false,
       "publishedAt": "2026-03-08T14:29:25Z"
     },
     {
       "number": 97,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/97",
+      "title": "Krepin Showdown (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/97",
       "premium": false,
       "publishedAt": "2026-03-13T04:58:25Z"
     },
     {
       "number": 98,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/98",
+      "title": "Krepin Showdown (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/98",
       "premium": false,
       "publishedAt": "2026-03-29T14:25:52.969Z"
     },
     {
       "number": 99,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/99",
+      "title": "Krepin Showdown (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/99",
       "premium": false,
       "publishedAt": "2026-03-29T20:30:37.634Z"
     },
     {
       "number": 100,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/100",
+      "title": "Krepin Showdown (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/100",
       "premium": false,
       "publishedAt": "2026-04-04T12:50:36.171Z"
     },
     {
       "number": 101,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/101",
+      "title": "Krepin Showdown (7)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/101",
       "premium": false,
       "publishedAt": "2026-04-10T11:29:36.988Z"
     },
     {
       "number": 102,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/102",
+      "title": "The Battle for Ed Rothtaylor (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/102",
       "premium": false,
       "publishedAt": "2026-04-17T05:23:39.308Z"
     },
     {
       "number": 103,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/103",
+      "title": "The Battle for Ed Rothtaylor (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/103",
       "premium": false,
       "publishedAt": "2026-04-26T20:08:28.758Z"
     },
     {
       "number": 104,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/104",
+      "title": "The Wolf's Melancholy (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/104",
       "premium": false,
       "publishedAt": "2026-05-02T14:50:17.133Z"
     },
     {
       "number": 105,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/105",
+      "title": "The Wolf's Melancholy (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/105",
       "premium": false,
       "publishedAt": "2026-05-08T01:32:20.031Z"
     },
     {
       "number": 106,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/106",
+      "title": "Now Hold On, Miss Janica (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/106",
       "premium": false,
       "publishedAt": "2026-05-14T20:48:48.102Z"
     },
     {
       "number": 107,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/107",
+      "title": "Now Hold On, Miss Janica (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/107",
       "premium": false,
       "publishedAt": "2026-05-21T15:54:41.576Z"
     },
     {
       "number": 108,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/108",
+      "title": "Retaking the Elte Trading Company (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/108",
       "premium": false,
       "publishedAt": "2026-05-28T19:07:15.664Z"
     },
     {
       "number": 109,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/109",
+      "title": "Retaking the Elte Trading Company (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/109",
       "premium": false,
       "publishedAt": "2026-06-04T22:09:11.315085Z"
     },
     {
       "number": 110,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/110",
+      "title": "Retaking the Elte Trading Company (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/110",
       "premium": false,
       "publishedAt": "2026-06-11T22:06:37.478322Z"
     },
     {
       "number": 111,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/111",
+      "title": "Retaking the Elte Trading Company (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/111",
       "premium": false,
       "publishedAt": "2026-06-18T18:14:49.916749Z"
     },
     {
       "number": 112,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/112",
+      "title": "Retaking the Elte Trading Company (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/112",
       "premium": false,
       "publishedAt": "2026-06-26T02:22:11.830583Z"
     },
     {
       "number": 113,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/113",
+      "title": "Ed Showdown (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/113",
       "premium": false,
       "publishedAt": "2026-07-03T02:34:39.18037Z"
     },
     {
       "number": 114,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/114",
+      "title": "Ed Showdown (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/114",
       "premium": false,
       "publishedAt": "2026-07-10T01:38:15.703157Z"
     },
     {
       "number": 115,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/115",
+      "title": "Ed Showdown (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/115",
       "premium": false,
       "publishedAt": "2026-07-17T01:15:15.730748Z"
     },
     {
       "number": 116,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/116",
+      "title": "Ed Showdown (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/116",
       "premium": false,
       "publishedAt": "2026-07-23T20:46:51.408388Z"
     },
     {
       "number": 117,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/117",
+      "title": "Ed Showdown (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/117",
       "premium": false,
       "publishedAt": "2026-07-30T22:34:36.850982Z"
     },
     {
       "number": 118,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/118",
+      "title": "Ed Showdown (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/118",
       "premium": false,
       "publishedAt": "2026-08-06T16:39:54.75605Z"
     },
     {
       "number": 119,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/119",
+      "title": "Ed Showdown (7)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/119",
       "premium": false,
       "publishedAt": "2026-08-13T18:27:31.01631Z"
     },
     {
       "number": 120,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/120",
+      "title": "After the Long Night (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/120",
       "premium": false,
       "publishedAt": "2026-08-20T19:26:53.153422Z"
     },
     {
       "number": 121,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/121",
+      "title": "After the Long Night (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/121",
       "premium": false,
       "publishedAt": "2026-08-27T18:15:52.860376Z"
     },
     {
       "number": 122,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/122",
+      "title": "I Knew This Would Happen (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/122",
       "premium": false,
       "publishedAt": "2026-09-04T10:39:55.033009Z"
     },
     {
       "number": 123,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/123",
+      "title": "I Knew This Would Happen (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/123",
       "premium": false,
       "publishedAt": "2026-09-10T19:44:30.855846Z"
     },
     {
       "number": 124,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/124",
+      "title": "I Knew This Would Happen (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/124",
       "premium": false,
       "publishedAt": "2026-09-17T19:32:17.042618Z"
     },
     {
       "number": 125,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/125",
+      "title": "I Knew This Would Happen (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/125",
       "premium": false,
       "publishedAt": "2026-09-24T19:55:57.39318Z"
     },
     {
       "number": 126,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/126",
+      "title": "Giving Meaning (1)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/126",
       "premium": false,
       "publishedAt": "2026-10-05T16:59:36.474374Z"
     },
     {
       "number": 127,
-      "title": "",
-      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8/chapter/127",
+      "title": "Giving Meaning (2)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/127",
       "premium": false,
       "publishedAt": "2026-10-11T06:50:12.507841Z"
+    },
+    {
+      "number": 128,
+      "title": "Giving Meaning (3)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/128",
+      "premium": false,
+      "publishedAt": "2026-10-15T21:12:42.627729Z"
+    },
+    {
+      "number": 129,
+      "title": "Giving Meaning (4)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/129",
+      "premium": false,
+      "publishedAt": "2026-10-22T21:45:26.445994Z"
+    },
+    {
+      "number": 130,
+      "title": "Giving Meaning (5)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/130",
+      "premium": false,
+      "publishedAt": "2026-10-30T03:19:18.160583Z"
+    },
+    {
+      "number": 131,
+      "title": "Giving Meaning (6)",
+      "url": "https://asurascans.com/comics/the-extras-academy-survival-guide-f212c582/chapter/131",
+      "premium": false,
+      "publishedAt": "2026-11-06T17:24:00.308507Z"
     }
   ]
 }

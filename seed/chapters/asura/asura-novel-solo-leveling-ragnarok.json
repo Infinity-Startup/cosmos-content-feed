@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-solo-leveling-ragnarok",
   "seriesUrl": "https://asurascans.com/novels/solo-leveling-ragnarok",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 176,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 179,
   "chapters": [
     {
       "number": 0,
@@ -1235,6 +1235,27 @@
       "number": 175,
       "title": "",
       "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "",
+      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "",
+      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "",
+      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/178",
       "premium": false,
       "publishedAt": null
     }

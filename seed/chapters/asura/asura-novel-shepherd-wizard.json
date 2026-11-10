@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-shepherd-wizard",
   "seriesUrl": "https://asurascans.com/novels/the-shepherd-wizard",
-  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
-  "chapterCount": 122,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 203,
   "chapters": [
     {
       "number": 0,
@@ -857,6 +857,573 @@
       "number": 121,
       "title": "",
       "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/123",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 124,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/128",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 129,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/129",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 130,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/130",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 131,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/131",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 132,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/134",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 135,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/135",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 136,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/136",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 137,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/137",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 138,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/138",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 139,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/139",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 140,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/140",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 141,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/141",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 142,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/142",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 143,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/143",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 144,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/144",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 145,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/145",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 146,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/146",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 147,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/147",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 148,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/148",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 149,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/149",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 150,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/150",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 151,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/151",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 152,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/152",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 153,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/153",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 154,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/154",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 155,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/155",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 156,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/156",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 157,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/157",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 158,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/158",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 159,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/159",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 160,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/160",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 161,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/161",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 162,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/162",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 163,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/163",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 164,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/164",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 165,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/165",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 166,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/166",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 167,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/167",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 168,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/168",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 169,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/169",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 170,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/181",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 182,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/182",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 183,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/183",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 184,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/184",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 185,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/185",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 186,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/186",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 187,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/187",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 188,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/188",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 189,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/189",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 190,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/190",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 191,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/191",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 192,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/192",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 193,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/193",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 194,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/194",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 195,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/195",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 196,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/196",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 197,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/197",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 198,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/198",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 199,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/199",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 200,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/200",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 201,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/201",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 202,
+      "title": "",
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/202",
       "premium": false,
       "publishedAt": null
     }

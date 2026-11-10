@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-black-badger",
   "seriesUrl": "https://asurascans.com/novels/black-badger",
-  "checkedAt": "2026-10-11T12:21:26.879929+00:00",
-  "chapterCount": 109,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 174,
   "chapters": [
     {
       "number": 1,
@@ -766,6 +766,461 @@
       "number": 109,
       "title": "Year-End Party (2)",
       "url": "https://asurascans.com/novels/black-badger/chapter/109",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 110,
+      "title": "Year-End Party (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/110",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 111,
+      "title": "Birthday Party (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/111",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 112,
+      "title": "Birthday Party (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "Emergency Mobilization (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "Emergency Mobilization (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "Emergency Mobilization (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/115",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 116,
+      "title": "Emergency Mobilization (4)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/116",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 117,
+      "title": "Encounter (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/117",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 118,
+      "title": "Encounter (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 119,
+      "title": "Encounter (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/119",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 120,
+      "title": "Resolve (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/120",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 121,
+      "title": "Resolve (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "Resolve (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "Eric Earhart (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/123",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 124,
+      "title": "Eric Earhart (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "Eric Earhart (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "Be on Time! (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "Be on Time! (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "Be on Time! (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/128",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 129,
+      "title": "Be on Time! (4)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/129",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 130,
+      "title": "Promotion Exam (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/130",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 131,
+      "title": "Promotion Exam (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/131",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 132,
+      "title": "Promotion Exam (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "Promotion Exam (4)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "Official Announcement (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/134",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 135,
+      "title": "Official Announcement (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/135",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 136,
+      "title": "Official Announcement (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/136",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 137,
+      "title": "Confession (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/137",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 138,
+      "title": "Confession (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/138",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 139,
+      "title": "Original Sin (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/139",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 140,
+      "title": "Original Sin (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/140",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 141,
+      "title": "Original Sin (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/141",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 142,
+      "title": "Vintage (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/142",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 143,
+      "title": "Vintage (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/143",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 144,
+      "title": "The Room of Dreams (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/144",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 145,
+      "title": "The Room of Dreams (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/145",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 146,
+      "title": "The Room of Dreams (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/146",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 147,
+      "title": "The Room of Dreams (4)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/147",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 148,
+      "title": "A Small Step Forward (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/148",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 149,
+      "title": "A Small Step Forward (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/149",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 150,
+      "title": "A Small Step Forward (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/150",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 151,
+      "title": "Festival Preparations (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/151",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 152,
+      "title": "Festival Preparations (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/152",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 153,
+      "title": "Festival Preparations (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/153",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 154,
+      "title": "Chivalry or Overbearing Seniority (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/154",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 155,
+      "title": "Chivalry or Overbearing Seniority (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/155",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 156,
+      "title": "The Day the Sky Closed (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/156",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 157,
+      "title": "The Day the Sky Closed (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/157",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 158,
+      "title": "The Day the Sky Closed (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/158",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 159,
+      "title": "The Day the Sky Closed (4)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/159",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 160,
+      "title": "A Tale of the Past, New Knights and Moonlight Garnet (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/160",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 161,
+      "title": "A Tale of the Past, New Knights and Moonlight Garnet (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/161",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 162,
+      "title": "A Tale of the Past, New Knights and Moonlight Garnet (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/162",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 163,
+      "title": "A Tale of the Past, Knights and the World Tree (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/163",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 164,
+      "title": "A Tale of the Past, Knights and the World Tree (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/164",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 165,
+      "title": "A Tale of the Past, Knights and the World Tree (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/165",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 166,
+      "title": "A Tale of the Past, the Knight Commander and the World (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/166",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 167,
+      "title": "A Tale of the Past, the Knight Commander and the World (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/167",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 168,
+      "title": "A Tale of the Past, the Knight Commander and the World (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/168",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 169,
+      "title": "A Tale of the Past, the End",
+      "url": "https://asurascans.com/novels/black-badger/chapter/169",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 170,
+      "title": "Land-Reclamation Campaign (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "Land-Reclamation Campaign (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "Land-Reclamation Campaign (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "War Is (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "War Is (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/174",
       "premium": false,
       "publishedAt": null
     }

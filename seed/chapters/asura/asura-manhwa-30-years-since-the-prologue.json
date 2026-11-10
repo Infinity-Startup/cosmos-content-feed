@@ -3,7 +3,7 @@
   "provider": "asura",
   "titleId": "asura-manhwa-30-years-since-the-prologue",
   "seriesUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582",
-  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
   "chapterCount": 24,
   "chapters": [
     {
@@ -171,7 +171,7 @@
       "number": 24,
       "title": "Stalker vs. Stalker (1)",
       "url": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582/chapter/24",
-      "premium": true,
+      "premium": false,
       "publishedAt": "2026-11-09T03:12:00.485979Z"
     }
   ]

@@ -1,0 +1,542 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "titles": {
+    "regressor-blind-saint": {
+      "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
+      "chapterCount": 159,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0
+    },
+    "asura-novel-first-prince": {
+      "seriesUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song",
+      "chapterCount": 297,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-raising-villains": {
+      "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
+      "chapterCount": 243,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-black-badger": {
+      "seriesUrl": "https://asurascans.com/novels/black-badger",
+      "chapterCount": 174,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-demon-king": {
+      "seriesUrl": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes",
+      "chapterCount": 260,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-copying-skills": {
+      "seriesUrl": "https://asurascans.com/novels/copying-skills-with-affinity",
+      "chapterCount": 169,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-ode-brave": {
+      "seriesUrl": "https://asurascans.com/novels/ode-of-the-brave",
+      "chapterCount": 189,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-solo-swordmaster": {
+      "seriesUrl": "https://asurascans.com/novels/solo-swordmaster",
+      "chapterCount": 284,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-star-swordmaster": {
+      "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
+      "chapterCount": 269,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-regressing-knight": {
+      "seriesUrl": "https://asurascans.com/novels/eternally-regressing-knight",
+      "chapterCount": 609,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-shepherd-wizard": {
+      "seriesUrl": "https://asurascans.com/novels/the-shepherd-wizard",
+      "chapterCount": 203,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0
+    },
+    "asura-manhwa-barbarian": {
+      "seriesUrl": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8",
+      "chapterCount": 168,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T19:42:33.670197Z"
+    },
+    "asura-manhwa-regressed-mercenary": {
+      "seriesUrl": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-bd5bdaf8",
+      "chapterCount": 114,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-02T15:35:18.58586Z"
+    },
+    "asura-manhwa-pick-me-up": {
+      "seriesUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-bd5bdaf8",
+      "chapterCount": 226,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-04T14:50:27.409485Z"
+    },
+    "asura-manhwa-overgeared": {
+      "seriesUrl": "https://asurascans.com/comics/overgeared-bd5bdaf8",
+      "chapterCount": 348,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T21:29:48.144822Z"
+    },
+    "asura-manhwa-suicide-hunter": {
+      "seriesUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8",
+      "chapterCount": 158,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T15:59:37.608297Z"
+    },
+    "asura-manhwa-myst-might-mayhem": {
+      "seriesUrl": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8",
+      "chapterCount": 123,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-02T16:07:30.756811Z"
+    },
+    "asura-manhwa-mount-hua": {
+      "seriesUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8",
+      "chapterCount": 192,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-03T17:33:48.488671Z"
+    },
+    "asura-manhwa-deadbeat-noble": {
+      "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
+      "chapterCount": 167,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T00:45:16.166481Z"
+    },
+    "asura-manhwa-swordmaster-son": {
+      "seriesUrl": "https://asurascans.com/comics/swordmasters-youngest-son-bd5bdaf8",
+      "chapterCount": 220,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T16:53:18.962207Z"
+    },
+    "asura-manhwa-estate-developer": {
+      "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
+      "chapterCount": 223,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-03-19T01:28:20Z"
+    },
+    "asura-manhwa-infinite-mage": {
+      "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
+      "chapterCount": 192,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-10-27T15:09:45.806194Z"
+    },
+    "asura-manhwa-nano-machine": {
+      "seriesUrl": "https://asurascans.com/comics/nano-machine-bd5bdaf8",
+      "chapterCount": 337,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T04:42:20.425701Z"
+    },
+    "asura-manhwa-absolute-sword-sense": {
+      "seriesUrl": "https://asurascans.com/comics/absolute-sword-sense-bd5bdaf8",
+      "chapterCount": 208,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-02T18:24:57.971174Z"
+    },
+    "asura-manhwa-iron-blooded-sword-hound": {
+      "seriesUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-bd5bdaf8",
+      "chapterCount": 188,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T15:54:34.874825Z"
+    },
+    "asura-manhwa-helmut": {
+      "seriesUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8",
+      "chapterCount": 139,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T14:43:37.598Z"
+    },
+    "asura-novel-grimoire": {
+      "seriesUrl": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard",
+      "chapterCount": 132,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-cultivation-demon-extermination": {
+      "seriesUrl": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination",
+      "chapterCount": 177,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-martial-genius": {
+      "seriesUrl": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything",
+      "chapterCount": 359,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-girlfriend-dragon": {
+      "seriesUrl": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon",
+      "chapterCount": 141,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-newbie-civil-servant": {
+      "seriesUrl": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home",
+      "chapterCount": 170,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-manhwa-childhood-zenith": {
+      "seriesUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-1bb35e56",
+      "chapterCount": 114,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T14:07:37.402988Z"
+    },
+    "asura-manhwa-star-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/star-embracing-swordmaster-bd5bdaf8",
+      "chapterCount": 145,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T18:11:37.091148Z"
+    },
+    "asura-manhwa-extras-academy": {
+      "seriesUrl": "https://asurascans.com/comics/the-extras-academy-survival-guide-bd5bdaf8",
+      "chapterCount": 132,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T17:24:00.308507Z"
+    },
+    "asura-manhwa-returned-player": {
+      "seriesUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-bd5bdaf8",
+      "chapterCount": 166,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T14:26:14.983382Z"
+    },
+    "asura-manhwa-steel-eating": {
+      "seriesUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8",
+      "chapterCount": 117,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-04T11:59:23.079899Z"
+    },
+    "asura-novel-scheming-demon": {
+      "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
+      "chapterCount": 198,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0
+    },
+    "asura-novel-limitless-predation": {
+      "seriesUrl": "https://asurascans.com/novels/limitless-predation",
+      "chapterCount": 205,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-gallery-wild": {
+      "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
+      "chapterCount": 205,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-dungeon-painter": {
+      "seriesUrl": "https://asurascans.com/novels/a-painter-who-draws-dungeons",
+      "chapterCount": 310,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-roleplayer": {
+      "seriesUrl": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer",
+      "chapterCount": 295,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-manhwa-murim-login": {
+      "seriesUrl": "https://asurascans.com/comics/murim-login-ab39de10",
+      "chapterCount": 253,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T17:31:06.44873Z"
+    },
+    "asura-manhwa-absolute-regression": {
+      "seriesUrl": "https://asurascans.com/comics/absolute-regression-ab39de10",
+      "chapterCount": 126,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-02T15:25:54.672035Z"
+    },
+    "asura-manhwa-reincarnation-of-the-fist-king": {
+      "seriesUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10",
+      "chapterCount": 77,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T12:21:41.92423Z"
+    },
+    "asura-manhwa-return-of-the-unrivaled-spear-knight": {
+      "seriesUrl": "https://asurascans.com/comics/return-of-the-unrivaled-spear-knight-ab39de10",
+      "chapterCount": 223,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T11:05:21.162394Z"
+    },
+    "asura-manhwa-regressing-with-the-kings-power": {
+      "seriesUrl": "https://asurascans.com/comics/regressing-with-the-kings-power-ab39de10",
+      "chapterCount": 166,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T10:13:51.69911Z"
+    },
+    "asura-manhwa-logging-10000-years-into-the-future": {
+      "seriesUrl": "https://asurascans.com/comics/logging-10000-years-into-the-future-ab39de10",
+      "chapterCount": 366,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T09:19:40.91301Z"
+    },
+    "asura-manhwa-the-return-of-the-crazy-demon": {
+      "seriesUrl": "https://asurascans.com/comics/the-return-of-the-crazy-demon-ab39de10",
+      "chapterCount": 221,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T00:57:18.908691Z"
+    },
+    "asura-manhwa-the-hero-returns": {
+      "seriesUrl": "https://asurascans.com/comics/the-hero-returns-ab39de10",
+      "chapterCount": 178,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T17:34:22.651408Z"
+    },
+    "asura-manhwa-doctors-rebirth": {
+      "seriesUrl": "https://asurascans.com/comics/doctors-rebirth-ab39de10",
+      "chapterCount": 250,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T17:08:25.209102Z"
+    },
+    "asura-manhwa-terminally-ill-genius-dark-knight": {
+      "seriesUrl": "https://asurascans.com/comics/terminally-ill-genius-dark-knight-ab39de10",
+      "chapterCount": 172,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T14:02:08.841319Z"
+    },
+    "asura-novel-cyberpunk-chivalry": {
+      "seriesUrl": "https://asurascans.com/novels/cyberpunk-chivalry",
+      "chapterCount": 109,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work": {
+      "seriesUrl": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work",
+      "chapterCount": 165,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-this-regression-is-too-much": {
+      "seriesUrl": "https://asurascans.com/novels/this-regression-is-too-much",
+      "chapterCount": 121,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-solo-leveling-ragnarok": {
+      "seriesUrl": "https://asurascans.com/novels/solo-leveling-ragnarok",
+      "chapterCount": 179,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0
+    },
+    "asura-novel-logging-out-is-too-hard": {
+      "seriesUrl": "https://asurascans.com/novels/logging-out-is-too-hard",
+      "chapterCount": 180,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-murim-psychopath": {
+      "seriesUrl": "https://asurascans.com/novels/murim-psychopath",
+      "chapterCount": 172,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-reincarnated-sword-demon": {
+      "seriesUrl": "https://asurascans.com/novels/reincarnated-sword-demon",
+      "chapterCount": 113,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-prince-rage": {
+      "seriesUrl": "https://asurascans.com/novels/prince-rage",
+      "chapterCount": 115,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0
+    },
+    "asura-novel-the-academy-s-weapon-replicator": {
+      "seriesUrl": "https://asurascans.com/novels/the-academy-s-weapon-replicator",
+      "chapterCount": 185,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-damn-reincarnation": {
+      "seriesUrl": "https://asurascans.com/novels/damn-reincarnation",
+      "chapterCount": 288,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1
+    },
+    "asura-manhwa-cyberpunk-chivalry": {
+      "seriesUrl": "https://asurascans.com/comics/cyberpunk-chivalry-f212c582",
+      "chapterCount": 6,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T00:04:28.447561Z"
+    },
+    "asura-manhwa-killer-pietro": {
+      "seriesUrl": "https://asurascans.com/comics/killer-pietro-f212c582",
+      "chapterCount": 157,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T06:00:38.698223Z"
+    },
+    "asura-manhwa-regressor-of-the-fallen-family": {
+      "seriesUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582",
+      "chapterCount": 159,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T05:05:17.866511Z"
+    },
+    "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group": {
+      "seriesUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582",
+      "chapterCount": 84,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T03:25:53.35679Z"
+    },
+    "asura-manhwa-got-a-gallery-in-the-wild": {
+      "seriesUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582",
+      "chapterCount": 14,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0.5,
+      "latestPublishedAt": "2026-11-09T03:19:26.849249Z"
+    },
+    "asura-manhwa-30-years-since-the-prologue": {
+      "seriesUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582",
+      "chapterCount": 24,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T03:12:00.485979Z"
+    },
+    "asura-manhwa-sword-devouring-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582",
+      "chapterCount": 54,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T00:52:23.09416Z"
+    },
+    "asura-manhwa-margraves-bastard-son-was-the-emperor": {
+      "seriesUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582",
+      "chapterCount": 133,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T23:33:44.618298Z"
+    },
+    "asura-manhwa-star-instructor-master-baek": {
+      "seriesUrl": "https://asurascans.com/comics/star-instructor-master-baek-f212c582",
+      "chapterCount": 168,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T23:12:15.537932Z"
+    },
+    "asura-manhwa-the-dark-swordsman-returns": {
+      "seriesUrl": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582",
+      "chapterCount": 73,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:48:52.923726Z"
+    },
+    "asura-manhwa-solo-max-level-newbie": {
+      "seriesUrl": "https://asurascans.com/comics/solo-max-level-newbie-f212c582",
+      "chapterCount": 285,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T18:36:41.631861Z"
+    },
+    "asura-manhwa-trash-of-the-counts-family": {
+      "seriesUrl": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582",
+      "chapterCount": 195,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T12:49:45.9807Z"
+    },
+    "asura-manhwa-dungeon-odyssey": {
+      "seriesUrl": "https://asurascans.com/comics/dungeon-odyssey-f212c582",
+      "chapterCount": 176,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T15:41:47.769747Z"
+    },
+    "asura-manhwa-the-player-hides-his-past": {
+      "seriesUrl": "https://asurascans.com/comics/the-player-hides-his-past-f212c582",
+      "chapterCount": 146,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:01:09.017741Z"
+    },
+    "asura-manhwa-the-ultimate-shut-in": {
+      "seriesUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582",
+      "chapterCount": 104,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:37:38.13992Z"
+    },
+    "asura-manhwa-academys-genius-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/academys-genius-swordmaster-f212c582",
+      "chapterCount": 162,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:01:02.677003Z"
+    },
+    "asura-manhwa-bad-born-blood": {
+      "seriesUrl": "https://asurascans.com/comics/bad-born-blood-f212c582",
+      "chapterCount": 108,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T12:10:43.282065Z"
+    },
+    "asura-manhwa-the-reincarnated-assassin-is-a-genius-swordsman": {
+      "seriesUrl": "https://asurascans.com/comics/the-reincarnated-assassin-is-a-genius-swordsman-f212c582",
+      "chapterCount": 100,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T07:45:39.174341Z"
+    },
+    "asura-manhwa-the-s-classes-that-i-raised": {
+      "seriesUrl": "https://asurascans.com/comics/the-s-classes-that-i-raised-f212c582",
+      "chapterCount": 188,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T07:54:57.386595Z"
+    },
+    "asura-manhwa-return-of-the-disaster-class-hero": {
+      "seriesUrl": "https://asurascans.com/comics/return-of-the-disaster-class-hero-f212c582",
+      "chapterCount": 196,
+      "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-04T17:08:07.227679Z"
+    }
+  }
+}

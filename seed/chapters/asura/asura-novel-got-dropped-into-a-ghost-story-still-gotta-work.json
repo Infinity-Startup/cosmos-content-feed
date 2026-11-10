@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
   "seriesUrl": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 162,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 165,
   "chapters": [
     {
       "number": 1,
@@ -1137,6 +1137,27 @@
       "number": 162,
       "title": "",
       "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/162",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 163,
+      "title": "",
+      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/163",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 164,
+      "title": "",
+      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/164",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 165,
+      "title": "",
+      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/165",
       "premium": false,
       "publishedAt": null
     }

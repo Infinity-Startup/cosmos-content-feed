@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-cyberpunk-chivalry",
   "seriesUrl": "https://asurascans.com/novels/cyberpunk-chivalry",
-  "checkedAt": "2026-11-08T13:29:39.618358+00:00",
-  "chapterCount": 106,
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
+  "chapterCount": 109,
   "chapters": [
     {
       "number": 1,
@@ -745,6 +745,27 @@
       "number": 106,
       "title": "EP.4 Wild Wild West 11",
       "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/106",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 107,
+      "title": "EP.4 Wild Wild West 12",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/107",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 108,
+      "title": "E_.! W$#*LD _&@! W=ST #!_",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/108",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 109,
+      "title": "The Good, the Bad, and the Weird Bitch",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/109",
       "premium": false,
       "publishedAt": null
     }

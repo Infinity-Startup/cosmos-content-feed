@@ -3,7 +3,7 @@
   "provider": "asura",
   "titleId": "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group",
   "seriesUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582",
-  "checkedAt": "2026-11-09T08:51:40.898753+00:00",
+  "checkedAt": "2026-11-10T02:07:46.525762+00:00",
   "chapterCount": 84,
   "chapters": [
     {
@@ -591,7 +591,7 @@
       "number": 84,
       "title": "",
       "url": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582/chapter/84",
-      "premium": true,
+      "premium": false,
       "publishedAt": "2026-11-09T03:25:53.35679Z"
     }
   ]
