@@ -11,12 +11,12 @@ import numpy as np
 import onnxruntime as ort
 from PIL import Image, ImageOps
 
-OUTPUT_SIZE = 384
+from portrait_policy import MIN_SOURCE_CROP, OUTPUT_SIZE
 CROP_VERSION = 5
 _local = threading.local()
 
 
-def crop_bounds(face, size, scale=1.3, dx=0, dy=0, minimum=256):
+def crop_bounds(face, size, scale=1.3, dx=0, dy=0, minimum=MIN_SOURCE_CROP):
     x, y, w, h, confidence = face
     side = max(minimum, round(max(w, h) * scale))
     width, height = size
@@ -158,7 +158,7 @@ class PortraitSelector:
                     hashes.append(face_hash(image, (x, y + top, w, h)))
         return hashes
 
-    def select(self, body, excluded_hashes=(), blocked_regions=(), editorial=False, full_scan=False, min_face=140, min_crop=256, excluded_crops=(), tight=False):
+    def select(self, body, excluded_hashes=(), blocked_regions=(), editorial=False, full_scan=False, min_face=140, min_crop=MIN_SOURCE_CROP, excluded_crops=(), tight=False):
         with Image.open(io.BytesIO(body)) as opened:
             if opened.width * opened.height > 60_000_000:
                 raise ValueError('Source image too large')

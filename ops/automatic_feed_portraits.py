@@ -9,9 +9,11 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from refresh_chapter_previews import PreviewParser, image_url
 from portrait_preview_quality import selector
+from portrait_policy import MIN_SOURCE_CROP
+from portrait_source_cache import cached_source
 
 
-def download(url, limit, host):
+def _download(url, limit, host):
     from urllib.parse import urlsplit
     if urlsplit(url).scheme != 'https' or urlsplit(url).netloc != host:
         raise ValueError('Unexpected source host')
@@ -22,6 +24,10 @@ def download(url, limit, host):
     if len(body) > limit:
         raise ValueError('Oversized source')
     return body
+
+
+def download(url, limit, host):
+    return cached_source(url, limit, host, _download)
 
 
 def process(site, model, public_url, engine=None, fetch=download, max_episodes=0, title_id=None):
@@ -49,7 +55,7 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
                 raise ValueError('Wrong chapter reader')
             selected = None
             # Bounded work, skip banners, try multiple actual episode pages.
-            pages = [p['url'] for p in parser.props.get('pages', []) if image_url(p.get('url')) and p.get('width', 0) >= 384 and p.get('height', 0) >= 384]
+            pages = [p['url'] for p in parser.props.get('pages', []) if image_url(p.get('url')) and p.get('width', 0) >= MIN_SOURCE_CROP and p.get('height', 0) >= MIN_SOURCE_CROP]
             pages = list(dict.fromkeys(pages))
             print(f"Searching {item['titleId']} chapter {item['number']}: {len(pages)} episode images", flush=True)
             # Cover the whole episode, including its later panels.
@@ -59,12 +65,22 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
                 url = pages[page_index]
                 if time.monotonic() >= episode_deadline:
                     break
-                body = fetch(url, 24_000_000, 'cdn.asurascans.com')
-                scanned += 1
-                for tight in (False, True):
-                    selected = engine.select(body, min_crop=384, full_scan=True, tight=tight, excluded_hashes=[int(h, 16) for h in exclusions.get(item['titleId'], [])])
-                    if selected:
-                        break
+                try:
+                    body = fetch(url, 24_000_000, 'cdn.asurascans.com')
+                    scanned += 1
+                    for tight in (False, True):
+                        selected = engine.select(body, min_crop=MIN_SOURCE_CROP, full_scan=True, tight=tight, excluded_hashes=[int(h, 16) for h in exclusions.get(item['titleId'], [])])
+                        if selected:
+                            break
+                except HTTPError as error:
+                    if error.code in (403, 429):
+                        raise
+                    if error.code not in (404, 410):
+                        raise
+                    continue
+                except (OSError, ValueError):
+                    # One corrupt/oversized image must not hide valid later panels.
+                    continue
                 if selected:
                     break
             if not selected:
