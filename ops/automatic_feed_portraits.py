@@ -24,7 +24,7 @@ def download(url, limit, host):
     return body
 
 
-def process(site, model, public_url, engine=None, fetch=download, max_episodes=0):
+def process(site, model, public_url, engine=None, fetch=download, max_episodes=0, title_id=None):
     site = Path(site)
     queue_file = site / 'portrait-review-queue.json'
     queue = json.loads(queue_file.read_text())
@@ -34,12 +34,14 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
     pending, generated = [], 0
     stopped = False
     deadline = time.monotonic() + 45 * 60
-    for index, item in enumerate(queue['chapters']):
-        if stopped or time.monotonic() >= deadline or (max_episodes and index >= max_episodes):
+    attempts = 0
+    for item in queue['chapters']:
+        if (title_id and item['titleId'] != title_id) or stopped or time.monotonic() >= deadline or (max_episodes and attempts >= max_episodes):
             pending.append(item)
             continue
+        attempts += 1
         attempted_at = datetime.now(timezone.utc).isoformat()
-        episode_deadline = time.monotonic() + 90
+        episode_deadline = time.monotonic() + 300
         try:
             parser = PreviewParser()
             parser.feed(fetch(item['url'], 8_000_000, 'asurascans.com').decode('utf-8'))
@@ -48,15 +50,25 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
             selected = None
             # Bounded work, skip banners, try multiple actual episode pages.
             pages = [p['url'] for p in parser.props.get('pages', []) if image_url(p.get('url')) and p.get('width', 0) >= 384 and p.get('height', 0) >= 384]
-            for url in list(dict.fromkeys(pages))[:12]:
+            pages = list(dict.fromkeys(pages))
+            print(f"Searching {item['titleId']} chapter {item['number']}: {len(pages)} episode images", flush=True)
+            # Cover the whole episode, including its later panels.
+            indexes = sorted(set(round(i * (len(pages) - 1) / 31) for i in range(32))) if len(pages) > 32 else range(len(pages))
+            scanned = 0
+            for page_index in indexes:
+                url = pages[page_index]
                 if time.monotonic() >= episode_deadline:
                     break
                 body = fetch(url, 24_000_000, 'cdn.asurascans.com')
-                selected = engine.select(body, min_crop=384, full_scan=True, excluded_hashes=[int(h, 16) for h in exclusions.get(item['titleId'], [])])
+                scanned += 1
+                for tight in (False, True):
+                    selected = engine.select(body, min_crop=384, full_scan=True, tight=tight, excluded_hashes=[int(h, 16) for h in exclusions.get(item['titleId'], [])])
+                    if selected:
+                        break
                 if selected:
                     break
             if not selected:
-                raise ValueError('No clean high-resolution portrait found')
+                raise ValueError(f'No clean high-resolution portrait after {scanned} of {len(pages)} episode images')
             body, quality = selected
             # No editorial bypass and no claim that a human reviewed this image.
             if quality.get('textRegions') != 0 or quality.get('faceConfidence', 0) < .85 or quality.get('width') != 384 or quality.get('height') != 384:
@@ -94,7 +106,8 @@ if __name__ == '__main__':
     parser.add_argument('--model', type=Path, required=True)
     parser.add_argument('--public-url', required=True)
     parser.add_argument('--max-episodes', type=int, default=0, help='Optional manual pilot limit; zero processes the full queue')
+    parser.add_argument('--title', help='Optional manual title pilot; all titles remain eligible in daily runs')
     args = parser.parse_args()
     if args.max_episodes < 0:
         parser.error('--max-episodes must be nonnegative')
-    process(args.site, args.model, args.public_url, max_episodes=args.max_episodes)
+    process(args.site, args.model, args.public_url, max_episodes=args.max_episodes, title_id=args.title)

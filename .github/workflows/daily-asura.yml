@@ -10,6 +10,11 @@ on:
         required: false
         default: '0'
         type: string
+      portrait_title:
+        description: 'Optional title ID for a targeted pilot; blank processes all titles'
+        required: false
+        default: ''
+        type: string
   push:
     branches: [main]
     paths:
@@ -50,8 +55,9 @@ jobs:
         run: python ops/refresh.py --seed seed --output _site
       - name: Generate and screen missing episode portraits
         env:
+          PORTRAIT_TITLE: ${{ inputs.portrait_title || '' }}
           PORTRAIT_LIMIT: ${{ inputs.portrait_limit || '0' }}
-        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT"
+        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE"
       - name: Save the last successful snapshot and portrait review queue
         run: |
           cp -R _site/chapters/. seed/chapters/
