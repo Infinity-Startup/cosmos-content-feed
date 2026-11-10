@@ -6471,6 +6471,50 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "167": {
+      "chapterUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-f212c582/chapter/167",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reformation-of-the-deadbeat-noble/167/248a0f.webp?v=1794012453",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-deadbeat-noble/167-auto-v5-929fc5210d27.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8671,
+        "faceHash": "95a52a96351ec5d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          144,
+          2894,
+          528,
+          3278
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          238.588,
+          2979.37,
+          194.969,
+          213.935
+        ],
+        "outsideFaceWhiteFraction": 0.03004,
+        "largestWhiteRegion": 0.00969,
+        "sharpness": 4296.73,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

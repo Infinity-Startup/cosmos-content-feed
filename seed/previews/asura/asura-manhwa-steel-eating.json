@@ -4609,6 +4609,94 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "115": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-f212c582/chapter/115",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/115/0bf230.webp?v=1791961230",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/115-auto-v5-ba428f0f6e6d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8531,
+        "faceHash": "c07c3d8ab2b36363",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          509,
+          2131,
+          893,
+          2515
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          570.866,
+          2215.656,
+          260.18,
+          215.415
+        ],
+        "outsideFaceWhiteFraction": 0.0014,
+        "largestWhiteRegion": 0.0014,
+        "sharpness": 1641.1,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "117": {
+      "chapterUrl": "https://asurascans.com/comics/steel-eating-player-f212c582/chapter/117",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/steel-eating-player/117/0e3cb8.webp?v=1793793726",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-steel-eating/117-auto-v5-7b5f7b7b7c22.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "a1926d8e607f7398",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          342,
+          7098,
+          726,
+          7482
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          433.811,
+          7173.588,
+          201.162,
+          231.958
+        ],
+        "outsideFaceWhiteFraction": 0.00063,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 1230.51,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

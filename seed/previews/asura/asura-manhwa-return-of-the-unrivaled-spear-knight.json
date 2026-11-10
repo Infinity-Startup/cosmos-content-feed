@@ -8713,6 +8713,50 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "223": {
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-unrivaled-spear-knight-f212c582/chapter/223",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-unrivaled-spear-knight/223/f4b02c.webp?v=1794136085",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-return-of-the-unrivaled-spear-knight/223-auto-v5-8abc5a188157.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8714,
+        "faceHash": "d5853fce34d86229",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          6109,
+          384,
+          6493
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          104.091,
+          6208.234,
+          167.309,
+          186.229
+        ],
+        "outsideFaceWhiteFraction": 0.00716,
+        "largestWhiteRegion": 0.00299,
+        "sharpness": 2809.16,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

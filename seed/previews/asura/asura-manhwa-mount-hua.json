@@ -7408,6 +7408,94 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "184": {
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-f212c582/chapter/184",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/184/e02256.webp?v=1791990339",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/184-auto-v5-4746aee9fa5d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8514,
+        "faceHash": "85f05ac7e0d6639c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          63,
+          342,
+          447,
+          726
+        ],
+        "sourceSize": [
+          900,
+          2117
+        ],
+        "detectedFace": [
+          137.981,
+          404.043,
+          235.013,
+          260.578
+        ],
+        "outsideFaceWhiteFraction": 0.00093,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 1489.98,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "185": {
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-f212c582/chapter/185",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/185/c29fbe.webp?v=1793195549",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/185-auto-v5-a9c98ae80dc0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8649,
+        "faceHash": "90e03a5fc8d6e3d2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          186,
+          11465,
+          619,
+          11898
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          255.297,
+          11515.337,
+          293.543,
+          332.741
+        ],
+        "outsideFaceWhiteFraction": 0.0038,
+        "largestWhiteRegion": 0.00134,
+        "sharpness": 1194.53,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

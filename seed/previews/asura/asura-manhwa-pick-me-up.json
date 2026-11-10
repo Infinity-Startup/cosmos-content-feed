@@ -8725,6 +8725,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "223": {
+      "chapterUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-f212c582/chapter/223",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-me-up-infinite-gacha/223/da667d.webp?v=1791992865",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-me-up/223-auto-v5-ed36637b294a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8794,
+        "faceHash": "c7a438d691c963f8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          1185,
+          384,
+          1569
+        ],
+        "sourceSize": [
+          900,
+          2494
+        ],
+        "detectedFace": [
+          65.888,
+          1268.555,
+          211.169,
+          216.725
+        ],
+        "outsideFaceWhiteFraction": 0.00795,
+        "largestWhiteRegion": 0.00684,
+        "sharpness": 2160.17,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "224": {
+      "chapterUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-f212c582/chapter/224",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-me-up-infinite-gacha/224/a12758.webp?v=1792628685",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-me-up/224-auto-v5-04aac1b74f92.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "c3636fc3a48c3a5c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          354,
+          13895,
+          738,
+          14279
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          413.73,
+          13970.25,
+          264.035,
+          233.675
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1496.68,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "225": {
+      "chapterUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-f212c582/chapter/225",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-me-up-infinite-gacha/225/30ea12.webp?v=1793200914",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-me-up/225-auto-v5-7d1cc249b152.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8527,
+        "faceHash": "ce803d8fb1ce4b85",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          376,
+          15416,
+          760,
+          15800
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          441.427,
+          15469.42,
+          253.967,
+          276.349
+        ],
+        "outsideFaceWhiteFraction": 0.00734,
+        "largestWhiteRegion": 0.00589,
+        "sharpness": 2507.46,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "226": {
+      "chapterUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-f212c582/chapter/226",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-me-up-infinite-gacha/226/bf92c4.webp?v=1793803944",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-me-up/226-auto-v5-56d3f0c263f9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8586,
+        "faceHash": "c2e13e93f0cf330c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          512,
+          12691,
+          896,
+          13075
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          588.705,
+          12760.682,
+          231.1,
+          244.777
+        ],
+        "outsideFaceWhiteFraction": 0.00565,
+        "largestWhiteRegion": 0.00404,
+        "sharpness": 2058.31,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

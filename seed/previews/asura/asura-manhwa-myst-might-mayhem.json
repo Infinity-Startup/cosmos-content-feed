@@ -4831,6 +4831,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "120": {
+      "chapterUrl": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/120",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/myst-might-mayhem/120/722148.webp?v=1791891676",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-myst-might-mayhem/120-auto-v5-876c8f7ef42f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "c6386bf281f92cc3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          386,
+          14202,
+          770,
+          14586
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          490.972,
+          14298.727,
+          173.133,
+          191.5
+        ],
+        "outsideFaceWhiteFraction": 0.00981,
+        "largestWhiteRegion": 0.00583,
+        "sharpness": 1496.53,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "121": {
+      "chapterUrl": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/121",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/myst-might-mayhem/121/db8ff0.webp?v=1792438341",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-myst-might-mayhem/121-auto-v5-3fe98e3d079c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "c7436e87f38c321c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          279,
+          7021,
+          694,
+          7436
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          335.438,
+          7068.81,
+          302.772,
+          318.965
+        ],
+        "outsideFaceWhiteFraction": 0.00539,
+        "largestWhiteRegion": 0.00462,
+        "sharpness": 1704.12,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "122": {
+      "chapterUrl": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/122",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/myst-might-mayhem/122/f0b46e.webp?v=1793072238",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-myst-might-mayhem/122-auto-v5-0d1103558f12.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "d92c29b4c6599d4d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          328,
+          7263,
+          712,
+          7647
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          433.571,
+          7347.63,
+          173.823,
+          215.483
+        ],
+        "outsideFaceWhiteFraction": 0.00096,
+        "largestWhiteRegion": 0.00095,
+        "sharpness": 682.99,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "123": {
+      "chapterUrl": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/123",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/myst-might-mayhem/123/f9ebd1.webp?v=1793635781",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-myst-might-mayhem/123-auto-v5-32d8ea8bd1b9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8635,
+        "faceHash": "9b513b9e3141e3e8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          17,
+          2800,
+          401,
+          3184
+        ],
+        "sourceSize": [
+          900,
+          16200
+        ],
+        "detectedFace": [
+          92.037,
+          2868.833,
+          233.587,
+          247.207
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1482.23,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

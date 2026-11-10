@@ -14179,6 +14179,50 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "366": {
+      "chapterUrl": "https://asurascans.com/comics/logging-10000-years-into-the-future-f212c582/chapter/366",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-10000-years-into-the-future/366/f38fe2.webp?v=1794129679",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-10000-years-into-the-future/366-auto-v5-a3c97ea522e6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8655,
+        "faceHash": "dd3f289a8240ef99",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          246,
+          9690,
+          630,
+          10074
+        ],
+        "sourceSize": [
+          900,
+          15649
+        ],
+        "detectedFace": [
+          316.089,
+          9762.897,
+          244.258,
+          238.916
+        ],
+        "outsideFaceWhiteFraction": 0.01608,
+        "largestWhiteRegion": 0.01314,
+        "sharpness": 2006.94,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

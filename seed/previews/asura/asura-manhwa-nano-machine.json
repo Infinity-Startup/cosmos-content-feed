@@ -12951,6 +12951,50 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "336": {
+      "chapterUrl": "https://asurascans.com/comics/nano-machine-f212c582/chapter/336",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/nano-machine/336/52bee7.webp?v=1793931695",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-nano-machine/336-auto-v5-59b1e224d4c2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8543,
+        "faceHash": "d22c3ac5699e6791",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          227,
+          9581,
+          611,
+          9965
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          309.875,
+          9659.441,
+          218.174,
+          226.784
+        ],
+        "outsideFaceWhiteFraction": 0.01222,
+        "largestWhiteRegion": 0.00459,
+        "sharpness": 2446.05,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

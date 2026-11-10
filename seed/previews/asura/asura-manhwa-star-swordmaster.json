@@ -5599,6 +5599,94 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "142": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-f212c582/chapter/142",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/142/e82a65.webp?v=1791908682",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/142-auto-v5-13c706ee11ed.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8665,
+        "faceHash": "cec4ee981d302f99",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          199,
+          2278,
+          583,
+          2662
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          292.652,
+          2363.166,
+          197.561,
+          214.285
+        ],
+        "outsideFaceWhiteFraction": 0.04726,
+        "largestWhiteRegion": 0.01791,
+        "sharpness": 1810.7,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "144": {
+      "chapterUrl": "https://asurascans.com/comics/star-embracing-swordmaster-f212c582/chapter/144",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/star-embracing-swordmaster/144/20e881.webp?v=1793197803",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-star-swordmaster/144-auto-v5-5bfa2367186e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8553,
+        "faceHash": "82742bd3e59e3728",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          509,
+          1837,
+          893,
+          2221
+        ],
+        "sourceSize": [
+          900,
+          3467
+        ],
+        "detectedFace": [
+          551.682,
+          1891.654,
+          252.991,
+          274.139
+        ],
+        "outsideFaceWhiteFraction": 0.00262,
+        "largestWhiteRegion": 0.00262,
+        "sharpness": 1332.44,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

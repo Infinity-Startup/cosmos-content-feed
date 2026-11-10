@@ -13338,6 +13338,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "344": {
+      "chapterUrl": "https://asurascans.com/comics/overgeared-f212c582/chapter/344",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/overgeared/344/aee446.webp?v=1792181263",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-overgeared/344-auto-v5-eb4d555a9c69.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8582,
+        "faceHash": "d4e8699f791834e1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          98,
+          11331,
+          482,
+          11715
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          166.858,
+          11413.161,
+          208.053,
+          219.801
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 804.64,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "345": {
+      "chapterUrl": "https://asurascans.com/comics/overgeared-f212c582/chapter/345",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/overgeared/345/f1c7ce.webp?v=1792788030",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-overgeared/345-auto-v5-8bdf3ec7a659.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8528,
+        "faceHash": "c33a3e96c4c9e299",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          172,
+          2335,
+          556,
+          2719
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          233.074,
+          2386.499,
+          262.058,
+          280.599
+        ],
+        "outsideFaceWhiteFraction": 0.01395,
+        "largestWhiteRegion": 0.00507,
+        "sharpness": 476.77,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "346": {
+      "chapterUrl": "https://asurascans.com/comics/overgeared-f212c582/chapter/346",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/overgeared/346/d78527.webp?v=1793397585",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-overgeared/346-auto-v5-2d4bb85e4e22.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8524,
+        "faceHash": "90d675da39183739",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          435,
+          935,
+          819,
+          1319
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          504.934,
+          989.604,
+          244.8,
+          275.254
+        ],
+        "outsideFaceWhiteFraction": 0.00359,
+        "largestWhiteRegion": 0.0029,
+        "sharpness": 2579.11,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "347": {
+      "chapterUrl": "https://asurascans.com/comics/overgeared-f212c582/chapter/347",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/overgeared/347/1a2b4c.webp?v=1794000737",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-overgeared/347-auto-v5-728e42496654.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8766,
+        "faceHash": "c3b5798fe40c3728",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          516,
+          4149,
+          900,
+          4533
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          653.792,
+          4218.574,
+          206.351,
+          244.096
+        ],
+        "outsideFaceWhiteFraction": 0.0069,
+        "largestWhiteRegion": 0.00656,
+        "sharpness": 3221.54,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

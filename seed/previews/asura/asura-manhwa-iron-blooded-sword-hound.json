@@ -7227,6 +7227,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "185": {
+      "chapterUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-f212c582/chapter/185",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/revenge-of-the-iron-blooded-sword-hound/185/3eecff.webp?v=1792341794",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-iron-blooded-sword-hound/185-auto-v5-b79bb56604e4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8693,
+        "faceHash": "c4954b97e01f6699",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          77,
+          384,
+          461
+        ],
+        "sourceSize": [
+          900,
+          1731
+        ],
+        "detectedFace": [
+          19.309,
+          173.776,
+          163.422,
+          191.221
+        ],
+        "outsideFaceWhiteFraction": 0.01784,
+        "largestWhiteRegion": 0.00613,
+        "sharpness": 2724.92,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "186": {
+      "chapterUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-f212c582/chapter/186",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/revenge-of-the-iron-blooded-sword-hound/186/ee91d7.webp?v=1792944221",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-iron-blooded-sword-hound/186-auto-v5-0d0b86db5715.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8702,
+        "faceHash": "9762684bb52c76e4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          75,
+          14494,
+          459,
+          14878
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          168.819,
+          14579.387,
+          195.943,
+          213.45
+        ],
+        "outsideFaceWhiteFraction": 0.00104,
+        "largestWhiteRegion": 0.00041,
+        "sharpness": 1605.22,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "187": {
+      "chapterUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-f212c582/chapter/187",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/revenge-of-the-iron-blooded-sword-hound/187/336174.webp?v=1793628368",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-iron-blooded-sword-hound/187-auto-v5-18abb1184203.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8582,
+        "faceHash": "80d2ae9578593d79",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          120,
+          3989,
+          504,
+          4373
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          227.119,
+          4096.773,
+          169.484,
+          168.422
+        ],
+        "outsideFaceWhiteFraction": 0.00792,
+        "largestWhiteRegion": 0.00339,
+        "sharpness": 1198.66,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "188": {
+      "chapterUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-f212c582/chapter/188",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/revenge-of-the-iron-blooded-sword-hound/188/1992f2.webp?v=1794153425",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-iron-blooded-sword-hound/188-auto-v5-893ec0c79b1c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "c0312f9f90cc7ae6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          466,
+          11634,
+          850,
+          12018
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          542.032,
+          11697.855,
+          231.046,
+          256.698
+        ],
+        "outsideFaceWhiteFraction": 0.00804,
+        "largestWhiteRegion": 0.00142,
+        "sharpness": 1630.09,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

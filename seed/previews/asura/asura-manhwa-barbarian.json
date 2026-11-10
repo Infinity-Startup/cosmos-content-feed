@@ -6669,6 +6669,50 @@
         "automated": true,
         "screeningVersion": 1
       }
+    },
+    "168": {
+      "chapterUrl": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-f212c582/chapter/168",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/surviving-the-game-as-a-barbarian/168/e0fa8d.webp?v=1793994318",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-barbarian/168-auto-v5-cfc08426135a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8502,
+        "faceHash": "83ca3ecc70cd613d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          58,
+          9630,
+          472,
+          10044
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          122.217,
+          9677.252,
+          285.894,
+          318.579
+        ],
+        "outsideFaceWhiteFraction": 0.00583,
+        "largestWhiteRegion": 0.00227,
+        "sharpness": 5845.39,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

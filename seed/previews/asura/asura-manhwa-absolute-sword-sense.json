@@ -8057,6 +8057,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "205": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-sword-sense-f212c582/chapter/205",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-sword-sense/205/1f7c3d.webp?v=1791827805",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-sword-sense/205-auto-v5-ea87b23e0e7b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8563,
+        "faceHash": "93116f32b58f25cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          468,
+          10993,
+          869,
+          11394
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          514.115,
+          11040.328,
+          308.424,
+          305.824
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1112.49,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "206": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-sword-sense-f212c582/chapter/206",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-sword-sense/206/55097d.webp?v=1792498229",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-sword-sense/206-auto-v5-1a93e73ae060.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "d5c04acf499e6d98",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          503,
+          6589,
+          887,
+          6973
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          593.968,
+          6657.377,
+          202.06,
+          248.14
+        ],
+        "outsideFaceWhiteFraction": 0.00027,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1891.59,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "207": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-sword-sense-f212c582/chapter/207",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-sword-sense/207/6279ec.webp?v=1792947827",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-sword-sense/207-auto-v5-6e8be363d246.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8575,
+        "faceHash": "d76238cfe31826b1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          516,
+          15169,
+          900,
+          15553
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          647.471,
+          15260.198,
+          170.044,
+          202.165
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2390.55,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "208": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-sword-sense-f212c582/chapter/208",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-sword-sense/208/1c5a9d.webp?v=1793644043",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-sword-sense/208-auto-v5-f03b34691e70.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "95c03b9e34384f3b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          3290,
+          384,
+          3674
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          80.878,
+          3390.676,
+          213.183,
+          183.619
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1104.19,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

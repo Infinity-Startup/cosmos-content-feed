@@ -8492,6 +8492,94 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "217": {
+      "chapterUrl": "https://asurascans.com/comics/swordmasters-youngest-son-f212c582/chapter/217",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/swordmasters-youngest-son/217/8ee2fe.webp?v=1792247340",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-swordmaster-son/217-auto-v5-2a93eca1f30a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8578,
+        "faceHash": "8d343dcbf24b4319",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          432,
+          8195,
+          816,
+          8579
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          505.253,
+          8255.562,
+          238.021,
+          261.887
+        ],
+        "outsideFaceWhiteFraction": 0.00214,
+        "largestWhiteRegion": 0.00214,
+        "sharpness": 865.02,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "219": {
+      "chapterUrl": "https://asurascans.com/comics/swordmasters-youngest-son-f212c582/chapter/219",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/swordmasters-youngest-son/219/bca69e.webp?v=1793457693",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-swordmaster-son/219-auto-v5-19715c09ac4e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8686,
+        "faceHash": "94953d62f179625a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          292,
+          5054,
+          676,
+          5438
+        ],
+        "sourceSize": [
+          900,
+          15170
+        ],
+        "detectedFace": [
+          392.923,
+          5145.918,
+          181.279,
+          199.257
+        ],
+        "outsideFaceWhiteFraction": 0.02643,
+        "largestWhiteRegion": 0.01778,
+        "sharpness": 2229.71,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

@@ -6439,6 +6439,138 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "164": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-f212c582/chapter/164",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-returned-10000-years-later/164/220cb5.webp?v=1792947979",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-returned-player/164-auto-v5-b17e67c6b8b2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8602,
+        "faceHash": "862c79d3b50af12b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          12,
+          10063,
+          396,
+          10447
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          111.969,
+          10176.708,
+          184.14,
+          156.198
+        ],
+        "outsideFaceWhiteFraction": 0.00345,
+        "largestWhiteRegion": 0.00221,
+        "sharpness": 1367.86,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "165": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-f212c582/chapter/165",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-returned-10000-years-later/165/791684.webp?v=1793545897",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-returned-player/165-auto-v5-b87e0759b6f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8552,
+        "faceHash": "8fa42cd3a1ea7718",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          262,
+          9503,
+          694,
+          9935
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          330.412,
+          9553.085,
+          296.05,
+          332.662
+        ],
+        "outsideFaceWhiteFraction": 0.04611,
+        "largestWhiteRegion": 0.0125,
+        "sharpness": 4408.93,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "166": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-f212c582/chapter/166",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-returned-10000-years-later/166/ac6bd2.webp?v=1794148099",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-returned-player/166-auto-v5-1ed6260c91fa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8509,
+        "faceHash": "cb702d9ee5107d2a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          8721,
+          384,
+          9105
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          57.205,
+          8826.791,
+          179.653,
+          171.846
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 385.38,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

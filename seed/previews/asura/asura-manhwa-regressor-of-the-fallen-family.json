@@ -6013,6 +6013,50 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "159": {
+      "chapterUrl": "https://asurascans.com/comics/regressor-of-the-fallen-family-f212c582/chapter/159",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regressor-of-the-fallen-family/159/794d30.webp?v=1794200889",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressor-of-the-fallen-family/159-auto-v5-f26e18f7003d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "c0b14a9685be753b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          93,
+          9834,
+          477,
+          10218
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          166.82,
+          9883.863,
+          236.898,
+          284.718
+        ],
+        "outsideFaceWhiteFraction": 0.02068,
+        "largestWhiteRegion": 0.00877,
+        "sharpness": 3604.75,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

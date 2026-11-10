@@ -4455,6 +4455,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "110": {
+      "chapterUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-f212c582/chapter/110",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/childhood-friend-of-the-zenith/110/29707a.webp?v=1791986015",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-childhood-zenith/110-auto-v5-ef55a7b85661.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "962378cf859a362d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          350,
+          830,
+          734,
+          1214
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          417.166,
+          909.884,
+          249.1,
+          224.445
+        ],
+        "outsideFaceWhiteFraction": 0.01199,
+        "largestWhiteRegion": 0.00304,
+        "sharpness": 2808.3,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "111": {
+      "chapterUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-f212c582/chapter/111",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/childhood-friend-of-the-zenith/111/e7cba6.webp?v=1792419700",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-childhood-zenith/111-auto-v5-2d3761d532f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "86647f8af08fa0b9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          122,
+          6968,
+          513,
+          7359
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          166.831,
+          7014.935,
+          300.561,
+          296.652
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1738.95,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "112": {
+      "chapterUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-f212c582/chapter/112",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/childhood-friend-of-the-zenith/112/061f18.webp?v=1793182585",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-childhood-zenith/112-auto-v5-d3fbf08914f1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "d2363e947cda42c3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          337,
+          13974,
+          721,
+          14358
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          403.378,
+          14039.626,
+          250.686,
+          253.52
+        ],
+        "outsideFaceWhiteFraction": 0.0031,
+        "largestWhiteRegion": 0.00079,
+        "sharpness": 2095.97,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-f212c582/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/childhood-friend-of-the-zenith/114/23fa1c.webp?v=1794233410",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-childhood-zenith/114-auto-v5-a44857c7b560.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8517,
+        "faceHash": "94f03e06748acfd9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          163,
+          7602,
+          547,
+          7986
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          230.036,
+          7660.682,
+          248.979,
+          267.106
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1842.07,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }
