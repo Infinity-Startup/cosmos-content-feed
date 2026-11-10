@@ -53,13 +53,18 @@ jobs:
           restore-keys: asura-portrait-sources-v1-
       - name: Install portrait screening tools
         run: python -m pip install -r ops/requirements-previews.txt
+      - name: Ensure normal Chrome is available
+        run: |
+          if [ ! -x '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' ]; then
+            python -m playwright install chrome
+          fi
       - name: Download integrity-checked face detector
         run: |
           curl --fail --location --retry 3 'https://huggingface.co/deepghs/anime_face_detection/resolve/main/face_detect_v1.4_s/model.onnx' -o /tmp/face.onnx
           echo '403b5bc93b6ff789b7d183418df4a1364049bac00c24acd927604a7ff6891483  /tmp/face.onnx' | shasum -a 256 -c -
       - name: Refresh and validate all registered titles
         if: inputs.portrait_title == ''
-        run: python ops/refresh.py --seed seed --output _site
+        run: python ops/refresh.py --seed seed --output _site --browser
       - name: Stage last validated metadata for a targeted portrait repair
         if: inputs.portrait_title != ''
         run: cp -R seed _site
@@ -67,7 +72,7 @@ jobs:
         env:
           PORTRAIT_TITLE: ${{ inputs.portrait_title || '' }}
           PORTRAIT_LIMIT: ${{ inputs.portrait_limit || '0' }}
-        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE"
+        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE" --browser
       - name: Save the last successful snapshot and portrait review queue
         run: |
           cp -R _site/chapters/. seed/chapters/

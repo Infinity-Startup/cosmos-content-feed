@@ -89,7 +89,11 @@ def fetch_document(title, checked_at):
         raise
     if len(body) > MAX_PAGE_BYTES:
         raise ValueError('Source page too large')
-    html = body.decode('utf-8')
+    return document_from_html(title, checked_at, body.decode('utf-8'))
+
+
+def document_from_html(title, checked_at, html):
+    series = title['sourceUrl'].split('/chapter/')[0]
     parser = ChapterParser()
     parser.feed(html)
     canonical = parser.canonical or series
@@ -100,7 +104,7 @@ def fetch_document(title, checked_at):
                               'checkedAt': checked_at, 'chapterCount': len(chapters), 'chapters': chapters}, title)
 
 
-def refresh(seed, output, fetch=fetch_document, now=None):
+def refresh(seed, output, fetch=fetch_document, now=None, workers=3):
     seed, output = Path(seed).resolve(), Path(output).resolve()
     if output == seed or seed in output.parents or output in seed.parents or output.exists():
         raise ValueError('Use a new output directory outside the seed directory')
@@ -123,8 +127,11 @@ def refresh(seed, output, fetch=fetch_document, now=None):
             raise ValueError('Published chapters disappeared or changed URL; manual review required: ' + title['id'])
         return title, new, old_links
     # No files are published when any series fails, is incomplete or refuses requests.
-    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
-        documents = list(pool.map(update, titles))
+    if workers == 1:
+        documents = [update(title) for title in titles]
+    else:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
+            documents = list(pool.map(update, titles))
     summary, additions, portrait_queue = {}, [], []
     prior_queue_file = seed / 'portrait-review-queue.json'
     prior_attempts = {(item['titleId'], item['number']): item.get('lastAttemptAt')
@@ -166,8 +173,17 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--seed', type=Path, required=True)
     parser.add_argument('--output', type=Path, required=True)
+    parser.add_argument('--browser', action='store_true', help='Use a normal isolated Chrome session for public source pages')
     args = parser.parse_args()
-    print(json.dumps(refresh(args.seed, args.output)))
+    if args.browser:
+        from asura_browser import AsuraBrowser
+        with AsuraBrowser() as browser:
+            result = refresh(args.seed, args.output,
+                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(title['sourceUrl'].split('/chapter/')[0])),
+                             workers=1)
+    else:
+        result = refresh(args.seed, args.output)
+    print(json.dumps(result))
 
 
 if __name__ == '__main__':

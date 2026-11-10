@@ -26,7 +26,7 @@ def _download(url, limit, host):
     return body
 
 
-def download(url, limit, host):
+def download(url, limit, host, html_loader=None):
     def valid(body):
         try:
             if host == 'asurascans.com':
@@ -42,7 +42,11 @@ def download(url, limit, host):
             return True
         except (ValueError, OSError, KeyError, IndexError):
             return False
-    return cached_source(url, limit, host, _download, validate=valid)
+    def fetch(source_url, source_limit, source_host):
+        if html_loader and source_host == 'asurascans.com':
+            return html_loader(source_url).encode('utf-8')
+        return _download(source_url, source_limit, source_host)
+    return cached_source(url, limit, host, fetch, validate=valid)
 
 
 def process(site, model, public_url, engine=None, fetch=download, max_episodes=0, title_id=None):
@@ -138,7 +142,15 @@ if __name__ == '__main__':
     parser.add_argument('--public-url', required=True)
     parser.add_argument('--max-episodes', type=int, default=0, help='Optional manual pilot limit; zero processes the full queue')
     parser.add_argument('--title', help='Optional manual title pilot; all titles remain eligible in daily runs')
+    parser.add_argument('--browser', action='store_true', help='Use normal Chrome for uncached public reader metadata')
     args = parser.parse_args()
     if args.max_episodes < 0:
         parser.error('--max-episodes must be nonnegative')
-    process(args.site, args.model, args.public_url, max_episodes=args.max_episodes, title_id=args.title)
+    if args.browser:
+        from asura_browser import AsuraBrowser
+        with AsuraBrowser() as browser:
+            process(args.site, args.model, args.public_url,
+                    fetch=lambda url, limit, host: download(url, limit, host, html_loader=browser.fetch_html),
+                    max_episodes=args.max_episodes, title_id=args.title)
+    else:
+        process(args.site, args.model, args.public_url, max_episodes=args.max_episodes, title_id=args.title)
