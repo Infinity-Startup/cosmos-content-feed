@@ -4,6 +4,12 @@ on:
     - cron: '0 0 * * *'
       timezone: Australia/Sydney
   workflow_dispatch:
+    inputs:
+      portrait_limit:
+        description: 'Optional pilot episode limit; zero processes the full queue'
+        required: false
+        default: '0'
+        type: string
   push:
     branches: [main]
     paths:
@@ -43,7 +49,9 @@ jobs:
       - name: Refresh and validate all registered titles
         run: python ops/refresh.py --seed seed --output _site
       - name: Generate and screen missing episode portraits
-        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/
+        env:
+          PORTRAIT_LIMIT: ${{ inputs.portrait_limit || '0' }}
+        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT"
       - name: Save the last successful snapshot and portrait review queue
         run: |
           cp -R _site/chapters/. seed/chapters/
@@ -61,7 +69,7 @@ jobs:
           import json, os
           report = json.load(open('_site/update-report.json'))
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
-              summary.write(f"Checked {report['titlesChecked']} titles. Found {len(report['newChapters'])} new chapters. {report['portraitsAwaitingReview']} portraits await visual review.\n")
+              summary.write(f"Checked {report['titlesChecked']} titles. Found {len(report['newChapters'])} new chapters. {report.get('portraitsGenerated', 0)} portraits generated automatically; {report['portraitsAwaitingReview']} remain queued.\n")
           PY
       - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
       - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4

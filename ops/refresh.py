@@ -126,6 +126,9 @@ def refresh(seed, output, fetch=fetch_document, now=None):
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         documents = list(pool.map(update, titles))
     summary, additions, portrait_queue = {}, [], []
+    prior_queue_file = seed / 'portrait-review-queue.json'
+    prior_attempts = {(item['titleId'], item['number']): item.get('lastAttemptAt')
+                      for item in read(prior_queue_file).get('chapters', [])} if prior_queue_file.exists() else {}
     output.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix='asura-feed-', dir=output.parent) as folder:
         staged = Path(folder) / 'site'
@@ -147,8 +150,10 @@ def refresh(seed, output, fetch=fetch_document, now=None):
                 value = chapter['number']
                 number = str(int(value) if float(value).is_integer() else value)
                 if title['category'] in ('Comics', 'Manga') and not chapter['premium'] and number not in portraits and title['id'] + ':' + number not in exceptions:
-                    portrait_queue.append(item)
+                    attempt = prior_attempts.get((title['id'], chapter['number']))
+                    portrait_queue.append({**item, **({'lastAttemptAt': attempt} if attempt else {})})
         write(staged / 'index.json', {'schemaVersion': 1, 'checkedAt': checked_at, 'titles': summary})
+        portrait_queue.sort(key=lambda item: item.get('lastAttemptAt', ''))
         write(staged / 'portrait-review-queue.json', {'checkedAt': checked_at, 'chapters': portrait_queue})
         write(staged / 'update-report.json', {'checkedAt': checked_at, 'titlesChecked': len(titles), 'newChapters': additions, 'portraitsAwaitingReview': len(portrait_queue)})
         (staged / '.nojekyll').touch()

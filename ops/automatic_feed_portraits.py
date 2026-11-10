@@ -4,6 +4,7 @@ import hashlib
 import json
 import time
 from pathlib import Path
+from datetime import datetime, timezone
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from refresh_chapter_previews import PreviewParser, image_url
@@ -23,7 +24,7 @@ def download(url, limit, host):
     return body
 
 
-def process(site, model, public_url, engine=None, fetch=download):
+def process(site, model, public_url, engine=None, fetch=download, max_episodes=0):
     site = Path(site)
     queue_file = site / 'portrait-review-queue.json'
     queue = json.loads(queue_file.read_text())
@@ -33,10 +34,12 @@ def process(site, model, public_url, engine=None, fetch=download):
     pending, generated = [], 0
     stopped = False
     deadline = time.monotonic() + 45 * 60
-    for item in queue['chapters']:
-        if stopped or time.monotonic() >= deadline:
+    for index, item in enumerate(queue['chapters']):
+        if stopped or time.monotonic() >= deadline or (max_episodes and index >= max_episodes):
             pending.append(item)
             continue
+        attempted_at = datetime.now(timezone.utc).isoformat()
+        episode_deadline = time.monotonic() + 90
         try:
             parser = PreviewParser()
             parser.feed(fetch(item['url'], 8_000_000, 'asurascans.com').decode('utf-8'))
@@ -46,6 +49,8 @@ def process(site, model, public_url, engine=None, fetch=download):
             # Bounded work, skip banners, try multiple actual episode pages.
             pages = [p['url'] for p in parser.props.get('pages', []) if image_url(p.get('url')) and p.get('width', 0) >= 384 and p.get('height', 0) >= 384]
             for url in list(dict.fromkeys(pages))[:12]:
+                if time.monotonic() >= episode_deadline:
+                    break
                 body = fetch(url, 24_000_000, 'cdn.asurascans.com')
                 selected = engine.select(body, min_crop=384, full_scan=True, excluded_hashes=[int(h, 16) for h in exclusions.get(item['titleId'], [])])
                 if selected:
@@ -57,7 +62,8 @@ def process(site, model, public_url, engine=None, fetch=download):
             if quality.get('textRegions') != 0 or quality.get('faceConfidence', 0) < .85 or quality.get('width') != 384 or quality.get('height') != 384:
                 raise ValueError('Portrait failed automated quality gate')
             digest = hashlib.sha256(body).hexdigest()
-            number = str(item['number'])
+            value = item['number']
+            number = str(int(value) if float(value).is_integer() else value)
             relative = f"portraits/{item['titleId']}/{number}-auto-v5-{digest[:12]}.webp"
             asset = site / relative
             asset.parent.mkdir(parents=True, exist_ok=True)
@@ -71,7 +77,7 @@ def process(site, model, public_url, engine=None, fetch=download):
         except Exception as error:
             if isinstance(error, HTTPError) and error.code in (403, 429):
                 stopped = True
-            pending.append({**item, 'reason': str(error)[:240]})
+            pending.append({**item, 'lastAttemptAt': attempted_at, 'reason': str(error)[:240]})
         print(f"Portraits: {generated} generated; {len(pending)} pending", flush=True)
     queue['chapters'] = pending
     queue_file.write_text(json.dumps(queue, indent=2) + '\n')
@@ -87,5 +93,8 @@ if __name__ == '__main__':
     parser.add_argument('--site', type=Path, required=True)
     parser.add_argument('--model', type=Path, required=True)
     parser.add_argument('--public-url', required=True)
+    parser.add_argument('--max-episodes', type=int, default=0, help='Optional manual pilot limit; zero processes the full queue')
     args = parser.parse_args()
-    process(args.site, args.model, args.public_url)
+    if args.max_episodes < 0:
+        parser.error('--max-episodes must be nonnegative')
+    process(args.site, args.model, args.public_url, max_episodes=args.max_episodes)
