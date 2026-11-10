@@ -27,7 +27,22 @@ def _download(url, limit, host):
 
 
 def download(url, limit, host):
-    return cached_source(url, limit, host, _download)
+    def valid(body):
+        try:
+            if host == 'asurascans.com':
+                from urllib.parse import urlsplit
+                reader = PreviewParser()
+                reader.feed(body.decode('utf-8'))
+                number = float(urlsplit(url).path.rsplit('/chapter/', 1)[1])
+                return bool(reader.props and reader.props.get('chapterNumber') == number and any(image_url(page.get('url')) for page in reader.props.get('pages', [])))
+            import io
+            from PIL import Image
+            with Image.open(io.BytesIO(body)) as image:
+                image.verify()
+            return True
+        except (ValueError, OSError, KeyError, IndexError):
+            return False
+    return cached_source(url, limit, host, _download, validate=valid)
 
 
 def process(site, model, public_url, engine=None, fetch=download, max_episodes=0, title_id=None):
