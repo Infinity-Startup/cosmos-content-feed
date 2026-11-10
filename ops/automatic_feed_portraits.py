@@ -1,0 +1,91 @@
+"""Generate screened episode portraits from public chapter pages; retain failures for retry."""
+import argparse
+import hashlib
+import json
+import time
+from pathlib import Path
+from urllib.request import Request, urlopen
+from urllib.error import HTTPError
+from refresh_chapter_previews import PreviewParser, image_url
+from portrait_preview_quality import selector
+
+
+def download(url, limit, host):
+    from urllib.parse import urlsplit
+    if urlsplit(url).scheme != 'https' or urlsplit(url).netloc != host:
+        raise ValueError('Unexpected source host')
+    with urlopen(Request(url, headers={'User-Agent': 'Infinity-ChapterPreviews/1.0'}), timeout=30) as response:
+        if urlsplit(response.url).netloc != host:
+            raise ValueError('Unexpected source redirect')
+        body = response.read(limit + 1)
+    if len(body) > limit:
+        raise ValueError('Oversized source')
+    return body
+
+
+def process(site, model, public_url, engine=None, fetch=download):
+    site = Path(site)
+    queue_file = site / 'portrait-review-queue.json'
+    queue = json.loads(queue_file.read_text())
+    engine = engine or selector(model)
+    exclusions_file = site / 'portrait-exclusions.json'
+    exclusions = json.loads(exclusions_file.read_text()) if exclusions_file.exists() else {}
+    pending, generated = [], 0
+    stopped = False
+    deadline = time.monotonic() + 45 * 60
+    for item in queue['chapters']:
+        if stopped or time.monotonic() >= deadline:
+            pending.append(item)
+            continue
+        try:
+            parser = PreviewParser()
+            parser.feed(fetch(item['url'], 8_000_000, 'asurascans.com').decode('utf-8'))
+            if not parser.props or parser.props.get('chapterNumber') != item['number']:
+                raise ValueError('Wrong chapter reader')
+            selected = None
+            # Bounded work, skip banners, try multiple actual episode pages.
+            pages = [p['url'] for p in parser.props.get('pages', []) if image_url(p.get('url')) and p.get('width', 0) >= 384 and p.get('height', 0) >= 384]
+            for url in list(dict.fromkeys(pages))[:12]:
+                body = fetch(url, 24_000_000, 'cdn.asurascans.com')
+                selected = engine.select(body, min_crop=384, full_scan=True, excluded_hashes=[int(h, 16) for h in exclusions.get(item['titleId'], [])])
+                if selected:
+                    break
+            if not selected:
+                raise ValueError('No clean high-resolution portrait found')
+            body, quality = selected
+            # No editorial bypass and no claim that a human reviewed this image.
+            if quality.get('textRegions') != 0 or quality.get('faceConfidence', 0) < .85 or quality.get('width') != 384 or quality.get('height') != 384:
+                raise ValueError('Portrait failed automated quality gate')
+            digest = hashlib.sha256(body).hexdigest()
+            number = str(item['number'])
+            relative = f"portraits/{item['titleId']}/{number}-auto-v5-{digest[:12]}.webp"
+            asset = site / relative
+            asset.parent.mkdir(parents=True, exist_ok=True)
+            asset.write_bytes(body)
+            manifest_file = site / 'previews/asura' / (item['titleId'] + '.json')
+            manifest = json.loads(manifest_file.read_text()) if manifest_file.exists() else {'titleId': item['titleId'], 'revision': 5, 'previews': {}}
+            manifest['previews'][number] = {'chapterUrl': item['url'], 'sourceImageUrl': url, 'image': {'uri': public_url.rstrip('/') + '/' + relative}, 'quality': {**quality, 'reviewed': False, 'automated': True, 'screeningVersion': 1}}
+            manifest_file.parent.mkdir(parents=True, exist_ok=True)
+            manifest_file.write_text(json.dumps(manifest, indent=2) + '\n')
+            generated += 1
+        except Exception as error:
+            if isinstance(error, HTTPError) and error.code in (403, 429):
+                stopped = True
+            pending.append({**item, 'reason': str(error)[:240]})
+        print(f"Portraits: {generated} generated; {len(pending)} pending", flush=True)
+    queue['chapters'] = pending
+    queue_file.write_text(json.dumps(queue, indent=2) + '\n')
+    report_file = site / 'update-report.json'
+    report = json.loads(report_file.read_text())
+    report.update(portraitsGenerated=generated, portraitsAwaitingReview=len(pending))
+    report_file.write_text(json.dumps(report, indent=2) + '\n')
+    return report
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--site', type=Path, required=True)
+    parser.add_argument('--model', type=Path, required=True)
+    parser.add_argument('--public-url', required=True)
+    args = parser.parse_args()
+    process(args.site, args.model, args.public_url)

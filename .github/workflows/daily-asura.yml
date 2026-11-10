@@ -13,6 +13,7 @@ on:
       - 'seed/previews/**'
       - 'seed/portraits/**'
       - 'seed/portrait-exceptions.json'
+      - 'seed/portrait-exclusions.json'
 permissions:
   contents: write
   pages: write
@@ -22,8 +23,9 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+    runs-on: macos-15
+    timeout-minutes: 90
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -32,15 +34,25 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.13'
+      - name: Install portrait screening tools
+        run: python -m pip install -r ops/requirements-previews.txt
+      - name: Download integrity-checked face detector
+        run: |
+          curl --fail --location --retry 3 'https://huggingface.co/deepghs/anime_face_detection/resolve/main/face_detect_v1.4_s/model.onnx' -o /tmp/face.onnx
+          echo '403b5bc93b6ff789b7d183418df4a1364049bac00c24acd927604a7ff6891483  /tmp/face.onnx' | shasum -a 256 -c -
       - name: Refresh and validate all registered titles
         run: python ops/refresh.py --seed seed --output _site
+      - name: Generate and screen missing episode portraits
+        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/
       - name: Save the last successful snapshot and portrait review queue
         run: |
           cp -R _site/chapters/. seed/chapters/
+          cp -R _site/previews/. seed/previews/
+          cp -R _site/portraits/. seed/portraits/
           cp _site/index.json _site/update-report.json _site/portrait-review-queue.json seed/
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add seed/chapters seed/index.json seed/update-report.json seed/portrait-review-queue.json
+          git add seed/previews seed/portraits seed/chapters seed/index.json seed/update-report.json seed/portrait-review-queue.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh daily Asura chapter feed'
             git push
