@@ -89,6 +89,9 @@ jobs:
           python - <<'PY'
           import json, os
           report = json.load(open('_site/update-report.json'))
+          pending = report['portraitsAwaitingReview']
+          if pending:
+              print(f"::warning::{pending} episode previews remain queued; see portrait-review-queue.json for reasons. Existing previews are preserved.")
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
               summary.write(f"Checked {report['titlesChecked']} titles. Found {len(report['newChapters'])} new chapters. {report.get('portraitsGenerated', 0)} portraits generated automatically; {report['portraitsAwaitingReview']} remain queued.\n")
           PY
