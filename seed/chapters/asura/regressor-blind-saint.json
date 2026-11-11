@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "regressor-blind-saint",
   "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 159,
+  "checkedAt": "2026-11-11T14:36:17.640663+00:00",
+  "chapterCount": 163,
   "chapters": [
     {
       "number": 0,
@@ -1116,6 +1116,34 @@
       "number": 158,
       "title": "Hodrick - 2",
       "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/158",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 159,
+      "title": "Hodrick - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/159",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 160,
+      "title": "An Unexpected Encounter",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/160",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 161,
+      "title": "An Unexpected Encounter - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/161",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 162,
+      "title": "An Unexpected Encounter - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/162",
       "premium": false,
       "publishedAt": null
     }
