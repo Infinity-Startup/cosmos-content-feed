@@ -1,64 +1,28 @@
 {
-  "checkedAt": "2026-11-11T14:41:04.923393+00:00",
+  "checkedAt": "2026-11-11T14:56:56.776642+00:00",
   "titlesTotal": 81,
-  "titlesChecked": 4,
-  "titlesUpdated": 1,
-  "titlesRetained": 80,
+  "titlesChecked": 6,
+  "titlesUpdated": 3,
+  "titlesRetained": 78,
   "status": "partial",
   "titleFailures": [
     {
-      "titleId": "asura-novel-copying-skills",
-      "reason": "HTTP Error 403: Source browser verification required",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "reason": "HTTP Error 403: Source browser verification required",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "reason": "HTTP Error 403: Source browser verification required",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-star-swordmaster",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
-    },
-    {
       "titleId": "asura-manhwa-barbarian",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-regressed-mercenary",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-pick-me-up",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-overgeared",
@@ -485,6 +449,30 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-novel-demon-king",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:41:04.923393+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-copying-skills",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-ode-brave",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-solo-swordmaster",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -506,7 +494,7 @@
     },
     "asura-novel-demon-king": {
       "lastAttemptAt": "2026-11-11T14:41:04.923393+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-novel-copying-skills": {
       "lastAttemptAt": "2026-11-11T14:41:04.923393+00:00",
@@ -521,21 +509,27 @@
       "status": "retained"
     },
     "asura-novel-star-swordmaster": {
-      "status": "retained"
+      "lastAttemptAt": "2026-11-11T14:56:56.776642+00:00",
+      "status": "updated"
     },
     "asura-novel-regressing-knight": {
-      "status": "retained"
+      "lastAttemptAt": "2026-11-11T14:56:56.776642+00:00",
+      "status": "updated"
     },
     "asura-novel-shepherd-wizard": {
-      "status": "retained"
+      "lastAttemptAt": "2026-11-11T14:56:56.776642+00:00",
+      "status": "updated"
     },
     "asura-manhwa-barbarian": {
+      "lastAttemptAt": "2026-11-11T14:56:56.776642+00:00",
       "status": "retained"
     },
     "asura-manhwa-regressed-mercenary": {
+      "lastAttemptAt": "2026-11-11T14:56:56.776642+00:00",
       "status": "retained"
     },
     "asura-manhwa-pick-me-up": {
+      "lastAttemptAt": "2026-11-11T14:56:56.776642+00:00",
       "status": "retained"
     },
     "asura-manhwa-overgeared": {
@@ -742,6 +736,115 @@
   },
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": null,
-  "newChapters": [],
+  "newChapters": [
+    {
+      "titleId": "asura-novel-star-swordmaster",
+      "title": "Star-Embracing Swordmaster",
+      "number": 270,
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/270"
+    },
+    {
+      "titleId": "asura-novel-star-swordmaster",
+      "title": "Star-Embracing Swordmaster",
+      "number": 271,
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/271"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 610,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/610"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 611,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/611"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 612,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/612"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 613,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/613"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 614,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/614"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 615,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/615"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 616,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/616"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 617,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/617"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 618,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/618"
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "title": "Eternally Regressing Knight",
+      "number": 619,
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/619"
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "number": 203,
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/203"
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "number": 204,
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/204"
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "number": 205,
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/205"
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "number": 206,
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/206"
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "number": 207,
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/207"
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "number": 208,
+      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/208"
+    }
+  ],
   "portraitsAwaitingReview": 18
 }

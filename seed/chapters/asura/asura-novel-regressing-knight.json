@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-regressing-knight",
   "seriesUrl": "https://asurascans.com/novels/eternally-regressing-knight",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 609,
+  "checkedAt": "2026-11-11T14:56:56.776642+00:00",
+  "chapterCount": 619,
   "chapters": [
     {
       "number": 1,
@@ -4266,6 +4266,76 @@
       "number": 609,
       "title": "A New Friend",
       "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/609",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 610,
+      "title": "Of Course",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/610",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 611,
+      "title": "The Hour of Punishment",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/611",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 612,
+      "title": "Light That Does Not Dazzle",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/612",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 613,
+      "title": "Ragna's Iron Wall",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/613",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 614,
+      "title": "Gain and Enjoyment",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/614",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 615,
+      "title": "A Shallow Heart Makes for Shallow Will",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/615",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 616,
+      "title": "Abbot Noah",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/616",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 617,
+      "title": "Warmth Remains Despite the Bitter Wind",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/617",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 618,
+      "title": "What Is Divine Power?",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/618",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 619,
+      "title": "Let's Be Friends",
+      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/619",
       "premium": false,
       "publishedAt": null
     }
