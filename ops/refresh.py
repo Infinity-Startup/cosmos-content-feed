@@ -7,6 +7,7 @@ import re
 from pathlib import Path
 import shutil
 import tempfile
+import time
 from urllib.error import HTTPError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
@@ -72,6 +73,7 @@ def validate_document(doc, title):
 
 def fetch_document(title, checked_at):
     series = title['sourceUrl'].split('/chapter/')[0]
+    time.sleep(2)
     request = Request(series, headers={'User-Agent': 'Mozilla/5.0 Infinity-ContentUpdater/1.0'})
     with urlopen(request, timeout=30) as response:
         if urlsplit(response.url).netloc != 'asurascans.com':
@@ -109,6 +111,7 @@ def refresh(seed, output, fetch=fetch_document, now=None):
             raise ValueError('Invalid title identifier')
         previous[title['id']] = validate_document(read(seed / 'chapters/asura' / (title['id'] + '.json')), title)
     documents, failures = [], []
+    deadline = time.monotonic() + 20 * 60
     attempts, fresh = 0, 0
     consecutive_refusals = 0
     stopped = False
@@ -121,10 +124,12 @@ def refresh(seed, output, fetch=fetch_document, now=None):
         old = previous[title['id']]
         old_links = {item['number']: item['url'] for item in old['chapters']}
         doc = old
-        deferred = stopped
+        deferred = stopped or time.monotonic() >= deadline
         try:
             if stopped:
                 raise RuntimeError('Deferred after source rate limit or repeated verification requests')
+            if deferred:
+                raise RuntimeError('Deferred after the twenty-minute metadata budget')
             attempts += 1
             checks[title['id']] = {'lastAttemptAt': checked_at}
             new = validate_document(fetch(title, checked_at), title)

@@ -30,6 +30,8 @@ def _download(url, limit, host):
     from urllib.parse import urlsplit
     if urlsplit(url).scheme != 'https' or urlsplit(url).netloc != host:
         raise ValueError('Unexpected source host')
+    if host == 'asurascans.com':
+        time.sleep(2)
     with urlopen(Request(url, headers={'User-Agent': 'Infinity-ChapterPreviews/1.0'}), timeout=30) as response:
         if urlsplit(response.url).netloc != host:
             raise ValueError('Unexpected source redirect')

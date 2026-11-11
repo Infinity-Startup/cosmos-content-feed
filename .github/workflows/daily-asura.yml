@@ -8,6 +8,11 @@ on:
       timezone: Australia/Sydney
   workflow_dispatch:
     inputs:
+      use_browser:
+        description: 'Optional normal Chrome transport for a targeted repair; routine updates use HTTP'
+        required: false
+        default: false
+        type: boolean
       portrait_limit:
         description: 'Optional pilot episode limit; zero processes the full queue'
         required: false
@@ -76,6 +81,7 @@ jobs:
         with:
           python-version: '3.13'
       - name: Install normal browser support
+        if: inputs.use_browser == true
         run: |
           python -m pip install 'playwright>=1.51,<2'
           if [ ! -x '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' ]; then
@@ -83,7 +89,14 @@ jobs:
           fi
       - name: Refresh titles independently and retain failed snapshots
         if: inputs.portrait_title == ''
-        run: python ops/refresh.py --seed seed --output _site --browser
+        env:
+          USE_BROWSER: ${{ inputs.use_browser && 'true' || 'false' }}
+        run: |
+          if [ "$USE_BROWSER" = 'true' ]; then
+            python ops/refresh.py --seed seed --output _site --browser
+          else
+            python ops/refresh.py --seed seed --output _site
+          fi
       - name: Stage last validated metadata for a targeted portrait repair
         if: inputs.portrait_title != ''
         run: |
@@ -122,7 +135,11 @@ jobs:
         env:
           PORTRAIT_TITLE: ${{ inputs.portrait_title || '' }}
           PORTRAIT_LIMIT: ${{ inputs.portrait_limit || '0' }}
-        run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE" --browser
+          USE_BROWSER: ${{ inputs.use_browser && 'true' || 'false' }}
+        run: |
+          args=()
+          if [ "$USE_BROWSER" = 'true' ]; then args+=(--browser); fi
+          python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE" "${args[@]}"
       - name: Report a portrait-stage failure without discarding chapter updates
         if: steps.portrait_tools.outcome == 'failure' || steps.generate.outcome == 'failure'
         run: python ops/feed_operations.py portrait-error
