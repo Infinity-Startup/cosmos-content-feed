@@ -1,35 +1,11 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T14:36:17.640663+00:00",
+  "checkedAt": "2026-11-11T14:41:04.923393+00:00",
   "titles": {
-    "regressor-blind-saint": {
-      "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
-      "chapterCount": 163,
-      "checkedAt": "2026-11-11T14:36:17.640663+00:00",
-      "firstChapter": 0
-    },
-    "asura-novel-first-prince": {
-      "seriesUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song",
-      "chapterCount": 297,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-raising-villains": {
-      "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
-      "chapterCount": 243,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-black-badger": {
-      "seriesUrl": "https://asurascans.com/novels/black-badger",
-      "chapterCount": 174,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-      "firstChapter": 1
-    },
     "asura-novel-demon-king": {
       "seriesUrl": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes",
       "chapterCount": 260,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "checkedAt": "2026-11-11T14:41:04.923393+00:00",
       "firstChapter": 1
     },
     "asura-novel-copying-skills": {
@@ -537,6 +513,30 @@
       "checkedAt": "2026-11-10T04:50:34.652527+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-04T17:08:07.227679Z"
+    },
+    "regressor-blind-saint": {
+      "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
+      "chapterCount": 163,
+      "checkedAt": "2026-11-11T14:36:17.640663+00:00",
+      "firstChapter": 0
+    },
+    "asura-novel-first-prince": {
+      "seriesUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song",
+      "chapterCount": 297,
+      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-raising-villains": {
+      "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
+      "chapterCount": 243,
+      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-black-badger": {
+      "seriesUrl": "https://asurascans.com/novels/black-badger",
+      "chapterCount": 174,
+      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "firstChapter": 1
     }
   }
 }

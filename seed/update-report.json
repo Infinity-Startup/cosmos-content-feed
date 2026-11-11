@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T14:36:17.640663+00:00",
+  "checkedAt": "2026-11-11T14:41:04.923393+00:00",
   "titlesTotal": 81,
   "titlesChecked": 4,
   "titlesUpdated": 1,
@@ -7,46 +7,22 @@
   "status": "partial",
   "titleFailures": [
     {
-      "titleId": "asura-novel-first-prince",
-      "reason": "HTTP Error 403: Source browser verification required",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "reason": "HTTP Error 403: Source browser verification required",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "reason": "HTTP Error 403: Source browser verification required",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
-    },
-    {
       "titleId": "asura-novel-copying-skills",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Source browser verification required",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-novel-ode-brave",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Source browser verification required",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-novel-solo-swordmaster",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Source browser verification required",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-novel-star-swordmaster",
@@ -485,12 +461,36 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "regressor-blind-saint",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:36:17.640663+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-first-prince",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-raising-villains",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-black-badger",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-10T04:50:34.652527+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
     "regressor-blind-saint": {
       "lastAttemptAt": "2026-11-11T14:36:17.640663+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-novel-first-prince": {
       "lastAttemptAt": "2026-11-11T14:36:17.640663+00:00",
@@ -505,15 +505,19 @@
       "status": "retained"
     },
     "asura-novel-demon-king": {
-      "status": "retained"
+      "lastAttemptAt": "2026-11-11T14:41:04.923393+00:00",
+      "status": "updated"
     },
     "asura-novel-copying-skills": {
+      "lastAttemptAt": "2026-11-11T14:41:04.923393+00:00",
       "status": "retained"
     },
     "asura-novel-ode-brave": {
+      "lastAttemptAt": "2026-11-11T14:41:04.923393+00:00",
       "status": "retained"
     },
     "asura-novel-solo-swordmaster": {
+      "lastAttemptAt": "2026-11-11T14:41:04.923393+00:00",
       "status": "retained"
     },
     "asura-novel-star-swordmaster": {
@@ -738,31 +742,6 @@
   },
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": null,
-  "newChapters": [
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 159,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/159"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 160,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/160"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 161,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/161"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 162,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/162"
-    }
-  ],
+  "newChapters": [],
   "portraitsAwaitingReview": 18
 }
