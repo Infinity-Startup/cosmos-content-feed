@@ -1,46 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T14:56:56.776642+00:00",
+  "checkedAt": "2026-11-11T15:01:14.578716+00:00",
   "titles": {
-    "asura-novel-star-swordmaster": {
-      "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
-      "chapterCount": 271,
-      "checkedAt": "2026-11-11T14:56:56.776642+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-regressing-knight": {
-      "seriesUrl": "https://asurascans.com/novels/eternally-regressing-knight",
-      "chapterCount": 619,
-      "checkedAt": "2026-11-11T14:56:56.776642+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-shepherd-wizard": {
-      "seriesUrl": "https://asurascans.com/novels/the-shepherd-wizard",
-      "chapterCount": 209,
-      "checkedAt": "2026-11-11T14:56:56.776642+00:00",
-      "firstChapter": 0
-    },
-    "asura-manhwa-barbarian": {
-      "seriesUrl": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8",
-      "chapterCount": 168,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-06T19:42:33.670197Z"
-    },
-    "asura-manhwa-regressed-mercenary": {
-      "seriesUrl": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-bd5bdaf8",
-      "chapterCount": 114,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-02T15:35:18.58586Z"
-    },
-    "asura-manhwa-pick-me-up": {
-      "seriesUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-bd5bdaf8",
-      "chapterCount": 226,
-      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-04T14:50:27.409485Z"
-    },
     "asura-manhwa-overgeared": {
       "seriesUrl": "https://asurascans.com/comics/overgeared-bd5bdaf8",
       "chapterCount": 348,
@@ -537,6 +498,45 @@
       "chapterCount": 284,
       "checkedAt": "2026-11-10T04:50:34.652527+00:00",
       "firstChapter": 1
+    },
+    "asura-novel-star-swordmaster": {
+      "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
+      "chapterCount": 271,
+      "checkedAt": "2026-11-11T14:56:56.776642+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-regressing-knight": {
+      "seriesUrl": "https://asurascans.com/novels/eternally-regressing-knight",
+      "chapterCount": 619,
+      "checkedAt": "2026-11-11T14:56:56.776642+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-shepherd-wizard": {
+      "seriesUrl": "https://asurascans.com/novels/the-shepherd-wizard",
+      "chapterCount": 209,
+      "checkedAt": "2026-11-11T14:56:56.776642+00:00",
+      "firstChapter": 0
+    },
+    "asura-manhwa-barbarian": {
+      "seriesUrl": "https://asurascans.com/comics/surviving-the-game-as-a-barbarian-bd5bdaf8",
+      "chapterCount": 168,
+      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T19:42:33.670197Z"
+    },
+    "asura-manhwa-regressed-mercenary": {
+      "seriesUrl": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-bd5bdaf8",
+      "chapterCount": 114,
+      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-02T15:35:18.58586Z"
+    },
+    "asura-manhwa-pick-me-up": {
+      "seriesUrl": "https://asurascans.com/comics/pick-me-up-infinite-gacha-bd5bdaf8",
+      "chapterCount": 226,
+      "checkedAt": "2026-11-10T04:50:34.652527+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-04T14:50:27.409485Z"
     }
   }
 }
