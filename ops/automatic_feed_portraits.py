@@ -2,6 +2,8 @@
 import argparse
 import hashlib
 import json
+import os
+import tempfile
 import time
 from pathlib import Path
 from datetime import datetime, timezone
@@ -11,6 +13,17 @@ from refresh_chapter_previews import PreviewParser, image_url
 from portrait_preview_quality import selector
 from portrait_policy import MIN_SOURCE_CROP
 from portrait_source_cache import cached_source
+
+
+def atomic_write(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.NamedTemporaryFile(dir=path.parent, delete=False) as temporary:
+        temporary.write(data)
+        name = temporary.name
+    try:
+        os.replace(name, path)
+    finally:
+        Path(name).unlink(missing_ok=True)
 
 
 def _download(url, limit, host):
@@ -57,12 +70,20 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
     exclusions_file = site / 'portrait-exclusions.json'
     exclusions = json.loads(exclusions_file.read_text()) if exclusions_file.exists() else {}
     pending, generated = [], 0
+    source_failures, consecutive_refusals, deferred = 0, 0, 0
     stopped = False
     deadline = time.monotonic() + 45 * 60
     attempts = 0
     for item in queue['chapters']:
         if (title_id and item['titleId'] != title_id) or stopped or time.monotonic() >= deadline or (max_episodes and attempts >= max_episodes):
             pending.append(item)
+            if not title_id or item['titleId'] == title_id:
+                deferred += 1
+            continue
+        # Recovery after an interrupted run must retain an already published image.
+        manifest_file = site / 'previews/asura' / (item['titleId'] + '.json')
+        number = str(int(item['number']) if float(item['number']).is_integer() else item['number'])
+        if manifest_file.exists() and number in json.loads(manifest_file.read_text()).get('previews', {}):
             continue
         attempts += 1
         attempted_at = datetime.now(timezone.utc).isoformat()
@@ -70,6 +91,7 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
         try:
             parser = PreviewParser()
             parser.feed(fetch(item['url'], 8_000_000, 'asurascans.com').decode('utf-8'))
+            consecutive_refusals = 0
             if not parser.props or parser.props.get('chapterNumber') != item['number']:
                 raise ValueError('Wrong chapter reader')
             selected = None
@@ -114,24 +136,28 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
             relative = f"portraits/{item['titleId']}/{number}-auto-v5-{digest[:12]}.webp"
             asset = site / relative
             asset.parent.mkdir(parents=True, exist_ok=True)
-            asset.write_bytes(body)
+            atomic_write(asset, body)
             manifest_file = site / 'previews/asura' / (item['titleId'] + '.json')
             manifest = json.loads(manifest_file.read_text()) if manifest_file.exists() else {'titleId': item['titleId'], 'revision': 5, 'previews': {}}
             manifest['previews'][number] = {'chapterUrl': item['url'], 'sourceImageUrl': url, 'image': {'uri': public_url.rstrip('/') + '/' + relative}, 'quality': {**quality, 'reviewed': False, 'automated': True, 'screeningVersion': 1}}
             manifest_file.parent.mkdir(parents=True, exist_ok=True)
-            manifest_file.write_text(json.dumps(manifest, indent=2) + '\n')
+            atomic_write(manifest_file, (json.dumps(manifest, indent=2) + '\n').encode())
             generated += 1
         except Exception as error:
-            if isinstance(error, HTTPError) and error.code in (403, 429):
-                stopped = True
-            pending.append({**item, 'lastAttemptAt': attempted_at, 'reason': str(error)[:240]})
+            quality_failure = isinstance(error, ValueError) and str(error).startswith('No clean high-resolution portrait')
+            if not quality_failure:
+                source_failures += 1
+            if isinstance(error, HTTPError):
+                consecutive_refusals = consecutive_refusals + 1 if error.code == 403 else 0
+                stopped = error.code == 429 or consecutive_refusals >= 3
+            pending.append({**item, 'lastAttemptAt': attempted_at, 'reason': str(error)[:240], 'failureKind': 'quality' if quality_failure else 'source'})
         print(f"Portraits: {generated} generated; {len(pending)} pending", flush=True)
     queue['chapters'] = pending
-    queue_file.write_text(json.dumps(queue, indent=2) + '\n')
+    atomic_write(queue_file, (json.dumps(queue, indent=2) + '\n').encode())
     report_file = site / 'update-report.json'
     report = json.loads(report_file.read_text())
-    report.update(portraitsGenerated=generated, portraitsAwaitingReview=len(pending))
-    report_file.write_text(json.dumps(report, indent=2) + '\n')
+    report.update(portraitsGenerated=generated, portraitsAwaitingReview=len(pending), portraitSourceFailures=source_failures, portraitDeferred=deferred, portraitCheckedAt=datetime.now(timezone.utc).isoformat())
+    atomic_write(report_file, (json.dumps(report, indent=2) + '\n').encode())
     return report
 
 

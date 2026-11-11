@@ -8,15 +8,20 @@ from urllib.error import HTTPError
 def validate_page_url(url):
     parsed = urlsplit(url)
     if parsed.scheme != 'https' or parsed.netloc != 'asurascans.com' or parsed.query or parsed.fragment or not re.fullmatch(r'/(comics|novels)/[a-z0-9-]+(?:/chapter/[0-9]+(?:\.[0-9]+)?)?/?', parsed.path):
-        raise ValueError('Unexpected Asura page URL')
+        raise ValueError('Unexpected Asura page URL: ' + parsed.scheme + '://' + parsed.netloc + parsed.path)
 
 
-def check_response(url, status, headers, html):
-    validate_page_url(url)
+def check_response(url, status, headers, html, requested_url=None):
     if headers.get('cf-mitigated') == 'challenge' or '<title>Just a moment...' in html:
         raise HTTPError(url, 403, 'Source browser verification required', headers, None)
     if status >= 400:
         raise HTTPError(url, status, 'Source refused browser request', headers, None)
+    validate_page_url(url)
+    if requested_url is not None:
+        validate_page_url(requested_url)
+        identity = lambda value: re.sub(r'-[0-9a-f]{8}(?=/chapter/|$)', '', urlsplit(value).path.rstrip('/'))
+        if identity(url) != identity(requested_url):
+            raise ValueError('Source redirected to a different story or chapter')
     if len(html.encode('utf-8')) > 8_000_000:
         raise ValueError('Oversized source page')
     return html
@@ -40,11 +45,13 @@ class AsuraBrowser:
         validate_page_url(url)
         time.sleep(max(0, self.next_request - time.monotonic()))
         response = self.page.goto(url, wait_until='domcontentloaded', timeout=45000)
-        self.next_request = time.monotonic() + 1
+        self.next_request = time.monotonic() + 2
         if response is None:
             raise ValueError('Source returned no response')
-        html = self.page.content()
-        return check_response(self.page.url, response.status, response.headers, html)
+        # Chapter metadata is server-rendered. Use the response's own URL/body;
+        # later page navigation must never change which document we validate.
+        return check_response(response.url, response.status, response.headers,
+                              response.text(), requested_url=url)
 
     def __exit__(self, *error):
         try:

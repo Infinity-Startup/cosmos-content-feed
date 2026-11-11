@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: '0 0 * * *'
       timezone: Australia/Sydney
+    # Lightweight recovery checks; only due attempts start the macOS job.
+    - cron: '17 * * * *'
+      timezone: Australia/Sydney
   workflow_dispatch:
     inputs:
       portrait_limit:
@@ -11,7 +14,7 @@ on:
         default: '0'
         type: string
       portrait_title:
-        description: 'Optional title ID for a targeted pilot; blank processes all titles'
+        description: 'Optional title ID for a targeted portrait repair'
         required: false
         default: ''
         type: string
@@ -33,8 +36,33 @@ concurrency:
   group: daily-asura-feed
   cancel-in-progress: false
 jobs:
-  update:
+  plan:
     if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.due.outputs.run }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Check Sydney date and recovery budget
+        id: due
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: python3 ops/feed_operations.py gate --event "$EVENT_NAME"
+      - name: Persist the attempt before starting expensive work
+        if: steps.due.outputs.run == 'true'
+        run: |
+          python3 ops/feed_operations.py attempt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add seed/daily-state.json
+          git commit -m 'Record daily update attempt'
+          git pull --rebase origin main
+          git push
+  update:
+    needs: plan
+    if: needs.plan.outputs.run == 'true'
     runs-on: macos-15
     timeout-minutes: 90
     environment:
@@ -42,39 +70,73 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.13'
-      - name: Restore public source artwork cache
-        uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5
-        with:
-          path: /tmp/asura-portrait-source-cache
-          key: asura-portrait-sources-v1-${{ github.run_id }}
-          restore-keys: asura-portrait-sources-v1-
-      - name: Install portrait screening tools
-        run: python -m pip install -r ops/requirements-previews.txt
-      - name: Ensure normal Chrome is available
+      - name: Install normal browser support
         run: |
+          python -m pip install 'playwright>=1.51,<2'
           if [ ! -x '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' ]; then
             python -m playwright install chrome
           fi
-      - name: Download integrity-checked face detector
-        run: |
-          curl --fail --location --retry 3 'https://huggingface.co/deepghs/anime_face_detection/resolve/main/face_detect_v1.4_s/model.onnx' -o /tmp/face.onnx
-          echo '403b5bc93b6ff789b7d183418df4a1364049bac00c24acd927604a7ff6891483  /tmp/face.onnx' | shasum -a 256 -c -
-      - name: Refresh and validate all registered titles
+      - name: Refresh titles independently and retain failed snapshots
         if: inputs.portrait_title == ''
         run: python ops/refresh.py --seed seed --output _site --browser
       - name: Stage last validated metadata for a targeted portrait repair
         if: inputs.portrait_title != ''
-        run: cp -R seed _site
+        run: |
+          cp -R seed _site
+          python ops/feed_operations.py target
+      - name: Decide whether source artwork can be processed
+        id: portraits
+        run: |
+          python - <<'PY'
+          import json, os
+          report = json.load(open('_site/update-report.json'))
+          pending = json.load(open('_site/portrait-review-queue.json'))['chapters']
+          run = bool(pending) and not report.get('sourceRequestsStopped', False)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write('run=' + str(run).lower() + '\n')
+          PY
+      - name: Restore public source artwork cache
+        if: steps.portraits.outputs.run == 'true'
+        uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5
+        with:
+          path: /tmp/asura-portrait-source-cache
+          key: asura-portrait-sources-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: asura-portrait-sources-v1-
+      - name: Install portrait screening tools
+        id: portrait_tools
+        if: steps.portraits.outputs.run == 'true'
+        continue-on-error: true
+        run: |
+          python -m pip install -r ops/requirements-previews.txt
+          curl --fail --location --retry 3 --connect-timeout 20 --max-time 180 'https://huggingface.co/deepghs/anime_face_detection/resolve/main/face_detect_v1.4_s/model.onnx' -o /tmp/face.onnx
+          echo '403b5bc93b6ff789b7d183418df4a1364049bac00c24acd927604a7ff6891483  /tmp/face.onnx' | shasum -a 256 -c -
       - name: Generate and screen missing episode portraits
+        id: generate
+        if: steps.portrait_tools.outcome == 'success'
+        continue-on-error: true
         env:
           PORTRAIT_TITLE: ${{ inputs.portrait_title || '' }}
           PORTRAIT_LIMIT: ${{ inputs.portrait_limit || '0' }}
         run: python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE" --browser
-      - name: Save the last successful snapshot and portrait review queue
+      - name: Report a portrait-stage failure without discarding chapter updates
+        if: steps.portrait_tools.outcome == 'failure' || steps.generate.outcome == 'failure'
+        run: python ops/feed_operations.py portrait-error
+      - name: Summarize actual update health
+        run: python ops/feed_operations.py summary
+      - name: Validate every staged chapter manifest and portrait asset
+        run: python ops/validate_feed.py --site _site --public-url https://infinity-startup.github.io/cosmos-content-feed/
+      - name: Save validated snapshots and outstanding work
         run: |
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            echo 'Catalogue changed during the run; refusing to overwrite newer data. Retry with the latest seed.'
+            exit 1
+          fi
           cp -R _site/chapters/. seed/chapters/
           cp -R _site/previews/. seed/previews/
           cp -R _site/portraits/. seed/portraits/
@@ -83,22 +145,31 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add seed/previews seed/portraits seed/chapters seed/index.json seed/update-report.json seed/portrait-review-queue.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh daily Asura chapter feed'
+            git commit -m 'Publish validated chapter updates and preserve failed titles'
             git push
           fi
-          python - <<'PY'
-          import json, os
-          report = json.load(open('_site/update-report.json'))
-          pending = report['portraitsAwaitingReview']
-          if pending:
-              print(f"::warning::{pending} episode previews remain queued; see portrait-review-queue.json for reasons. Existing previews are preserved.")
-          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
-              summary.write(f"Checked {report['titlesChecked']} titles. Found {len(report['newChapters'])} new chapters. {report.get('portraitsGenerated', 0)} portraits generated automatically; {report['portraitsAwaitingReview']} remain queued.\n")
-          PY
+          # Operational retry state is not part of the public reader feed.
+          rm -f _site/daily-state.json
       - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
       - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
         with:
           path: _site
-      - name: Publish the complete feed
+      - name: Publish validated updates
         id: deployment
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
+      - name: Record successful publication for the scheduler
+        env:
+          PORTRAIT_TITLE: ${{ inputs.portrait_title || '' }}
+        run: |
+          if [ -n "$PORTRAIT_TITLE" ]; then
+            python ops/feed_operations.py publication --targeted
+          else
+            python ops/feed_operations.py publication
+          fi
+          git add seed/daily-state.json
+          git commit -m 'Record feed publication and daily completion'
+          git pull --rebase origin main
+          git push
+      - name: Flag outstanding source failures after publishing valid updates
+        if: inputs.portrait_title == ''
+        run: python ops/feed_operations.py health

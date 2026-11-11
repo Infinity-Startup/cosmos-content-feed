@@ -1,6 +1,5 @@
-"""Daily public chapter-feed refresh. Only a complete valid run replaces the output."""
+"""Daily public chapter-feed refresh. Validate each title independently and retain last-good data on source failures."""
 import argparse
-import concurrent.futures
 from datetime import datetime, timezone
 import json
 import math
@@ -8,14 +7,12 @@ import re
 from pathlib import Path
 import shutil
 import tempfile
-import threading
 from urllib.error import HTTPError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 from update_asura_chapters import parse_chapters, ChapterParser
 
 MAX_PAGE_BYTES = 8 * 1024 * 1024
-STOP = threading.Event()
 
 
 def read(path):
@@ -76,17 +73,10 @@ def validate_document(doc, title):
 def fetch_document(title, checked_at):
     series = title['sourceUrl'].split('/chapter/')[0]
     request = Request(series, headers={'User-Agent': 'Mozilla/5.0 Infinity-ContentUpdater/1.0'})
-    if STOP.is_set():
-        raise RuntimeError('Source access stopped')
-    try:
-        with urlopen(request, timeout=30) as response:
-            if urlsplit(response.url).netloc != 'asurascans.com':
-                raise ValueError('Unexpected source redirect')
-            body = response.read(MAX_PAGE_BYTES + 1)
-    except HTTPError as error:
-        if error.code in (403, 429):
-            STOP.set()
-        raise
+    with urlopen(request, timeout=30) as response:
+        if urlsplit(response.url).netloc != 'asurascans.com':
+            raise ValueError('Unexpected source redirect')
+        body = response.read(MAX_PAGE_BYTES + 1)
     if len(body) > MAX_PAGE_BYTES:
         raise ValueError('Source page too large')
     return document_from_html(title, checked_at, body.decode('utf-8'))
@@ -104,37 +94,64 @@ def document_from_html(title, checked_at, html):
                               'checkedAt': checked_at, 'chapterCount': len(chapters), 'chapters': chapters}, title)
 
 
-def refresh(seed, output, fetch=fetch_document, now=None, workers=3):
+def refresh(seed, output, fetch=fetch_document, now=None):
     seed, output = Path(seed).resolve(), Path(output).resolve()
     if output == seed or seed in output.parents or output in seed.parents or output.exists():
         raise ValueError('Use a new output directory outside the seed directory')
-    STOP.clear()
     titles = read(seed / 'titles.json')
     if not titles or len({item['id'] for item in titles}) != len(titles):
         raise ValueError('Invalid catalogue registry')
     checked_at = now or datetime.now(timezone.utc).isoformat()
-    def update(title):
-        old = validate_document(read(seed / 'chapters/asura' / (title['id'] + '.json')), title)
-        try:
-            new = validate_document(fetch(title, checked_at), title)
-        except Exception as error:
-            raise ValueError(title['id'] + ': ' + str(error)) from error
-        if datetime.fromisoformat(new['checkedAt'].replace('Z', '+00:00')) < datetime.fromisoformat(old['checkedAt'].replace('Z', '+00:00')):
-            raise ValueError('Source check is older than the last successful snapshot')
+    # Validate the complete existing feed before any network request or write.
+    previous = {}
+    for title in titles:
+        if not re.fullmatch(r'[a-z0-9-]+', title['id']):
+            raise ValueError('Invalid title identifier')
+        previous[title['id']] = validate_document(read(seed / 'chapters/asura' / (title['id'] + '.json')), title)
+    documents, failures = [], []
+    attempts, fresh = 0, 0
+    consecutive_refusals = 0
+    stopped = False
+    # Prefer titles least recently attempted so refusals cannot starve later ones.
+    prior_report = read(seed / 'update-report.json') if (seed / 'update-report.json').exists() else {}
+    prior_checks = prior_report.get('titleChecks', {})
+    ordered = sorted(titles, key=lambda t: prior_checks.get(t['id'], {}).get('lastAttemptAt', ''))
+    checks = dict(prior_checks)
+    for title in ordered:
+        old = previous[title['id']]
         old_links = {item['number']: item['url'] for item in old['chapters']}
-        new_links = {item['number']: item['url'] for item in new['chapters']}
-        if any(number not in new_links or chapter_identity(new_links[number]) != chapter_identity(link) for number, link in old_links.items()):
-            raise ValueError('Published chapters disappeared or changed URL; manual review required: ' + title['id'])
-        return title, new, old_links
-    # No files are published when any series fails, is incomplete or refuses requests.
-    if workers == 1:
-        documents = [update(title) for title in titles]
-    else:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
-            documents = list(pool.map(update, titles))
+        doc = old
+        deferred = stopped
+        try:
+            if stopped:
+                raise RuntimeError('Deferred after source rate limit or repeated verification requests')
+            attempts += 1
+            checks[title['id']] = {'lastAttemptAt': checked_at}
+            new = validate_document(fetch(title, checked_at), title)
+            if datetime.fromisoformat(new['checkedAt'].replace('Z', '+00:00')) < datetime.fromisoformat(old['checkedAt'].replace('Z', '+00:00')):
+                raise ValueError('Source check is older than the last successful snapshot')
+            new_links = {item['number']: item['url'] for item in new['chapters']}
+            if any(number not in new_links or chapter_identity(new_links[number]) != chapter_identity(link) for number, link in old_links.items()):
+                raise ValueError('Published chapters disappeared or changed story; retained last valid snapshot')
+            doc = new
+            fresh += 1
+            consecutive_refusals = 0
+            checks[title['id']]['status'] = 'updated'
+            print(f"Updated {title['id']}: {doc['chapterCount']} chapters", flush=True)
+        except Exception as error:
+            if isinstance(error, HTTPError):
+                consecutive_refusals = consecutive_refusals + 1 if error.code == 403 else 0
+                stopped = stopped or error.code == 429 or consecutive_refusals >= 3
+            elif not stopped:
+                consecutive_refusals = 0
+            reason = str(error)[:500]
+            failures.append({'titleId': title['id'], 'reason': reason, 'lastSuccessfulCheckAt': old['checkedAt'], 'deferred': deferred})
+            checks.setdefault(title['id'], {})['status'] = 'retained'
+            print(f"Retained {title['id']}: {reason}", flush=True)
+        documents.append((title, doc, old_links))
     summary, additions, portrait_queue = {}, [], []
     prior_queue_file = seed / 'portrait-review-queue.json'
-    prior_attempts = {(item['titleId'], item['number']): item.get('lastAttemptAt')
+    prior_attempts = {(item['titleId'], item['number']): {key: item[key] for key in ('lastAttemptAt', 'reason', 'failureKind') if key in item}
                       for item in read(prior_queue_file).get('chapters', [])} if prior_queue_file.exists() else {}
     output.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix='asura-feed-', dir=output.parent) as folder:
@@ -158,15 +175,21 @@ def refresh(seed, output, fetch=fetch_document, now=None, workers=3):
                 number = str(int(value) if float(value).is_integer() else value)
                 if title['category'] in ('Comics', 'Manga') and not chapter['premium'] and number not in portraits and title['id'] + ':' + number not in exceptions:
                     attempt = prior_attempts.get((title['id'], chapter['number']))
-                    portrait_queue.append({**item, **({'lastAttemptAt': attempt} if attempt else {})})
+                    portrait_queue.append({**item, **(attempt or {})})
         write(staged / 'index.json', {'schemaVersion': 1, 'checkedAt': checked_at, 'titles': summary})
         portrait_queue.sort(key=lambda item: item.get('lastAttemptAt', ''))
         write(staged / 'portrait-review-queue.json', {'checkedAt': checked_at, 'chapters': portrait_queue})
-        write(staged / 'update-report.json', {'checkedAt': checked_at, 'titlesChecked': len(titles), 'newChapters': additions, 'portraitsAwaitingReview': len(portrait_queue)})
+        report = {'checkedAt': checked_at, 'titlesTotal': len(titles), 'titlesChecked': attempts,
+                  'titlesUpdated': fresh, 'titlesRetained': len(failures),
+                  'status': 'complete' if not failures else 'partial' if fresh else 'blocked',
+                  'titleFailures': failures, 'titleChecks': checks, 'sourceRequestsStopped': stopped,
+                  'lastCompleteCheckAt': checked_at if not failures else prior_report.get('lastCompleteCheckAt'),
+                  'newChapters': additions, 'portraitsAwaitingReview': len(portrait_queue)}
+        write(staged / 'update-report.json', report)
         (staged / '.nojekyll').touch()
         (staged / 'index.html').write_text('<!doctype html><title>Cosmos content feed</title><p>Public Asura chapter metadata and reviewed episode portraits.</p>')
         staged.rename(output)
-    return {'titlesChecked': len(titles), 'newChapters': len(additions), 'portraitsAwaitingReview': len(portrait_queue)}
+    return {key: report[key] for key in ('status', 'titlesChecked', 'titlesUpdated', 'titlesRetained', 'portraitsAwaitingReview')} | {'newChapters': len(additions)}
 
 
 def main():
@@ -179,8 +202,7 @@ def main():
         from asura_browser import AsuraBrowser
         with AsuraBrowser() as browser:
             result = refresh(args.seed, args.output,
-                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(title['sourceUrl'].split('/chapter/')[0])),
-                             workers=1)
+                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(title['sourceUrl'].split('/chapter/')[0])))
     else:
         result = refresh(args.seed, args.output)
     print(json.dumps(result))
