@@ -24,7 +24,7 @@ def gate(state, event, now):
     today = now.astimezone(SYDNEY).date().isoformat()
     if event != 'schedule':
         return True, 'Explicit update requested'
-    if state.get('lastCompleteDate') == today:
+    if state.get('lastCompleteDate') == today and not state.get('needsRecovery', False):
         return False, 'Today has already been updated and published'
     if state.get('attemptDate') == today:
         if state.get('attempts', 0) >= MAX_DAILY_ATTEMPTS:
@@ -39,7 +39,7 @@ def record_attempt(state, now):
     today = now.astimezone(SYDNEY).date().isoformat()
     return {**state, 'attemptDate': today,
             'attempts': state.get('attempts', 0) + 1 if state.get('attemptDate') == today else 1,
-            'lastAttemptAt': now.isoformat()}
+            'lastAttemptAt': now.isoformat(), 'needsRecovery': True}
 
 
 def healthy(report):
@@ -52,6 +52,7 @@ def record_publication(state, report, now, targeted=False):
         # Credit the day the source check started, not tomorrow if the job crossed midnight.
         checked = datetime.fromisoformat(report['checkedAt']).astimezone(SYDNEY).date().isoformat()
         state['lastCompleteDate'] = checked
+        state['needsRecovery'] = False
     return state
 
 

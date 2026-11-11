@@ -71,12 +71,20 @@ def validate_document(doc, title):
     return doc
 
 
+def source_page_url(title):
+    original = title['sourceUrl'].split('/chapter/')[0]
+    current = title.get('fetchUrl', original)
+    if series_identity(current) != series_identity(original):
+        raise ValueError('Fetch URL points to a different story')
+    return current
+
+
 def fetch_document(title, checked_at):
-    series = title['sourceUrl'].split('/chapter/')[0]
+    series = source_page_url(title)
     time.sleep(2)
     request = Request(series, headers={'User-Agent': 'Mozilla/5.0 Infinity-ContentUpdater/1.0'})
     with urlopen(request, timeout=30) as response:
-        if urlsplit(response.url).netloc != 'asurascans.com':
+        if series_identity(response.url) != series_identity(series):
             raise ValueError('Unexpected source redirect')
         body = response.read(MAX_PAGE_BYTES + 1)
     if len(body) > MAX_PAGE_BYTES:
@@ -132,7 +140,9 @@ def refresh(seed, output, fetch=fetch_document, now=None):
                 raise RuntimeError('Deferred after the twenty-minute metadata budget')
             attempts += 1
             checks[title['id']] = {'lastAttemptAt': checked_at}
-            new = validate_document(fetch(title, checked_at), title)
+            # Use the last published canonical link, not the app's frozen identity URL.
+            request_title = {**title, 'fetchUrl': old['chapters'][-1]['url'].split('/chapter/')[0]}
+            new = validate_document(fetch(request_title, checked_at), title)
             if datetime.fromisoformat(new['checkedAt'].replace('Z', '+00:00')) < datetime.fromisoformat(old['checkedAt'].replace('Z', '+00:00')):
                 raise ValueError('Source check is older than the last successful snapshot')
             new_links = {item['number']: item['url'] for item in new['chapters']}
@@ -207,7 +217,7 @@ def main():
         from asura_browser import AsuraBrowser
         with AsuraBrowser() as browser:
             result = refresh(args.seed, args.output,
-                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(title['sourceUrl'].split('/chapter/')[0])))
+                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(source_page_url(title))))
     else:
         result = refresh(args.seed, args.output)
     print(json.dumps(result))
