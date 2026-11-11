@@ -44,14 +44,33 @@ class AsuraBrowser:
     def fetch_html(self, url):
         validate_page_url(url)
         time.sleep(max(0, self.next_request - time.monotonic()))
-        response = self.page.goto(url, wait_until='domcontentloaded', timeout=45000)
-        self.next_request = time.monotonic() + 2
-        if response is None:
-            raise ValueError('Source returned no response')
-        # Chapter metadata is server-rendered. Use the response's own URL/body;
-        # later page navigation must never change which document we validate.
-        return check_response(response.url, response.status, response.headers,
-                              response.text(), requested_url=url)
+        navigations = []
+        def observe(response):
+            if response.request.is_navigation_request() and response.request.frame == self.page.main_frame:
+                navigations.append(response)
+        self.page.on('response', observe)
+        try:
+            response = self.page.goto(url, wait_until='domcontentloaded', timeout=45000)
+            if response is None:
+                raise ValueError('Source returned no response')
+            # A managed verification page may finish and navigate normally after
+            # DOMContentLoaded. Allow ordinary browser loading to settle; no clicks,
+            # challenge solving, profile reuse or fingerprint changes are performed.
+            if response.headers.get('cf-mitigated') == 'challenge':
+                deadline = time.monotonic() + 20
+                while time.monotonic() < deadline:
+                    self.page.wait_for_timeout(500)
+                    latest = navigations[-1] if navigations else response
+                    if latest is not response and latest.headers.get('cf-mitigated') != 'challenge':
+                        response = latest
+                        break
+            # Metadata is server-rendered. Validate the response's own URL/body,
+            # even when later client navigation changes the address bar.
+            return check_response(response.url, response.status, response.headers,
+                                  response.text(), requested_url=url)
+        finally:
+            self.next_request = time.monotonic() + 2
+            self.page.remove_listener('response', observe)
 
     def __exit__(self, *error):
         try:
