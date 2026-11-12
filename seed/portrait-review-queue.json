@@ -9,6 +9,15 @@
       "lastAttemptAt": "2026-11-12T05:22:36.549534+00:00",
       "reason": "No clean high-resolution portrait after 22 of 22 episode images",
       "failureKind": "quality"
+    },
+    {
+      "titleId": "asura-manhwa-regressed-mercenary",
+      "title": "The Regressed Mercenary\u2019s Machinations",
+      "number": 114,
+      "url": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-f212c582/chapter/114",
+      "lastAttemptAt": "2026-11-12T05:31:27.145351+00:00",
+      "failureKind": "quality",
+      "reason": "Visual spot check rejected possible stylized lettering at upper-left edge; requires a different clear crop."
     }
   ]
 }
