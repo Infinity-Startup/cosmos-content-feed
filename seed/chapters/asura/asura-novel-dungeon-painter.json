@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-dungeon-painter",
   "seriesUrl": "https://asurascans.com/novels/a-painter-who-draws-dungeons",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 310,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 316,
   "chapters": [
     {
       "number": 1,
@@ -2173,6 +2173,48 @@
       "number": 310,
       "title": "",
       "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/310",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 311,
+      "title": "",
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/311",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 312,
+      "title": "",
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/312",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 313,
+      "title": "",
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/313",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 314,
+      "title": "",
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/314",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 315,
+      "title": "",
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/315",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 316,
+      "title": "",
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/316",
       "premium": false,
       "publishedAt": null
     }

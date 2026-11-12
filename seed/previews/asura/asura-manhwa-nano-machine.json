@@ -12995,6 +12995,138 @@
         "automated": true,
         "screeningVersion": 1
       }
+    },
+    "334": {
+      "chapterUrl": "https://asurascans.com/comics/nano-machine-f212c582/chapter/334",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/nano-machine/334/4dbfd3.webp?v=1791994334",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-nano-machine/334-auto-v5-e3d247ac37ae.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "d0b17b9ae4686669",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          330,
+          1392,
+          713,
+          1775
+        ],
+        "sourceSize": [
+          900,
+          3376
+        ],
+        "detectedFace": [
+          412.976,
+          1459.424,
+          216.431,
+          247.412
+        ],
+        "outsideFaceWhiteFraction": 0.028,
+        "largestWhiteRegion": 0.01512,
+        "sharpness": 3137.1,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "335": {
+      "chapterUrl": "https://asurascans.com/comics/nano-machine-f212c582/chapter/335",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/nano-machine/335/2bffb1.webp?v=1792621419",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-nano-machine/335-auto-v5-65016665518f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "977838cae32b2669",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          377,
+          5689,
+          633,
+          5945
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          428.247,
+          5733.545,
+          153.369,
+          166.113
+        ],
+        "outsideFaceWhiteFraction": 0.00906,
+        "largestWhiteRegion": 0.00615,
+        "sharpness": 2012.85,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "337": {
+      "chapterUrl": "https://asurascans.com/comics/nano-machine-f212c582/chapter/337",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/nano-machine/337/8cd36a.webp?v=1793931709",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-nano-machine/337-auto-v5-23ce74f113f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "92b13d9ee46c6668",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          322,
+          3668,
+          618,
+          3964
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          356.287,
+          3703.711,
+          227.856,
+          225.439
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2034.73,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

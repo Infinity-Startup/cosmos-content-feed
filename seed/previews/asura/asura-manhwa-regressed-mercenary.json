@@ -4539,6 +4539,50 @@
         "automated": true,
         "screeningVersion": 1
       }
+    },
+    "114": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-f212c582/chapter/114",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressed-mercenarys-machinations/114/6a607c.webp?v=1794327022",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regressed-mercenary/114-auto-v5-cf97bf8a4119.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "c2b87f81f88c3966",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          475,
+          13992,
+          834,
+          14351
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          516.357,
+          14035.034,
+          275.977,
+          273.779
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1816.66,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-cyberpunk-chivalry",
   "seriesUrl": "https://asurascans.com/novels/cyberpunk-chivalry",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 109,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 115,
   "chapters": [
     {
       "number": 1,
@@ -766,6 +766,48 @@
       "number": 109,
       "title": "The Good, the Bad, and the Weird Bitch",
       "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/109",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 110,
+      "title": "The Good, the Bad, and the Weird Bitch 2",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/110",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 111,
+      "title": "EP5. The Finishing Touch",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/111",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 112,
+      "title": "EP5. The Finishing Touch 2",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/112",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 113,
+      "title": "EP5. The Finishing Touch 3",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "EP5. The Finishing Touch 4",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "EP5. The Finishing Touch 5",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/115",
       "premium": false,
       "publishedAt": null
     }

@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-raising-villains",
   "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 243,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 249,
   "chapters": [
     {
       "number": 1,
@@ -1704,6 +1704,48 @@
       "number": 243,
       "title": "Spell Formula (6)",
       "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/243",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 244,
+      "title": "Realization (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/244",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 245,
+      "title": "Realization (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/245",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 246,
+      "title": "Realization (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/246",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 247,
+      "title": "Realization (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/247",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 248,
+      "title": "Realization (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/248",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 249,
+      "title": "...What Is Going On? (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/249",
       "premium": false,
       "publishedAt": null
     }

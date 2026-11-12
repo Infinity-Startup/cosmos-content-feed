@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-murim-psychopath",
   "seriesUrl": "https://asurascans.com/novels/murim-psychopath",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 172,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 176,
   "chapters": [
     {
       "number": 1,
@@ -1207,6 +1207,34 @@
       "number": 172,
       "title": "Spiritual Root Stones (1)",
       "url": "https://asurascans.com/novels/murim-psychopath/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "Spiritual Root Stones (2)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "Spiritual Root Stones (3)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "Cheol Soa (1)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "Cheol Soa (2)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/176",
       "premium": false,
       "publishedAt": null
     }

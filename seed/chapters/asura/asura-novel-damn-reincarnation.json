@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-damn-reincarnation",
   "seriesUrl": "https://asurascans.com/novels/damn-reincarnation",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 288,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 296,
   "chapters": [
     {
       "number": 1,
@@ -2019,6 +2019,62 @@
       "number": 288,
       "title": "Damn Reincarnation",
       "url": "https://asurascans.com/novels/damn-reincarnation/chapter/288",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 289,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/289",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 290,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/290",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 291,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/291",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 292,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/292",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 293,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/293",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 294,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/294",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 295,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/295",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 296,
+      "title": "Damn Reincarnation",
+      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/296",
       "premium": false,
       "publishedAt": null
     }

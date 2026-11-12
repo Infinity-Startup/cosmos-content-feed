@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-copying-skills",
   "seriesUrl": "https://asurascans.com/novels/copying-skills-with-affinity",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 169,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 173,
   "chapters": [
     {
       "number": 1,
@@ -1186,6 +1186,34 @@
       "number": 169,
       "title": "Trouble Always (2)",
       "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/169",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 170,
+      "title": "Trouble Always (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "Inspection",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "Inspection (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "Mountain God",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/173",
       "premium": false,
       "publishedAt": null
     }

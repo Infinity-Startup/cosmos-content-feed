@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-first-prince",
   "seriesUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 297,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 301,
   "chapters": [
     {
       "number": 1,
@@ -2082,6 +2082,34 @@
       "number": 297,
       "title": "The Empire Is No Big Deal (4)",
       "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/297",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 298,
+      "title": "The Empire Is No Big Deal (5)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/298",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 299,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/299",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 300,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor (2)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/300",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 301,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor (3)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/301",
       "premium": false,
       "publishedAt": null
     }

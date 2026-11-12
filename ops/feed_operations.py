@@ -57,7 +57,7 @@ def record_publication(state, report, now, targeted=False):
 
 
 def report_summary(report):
-    lines = [f"Chapter checks: {report.get('titlesUpdated', 0)}/{report.get('titlesTotal', report.get('titlesChecked', 0))} updated; {report.get('titlesRetained', 0)} retained from the last valid snapshot.",
+    lines = [f"Chapter checks: {report.get('titlesUpdated', 0)}/{report.get('titlesTotal', report.get('titlesChecked', 0))} updated; {report.get('titlesAlreadyFresh', 0)} already checked today; {report.get('titlesRetained', 0)} retained from the last valid snapshot.",
              f"New chapters: {len(report.get('newChapters', []))}. Portraits generated: {report.get('portraitsGenerated', 0)}. Portraits queued: {report.get('portraitsAwaitingReview', 0)}."]
     for item in report.get('titleFailures', [])[:12]:
         lines.append(f"- {item['titleId']}: {item['reason']}")

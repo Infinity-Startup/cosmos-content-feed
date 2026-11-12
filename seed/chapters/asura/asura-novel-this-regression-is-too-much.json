@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-this-regression-is-too-much",
   "seriesUrl": "https://asurascans.com/novels/this-regression-is-too-much",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 121,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 127,
   "chapters": [
     {
       "number": 1,
@@ -850,6 +850,48 @@
       "number": 121,
       "title": "The Regressor Is Startled (3)",
       "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "The Regressor Is Startled (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "The Regressor Is Startled (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/123",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 124,
+      "title": "The Regressor Is Startled (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "The Regressor Is Startled (7) (End of Part 1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "The Regressor Is Tired (1) (Start of Part 2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "The Regressor Is Tired (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/127",
       "premium": false,
       "publishedAt": null
     }

@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-cultivation-demon-extermination",
   "seriesUrl": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 177,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 181,
   "chapters": [
     {
       "number": 1,
@@ -1242,6 +1242,34 @@
       "number": 177,
       "title": "Act 25. Soulbound Implement (11)",
       "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Act 25. Soulbound Implement (12)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "Act 26. Upheaval (1)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "Act 26. Upheaval (2)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "Act 26. Upheaval (3)",
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/181",
       "premium": false,
       "publishedAt": null
     }

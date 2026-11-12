@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-scheming-demon",
   "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 198,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 202,
   "chapters": [
     {
       "number": 0,
@@ -1389,6 +1389,34 @@
       "number": 197,
       "title": "A Clean Sweep (3)",
       "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/197",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 198,
+      "title": "A Clean Sweep (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/198",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 199,
+      "title": "A Clean Sweep (5)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/199",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 200,
+      "title": "A Clean Sweep (6)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/200",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 201,
+      "title": "A Clean Sweep (7)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/201",
       "premium": false,
       "publishedAt": null
     }

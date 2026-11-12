@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-black-badger",
   "seriesUrl": "https://asurascans.com/novels/black-badger",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 174,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 180,
   "chapters": [
     {
       "number": 1,
@@ -1221,6 +1221,48 @@
       "number": 174,
       "title": "War Is (2)",
       "url": "https://asurascans.com/novels/black-badger/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "Farewell (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "Farewell (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "Eat and Grow (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Eat and Grow (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "Yun and Jaeyeon (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "Yun and Jaeyeon (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/180",
       "premium": false,
       "publishedAt": null
     }

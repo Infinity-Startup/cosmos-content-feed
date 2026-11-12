@@ -1,6 +1,7 @@
 """Daily public chapter-feed refresh. Validate each title independently and retain last-good data on source failures."""
 import argparse
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 import json
 import math
 import re
@@ -104,7 +105,7 @@ def document_from_html(title, checked_at, html):
                               'checkedAt': checked_at, 'chapterCount': len(chapters), 'chapters': chapters}, title)
 
 
-def refresh(seed, output, fetch=fetch_document, now=None):
+def refresh(seed, output, fetch=fetch_document, now=None, only_stale=False):
     seed, output = Path(seed).resolve(), Path(output).resolve()
     if output == seed or seed in output.parents or output in seed.parents or output.exists():
         raise ValueError('Use a new output directory outside the seed directory')
@@ -120,7 +121,8 @@ def refresh(seed, output, fetch=fetch_document, now=None):
         previous[title['id']] = validate_document(read(seed / 'chapters/asura' / (title['id'] + '.json')), title)
     documents, failures = [], []
     deadline = time.monotonic() + 20 * 60
-    attempts, fresh = 0, 0
+    attempts, fresh, already_fresh = 0, 0, 0
+    today = datetime.fromisoformat(checked_at).astimezone(ZoneInfo('Australia/Sydney')).date()
     consecutive_refusals = 0
     stopped = False
     # Prefer titles least recently attempted so refusals cannot starve later ones.
@@ -131,6 +133,12 @@ def refresh(seed, output, fetch=fetch_document, now=None):
     for title in ordered:
         old = previous[title['id']]
         old_links = {item['number']: item['url'] for item in old['chapters']}
+        if only_stale and datetime.fromisoformat(old['checkedAt']).astimezone(ZoneInfo('Australia/Sydney')).date() == today:
+            documents.append((title, old, old_links))
+            already_fresh += 1
+            checks.setdefault(title['id'], {})['status'] = 'fresh_today'
+            print(f"Already checked today: {title['id']}", flush=True)
+            continue
         doc = old
         deferred = stopped or time.monotonic() >= deadline
         try:
@@ -195,7 +203,7 @@ def refresh(seed, output, fetch=fetch_document, now=None):
         portrait_queue.sort(key=lambda item: item.get('lastAttemptAt', ''))
         write(staged / 'portrait-review-queue.json', {'checkedAt': checked_at, 'chapters': portrait_queue})
         report = {'checkedAt': checked_at, 'titlesTotal': len(titles), 'titlesChecked': attempts,
-                  'titlesUpdated': fresh, 'titlesRetained': len(failures),
+                  'titlesUpdated': fresh, 'titlesAlreadyFresh': already_fresh, 'titlesRetained': len(failures),
                   'status': 'complete' if not failures else 'partial' if fresh else 'blocked',
                   'titleFailures': failures, 'titleChecks': checks, 'sourceRequestsStopped': stopped,
                   'lastCompleteCheckAt': checked_at if not failures else prior_report.get('lastCompleteCheckAt'),
@@ -211,15 +219,16 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--seed', type=Path, required=True)
     parser.add_argument('--output', type=Path, required=True)
+    parser.add_argument('--only-stale', action='store_true', help='Recovery: reuse titles already checked this Sydney day')
     parser.add_argument('--browser', action='store_true', help='Use a normal isolated Chrome session for public source pages')
     args = parser.parse_args()
     if args.browser:
         from asura_browser import AsuraBrowser
         with AsuraBrowser() as browser:
             result = refresh(args.seed, args.output,
-                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(source_page_url(title))))
+                             fetch=lambda title, checked: document_from_html(title, checked, browser.fetch_html(source_page_url(title))), only_stale=args.only_stale)
     else:
-        result = refresh(args.seed, args.output)
+        result = refresh(args.seed, args.output, only_stale=args.only_stale)
     print(json.dumps(result))
 
 

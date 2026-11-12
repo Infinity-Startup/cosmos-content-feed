@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-girlfriend-dragon",
   "seriesUrl": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 141,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 143,
   "chapters": [
     {
       "number": 1,
@@ -990,6 +990,20 @@
       "number": 141,
       "title": "Half of a Half",
       "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/141",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 142,
+      "title": "Sparta",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/142",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 143,
+      "title": "Words That Cannot Be Conveyed",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/143",
       "premium": false,
       "publishedAt": null
     }

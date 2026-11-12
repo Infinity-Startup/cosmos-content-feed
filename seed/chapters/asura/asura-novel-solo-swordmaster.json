@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-solo-swordmaster",
   "seriesUrl": "https://asurascans.com/novels/solo-swordmaster",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 284,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 294,
   "chapters": [
     {
       "number": 1,
@@ -1991,6 +1991,76 @@
       "number": 284,
       "title": "I Like That",
       "url": "https://asurascans.com/novels/solo-swordmaster/chapter/284",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 285,
+      "title": "You Can Do It, Sword Lord",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/285",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 286,
+      "title": "I’m Counting on You",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/286",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 287,
+      "title": "In the End, Someday",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/287",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 288,
+      "title": "You, Too, Are Like Us",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/288",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 289,
+      "title": "I Have a Proposal",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/289",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 290,
+      "title": "What Did You Say?",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/290",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 291,
+      "title": "You Will Regret This",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/291",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 292,
+      "title": "Prepare Yourself",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/292",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 293,
+      "title": "We Need a Plan",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/293",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 294,
+      "title": "The Worst-Case Scenario",
+      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/294",
       "premium": false,
       "publishedAt": null
     }

@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-limitless-predation",
   "seriesUrl": "https://asurascans.com/novels/limitless-predation",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 205,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 211,
   "chapters": [
     {
       "number": 1,
@@ -1438,6 +1438,48 @@
       "number": 205,
       "title": "",
       "url": "https://asurascans.com/novels/limitless-predation/chapter/205",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 206,
+      "title": "",
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/206",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 207,
+      "title": "",
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/207",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 208,
+      "title": "",
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/208",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 209,
+      "title": "",
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/209",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 210,
+      "title": "",
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/210",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 211,
+      "title": "",
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/211",
       "premium": false,
       "publishedAt": null
     }

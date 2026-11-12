@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-grimoire",
   "seriesUrl": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 132,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 134,
   "chapters": [
     {
       "number": 1,
@@ -927,6 +927,20 @@
       "number": 132,
       "title": "Grimoire Harem (3)",
       "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "Grimoire Harem (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "Grimoire Harem (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/134",
       "premium": false,
       "publishedAt": null
     }

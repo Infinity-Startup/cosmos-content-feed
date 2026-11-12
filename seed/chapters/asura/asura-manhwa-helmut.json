@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-manhwa-helmut",
   "seriesUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 139,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 140,
   "chapters": [
     {
       "number": 1,
@@ -978,6 +978,13 @@
       "url": "https://asurascans.com/comics/helmut-the-forsaken-child-f212c582/chapter/139",
       "premium": false,
       "publishedAt": "2026-11-06T14:43:37.598Z"
+    },
+    {
+      "number": 140,
+      "title": "",
+      "url": "https://asurascans.com/comics/helmut-the-forsaken-child-f212c582/chapter/140",
+      "premium": false,
+      "publishedAt": "2026-11-10T12:33:45.078Z"
     }
   ]
 }

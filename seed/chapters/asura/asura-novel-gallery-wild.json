@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-gallery-wild",
   "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 205,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 211,
   "chapters": [
     {
       "number": 1,
@@ -1438,6 +1438,48 @@
       "number": 205,
       "title": "Jack-o’-Lantern (2)",
       "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/205",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 206,
+      "title": "Jack-o’-Lantern (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/206",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 207,
+      "title": "There's Space Behind the Pillar (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/207",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 208,
+      "title": "There's Space Behind the Pillar (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/208",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 209,
+      "title": "Winter Has Come (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/209",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 210,
+      "title": "Winter Has Come (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/210",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 211,
+      "title": "Winter Has Come (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/211",
       "premium": false,
       "publishedAt": null
     }

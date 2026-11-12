@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-newbie-civil-servant",
   "seriesUrl": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 170,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 173,
   "chapters": [
     {
       "number": 1,
@@ -1193,6 +1193,27 @@
       "number": 170,
       "title": "How Lucky",
       "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "How Lucky (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "How Lucky (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "An Unforeseen Event",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/173",
       "premium": false,
       "publishedAt": null
     }

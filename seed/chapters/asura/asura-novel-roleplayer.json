@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-roleplayer",
   "seriesUrl": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 295,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 305,
   "chapters": [
     {
       "number": 1,
@@ -2068,6 +2068,76 @@
       "number": 295,
       "title": "Something I Can Accept (11)",
       "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/295",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 296,
+      "title": "Proof (1)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/296",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 297,
+      "title": "Proof (2)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/297",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 298,
+      "title": "Proof (3)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/298",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 299,
+      "title": "Proof (4)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/299",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 300,
+      "title": "Proof (5)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/300",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 301,
+      "title": "Proof (6)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/301",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 302,
+      "title": "Proof (7)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/302",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 303,
+      "title": "Proof (8)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/303",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 304,
+      "title": "Proof (9)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/304",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 305,
+      "title": "Proof (10)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/305",
       "premium": false,
       "publishedAt": null
     }

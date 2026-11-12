@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-manhwa-absolute-regression",
   "seriesUrl": "https://asurascans.com/comics/absolute-regression-ab39de10",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 126,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 127,
   "chapters": [
     {
       "number": 1,
@@ -887,6 +887,13 @@
       "url": "https://asurascans.com/comics/absolute-regression-f212c582/chapter/126",
       "premium": false,
       "publishedAt": "2026-11-02T15:25:54.672035Z"
+    },
+    {
+      "number": 127,
+      "title": "",
+      "url": "https://asurascans.com/comics/absolute-regression-f212c582/chapter/127",
+      "premium": false,
+      "publishedAt": "2026-11-10T19:09:13.777Z"
     }
   ]
 }

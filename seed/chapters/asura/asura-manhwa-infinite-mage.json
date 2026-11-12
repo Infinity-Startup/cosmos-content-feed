@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-manhwa-infinite-mage",
   "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 192,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 193,
   "chapters": [
     {
       "number": 1,
@@ -1349,6 +1349,13 @@
       "url": "https://asurascans.com/comics/infinite-mage-f212c582/chapter/192",
       "premium": false,
       "publishedAt": "2026-10-27T15:09:45.806194Z"
+    },
+    {
+      "number": 193,
+      "title": "",
+      "url": "https://asurascans.com/comics/infinite-mage-f212c582/chapter/193",
+      "premium": false,
+      "publishedAt": "2026-11-10T15:55:05.346Z"
     }
   ]
 }

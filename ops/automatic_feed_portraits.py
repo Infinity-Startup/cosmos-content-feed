@@ -7,6 +7,7 @@ import tempfile
 import time
 from pathlib import Path
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from refresh_chapter_previews import PreviewParser, image_url
@@ -36,8 +37,12 @@ def _download(url, limit, host):
         if urlsplit(response.url).netloc != host:
             raise ValueError('Unexpected source redirect')
         body = response.read(limit + 1)
+        response_url, response_status, response_headers = response.url, response.status, response.headers
     if len(body) > limit:
         raise ValueError('Oversized source')
+    if host == 'asurascans.com':
+        from asura_browser import check_response
+        check_response(response_url, response_status, response_headers, body.decode('utf-8'), requested_url=url)
     return body
 
 
@@ -64,7 +69,7 @@ def download(url, limit, host, html_loader=None):
     return cached_source(url, limit, host, fetch, validate=valid)
 
 
-def process(site, model, public_url, engine=None, fetch=download, max_episodes=0, title_id=None):
+def process(site, model, public_url, engine=None, fetch=download, max_episodes=0, title_id=None, only_stale=False):
     site = Path(site)
     queue_file = site / 'portrait-review-queue.json'
     queue = json.loads(queue_file.read_text())
@@ -76,7 +81,11 @@ def process(site, model, public_url, engine=None, fetch=download, max_episodes=0
     stopped = False
     deadline = time.monotonic() + 45 * 60
     attempts = 0
+    today = datetime.now(ZoneInfo('Australia/Sydney')).date()
     for item in queue['chapters']:
+        if only_stale and item.get('failureKind') == 'quality' and item.get('lastAttemptAt') and datetime.fromisoformat(item['lastAttemptAt']).astimezone(ZoneInfo('Australia/Sydney')).date() == today:
+            pending.append(item)
+            continue
         if (title_id and item['titleId'] != title_id) or stopped or time.monotonic() >= deadline or (max_episodes and attempts >= max_episodes):
             pending.append(item)
             if not title_id or item['titleId'] == title_id:
@@ -170,6 +179,7 @@ if __name__ == '__main__':
     parser.add_argument('--public-url', required=True)
     parser.add_argument('--max-episodes', type=int, default=0, help='Optional manual pilot limit; zero processes the full queue')
     parser.add_argument('--title', help='Optional manual title pilot; all titles remain eligible in daily runs')
+    parser.add_argument('--only-stale', action='store_true', help='Do not repeat the same quality-only rejection within this Sydney day')
     parser.add_argument('--browser', action='store_true', help='Use normal Chrome for uncached public reader metadata')
     args = parser.parse_args()
     if args.max_episodes < 0:
@@ -179,6 +189,6 @@ if __name__ == '__main__':
         with AsuraBrowser() as browser:
             process(args.site, args.model, args.public_url,
                     fetch=lambda url, limit, host: download(url, limit, host, html_loader=browser.fetch_html),
-                    max_episodes=args.max_episodes, title_id=args.title)
+                    max_episodes=args.max_episodes, title_id=args.title, only_stale=args.only_stale)
     else:
-        process(args.site, args.model, args.public_url, max_episodes=args.max_episodes, title_id=args.title)
+        process(args.site, args.model, args.public_url, max_episodes=args.max_episodes, title_id=args.title, only_stale=args.only_stale)

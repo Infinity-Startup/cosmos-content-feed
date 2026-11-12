@@ -5065,6 +5065,50 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "127": {
+      "chapterUrl": "https://asurascans.com/comics/absolute-regression-f212c582/chapter/127",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/absolute-regression/127/7830ad.webp?v=1794353038",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-absolute-regression/127-auto-v5-9d122ed658ca.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "d3340d82658b7a3f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          602,
+          4382,
+          896,
+          4676
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          646.875,
+          4416.064,
+          203.906,
+          225.879
+        ],
+        "outsideFaceWhiteFraction": 0.00021,
+        "largestWhiteRegion": 0.00011,
+        "sharpness": 1326.68,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

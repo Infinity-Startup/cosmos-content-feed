@@ -8,6 +8,11 @@ on:
       timezone: Australia/Sydney
   workflow_dispatch:
     inputs:
+      retry_only:
+        description: 'Recovery run: reuse titles already checked today'
+        required: false
+        default: false
+        type: boolean
       use_browser:
         description: 'Optional normal Chrome transport for a targeted repair; routine updates use HTTP'
         required: false
@@ -91,12 +96,12 @@ jobs:
         if: inputs.portrait_title == ''
         env:
           USE_BROWSER: ${{ inputs.use_browser && 'true' || 'false' }}
+          RETRY_ONLY: ${{ (github.event_name == 'schedule' || inputs.retry_only) && 'true' || 'false' }}
         run: |
-          if [ "$USE_BROWSER" = 'true' ]; then
-            python ops/refresh.py --seed seed --output _site --browser
-          else
-            python ops/refresh.py --seed seed --output _site
-          fi
+          args=()
+          if [ "$USE_BROWSER" = 'true' ]; then args+=(--browser); fi
+          if [ "$RETRY_ONLY" = 'true' ]; then args+=(--only-stale); fi
+          python ops/refresh.py --seed seed --output _site "${args[@]}"
       - name: Stage last validated metadata for a targeted portrait repair
         if: inputs.portrait_title != ''
         run: |
@@ -136,9 +141,11 @@ jobs:
           PORTRAIT_TITLE: ${{ inputs.portrait_title || '' }}
           PORTRAIT_LIMIT: ${{ inputs.portrait_limit || '0' }}
           USE_BROWSER: ${{ inputs.use_browser && 'true' || 'false' }}
+          RETRY_ONLY: ${{ (github.event_name == 'schedule' || inputs.retry_only) && 'true' || 'false' }}
         run: |
           args=()
           if [ "$USE_BROWSER" = 'true' ]; then args+=(--browser); fi
+          if [ "$RETRY_ONLY" = 'true' ]; then args+=(--only-stale); fi
           python ops/automatic_feed_portraits.py --site _site --model /tmp/face.onnx --public-url https://infinity-startup.github.io/cosmos-content-feed/ --max-episodes "$PORTRAIT_LIMIT" --title "$PORTRAIT_TITLE" "${args[@]}"
       - name: Report a portrait-stage failure without discarding chapter updates
         if: steps.portrait_tools.outcome == 'failure' || steps.generate.outcome == 'failure'

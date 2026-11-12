@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-manhwa-myst-might-mayhem",
   "seriesUrl": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 123,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 124,
   "chapters": [
     {
       "number": 1,
@@ -866,6 +866,13 @@
       "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/123",
       "premium": false,
       "publishedAt": "2026-11-02T16:07:30.756811Z"
+    },
+    {
+      "number": 124,
+      "title": "Harmony",
+      "url": "https://asurascans.com/comics/myst-might-mayhem-f212c582/chapter/124",
+      "premium": false,
+      "publishedAt": "2026-11-10T19:47:45.347Z"
     }
   ]
 }

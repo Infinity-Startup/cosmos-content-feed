@@ -7495,6 +7495,182 @@
         "editorialSelection": true,
         "reviewed": true
       }
+    },
+    "193": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-mage-f212c582/chapter/193",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-mage/193/2c772d.webp?v=1794334909",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-mage/193-auto-v5-141b5761b557.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "92367a17e5a846b9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          450,
+          7243,
+          767,
+          7560
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          495.483,
+          7266.138,
+          275.537,
+          271.143
+        ],
+        "outsideFaceWhiteFraction": 0.01172,
+        "largestWhiteRegion": 0.01172,
+        "sharpness": 1337.0,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "190": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-mage-f212c582/chapter/190",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-mage/190/6b08e9.webp?v=1791903208",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-mage/190-auto-v5-c7eb9e26daa2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "86a6394b6686e76a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          331,
+          431,
+          587,
+          687
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          388.916,
+          477.246,
+          139.746,
+          163.477
+        ],
+        "outsideFaceWhiteFraction": 0.02808,
+        "largestWhiteRegion": 0.01308,
+        "sharpness": 2313.31,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "191": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-mage-f212c582/chapter/191",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-mage/191/5b0a5e.webp?v=1792571807",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-mage/191-auto-v5-b758a608dfe1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "92f57cdea2785221",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          342,
+          12856,
+          598,
+          13112
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          405.835,
+          12913.715,
+          128.76,
+          141.394
+        ],
+        "outsideFaceWhiteFraction": 0.0023,
+        "largestWhiteRegion": 0.00188,
+        "sharpness": 2321.78,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
+    },
+    "192": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-mage-f212c582/chapter/192",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-mage/192/abb188.webp?v=1793113943",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-mage/192-auto-v5-190f9d1a72bc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "d5bc6c9868d1326b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          455,
+          12002,
+          720,
+          12267
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          500.977,
+          12032.886,
+          172.266,
+          203.467
+        ],
+        "outsideFaceWhiteFraction": 0.0545,
+        "largestWhiteRegion": 0.01025,
+        "sharpness": 2595.47,
+        "reviewed": false,
+        "automated": true,
+        "screeningVersion": 1
+      }
     }
   }
 }

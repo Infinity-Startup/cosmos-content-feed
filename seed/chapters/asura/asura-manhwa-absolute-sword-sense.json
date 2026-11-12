@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-manhwa-absolute-sword-sense",
   "seriesUrl": "https://asurascans.com/comics/absolute-sword-sense-bd5bdaf8",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 208,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 209,
   "chapters": [
     {
       "number": 1,
@@ -1461,6 +1461,13 @@
       "url": "https://asurascans.com/comics/absolute-sword-sense-f212c582/chapter/208",
       "premium": false,
       "publishedAt": "2026-11-02T18:24:57.971174Z"
+    },
+    {
+      "number": 209,
+      "title": "An Unexpected Proposal (2)",
+      "url": "https://asurascans.com/comics/absolute-sword-sense-f212c582/chapter/209",
+      "premium": false,
+      "publishedAt": "2026-11-10T16:00:12.585Z"
     }
   ]
 }

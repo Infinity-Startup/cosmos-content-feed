@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-reincarnated-sword-demon",
   "seriesUrl": "https://asurascans.com/novels/reincarnated-sword-demon",
-  "checkedAt": "2026-11-10T04:50:34.652527+00:00",
-  "chapterCount": 113,
+  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+  "chapterCount": 115,
   "chapters": [
     {
       "number": 1,
@@ -794,6 +794,20 @@
       "number": 113,
       "title": "Individual to Individual",
       "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/113",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 114,
+      "title": "Give Me My Money",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/114",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 115,
+      "title": "Corporations Are Cold",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/115",
       "premium": false,
       "publishedAt": null
     }
