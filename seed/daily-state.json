@@ -2,6 +2,7 @@
   "attemptDate": "2026-11-12",
   "attempts": 5,
   "lastAttemptAt": "2026-11-12T05:26:03.207773+00:00",
-  "lastPublishedAt": "2026-11-11T15:02:06.413444+00:00",
-  "needsRecovery": true
+  "lastPublishedAt": "2026-11-12T05:27:55.333350+00:00",
+  "needsRecovery": false,
+  "lastCompleteDate": "2026-11-12"
 }
