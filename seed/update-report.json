@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T05:26:31.901330+00:00",
+  "checkedAt": "2026-11-12T05:31:09.996423+00:00",
   "titlesTotal": 81,
   "titlesChecked": 0,
   "titlesUpdated": 0,
@@ -270,11 +270,11 @@
     }
   },
   "sourceRequestsStopped": false,
-  "lastCompleteCheckAt": "2026-11-12T05:26:31.901330+00:00",
+  "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
   "newChapters": [],
   "portraitsAwaitingReview": 2,
   "portraitsGenerated": 0,
   "portraitSourceFailures": 0,
   "portraitDeferred": 0,
-  "portraitCheckedAt": "2026-11-12T05:27:05.739158+00:00"
+  "portraitCheckedAt": "2026-11-12T05:31:29.495420+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T05:26:31.901330+00:00",
+  "checkedAt": "2026-11-12T05:31:09.996423+00:00",
   "chapters": [
     {
       "titleId": "asura-manhwa-swordmaster-son",
@@ -12,12 +12,12 @@
     },
     {
       "titleId": "asura-manhwa-regressed-mercenary",
-      "title": "The Regressed Mercenary\u2019s Machinations",
+      "title": "The Regressed Mercenary's Machinations",
       "number": 114,
       "url": "https://asurascans.com/comics/the-regressed-mercenarys-machinations-f212c582/chapter/114",
       "lastAttemptAt": "2026-11-12T05:31:27.145351+00:00",
-      "failureKind": "quality",
-      "reason": "Visual spot check rejected possible stylized lettering at upper-left edge; requires a different clear crop."
+      "reason": "Visual spot check rejected possible stylized lettering at upper-left edge; requires a different clear crop.",
+      "failureKind": "quality"
     }
   ]
 }
