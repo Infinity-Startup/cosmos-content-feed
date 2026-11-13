@@ -1,72 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+  "checkedAt": "2026-11-13T22:42:27.690856+00:00",
   "titles": {
-    "asura-manhwa-returned-player": {
-      "seriesUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-bd5bdaf8",
-      "chapterCount": 166,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T14:26:14.983382Z"
-    },
-    "asura-manhwa-steel-eating": {
-      "seriesUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8",
-      "chapterCount": 117,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-04T11:59:23.079899Z"
-    },
-    "asura-novel-scheming-demon": {
-      "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
-      "chapterCount": 206,
-      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-      "firstChapter": 0
-    },
-    "asura-novel-limitless-predation": {
-      "seriesUrl": "https://asurascans.com/novels/limitless-predation",
-      "chapterCount": 217,
-      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-gallery-wild": {
-      "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
-      "chapterCount": 219,
-      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-dungeon-painter": {
-      "seriesUrl": "https://asurascans.com/novels/a-painter-who-draws-dungeons",
-      "chapterCount": 322,
-      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-      "firstChapter": 1
-    },
-    "asura-novel-roleplayer": {
-      "seriesUrl": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer",
-      "chapterCount": 315,
-      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-      "firstChapter": 1
-    },
-    "asura-manhwa-murim-login": {
-      "seriesUrl": "https://asurascans.com/comics/murim-login-ab39de10",
-      "chapterCount": 253,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-06T17:31:06.44873Z"
-    },
-    "asura-manhwa-absolute-regression": {
-      "seriesUrl": "https://asurascans.com/comics/absolute-regression-ab39de10",
-      "chapterCount": 127,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T19:09:13.777Z"
-    },
-    "asura-manhwa-reincarnation-of-the-fist-king": {
-      "seriesUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10",
-      "chapterCount": 77,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T12:21:41.92423Z"
-    },
     "asura-manhwa-return-of-the-unrivaled-spear-knight": {
       "seriesUrl": "https://asurascans.com/comics/return-of-the-unrivaled-spear-knight-ab39de10",
       "chapterCount": 223,
@@ -537,6 +472,71 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-06T17:24:00.308507Z"
+    },
+    "asura-manhwa-returned-player": {
+      "seriesUrl": "https://asurascans.com/comics/player-who-returned-10000-years-later-bd5bdaf8",
+      "chapterCount": 166,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T14:26:14.983382Z"
+    },
+    "asura-manhwa-steel-eating": {
+      "seriesUrl": "https://asurascans.com/comics/steel-eating-player-bd5bdaf8",
+      "chapterCount": 117,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-04T11:59:23.079899Z"
+    },
+    "asura-novel-scheming-demon": {
+      "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
+      "chapterCount": 206,
+      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+      "firstChapter": 0
+    },
+    "asura-novel-limitless-predation": {
+      "seriesUrl": "https://asurascans.com/novels/limitless-predation",
+      "chapterCount": 217,
+      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-gallery-wild": {
+      "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
+      "chapterCount": 219,
+      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-dungeon-painter": {
+      "seriesUrl": "https://asurascans.com/novels/a-painter-who-draws-dungeons",
+      "chapterCount": 322,
+      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+      "firstChapter": 1
+    },
+    "asura-novel-roleplayer": {
+      "seriesUrl": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer",
+      "chapterCount": 315,
+      "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+      "firstChapter": 1
+    },
+    "asura-manhwa-murim-login": {
+      "seriesUrl": "https://asurascans.com/comics/murim-login-ab39de10",
+      "chapterCount": 253,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T17:31:06.44873Z"
+    },
+    "asura-manhwa-absolute-regression": {
+      "seriesUrl": "https://asurascans.com/comics/absolute-regression-ab39de10",
+      "chapterCount": 127,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T19:09:13.777Z"
+    },
+    "asura-manhwa-reincarnation-of-the-fist-king": {
+      "seriesUrl": "https://asurascans.com/comics/reincarnation-of-the-fist-king-ab39de10",
+      "chapterCount": 77,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T12:21:41.92423Z"
     }
   }
 }
