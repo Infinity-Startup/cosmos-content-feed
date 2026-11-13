@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-martial-genius",
   "seriesUrl": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 369,
+  "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+  "chapterCount": 379,
   "chapters": [
     {
       "number": 1,
@@ -2586,6 +2586,76 @@
       "number": 369,
       "title": "Turbulent Currents",
       "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/369",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 370,
+      "title": "Turbulent Currents (2)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/370",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 371,
+      "title": "Turbulent Currents (3)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/371",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 372,
+      "title": "Turbulent Currents (4)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/372",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 373,
+      "title": "Turbulent Currents (5)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/373",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 374,
+      "title": "Turbulent Currents (6)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/374",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 375,
+      "title": "Turbulent Currents (7)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/375",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 376,
+      "title": "Flooding Waves",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/376",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 377,
+      "title": "Flooding Waves (2)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/377",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 378,
+      "title": "Flooding Waves (3)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/378",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 379,
+      "title": "Flooding Waves (4)",
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/379",
       "premium": false,
       "publishedAt": null
     }

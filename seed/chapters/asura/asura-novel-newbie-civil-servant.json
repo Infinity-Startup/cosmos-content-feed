@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-newbie-civil-servant",
   "seriesUrl": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 173,
+  "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+  "chapterCount": 179,
   "chapters": [
     {
       "number": 1,
@@ -1214,6 +1214,48 @@
       "number": 173,
       "title": "An Unforeseen Event",
       "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "An Unforeseen Event (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "An Unforeseen Event (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "An Unforeseen Event (4)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "Spider Nest",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Spider Nest (2)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "Spider Nest (3)",
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/179",
       "premium": false,
       "publishedAt": null
     }
