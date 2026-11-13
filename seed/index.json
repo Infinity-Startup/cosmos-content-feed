@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T20:00:35.421602+00:00",
+  "checkedAt": "2026-11-13T01:09:44.214964+00:00",
   "titles": {
-    "asura-manhwa-mount-hua": {
-      "seriesUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8",
-      "chapterCount": 192,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-03T17:33:48.488671Z"
-    },
-    "asura-manhwa-deadbeat-noble": {
-      "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
-      "chapterCount": 167,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-07T00:45:16.166481Z"
-    },
-    "asura-manhwa-swordmaster-son": {
-      "seriesUrl": "https://asurascans.com/comics/swordmasters-youngest-son-bd5bdaf8",
-      "chapterCount": 220,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-07T16:53:18.962207Z"
-    },
     "asura-manhwa-estate-developer": {
       "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
       "chapterCount": 223,
@@ -537,6 +516,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-10T19:47:45.347Z"
+    },
+    "asura-manhwa-mount-hua": {
+      "seriesUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8",
+      "chapterCount": 192,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-03T17:33:48.488671Z"
+    },
+    "asura-manhwa-deadbeat-noble": {
+      "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
+      "chapterCount": 167,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T00:45:16.166481Z"
+    },
+    "asura-manhwa-swordmaster-son": {
+      "seriesUrl": "https://asurascans.com/comics/swordmasters-youngest-son-bd5bdaf8",
+      "chapterCount": 220,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T16:53:18.962207Z"
     }
   }
 }
