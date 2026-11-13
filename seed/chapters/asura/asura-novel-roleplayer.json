@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-roleplayer",
   "seriesUrl": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 305,
+  "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+  "chapterCount": 315,
   "chapters": [
     {
       "number": 1,
@@ -2138,6 +2138,76 @@
       "number": 305,
       "title": "Proof (10)",
       "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/305",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 306,
+      "title": "Proof (11)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/306",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 307,
+      "title": "Pass It On (1)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/307",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 308,
+      "title": "Pass It On (2)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/308",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 309,
+      "title": "Pass It On (3)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/309",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 310,
+      "title": "Pass It On (4)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/310",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 311,
+      "title": "Pass It On (5)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/311",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 312,
+      "title": "Pass It On (6)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/312",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 313,
+      "title": "Pass It On (7)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/313",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 314,
+      "title": "Pass It On (8)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/314",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 315,
+      "title": "If Only I Could (1)",
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/315",
       "premium": false,
       "publishedAt": null
     }

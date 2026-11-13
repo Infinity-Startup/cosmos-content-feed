@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-gallery-wild",
   "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 211,
+  "checkedAt": "2026-11-13T20:20:36.063461+00:00",
+  "chapterCount": 219,
   "chapters": [
     {
       "number": 1,
@@ -1480,6 +1480,62 @@
       "number": 211,
       "title": "Winter Has Come (3)",
       "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/211",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 212,
+      "title": "Winter Has Come (4)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/212",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 213,
+      "title": "Spring in Eldorado (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/213",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 214,
+      "title": "Spring in Eldorado (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/214",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 215,
+      "title": "Spring in Eldorado (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/215",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 216,
+      "title": "Return to Normal (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/216",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 217,
+      "title": "Return to Normal (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/217",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 218,
+      "title": "Return to Normal (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/218",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 219,
+      "title": "Return to Normal (4)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/219",
       "premium": false,
       "publishedAt": null
     }
