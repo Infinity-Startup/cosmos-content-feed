@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-logging-out-is-too-hard",
   "seriesUrl": "https://asurascans.com/novels/logging-out-is-too-hard",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 186,
+  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
+  "chapterCount": 195,
   "chapters": [
     {
       "number": 1,
@@ -1305,6 +1305,69 @@
       "number": 186,
       "title": "",
       "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/186",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 187,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/187",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 188,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/188",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 189,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/189",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 190,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/190",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 191,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/191",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 192,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/192",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 193,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/193",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 194,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/194",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 195,
+      "title": "",
+      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/195",
       "premium": false,
       "publishedAt": null
     }

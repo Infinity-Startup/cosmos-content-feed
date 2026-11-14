@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-reincarnated-sword-demon",
   "seriesUrl": "https://asurascans.com/novels/reincarnated-sword-demon",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 115,
+  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
+  "chapterCount": 120,
   "chapters": [
     {
       "number": 1,
@@ -808,6 +808,41 @@
       "number": 115,
       "title": "Corporations Are Cold",
       "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/115",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 116,
+      "title": "Let's Earn Our Keep",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/116",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 117,
+      "title": "What Are You?",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/117",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 118,
+      "title": "Today",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/118",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 119,
+      "title": "\"Did It Open?\"",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/119",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 120,
+      "title": "Cut",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/120",
       "premium": false,
       "publishedAt": null
     }

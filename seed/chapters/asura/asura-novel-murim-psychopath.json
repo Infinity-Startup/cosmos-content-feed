@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-murim-psychopath",
   "seriesUrl": "https://asurascans.com/novels/murim-psychopath",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 176,
+  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
+  "chapterCount": 184,
   "chapters": [
     {
       "number": 1,
@@ -1235,6 +1235,62 @@
       "number": 176,
       "title": "Cheol Soa (2)",
       "url": "https://asurascans.com/novels/murim-psychopath/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "Cheol Soa (3)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Cheol Soa (4)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "A Place to Lie Down (1)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "A Place to Lie Down (2)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "The Know-It-All (1)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/181",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 182,
+      "title": "The Know-It-All (2)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/182",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 183,
+      "title": "The Price of Salvation (1)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/183",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 184,
+      "title": "The Price of Salvation (2)",
+      "url": "https://asurascans.com/novels/murim-psychopath/chapter/184",
       "premium": false,
       "publishedAt": null
     }

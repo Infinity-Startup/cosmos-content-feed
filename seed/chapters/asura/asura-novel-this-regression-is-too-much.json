@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-this-regression-is-too-much",
   "seriesUrl": "https://asurascans.com/novels/this-regression-is-too-much",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 127,
+  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
+  "chapterCount": 139,
   "chapters": [
     {
       "number": 1,
@@ -892,6 +892,90 @@
       "number": 127,
       "title": "The Regressor Is Tired (2)",
       "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "The Regressor Is Tired (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/128",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 129,
+      "title": "The Regressor Is Tired (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/129",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 130,
+      "title": "The Regressor Is Tired (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/130",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 131,
+      "title": "The Regressor Is Tired (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/131",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 132,
+      "title": "The Regressor Is Tired (7)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "The Regressor Is Tired (8)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "The Regressor Deceives (1)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/134",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 135,
+      "title": "The Regressor Deceives (2)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/135",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 136,
+      "title": "The Regressor Deceives (3)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/136",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 137,
+      "title": "The Regressor Deceives (4)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/137",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 138,
+      "title": "The Regressor Deceives (5)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/138",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 139,
+      "title": "The Regressor Deceives (6)",
+      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/139",
       "premium": false,
       "publishedAt": null
     }
