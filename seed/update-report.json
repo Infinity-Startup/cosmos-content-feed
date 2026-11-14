@@ -1,53 +1,29 @@
 {
-  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
+  "checkedAt": "2026-11-14T22:30:53.181922+00:00",
   "titlesTotal": 81,
-  "titlesChecked": 14,
-  "titlesUpdated": 10,
-  "titlesAlreadyFresh": 0,
+  "titlesChecked": 3,
+  "titlesUpdated": 0,
+  "titlesAlreadyFresh": 10,
   "titlesRetained": 71,
-  "status": "partial",
+  "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-terminally-ill-genius-dark-knight",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-cyberpunk-chivalry",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-killer-pietro",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-regressor-of-the-fallen-family",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-got-a-gallery-in-the-wild",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-30-years-since-the-prologue",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-sword-devouring-swordmaster",
@@ -432,6 +408,30 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-terminally-ill-genius-dark-knight",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-cyberpunk-chivalry",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-killer-pietro",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-regressor-of-the-fallen-family",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -641,43 +641,43 @@
     },
     "asura-novel-cyberpunk-chivalry": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-this-regression-is-too-much": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-solo-leveling-ragnarok": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-logging-out-is-too-hard": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-murim-psychopath": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-reincarnated-sword-demon": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-prince-rage": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-the-academy-s-weapon-replicator": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-damn-reincarnation": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-manhwa-cyberpunk-chivalry": {
       "lastAttemptAt": "2026-11-14T18:12:17.179418+00:00",
@@ -692,12 +692,15 @@
       "status": "retained"
     },
     "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group": {
+      "lastAttemptAt": "2026-11-14T22:30:53.181922+00:00",
       "status": "retained"
     },
     "asura-manhwa-got-a-gallery-in-the-wild": {
+      "lastAttemptAt": "2026-11-14T22:30:53.181922+00:00",
       "status": "retained"
     },
     "asura-manhwa-30-years-since-the-prologue": {
+      "lastAttemptAt": "2026-11-14T22:30:53.181922+00:00",
       "status": "retained"
     },
     "asura-manhwa-sword-devouring-swordmaster": {
@@ -745,571 +748,6 @@
   },
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
-  "newChapters": [
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 116,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/116"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 117,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/117"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 118,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/118"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 119,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/119"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 120,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/120"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 121,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/121"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 122,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/122"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 123,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/123"
-    },
-    {
-      "titleId": "asura-novel-cyberpunk-chivalry",
-      "title": "Cyberpunk Chivalry",
-      "number": 124,
-      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/124"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 172,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/172"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 173,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/173"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 174,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/174"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 175,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/175"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 176,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/176"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 177,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/177"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 178,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/178"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 179,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/179"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 180,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/180"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 181,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/181"
-    },
-    {
-      "titleId": "asura-novel-got-dropped-into-a-ghost-story-still-gotta-work",
-      "title": "Got Dropped into a Ghost Story, Still Gotta Work",
-      "number": 182,
-      "url": "https://asurascans.com/novels/got-dropped-into-a-ghost-story-still-gotta-work/chapter/182"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 128,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/128"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 129,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/129"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 130,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/130"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 131,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/131"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 132,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/132"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 133,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/133"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 134,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/134"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 135,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/135"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 136,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/136"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 137,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/137"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 138,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/138"
-    },
-    {
-      "titleId": "asura-novel-this-regression-is-too-much",
-      "title": "This Regression is Too Much",
-      "number": 139,
-      "url": "https://asurascans.com/novels/this-regression-is-too-much/chapter/139"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 185,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/185"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 186,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/186"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 187,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/187"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 188,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/188"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 189,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/189"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 190,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/190"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 191,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/191"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 192,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/192"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 193,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/193"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 194,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/194"
-    },
-    {
-      "titleId": "asura-novel-solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "number": 195,
-      "url": "https://asurascans.com/novels/solo-leveling-ragnarok/chapter/195"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 187,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/187"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 188,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/188"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 189,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/189"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 190,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/190"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 191,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/191"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 192,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/192"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 193,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/193"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 194,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/194"
-    },
-    {
-      "titleId": "asura-novel-logging-out-is-too-hard",
-      "title": "Logging Out Is Too Hard",
-      "number": 195,
-      "url": "https://asurascans.com/novels/logging-out-is-too-hard/chapter/195"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 177,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/177"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 178,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/178"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 179,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/179"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 180,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/180"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 181,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/181"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 182,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/182"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 183,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/183"
-    },
-    {
-      "titleId": "asura-novel-murim-psychopath",
-      "title": "Murim Psychopath",
-      "number": 184,
-      "url": "https://asurascans.com/novels/murim-psychopath/chapter/184"
-    },
-    {
-      "titleId": "asura-novel-reincarnated-sword-demon",
-      "title": "Reincarnated Sword Demon",
-      "number": 116,
-      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/116"
-    },
-    {
-      "titleId": "asura-novel-reincarnated-sword-demon",
-      "title": "Reincarnated Sword Demon",
-      "number": 117,
-      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/117"
-    },
-    {
-      "titleId": "asura-novel-reincarnated-sword-demon",
-      "title": "Reincarnated Sword Demon",
-      "number": 118,
-      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/118"
-    },
-    {
-      "titleId": "asura-novel-reincarnated-sword-demon",
-      "title": "Reincarnated Sword Demon",
-      "number": 119,
-      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/119"
-    },
-    {
-      "titleId": "asura-novel-reincarnated-sword-demon",
-      "title": "Reincarnated Sword Demon",
-      "number": 120,
-      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/120"
-    },
-    {
-      "titleId": "asura-novel-prince-rage",
-      "title": "Prince Rage",
-      "number": 117,
-      "url": "https://asurascans.com/novels/prince-rage/chapter/117"
-    },
-    {
-      "titleId": "asura-novel-prince-rage",
-      "title": "Prince Rage",
-      "number": 118,
-      "url": "https://asurascans.com/novels/prince-rage/chapter/118"
-    },
-    {
-      "titleId": "asura-novel-prince-rage",
-      "title": "Prince Rage",
-      "number": 119,
-      "url": "https://asurascans.com/novels/prince-rage/chapter/119"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 194,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/194"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 195,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/195"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 196,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/196"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 197,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/197"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 198,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/198"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 199,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/199"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 200,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/200"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 201,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/201"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 202,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/202"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 203,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/203"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 204,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/204"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 205,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/205"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 206,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/206"
-    },
-    {
-      "titleId": "asura-novel-the-academy-s-weapon-replicator",
-      "title": "The Academy’s Weapon Replicator",
-      "number": 207,
-      "url": "https://asurascans.com/novels/the-academy-s-weapon-replicator/chapter/207"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 297,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/297"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 298,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/298"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 299,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/299"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 300,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/300"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 301,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/301"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 302,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/302"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 303,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/303"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 304,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/304"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 305,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/305"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 306,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/306"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 307,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/307"
-    },
-    {
-      "titleId": "asura-novel-damn-reincarnation",
-      "title": "Damn Reincarnation",
-      "number": 308,
-      "url": "https://asurascans.com/novels/damn-reincarnation/chapter/308"
-    }
-  ],
+  "newChapters": [],
   "portraitsAwaitingReview": 2
 }
