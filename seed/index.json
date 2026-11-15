@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T02:45:13.650497+00:00",
+  "checkedAt": "2026-11-15T11:04:22.939921+00:00",
   "titles": {
-    "asura-manhwa-sword-devouring-swordmaster": {
-      "seriesUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582",
-      "chapterCount": 54,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-09T00:52:23.09416Z"
-    },
-    "asura-manhwa-margraves-bastard-son-was-the-emperor": {
-      "seriesUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582",
-      "chapterCount": 133,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T23:33:44.618298Z"
-    },
-    "asura-manhwa-star-instructor-master-baek": {
-      "seriesUrl": "https://asurascans.com/comics/star-instructor-master-baek-f212c582",
-      "chapterCount": 168,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T23:12:15.537932Z"
-    },
     "asura-manhwa-the-dark-swordsman-returns": {
       "seriesUrl": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582",
       "chapterCount": 73,
@@ -537,6 +516,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-09T03:12:00.485979Z"
+    },
+    "asura-manhwa-sword-devouring-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582",
+      "chapterCount": 54,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T00:52:23.09416Z"
+    },
+    "asura-manhwa-margraves-bastard-son-was-the-emperor": {
+      "seriesUrl": "https://asurascans.com/comics/margraves-bastard-son-was-the-emperor-f212c582",
+      "chapterCount": 133,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T23:33:44.618298Z"
+    },
+    "asura-manhwa-star-instructor-master-baek": {
+      "seriesUrl": "https://asurascans.com/comics/star-instructor-master-baek-f212c582",
+      "chapterCount": 168,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T23:12:15.537932Z"
     }
   }
 }
