@@ -1,59 +1,29 @@
 {
-  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "checkedAt": "2026-11-16T11:33:35.350256+00:00",
   "titlesTotal": 81,
-  "titlesChecked": 16,
-  "titlesUpdated": 11,
-  "titlesAlreadyFresh": 0,
+  "titlesChecked": 3,
+  "titlesUpdated": 0,
+  "titlesAlreadyFresh": 11,
   "titlesRetained": 70,
-  "status": "partial",
+  "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-the-s-classes-that-i-raised",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-return-of-the-disaster-class-hero",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-barbarian",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-regressed-mercenary",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-pick-me-up",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-overgeared",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-suicide-hunter",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-myst-might-mayhem",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-mount-hua",
@@ -426,52 +396,82 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-barbarian",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-regressed-mercenary",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-pick-me-up",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-s-classes-that-i-raised",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-return-of-the-disaster-class-hero",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
     "regressor-blind-saint": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-first-prince": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-raising-villains": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-black-badger": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-demon-king": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-copying-skills": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-ode-brave": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-solo-swordmaster": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-star-swordmaster": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-regressing-knight": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-novel-shepherd-wizard": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
-      "status": "updated"
+      "status": "fresh_today"
     },
     "asura-manhwa-barbarian": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
@@ -486,15 +486,15 @@
       "status": "retained"
     },
     "asura-manhwa-overgeared": {
-      "lastAttemptAt": "2026-11-11T15:01:14.578716+00:00",
+      "lastAttemptAt": "2026-11-16T11:33:35.350256+00:00",
       "status": "retained"
     },
     "asura-manhwa-suicide-hunter": {
-      "lastAttemptAt": "2026-11-11T15:01:14.578716+00:00",
+      "lastAttemptAt": "2026-11-16T11:33:35.350256+00:00",
       "status": "retained"
     },
     "asura-manhwa-myst-might-mayhem": {
-      "lastAttemptAt": "2026-11-11T15:01:14.578716+00:00",
+      "lastAttemptAt": "2026-11-16T11:33:35.350256+00:00",
       "status": "retained"
     },
     "asura-manhwa-mount-hua": {
@@ -756,853 +756,6 @@
   },
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
-  "newChapters": [
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 163,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/163"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 164,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/164"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 165,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/165"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 166,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/166"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 167,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/167"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 168,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/168"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 169,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/169"
-    },
-    {
-      "titleId": "regressor-blind-saint",
-      "title": "The Regressor and the Blind Saint",
-      "number": 170,
-      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/170"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 302,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/302"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 303,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/303"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 304,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/304"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 305,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/305"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 306,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/306"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 307,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/307"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 308,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/308"
-    },
-    {
-      "titleId": "asura-novel-first-prince",
-      "title": "I Became the First Prince: Legend of Sword's Song",
-      "number": 309,
-      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/309"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 250,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/250"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 251,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/251"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 252,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/252"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 253,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/253"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 254,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/254"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 255,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/255"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 256,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/256"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 257,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/257"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 258,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/258"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 259,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/259"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 260,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/260"
-    },
-    {
-      "titleId": "asura-novel-raising-villains",
-      "title": "Raising Villains the Right Way",
-      "number": 261,
-      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/261"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 181,
-      "url": "https://asurascans.com/novels/black-badger/chapter/181"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 182,
-      "url": "https://asurascans.com/novels/black-badger/chapter/182"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 183,
-      "url": "https://asurascans.com/novels/black-badger/chapter/183"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 184,
-      "url": "https://asurascans.com/novels/black-badger/chapter/184"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 185,
-      "url": "https://asurascans.com/novels/black-badger/chapter/185"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 186,
-      "url": "https://asurascans.com/novels/black-badger/chapter/186"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 187,
-      "url": "https://asurascans.com/novels/black-badger/chapter/187"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 188,
-      "url": "https://asurascans.com/novels/black-badger/chapter/188"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 189,
-      "url": "https://asurascans.com/novels/black-badger/chapter/189"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 190,
-      "url": "https://asurascans.com/novels/black-badger/chapter/190"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 191,
-      "url": "https://asurascans.com/novels/black-badger/chapter/191"
-    },
-    {
-      "titleId": "asura-novel-black-badger",
-      "title": "Black Badger",
-      "number": 192,
-      "url": "https://asurascans.com/novels/black-badger/chapter/192"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 261,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/261"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 262,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/262"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 263,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/263"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 264,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/264"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 265,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/265"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 266,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/266"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 267,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/267"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 268,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/268"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 269,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/269"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 270,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/270"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 271,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/271"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 272,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/272"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 273,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/273"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 274,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/274"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 275,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/275"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 276,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/276"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 277,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/277"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 278,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/278"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 279,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/279"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 280,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/280"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 281,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/281"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 282,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/282"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 283,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/283"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 284,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/284"
-    },
-    {
-      "titleId": "asura-novel-demon-king",
-      "title": "The Demon King Overrun by Heroes",
-      "number": 285,
-      "url": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes/chapter/285"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 174,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/174"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 175,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/175"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 176,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/176"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 177,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/177"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 178,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/178"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 179,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/179"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 180,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/180"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 181,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/181"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 182,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/182"
-    },
-    {
-      "titleId": "asura-novel-copying-skills",
-      "title": "Copying Skills with Affinity!",
-      "number": 183,
-      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/183"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 194,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/194"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 195,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/195"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 196,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/196"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 197,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/197"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 198,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/198"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 199,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/199"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 200,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/200"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 201,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/201"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 202,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/202"
-    },
-    {
-      "titleId": "asura-novel-ode-brave",
-      "title": "Ode of the Brave",
-      "number": 203,
-      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/203"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 295,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/295"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 296,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/296"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 297,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/297"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 298,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/298"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 299,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/299"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 300,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/300"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 301,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/301"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 302,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/302"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 303,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/303"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 304,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/304"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 305,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/305"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 306,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/306"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 307,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/307"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 308,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/308"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 309,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/309"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 310,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/310"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 311,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/311"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 312,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/312"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 313,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/313"
-    },
-    {
-      "titleId": "asura-novel-solo-swordmaster",
-      "title": "Solo Swordmaster",
-      "number": 314,
-      "url": "https://asurascans.com/novels/solo-swordmaster/chapter/314"
-    },
-    {
-      "titleId": "asura-novel-star-swordmaster",
-      "title": "Star-Embracing Swordmaster",
-      "number": 272,
-      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/272"
-    },
-    {
-      "titleId": "asura-novel-star-swordmaster",
-      "title": "Star-Embracing Swordmaster",
-      "number": 273,
-      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/273"
-    },
-    {
-      "titleId": "asura-novel-star-swordmaster",
-      "title": "Star-Embracing Swordmaster",
-      "number": 274,
-      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/274"
-    },
-    {
-      "titleId": "asura-novel-star-swordmaster",
-      "title": "Star-Embracing Swordmaster",
-      "number": 275,
-      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/275"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 620,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/620"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 621,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/621"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 622,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/622"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 623,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/623"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 624,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/624"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 625,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/625"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 626,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/626"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 627,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/627"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 628,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/628"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 629,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/629"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 630,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/630"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 631,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/631"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 632,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/632"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 633,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/633"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 634,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/634"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 635,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/635"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 636,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/636"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 637,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/637"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 638,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/638"
-    },
-    {
-      "titleId": "asura-novel-regressing-knight",
-      "title": "Eternally Regressing Knight",
-      "number": 639,
-      "url": "https://asurascans.com/novels/eternally-regressing-knight/chapter/639"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 209,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/209"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 210,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/210"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 211,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/211"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 212,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/212"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 213,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/213"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 214,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/214"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 215,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/215"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 216,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/216"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 217,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/217"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 218,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/218"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 219,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/219"
-    },
-    {
-      "titleId": "asura-novel-shepherd-wizard",
-      "title": "The Shepherd Wizard",
-      "number": 220,
-      "url": "https://asurascans.com/novels/the-shepherd-wizard/chapter/220"
-    }
-  ],
+  "newChapters": [],
   "portraitsAwaitingReview": 2
 }
