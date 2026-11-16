@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-black-badger",
   "seriesUrl": "https://asurascans.com/novels/black-badger",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 180,
+  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "chapterCount": 192,
   "chapters": [
     {
       "number": 1,
@@ -1263,6 +1263,90 @@
       "number": 180,
       "title": "Yun and Jaeyeon (2)",
       "url": "https://asurascans.com/novels/black-badger/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "The Elder's Mansion (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/181",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 182,
+      "title": "The Elder's Mansion (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/182",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 183,
+      "title": "The Elder's Mansion (3)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/183",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 184,
+      "title": "Biometric Data (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/184",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 185,
+      "title": "Biometric Data (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/185",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 186,
+      "title": "Interrogation (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/186",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 187,
+      "title": "Interrogation (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/187",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 188,
+      "title": "A Measure of Affection (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/188",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 189,
+      "title": "A Measure of Affection (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/189",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 190,
+      "title": "Song of the Past (1)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/190",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 191,
+      "title": "Song of the Past (2)",
+      "url": "https://asurascans.com/novels/black-badger/chapter/191",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 192,
+      "title": "Rather Than Hand It Over",
+      "url": "https://asurascans.com/novels/black-badger/chapter/192",
       "premium": false,
       "publishedAt": null
     }

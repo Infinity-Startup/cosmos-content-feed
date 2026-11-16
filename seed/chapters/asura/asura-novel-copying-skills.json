@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-copying-skills",
   "seriesUrl": "https://asurascans.com/novels/copying-skills-with-affinity",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 173,
+  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "chapterCount": 183,
   "chapters": [
     {
       "number": 1,
@@ -1214,6 +1214,76 @@
       "number": 173,
       "title": "Mountain God",
       "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "Mountain God (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "Mountain God (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "Godhood",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "Godhood (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Godhood (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "Harvest Festival",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "Harvest Festival (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "Harvest Festival (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/181",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 182,
+      "title": "The Reaper",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/182",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 183,
+      "title": "The Reaper (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/183",
       "premium": false,
       "publishedAt": null
     }

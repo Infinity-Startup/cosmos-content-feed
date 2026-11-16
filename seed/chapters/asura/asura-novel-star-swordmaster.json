@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-star-swordmaster",
   "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
-  "checkedAt": "2026-11-11T14:56:56.776642+00:00",
-  "chapterCount": 271,
+  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "chapterCount": 275,
   "chapters": [
     {
       "number": 1,
@@ -1900,6 +1900,34 @@
       "number": 271,
       "title": "Song of the Forgotten (2)",
       "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/271",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 272,
+      "title": "Song of the Forgotten (3)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/272",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 273,
+      "title": "The Shattered Nest",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/273",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 274,
+      "title": "The Black-Haired Man (1)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/274",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 275,
+      "title": "The Black-Haired Man (2)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/275",
       "premium": false,
       "publishedAt": null
     }

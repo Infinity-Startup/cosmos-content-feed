@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-first-prince",
   "seriesUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 301,
+  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "chapterCount": 309,
   "chapters": [
     {
       "number": 1,
@@ -2110,6 +2110,62 @@
       "number": 301,
       "title": "A Thousand-Year Empire, a Thousand-Year Emperor (3)",
       "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/301",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 302,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor (4)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/302",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 303,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor (5)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/303",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 304,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor (6)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/304",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 305,
+      "title": "A Thousand-Year Empire, a Thousand-Year Emperor (7)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/305",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 306,
+      "title": "Walking Through Twilight (1)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/306",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 307,
+      "title": "Walking Through Twilight (2)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/307",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 308,
+      "title": "Walking Through Twilight (3)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/308",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 309,
+      "title": "Walking Through Twilight (4)",
+      "url": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song/chapter/309",
       "premium": false,
       "publishedAt": null
     }

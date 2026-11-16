@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-raising-villains",
   "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
-  "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-  "chapterCount": 249,
+  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "chapterCount": 261,
   "chapters": [
     {
       "number": 1,
@@ -1746,6 +1746,90 @@
       "number": 249,
       "title": "...What Is Going On? (1)",
       "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/249",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 250,
+      "title": "...What Is Going On? (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/250",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 251,
+      "title": "...What Is Going On? (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/251",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 252,
+      "title": "...What Is Going On? (4)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/252",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 253,
+      "title": "...What Is Going On? (5)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/253",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 254,
+      "title": "A God...? Me?? (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/254",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 255,
+      "title": "A God...? Me?? (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/255",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 256,
+      "title": "A God...? Me?? (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/256",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 257,
+      "title": "Branches (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/257",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 258,
+      "title": "Branches (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/258",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 259,
+      "title": "Branches (3)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/259",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 260,
+      "title": "Meeting (1)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/260",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 261,
+      "title": "Meeting (2)",
+      "url": "https://asurascans.com/novels/raising-villains-the-right-way/chapter/261",
       "premium": false,
       "publishedAt": null
     }

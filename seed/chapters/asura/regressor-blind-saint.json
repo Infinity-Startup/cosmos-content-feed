@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "regressor-blind-saint",
   "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
-  "checkedAt": "2026-11-11T14:36:17.640663+00:00",
-  "chapterCount": 163,
+  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
+  "chapterCount": 171,
   "chapters": [
     {
       "number": 0,
@@ -1144,6 +1144,62 @@
       "number": 162,
       "title": "An Unexpected Encounter - 3",
       "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/162",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 163,
+      "title": "Threats",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/163",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 164,
+      "title": "Confrontation",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/164",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 165,
+      "title": "Confrontation - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/165",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 166,
+      "title": "Confrontation - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/166",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 167,
+      "title": "An Unexpected Turn",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/167",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 168,
+      "title": "An Unexpected Turn - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/168",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 169,
+      "title": "An Unexpected Turn - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/169",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 170,
+      "title": "Obsession",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/170",
       "premium": false,
       "publishedAt": null
     }
