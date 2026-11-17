@@ -1,29 +1,131 @@
 {
-  "checkedAt": "2026-11-16T22:12:55.785818+00:00",
-  "titlesTotal": 81,
+  "checkedAt": "2026-11-17T02:26:41.335992+00:00",
+  "titlesTotal": 101,
   "titlesChecked": 3,
   "titlesUpdated": 0,
   "titlesAlreadyFresh": 0,
-  "titlesRetained": 81,
+  "titlesRetained": 101,
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-mount-hua",
+      "titleId": "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law",
       "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": false
     },
     {
-      "titleId": "asura-manhwa-deadbeat-noble",
+      "titleId": "asura-manhwa-blade-of-the-discarded",
       "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": false
     },
     {
-      "titleId": "asura-manhwa-swordmaster-son",
+      "titleId": "asura-manhwa-the-genius-knight-of-a-fallen-race",
       "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": false
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-regressor-and-the-blind-saint",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-copying-skills-with-affinity",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-solo-swordmaster",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-my-dragon-girlfriends-return",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-ode-of-the-brave",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-whispers-of-a-scheming-demon",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-my-slain-dragon-bride",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-a-painter-who-draws-dungeons",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-damn-reincarnation",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-logging-out-is-too-hard",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-rebirth-of-the-divine-demon",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
     },
     {
       "titleId": "asura-manhwa-estate-developer",
@@ -492,6 +594,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-mount-hua",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-deadbeat-noble",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-swordmaster-son",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -818,10 +938,73 @@
     "asura-manhwa-return-of-the-disaster-class-hero": {
       "lastAttemptAt": "2026-11-16T02:48:33.209912+00:00",
       "status": "retained"
+    },
+    "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law": {
+      "lastAttemptAt": "2026-11-17T02:26:41.335992+00:00",
+      "status": "retained"
+    },
+    "asura-manhwa-blade-of-the-discarded": {
+      "lastAttemptAt": "2026-11-17T02:26:41.335992+00:00",
+      "status": "retained"
+    },
+    "asura-manhwa-the-genius-knight-of-a-fallen-race": {
+      "lastAttemptAt": "2026-11-17T02:26:41.335992+00:00",
+      "status": "retained"
+    },
+    "asura-manhwa-monster-s-streamer-star": {
+      "status": "retained"
+    },
+    "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {
+      "status": "retained"
+    },
+    "asura-manhwa-pick-up-a-grimoire-become-a-mage": {
+      "status": "retained"
+    },
+    "asura-manhwa-the-regressor-and-the-blind-saint": {
+      "status": "retained"
+    },
+    "asura-manhwa-copying-skills-with-affinity": {
+      "status": "retained"
+    },
+    "asura-manhwa-solo-swordmaster": {
+      "status": "retained"
+    },
+    "asura-manhwa-my-dragon-girlfriends-return": {
+      "status": "retained"
+    },
+    "asura-manhwa-ode-of-the-brave": {
+      "status": "retained"
+    },
+    "asura-manhwa-whispers-of-a-scheming-demon": {
+      "status": "retained"
+    },
+    "asura-manhwa-shadow-slave": {
+      "status": "retained"
+    },
+    "asura-manhwa-the-tale-of-cultivation-and-demon-extermination": {
+      "status": "retained"
+    },
+    "asura-manhwa-the-martial-genius-who-remembers-everything": {
+      "status": "retained"
+    },
+    "asura-manhwa-my-slain-dragon-bride": {
+      "status": "retained"
+    },
+    "asura-manhwa-a-painter-who-draws-dungeons": {
+      "status": "retained"
+    },
+    "asura-manhwa-damn-reincarnation": {
+      "status": "retained"
+    },
+    "asura-manhwa-logging-out-is-too-hard": {
+      "status": "retained"
+    },
+    "asura-manhwa-rebirth-of-the-divine-demon": {
+      "status": "retained"
     }
   },
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
   "newChapters": [],
-  "portraitsAwaitingReview": 2
+  "portraitsAwaitingReview": 468
 }
