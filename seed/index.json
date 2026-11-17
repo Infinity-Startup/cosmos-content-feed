@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T02:30:18.449133+00:00",
+  "checkedAt": "2026-11-17T04:34:28.190671+00:00",
   "titles": {
-    "asura-manhwa-monster-s-streamer-star": {
-      "seriesUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7",
-      "chapterCount": 11,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T12:46:21.69Z"
-    },
-    "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {
-      "seriesUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7",
-      "chapterCount": 10,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T20:38:19.625768Z"
-    },
-    "asura-manhwa-pick-up-a-grimoire-become-a-mage": {
-      "seriesUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7",
-      "chapterCount": 12,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-13T07:04:53.333793Z"
-    },
     "asura-manhwa-the-regressor-and-the-blind-saint": {
       "seriesUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7",
       "chapterCount": 26,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-08T13:41:21.520574Z"
+    },
+    "asura-manhwa-monster-s-streamer-star": {
+      "seriesUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7",
+      "chapterCount": 11,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T12:46:21.69Z"
+    },
+    "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {
+      "seriesUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7",
+      "chapterCount": 10,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T20:38:19.625768Z"
+    },
+    "asura-manhwa-pick-up-a-grimoire-become-a-mage": {
+      "seriesUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7",
+      "chapterCount": 12,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T07:04:53.333793Z"
     }
   }
 }

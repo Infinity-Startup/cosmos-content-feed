@@ -1,204 +1,6 @@
 {
-  "checkedAt": "2026-11-17T02:30:18.449133+00:00",
+  "checkedAt": "2026-11-17T04:34:28.190671+00:00",
   "chapters": [
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 1,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/1"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 2,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/2"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 3,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/3"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 4,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/4"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 5,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/5"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 6,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/6"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 7,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/7"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 8,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/8"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 9,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/9"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 10,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/10"
-    },
-    {
-      "titleId": "asura-manhwa-monster-s-streamer-star",
-      "title": "Monster Streaming Star",
-      "number": 11,
-      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/11"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 1,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/1"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 2,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/2"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 3,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/3"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 4,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/4"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 5,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/5"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 6,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/6"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 7,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/7"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 8,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/8"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 9,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/9"
-    },
-    {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 10,
-      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/10"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 1,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/1"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 2,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/2"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 3,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/3"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 4,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/4"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 5,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/5"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 6,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/6"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 7,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/7"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 8,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/8"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 9,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/9"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 10,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/10"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 11,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/11"
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 12,
-      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/12"
-    },
     {
       "titleId": "asura-manhwa-the-regressor-and-the-blind-saint",
       "title": "The Regressor and the Blind Saint",
@@ -16422,6 +16224,204 @@
       "title": "The Genius Knight of a Fallen Race",
       "number": 8,
       "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 1,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/1"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 2,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/2"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 3,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/3"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 4,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/4"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 5,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/5"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 6,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/6"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 7,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/7"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 8,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 9,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/9"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 10,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/10"
+    },
+    {
+      "titleId": "asura-manhwa-monster-s-streamer-star",
+      "title": "Monster Streaming Star",
+      "number": 11,
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/11"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 1,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/1"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 2,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/2"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 3,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/3"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 4,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/4"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 5,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/5"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 6,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/6"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 7,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/7"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 8,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 9,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/9"
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 10,
+      "url": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/10"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 1,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/1"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 2,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/2"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 3,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/3"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 4,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/4"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 5,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/5"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 6,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/6"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 7,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/7"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 8,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 9,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/9"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 10,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/10"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 11,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/11"
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 12,
+      "url": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/12"
     },
     {
       "titleId": "asura-manhwa-swordmaster-son",
