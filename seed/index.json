@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T14:32:25.615680+00:00",
+  "checkedAt": "2026-11-17T21:30:42.577049+00:00",
   "titles": {
-    "asura-manhwa-shadow-slave": {
-      "seriesUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7",
-      "chapterCount": 17,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-12T17:14:02.374Z"
-    },
-    "asura-manhwa-the-tale-of-cultivation-and-demon-extermination": {
-      "seriesUrl": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7",
-      "chapterCount": 22,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-13T22:04:51.423561Z"
-    },
-    "asura-manhwa-the-martial-genius-who-remembers-everything": {
-      "seriesUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7",
-      "chapterCount": 35,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T17:35:32.713097Z"
-    },
     "asura-manhwa-my-slain-dragon-bride": {
       "seriesUrl": "https://asurascans.com/comics/my-slain-dragon-bride-7ba78ec7",
       "chapterCount": 23,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-14T02:18:41.527299Z"
+    },
+    "asura-manhwa-shadow-slave": {
+      "seriesUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7",
+      "chapterCount": 17,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-12T17:14:02.374Z"
+    },
+    "asura-manhwa-the-tale-of-cultivation-and-demon-extermination": {
+      "seriesUrl": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7",
+      "chapterCount": 22,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T22:04:51.423561Z"
+    },
+    "asura-manhwa-the-martial-genius-who-remembers-everything": {
+      "seriesUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7",
+      "chapterCount": 35,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T17:35:32.713097Z"
     }
   }
 }

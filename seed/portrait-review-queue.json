@@ -1,384 +1,6 @@
 {
-  "checkedAt": "2026-11-17T14:32:25.615680+00:00",
+  "checkedAt": "2026-11-17T21:30:42.577049+00:00",
   "chapters": [
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 1,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/1"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 2,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/2"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 6,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/6"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 8,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/8"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 9,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/9"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 10,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/10"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 11,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/11"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 12,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/12"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 13,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/13"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 14,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/14"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 15,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/15"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 16,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/16"
-    },
-    {
-      "titleId": "asura-manhwa-shadow-slave",
-      "title": "Shadow Slave",
-      "number": 17,
-      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/17"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 1,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/1"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 3,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/3"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 4,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/4"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 5,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/5"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 6,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/6"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 7,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/7"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 8,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/8"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 9,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/9"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 10,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/10"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 11,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/11"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 12,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/12"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 13,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/13"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 14,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/14"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 15,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/15"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 16,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/16"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 17,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/17"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 18,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/18"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 19,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/19"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 20,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/20"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 21,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/21"
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 22,
-      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/22"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 6,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/6"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 8,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/8"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 9,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/9"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 10,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/10"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 11,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/11"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 12,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/12"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 13,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/13"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 14,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/14"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 15,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/15"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 16,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/16"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 17,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/17"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 18,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/18"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 19,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/19"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 20,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/20"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 21,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/21"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 22,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/22"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 23,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/23"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 24,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/24"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 25,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/25"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 26,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/26"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 27,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/27"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 28,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/28"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 29,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/29"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 30,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/30"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 31,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/31"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 32,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/32"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 33,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/33"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 34,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/34"
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 35,
-      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/35"
-    },
     {
       "titleId": "asura-manhwa-my-slain-dragon-bride",
       "title": "My Slain Dragon Bride",
@@ -15462,6 +15084,384 @@
       "title": "Whispers of a Scheming Demon",
       "number": 15,
       "url": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/15"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 1,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/1"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 2,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/2"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 6,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/6"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 8,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 9,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/9"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 10,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/10"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 11,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/11"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 12,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/12"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 13,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/13"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 14,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/14"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 15,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/15"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 16,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/16"
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "title": "Shadow Slave",
+      "number": 17,
+      "url": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/17"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 1,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/1"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 3,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/3"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 4,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/4"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 5,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/5"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 6,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/6"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 7,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/7"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 8,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 9,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/9"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 10,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/10"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 11,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/11"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 12,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/12"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 13,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/13"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 14,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/14"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 15,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/15"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 16,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/16"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 17,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/17"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 18,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/18"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 19,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/19"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 20,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/20"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 21,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/21"
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 22,
+      "url": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/22"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 6,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/6"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 8,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/8"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 9,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/9"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 10,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/10"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 11,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/11"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 12,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/12"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 13,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/13"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 14,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/14"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 15,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/15"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 16,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/16"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 17,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/17"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 18,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/18"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 19,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/19"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 20,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/20"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 21,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/21"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 22,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/22"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 23,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/23"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 24,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/24"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 25,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/25"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 26,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/26"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 27,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/27"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 28,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/28"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 29,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/29"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 30,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/30"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 31,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/31"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 32,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/32"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 33,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/33"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 34,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/34"
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 35,
+      "url": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/35"
     },
     {
       "titleId": "asura-manhwa-swordmaster-son",

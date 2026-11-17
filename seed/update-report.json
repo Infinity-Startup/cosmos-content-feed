@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-17T14:32:25.615680+00:00",
+  "checkedAt": "2026-11-17T21:30:42.577049+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-shadow-slave",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-my-slain-dragon-bride",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-a-painter-who-draws-dungeons",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-damn-reincarnation",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-logging-out-is-too-hard",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-shadow-slave",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1120,12 +1120,15 @@
       "status": "retained"
     },
     "asura-manhwa-my-slain-dragon-bride": {
+      "lastAttemptAt": "2026-11-17T21:30:42.577049+00:00",
       "status": "retained"
     },
     "asura-manhwa-a-painter-who-draws-dungeons": {
+      "lastAttemptAt": "2026-11-17T21:30:42.577049+00:00",
       "status": "retained"
     },
     "asura-manhwa-damn-reincarnation": {
+      "lastAttemptAt": "2026-11-17T21:30:42.577049+00:00",
       "status": "retained"
     },
     "asura-manhwa-logging-out-is-too-hard": {
