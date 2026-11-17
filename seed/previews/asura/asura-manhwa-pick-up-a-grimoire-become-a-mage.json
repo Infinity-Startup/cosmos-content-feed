@@ -1,5 +1,132 @@
 {
   "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-up-a-grimoire-become-a-mage/1/550591.webp?v=1791403038",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-up-a-grimoire-become-a-mage/1-portrait-v5-95b6193e3257.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "c4572d2af0d9c3e2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          320,
+          4410,
+          613,
+          4703
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          373.645,
+          4444.409,
+          225.659,
+          223.682
+        ],
+        "outsideFaceWhiteFraction": 0.02719,
+        "largestWhiteRegion": 0.01204,
+        "sharpness": 2337.35,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-up-a-grimoire-become-a-mage/2/2321e6.webp?v=1791643558",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-up-a-grimoire-become-a-mage/2-portrait-v5-94eff637f072.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8701,
+        "faceHash": "853d7890e2ef271c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          360,
+          3967,
+          645,
+          4252
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          395.068,
+          4000.122,
+          214.453,
+          219.287
+        ],
+        "outsideFaceWhiteFraction": 0.01392,
+        "largestWhiteRegion": 0.00832,
+        "sharpness": 2431.3,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/pick-up-a-grimoire-become-a-mage/3/f51c84.webp?v=1791643562",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-pick-up-a-grimoire-become-a-mage/3-portrait-v5-0e1f35f051dc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "ee3c7f9bb44421a0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          371,
+          4576,
+          638,
+          4843
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          404.187,
+          4606.567,
+          201.489,
+          205.225
+        ],
+        "outsideFaceWhiteFraction": 0.02266,
+        "largestWhiteRegion": 0.00638,
+        "sharpness": 2668.79,
+        "reviewed": true
+      }
+    }
+  }
 }

@@ -1,5 +1,48 @@
 {
   "titleId": "asura-manhwa-the-indomitable-martial-king",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-indomitable-martial-king/1/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-indomitable-martial-king/1-portrait-v5-36400b8d0c16.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "c7673a90389c64de",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          248,
+          10718,
+          531,
+          11001
+        ],
+        "sourceSize": [
+          800,
+          12647
+        ],
+        "detectedFace": [
+          301.465,
+          10736.328,
+          215.82,
+          246.094
+        ],
+        "outsideFaceWhiteFraction": 0.01506,
+        "largestWhiteRegion": 0.01024,
+        "sharpness": 3020.0,
+        "reviewed": true
+      }
+    }
+  }
 }

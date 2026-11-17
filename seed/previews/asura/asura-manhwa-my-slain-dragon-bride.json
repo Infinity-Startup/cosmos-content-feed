@@ -1,5 +1,90 @@
 {
   "titleId": "asura-manhwa-my-slain-dragon-bride",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/my-slain-dragon-bride-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-slain-dragon-bride/2/54a12d.webp?v=1787405554",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-slain-dragon-bride/2-portrait-v5-5b9f69bbcf71.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "d3173f0e70686363",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          53,
+          2600,
+          309,
+          2856
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          92.889,
+          2637.817,
+          176.77,
+          179.736
+        ],
+        "outsideFaceWhiteFraction": 0.04846,
+        "largestWhiteRegion": 0.00868,
+        "sharpness": 3054.76,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/my-slain-dragon-bride-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-slain-dragon-bride/3/bbccbb.webp?v=1787405559",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-slain-dragon-bride/3-portrait-v5-a7c2d25a1a50.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "93786997319a668d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          340,
+          10229,
+          621,
+          10510
+        ],
+        "sourceSize": [
+          900,
+          12735
+        ],
+        "detectedFace": [
+          378.259,
+          10260.956,
+          205.005,
+          216.321
+        ],
+        "outsideFaceWhiteFraction": 0.00307,
+        "largestWhiteRegion": 0.00174,
+        "sharpness": 1204.33,
+        "reviewed": true
+      }
+    }
+  }
 }
