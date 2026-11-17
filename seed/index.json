@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T08:50:44.897556+00:00",
+  "checkedAt": "2026-11-17T14:32:25.615680+00:00",
   "titles": {
-    "asura-manhwa-my-dragon-girlfriends-return": {
-      "seriesUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7",
-      "chapterCount": 13,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-12T10:26:40.378378Z"
-    },
-    "asura-manhwa-ode-of-the-brave": {
-      "seriesUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7",
-      "chapterCount": 18,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-14T18:11:28.661004Z"
-    },
-    "asura-manhwa-whispers-of-a-scheming-demon": {
-      "seriesUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7",
-      "chapterCount": 15,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T02:18:41.527299Z"
-    },
     "asura-manhwa-shadow-slave": {
       "seriesUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7",
       "chapterCount": 17,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-10T18:49:36.467Z"
+    },
+    "asura-manhwa-my-dragon-girlfriends-return": {
+      "seriesUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7",
+      "chapterCount": 13,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-12T10:26:40.378378Z"
+    },
+    "asura-manhwa-ode-of-the-brave": {
+      "seriesUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7",
+      "chapterCount": 18,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-14T18:11:28.661004Z"
+    },
+    "asura-manhwa-whispers-of-a-scheming-demon": {
+      "seriesUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7",
+      "chapterCount": 15,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T02:18:41.527299Z"
     }
   }
 }

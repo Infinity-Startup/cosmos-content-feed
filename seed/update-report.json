@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-17T08:50:44.897556+00:00",
+  "checkedAt": "2026-11-17T14:32:25.615680+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-my-dragon-girlfriends-return",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-ode-of-the-brave",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-whispers-of-a-scheming-demon",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-shadow-slave",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-tale-of-cultivation-and-demon-extermination",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-martial-genius-who-remembers-everything",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-my-slain-dragon-bride",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-my-dragon-girlfriends-return",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-ode-of-the-brave",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-whispers-of-a-scheming-demon",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1108,12 +1108,15 @@
       "status": "retained"
     },
     "asura-manhwa-shadow-slave": {
+      "lastAttemptAt": "2026-11-17T14:32:25.615680+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-tale-of-cultivation-and-demon-extermination": {
+      "lastAttemptAt": "2026-11-17T14:32:25.615680+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-martial-genius-who-remembers-everything": {
+      "lastAttemptAt": "2026-11-17T14:32:25.615680+00:00",
       "status": "retained"
     },
     "asura-manhwa-my-slain-dragon-bride": {
