@@ -1,0 +1,48 @@
+{
+  "titleId": "asura-manhwa-limitless-predation",
+  "revision": 5,
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/1/a02d06.webp?v=1788201149",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/1-auto-v5-671b08070bd3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "c3703c92ee6b38ac",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          120,
+          14640,
+          376,
+          14896
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          147.437,
+          14673.779,
+          170.508,
+          218.848
+        ],
+        "outsideFaceWhiteFraction": 0.03598,
+        "largestWhiteRegion": 0.01648,
+        "sharpness": 1496.28,
+        "reviewed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-the-wandering-knights-survival-manual",
+  "seriesUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7",
+  "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+  "chapterCount": 68,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The End Of Childhood (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2025-12-01T12:32:20Z"
+    },
+    {
+      "number": 2,
+      "title": "The End Of Childhood (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2025-12-01T12:32:20Z"
+    },
+    {
+      "number": 3,
+      "title": "The End Of Childhood (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2025-12-01T12:33:01Z"
+    },
+    {
+      "number": 4,
+      "title": "The End Of Childhood (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2025-12-01T12:33:22Z"
+    },
+    {
+      "number": 5,
+      "title": "The End Of Childhood (5)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2025-12-01T12:33:50Z"
+    },
+    {
+      "number": 6,
+      "title": "The End Of Childhood (6)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2025-12-01T21:38:06Z"
+    },
+    {
+      "number": 7,
+      "title": "The End Of Childhood (7)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2025-12-01T12:35:01Z"
+    },
+    {
+      "number": 8,
+      "title": "The End Of Childhood (8)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2025-12-01T21:39:14Z"
+    },
+    {
+      "number": 9,
+      "title": "The End of Childhood (9)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2025-12-01T21:40:15Z"
+    },
+    {
+      "number": 10,
+      "title": "The End Of Childhood (10)}",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2025-12-09T08:37:03Z"
+    },
+    {
+      "number": 11,
+      "title": "Knight, Peddler, Mercenary, Slave (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2025-12-09T05:35:49Z"
+    },
+    {
+      "number": 12,
+      "title": "Knight, Peddler, Mercenary, Slave (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/12",
+      "premium": false,
+      "publishedAt": "2025-12-15T17:42:12Z"
+    },
+    {
+      "number": 13,
+      "title": "Knight, Peddler, Mercenary, Slave (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/13",
+      "premium": false,
+      "publishedAt": "2025-12-15T20:48:14Z"
+    },
+    {
+      "number": 14,
+      "title": "Knight, Peddler, Mercenary, Slave (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/14",
+      "premium": false,
+      "publishedAt": "2025-12-23T00:15:46Z"
+    },
+    {
+      "number": 15,
+      "title": "Knight, Peddler, Mercenary, Slave (5)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/15",
+      "premium": false,
+      "publishedAt": "2025-12-23T00:16:55Z"
+    },
+    {
+      "number": 16,
+      "title": "Knight, Peddler, Mercenary, Slave (6)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/16",
+      "premium": false,
+      "publishedAt": "2025-12-29T17:57:13Z"
+    },
+    {
+      "number": 17,
+      "title": "Knight, Peddler, Mercenary, Slave (7)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/17",
+      "premium": false,
+      "publishedAt": "2025-12-29T19:36:12Z"
+    },
+    {
+      "number": 18,
+      "title": "That Year, the City Felt Warm (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/18",
+      "premium": false,
+      "publishedAt": "2026-01-05T17:26:13Z"
+    },
+    {
+      "number": 19,
+      "title": "That Year, the City Felt Warm (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/19",
+      "premium": false,
+      "publishedAt": "2026-01-05T21:45:13Z"
+    },
+    {
+      "number": 20,
+      "title": " That Year, the City Felt Warm (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/20",
+      "premium": false,
+      "publishedAt": "2026-01-13T12:18:12Z"
+    },
+    {
+      "number": 21,
+      "title": "That Year, the City Felt Warm (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/21",
+      "premium": false,
+      "publishedAt": "2026-01-19T19:31:12Z"
+    },
+    {
+      "number": 22,
+      "title": "That Year, The City Felt Warm (5)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/22",
+      "premium": false,
+      "publishedAt": "2026-01-27T19:05:32Z"
+    },
+    {
+      "number": 23,
+      "title": "That Year, the City Felt Warm (6)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/23",
+      "premium": false,
+      "publishedAt": "2026-02-04T00:23:46Z"
+    },
+    {
+      "number": 24,
+      "title": "That Year, the City Felt Warm (7)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/24",
+      "premium": false,
+      "publishedAt": "2026-02-10T20:18:14Z"
+    },
+    {
+      "number": 25,
+      "title": "That Year, the City Felt Warm (8)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/25",
+      "premium": false,
+      "publishedAt": "2026-02-18T19:17:21Z"
+    },
+    {
+      "number": 26,
+      "title": "Ep. 03 That Year, the City Felt Warm (9)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/26",
+      "premium": false,
+      "publishedAt": "2026-02-24T14:38:35Z"
+    },
+    {
+      "number": 27,
+      "title": "Ep. 03 That Year, the City Felt Warm (10)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/27",
+      "premium": false,
+      "publishedAt": "2026-03-03T17:49:21Z"
+    },
+    {
+      "number": 28,
+      "title": "Ep. 03 That Year, the City Felt Warm (11)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/28",
+      "premium": false,
+      "publishedAt": "2026-03-10T23:12:21Z"
+    },
+    {
+      "number": 29,
+      "title": "Ep. 03 That Year, the City Felt Warm (12)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/29",
+      "premium": false,
+      "publishedAt": "2026-03-18T22:46:51Z"
+    },
+    {
+      "number": 30,
+      "title": "Ep. 03 That Year, the City Felt Warm (13) ",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/30",
+      "premium": false,
+      "publishedAt": "2026-04-02T06:14:03.103Z"
+    },
+    {
+      "number": 31,
+      "title": "Ep. 03 That Year, the City Felt Warm (14)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/31",
+      "premium": false,
+      "publishedAt": "2026-04-02T10:39:59.436Z"
+    },
+    {
+      "number": 32,
+      "title": "Ep. 03 That Year, the City Felt Warm (15)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/32",
+      "premium": false,
+      "publishedAt": "2026-04-08T20:48:21.977Z"
+    },
+    {
+      "number": 33,
+      "title": "Ep. 03 That Year, the City Felt Warm (16)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/33",
+      "premium": false,
+      "publishedAt": "2026-04-08T22:40:49.759Z"
+    },
+    {
+      "number": 34,
+      "title": "Ep. 03 That Year, the City Felt Warm (17)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/34",
+      "premium": false,
+      "publishedAt": "2026-04-09T00:30:40.869Z"
+    },
+    {
+      "number": 35,
+      "title": "Ep. 04 Johann's Choice (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/35",
+      "premium": false,
+      "publishedAt": "2026-04-17T19:59:14.779Z"
+    },
+    {
+      "number": 36,
+      "title": "Ep. 04. Johann’s Choice (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/36",
+      "premium": false,
+      "publishedAt": "2026-04-17T23:50:30.723Z"
+    },
+    {
+      "number": 37,
+      "title": "Ep. 04. Johann’s Choice (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/37",
+      "premium": false,
+      "publishedAt": "2026-04-23T23:39:11.844Z"
+    },
+    {
+      "number": 38,
+      "title": "Ep. 04. Johann’s Choice (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/38",
+      "premium": false,
+      "publishedAt": "2026-04-23T23:41:18.5Z"
+    },
+    {
+      "number": 39,
+      "title": "Ep. 04. Johann’s Choice (5)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/39",
+      "premium": false,
+      "publishedAt": "2026-04-27T21:30:54.083Z"
+    },
+    {
+      "number": 40,
+      "title": "Ep.04 Johann's Choice (6)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/40",
+      "premium": false,
+      "publishedAt": "2026-05-05T15:54:48.572Z"
+    },
+    {
+      "number": 41,
+      "title": "Ep.04 Johann's Choice (7)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/41",
+      "premium": false,
+      "publishedAt": "2026-05-11T18:01:45.838Z"
+    },
+    {
+      "number": 42,
+      "title": " Ep.05 People of House Abner (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/42",
+      "premium": false,
+      "publishedAt": "2026-05-18T16:39:02.218Z"
+    },
+    {
+      "number": 43,
+      "title": "Ep.05 People of House Abner (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/43",
+      "premium": false,
+      "publishedAt": "2026-05-25T23:54:55.545Z"
+    },
+    {
+      "number": 44,
+      "title": "Ep.05 People of House Abner (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/44",
+      "premium": false,
+      "publishedAt": "2026-06-01T19:03:24.506291Z"
+    },
+    {
+      "number": 45,
+      "title": "Ep.05 People of House Abner (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/45",
+      "premium": false,
+      "publishedAt": "2026-06-08T16:48:43.393945Z"
+    },
+    {
+      "number": 46,
+      "title": "Ep.05 People of House Abner (5)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/46",
+      "premium": false,
+      "publishedAt": "2026-06-15T16:45:45.401077Z"
+    },
+    {
+      "number": 47,
+      "title": "Ep.05 People of House Abner (6)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/47",
+      "premium": false,
+      "publishedAt": "2026-06-23T16:09:17.254151Z"
+    },
+    {
+      "number": 48,
+      "title": "Ep.05 People of House Abner (7)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/48",
+      "premium": false,
+      "publishedAt": "2026-06-29T18:04:33.152931Z"
+    },
+    {
+      "number": 49,
+      "title": "Ep.05 People of House Abner (8)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/49",
+      "premium": false,
+      "publishedAt": "2026-07-06T18:32:18.08882Z"
+    },
+    {
+      "number": 50,
+      "title": "Ep.05 People of House Abner (9)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/50",
+      "premium": false,
+      "publishedAt": "2026-07-13T20:19:37.886992Z"
+    },
+    {
+      "number": 51,
+      "title": " Ep.05 People of House Abner (10)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/51",
+      "premium": false,
+      "publishedAt": "2026-07-20T16:19:45.6219Z"
+    },
+    {
+      "number": 52,
+      "title": "Ep.05 People of House Abner (11)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/52",
+      "premium": false,
+      "publishedAt": "2026-07-27T18:57:29.184023Z"
+    },
+    {
+      "number": 53,
+      "title": "Ep.05 People of House Abner (12) ",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/53",
+      "premium": false,
+      "publishedAt": "2026-08-03T16:59:53.351927Z"
+    },
+    {
+      "number": 54,
+      "title": "5. People of House Abner (13)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/54",
+      "premium": false,
+      "publishedAt": "2026-08-10T16:24:45.032544Z"
+    },
+    {
+      "number": 55,
+      "title": "5. People of House Abner (14)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/55",
+      "premium": false,
+      "publishedAt": "2026-08-17T21:09:29.952304Z"
+    },
+    {
+      "number": 56,
+      "title": "Ep.06 Siege of Saint-Darge (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/56",
+      "premium": false,
+      "publishedAt": "2026-08-24T19:18:47.68583Z"
+    },
+    {
+      "number": 57,
+      "title": "Ep.06 Siege of Saint-Darge (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/57",
+      "premium": false,
+      "publishedAt": "2026-08-31T19:42:34.798422Z"
+    },
+    {
+      "number": 58,
+      "title": "Ep.06 Siege of Saint-Darge (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/58",
+      "premium": false,
+      "publishedAt": "2026-09-07T17:30:40.011147Z"
+    },
+    {
+      "number": 59,
+      "title": "Ep.06 Siege of Saint-Darge (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/59",
+      "premium": false,
+      "publishedAt": "2026-09-14T17:21:16.138661Z"
+    },
+    {
+      "number": 60,
+      "title": "Ep.06 Siege of Saint-Darge (5)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/60",
+      "premium": false,
+      "publishedAt": "2026-09-21T18:03:14.440775Z"
+    },
+    {
+      "number": 61,
+      "title": "Ep.06 Siege of Saint-Darge (6)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/61",
+      "premium": false,
+      "publishedAt": "2026-09-28T17:18:10.137608Z"
+    },
+    {
+      "number": 62,
+      "title": "Ep.06 The Siege of Saint-Darge (7)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/62",
+      "premium": false,
+      "publishedAt": "2026-10-06T15:41:19.611289Z"
+    },
+    {
+      "number": 63,
+      "title": "Ep.06 Siege of Saint-Darge (8)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/63",
+      "premium": false,
+      "publishedAt": "2026-10-12T20:56:50.654229Z"
+    },
+    {
+      "number": 64,
+      "title": "Ep.07 Winter of the Knights (1)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/64",
+      "premium": false,
+      "publishedAt": "2026-10-20T16:37:14.467114Z"
+    },
+    {
+      "number": 65,
+      "title": "Ep.07 Winter of the Knights (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/65",
+      "premium": false,
+      "publishedAt": "2026-10-27T04:15:18.784077Z"
+    },
+    {
+      "number": 66,
+      "title": "Ep.07 Winter of the Knights (3)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/66",
+      "premium": false,
+      "publishedAt": "2026-11-02T17:33:29.568765Z"
+    },
+    {
+      "number": 67,
+      "title": "Ep.07 Winter of the Knights (4)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/67",
+      "premium": false,
+      "publishedAt": "2026-11-10T12:46:01.554Z"
+    },
+    {
+      "number": 68,
+      "title": "Ep.08 Three Mages (2)",
+      "url": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/68",
+      "premium": false,
+      "publishedAt": "2026-11-16T16:42:35.713703Z"
+    }
+  ]
+}

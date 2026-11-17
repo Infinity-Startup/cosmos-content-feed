@@ -1,0 +1,48 @@
+{
+  "titleId": "asura-manhwa-infinite-titles",
+  "revision": 5,
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/1/490d16.webp?v=1792974910",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/1-auto-v5-3b50f0567549.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "a232578dad6d6694",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          32,
+          5143,
+          288,
+          5399
+        ],
+        "sourceSize": [
+          900,
+          15559
+        ],
+        "detectedFace": [
+          65.918,
+          5175.0,
+          187.427,
+          191.602
+        ],
+        "outsideFaceWhiteFraction": 0.028,
+        "largestWhiteRegion": 0.01067,
+        "sharpness": 863.35,
+        "reviewed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-im-gonna-annihilate-this-land",
+  "seriesUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7",
+  "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+  "chapterCount": 102,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2025-01-31T15:30:49Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2025-01-31T15:39:02Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2025-01-31T16:03:02Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2025-01-31T16:05:02Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2025-01-31T16:59:02Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2025-01-31T17:08:01Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2025-01-31T17:54:02Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2025-01-31T19:21:47Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2025-01-31T19:25:02Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2025-01-31T19:25:02Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2025-01-31T19:44:02Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/12",
+      "premium": false,
+      "publishedAt": "2025-01-31T20:36:02Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/13",
+      "premium": false,
+      "publishedAt": "2025-02-01T04:22:02Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/14",
+      "premium": false,
+      "publishedAt": "2025-02-01T04:26:02Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/15",
+      "premium": false,
+      "publishedAt": "2025-02-01T04:28:02Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/16",
+      "premium": false,
+      "publishedAt": "2025-02-01T04:31:01Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/17",
+      "premium": false,
+      "publishedAt": "2025-02-01T05:14:01Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/18",
+      "premium": false,
+      "publishedAt": "2025-02-01T07:08:02Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/19",
+      "premium": false,
+      "publishedAt": "2025-02-01T07:11:02Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/20",
+      "premium": false,
+      "publishedAt": "2025-02-01T07:14:02Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/21",
+      "premium": false,
+      "publishedAt": "2025-02-07T17:17:02Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/22",
+      "premium": false,
+      "publishedAt": "2025-02-14T14:35:02Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/23",
+      "premium": false,
+      "publishedAt": "2025-02-21T14:24:02Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/24",
+      "premium": false,
+      "publishedAt": "2025-03-02T12:59:02Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/25",
+      "premium": false,
+      "publishedAt": "2025-03-07T14:10:02Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/26",
+      "premium": false,
+      "publishedAt": "2025-03-14T14:10:03Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/27",
+      "premium": false,
+      "publishedAt": "2025-03-21T14:42:02Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/28",
+      "premium": false,
+      "publishedAt": "2025-03-28T14:17:02Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/29",
+      "premium": false,
+      "publishedAt": "2025-04-04T15:25:02Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/30",
+      "premium": false,
+      "publishedAt": "2025-04-11T16:13:02Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/31",
+      "premium": false,
+      "publishedAt": "2025-04-18T14:41:02Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/32",
+      "premium": false,
+      "publishedAt": "2025-04-25T15:10:02Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/33",
+      "premium": false,
+      "publishedAt": "2025-05-02T17:59:02Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/34",
+      "premium": false,
+      "publishedAt": "2025-05-09T14:08:01Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/35",
+      "premium": false,
+      "publishedAt": "2025-05-16T14:08:02Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/36",
+      "premium": false,
+      "publishedAt": "2025-05-23T14:05:02Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/37",
+      "premium": false,
+      "publishedAt": "2025-05-30T15:35:23Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/38",
+      "premium": false,
+      "publishedAt": "2025-06-06T14:17:22Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/39",
+      "premium": false,
+      "publishedAt": "2025-06-13T14:49:33Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/40",
+      "premium": false,
+      "publishedAt": "2025-06-20T15:16:02Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/41",
+      "premium": false,
+      "publishedAt": "2025-06-27T14:10:47Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/42",
+      "premium": false,
+      "publishedAt": "2025-07-04T14:24:38Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/43",
+      "premium": false,
+      "publishedAt": "2025-07-11T14:09:37Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/44",
+      "premium": false,
+      "publishedAt": "2025-07-18T14:45:52Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/45",
+      "premium": false,
+      "publishedAt": "2025-07-25T15:44:23Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/46",
+      "premium": false,
+      "publishedAt": "2025-08-01T20:22:46Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/47",
+      "premium": false,
+      "publishedAt": "2025-08-08T14:38:12Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/48",
+      "premium": false,
+      "publishedAt": "2025-08-15T14:51:29Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/49",
+      "premium": false,
+      "publishedAt": "2025-08-24T00:58:12Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/50",
+      "premium": false,
+      "publishedAt": "2025-08-29T21:15:12Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/51",
+      "premium": false,
+      "publishedAt": "2025-09-05T14:51:05Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/52",
+      "premium": false,
+      "publishedAt": "2025-09-12T14:14:22Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/53",
+      "premium": false,
+      "publishedAt": "2025-09-19T15:21:30Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/54",
+      "premium": false,
+      "publishedAt": "2025-09-26T16:55:12Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/55",
+      "premium": false,
+      "publishedAt": "2025-10-03T17:03:13Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/56",
+      "premium": false,
+      "publishedAt": "2025-10-11T14:32:21Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/57",
+      "premium": false,
+      "publishedAt": "2025-10-17T14:31:47Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/58",
+      "premium": false,
+      "publishedAt": "2025-10-24T19:50:15Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/59",
+      "premium": false,
+      "publishedAt": "2025-11-02T18:48:13Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/60",
+      "premium": false,
+      "publishedAt": "2025-11-09T23:41:49Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/61",
+      "premium": false,
+      "publishedAt": "2025-11-15T13:14:34Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/62",
+      "premium": false,
+      "publishedAt": "2025-11-23T22:34:16Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/63",
+      "premium": false,
+      "publishedAt": "2025-11-28T22:33:49Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/64",
+      "premium": false,
+      "publishedAt": "2025-12-06T00:33:14Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/65",
+      "premium": false,
+      "publishedAt": "2025-12-13T21:50:16Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/66",
+      "premium": false,
+      "publishedAt": "2025-12-21T01:25:14Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/67",
+      "premium": false,
+      "publishedAt": "2025-12-26T21:04:29Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/68",
+      "premium": false,
+      "publishedAt": "2026-01-04T14:37:16Z"
+    },
+    {
+      "number": 69,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/69",
+      "premium": false,
+      "publishedAt": "2026-01-13T12:14:47Z"
+    },
+    {
+      "number": 70,
+      "title": "S1 END",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/70",
+      "premium": false,
+      "publishedAt": "2026-01-17T20:53:17Z"
+    },
+    {
+      "number": 71,
+      "title": "S2 START",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/71",
+      "premium": false,
+      "publishedAt": "2026-04-21T00:49:34.956Z"
+    },
+    {
+      "number": 72,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/72",
+      "premium": false,
+      "publishedAt": "2026-04-21T00:50:04.753Z"
+    },
+    {
+      "number": 73,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/73",
+      "premium": false,
+      "publishedAt": "2026-04-25T15:21:14.479Z"
+    },
+    {
+      "number": 74,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/74",
+      "premium": false,
+      "publishedAt": "2026-05-02T10:56:18.924Z"
+    },
+    {
+      "number": 75,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/75",
+      "premium": false,
+      "publishedAt": "2026-05-10T12:31:42.333Z"
+    },
+    {
+      "number": 76,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/76",
+      "premium": false,
+      "publishedAt": "2026-05-15T20:51:58.559Z"
+    },
+    {
+      "number": 77,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/77",
+      "premium": false,
+      "publishedAt": "2026-05-22T23:00:22.804Z"
+    },
+    {
+      "number": 78,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/78",
+      "premium": false,
+      "publishedAt": "2026-05-31T14:24:43.196774Z"
+    },
+    {
+      "number": 79,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/79",
+      "premium": false,
+      "publishedAt": "2026-06-08T07:24:45.336861Z"
+    },
+    {
+      "number": 80,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/80",
+      "premium": false,
+      "publishedAt": "2026-06-14T03:05:44.99858Z"
+    },
+    {
+      "number": 81,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/81",
+      "premium": false,
+      "publishedAt": "2026-06-21T07:56:13.479269Z"
+    },
+    {
+      "number": 82,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/82",
+      "premium": false,
+      "publishedAt": "2026-06-27T22:47:01.383726Z"
+    },
+    {
+      "number": 83,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/83",
+      "premium": false,
+      "publishedAt": "2026-07-04T23:13:20.934131Z"
+    },
+    {
+      "number": 84,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/84",
+      "premium": false,
+      "publishedAt": "2026-07-12T01:10:09.532514Z"
+    },
+    {
+      "number": 85,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/85",
+      "premium": false,
+      "publishedAt": "2026-07-19T09:33:07.21361Z"
+    },
+    {
+      "number": 86,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/86",
+      "premium": false,
+      "publishedAt": "2026-07-26T04:22:05.404576Z"
+    },
+    {
+      "number": 87,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/87",
+      "premium": false,
+      "publishedAt": "2026-07-31T17:20:19.630912Z"
+    },
+    {
+      "number": 88,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/88",
+      "premium": false,
+      "publishedAt": "2026-08-09T00:10:36.221804Z"
+    },
+    {
+      "number": 89,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/89",
+      "premium": false,
+      "publishedAt": "2026-08-16T00:14:19.287209Z"
+    },
+    {
+      "number": 90,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/90",
+      "premium": false,
+      "publishedAt": "2026-08-22T23:29:41.94685Z"
+    },
+    {
+      "number": 91,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/91",
+      "premium": false,
+      "publishedAt": "2026-08-29T17:01:51.846204Z"
+    },
+    {
+      "number": 92,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/92",
+      "premium": false,
+      "publishedAt": "2026-09-05T21:47:08.160554Z"
+    },
+    {
+      "number": 93,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/93",
+      "premium": false,
+      "publishedAt": "2026-09-12T07:12:23.802282Z"
+    },
+    {
+      "number": 94,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/94",
+      "premium": false,
+      "publishedAt": "2026-09-19T19:02:37.59674Z"
+    },
+    {
+      "number": 95,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/95",
+      "premium": false,
+      "publishedAt": "2026-09-26T18:28:09.235673Z"
+    },
+    {
+      "number": 96,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/96",
+      "premium": false,
+      "publishedAt": "2026-10-03T19:56:50.8991Z"
+    },
+    {
+      "number": 97,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/97",
+      "premium": false,
+      "publishedAt": "2026-10-10T15:05:43.224959Z"
+    },
+    {
+      "number": 98,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/98",
+      "premium": false,
+      "publishedAt": "2026-10-17T19:00:01.995959Z"
+    },
+    {
+      "number": 99,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/99",
+      "premium": false,
+      "publishedAt": "2026-10-24T20:34:07.246794Z"
+    },
+    {
+      "number": 100,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/100",
+      "premium": false,
+      "publishedAt": "2026-10-31T19:41:14.203555Z"
+    },
+    {
+      "number": 101,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/101",
+      "premium": false,
+      "publishedAt": "2026-11-07T17:12:19.553816Z"
+    },
+    {
+      "number": 102,
+      "title": "",
+      "url": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/102",
+      "premium": false,
+      "publishedAt": "2026-11-15T00:21:10.677712Z"
+    }
+  ]
+}

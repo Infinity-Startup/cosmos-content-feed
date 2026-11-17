@@ -1,0 +1,927 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-breakers",
+  "seriesUrl": "https://asurascans.com/comics/breakers-7ba78ec7",
+  "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+  "chapterCount": 131,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Entrance #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:25:40Z"
+    },
+    {
+      "number": 2,
+      "title": " Entrance #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:25:32Z"
+    },
+    {
+      "number": 3,
+      "title": "Alliance #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:25:04Z"
+    },
+    {
+      "number": 4,
+      "title": " Alliance #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:24:13Z"
+    },
+    {
+      "number": 5,
+      "title": "Alliance #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:24:25Z"
+    },
+    {
+      "number": 6,
+      "title": " Rescue # 1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:23:38Z"
+    },
+    {
+      "number": 7,
+      "title": " Rescue # 2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:24:28Z"
+    },
+    {
+      "number": 8,
+      "title": "Rescue # 3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:19:40Z"
+    },
+    {
+      "number": 9,
+      "title": "Rescue # 4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:19:36Z"
+    },
+    {
+      "number": 10,
+      "title": "Awakening #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:19:21Z"
+    },
+    {
+      "number": 11,
+      "title": " Awakening #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:19:16Z"
+    },
+    {
+      "number": 12,
+      "title": " Awakening #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/12",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:17:50Z"
+    },
+    {
+      "number": 13,
+      "title": " Awakening #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/13",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:16:34Z"
+    },
+    {
+      "number": 14,
+      "title": "Awakening #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/14",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:16:13Z"
+    },
+    {
+      "number": 15,
+      "title": " Entrance #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/15",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:15:58Z"
+    },
+    {
+      "number": 16,
+      "title": "Entrance #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/16",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:27:34Z"
+    },
+    {
+      "number": 17,
+      "title": "Entrance #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/17",
+      "premium": false,
+      "publishedAt": "2025-09-29T15:08:18Z"
+    },
+    {
+      "number": 18,
+      "title": "Entrance #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/18",
+      "premium": false,
+      "publishedAt": "2025-09-29T16:01:18Z"
+    },
+    {
+      "number": 19,
+      "title": "Entrance #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/19",
+      "premium": false,
+      "publishedAt": "2025-10-02T17:41:14Z"
+    },
+    {
+      "number": 20,
+      "title": "Encounter #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/20",
+      "premium": false,
+      "publishedAt": "2025-10-06T15:38:22Z"
+    },
+    {
+      "number": 21,
+      "title": "Encounter #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/21",
+      "premium": false,
+      "publishedAt": "2025-10-09T18:32:34Z"
+    },
+    {
+      "number": 22,
+      "title": "Advent #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/22",
+      "premium": false,
+      "publishedAt": "2025-10-14T17:16:11Z"
+    },
+    {
+      "number": 23,
+      "title": "Advent #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/23",
+      "premium": false,
+      "publishedAt": "2025-10-17T18:59:17Z"
+    },
+    {
+      "number": 24,
+      "title": "Advent #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/24",
+      "premium": false,
+      "publishedAt": "2025-10-22T14:57:27Z"
+    },
+    {
+      "number": 25,
+      "title": "Advent #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/25",
+      "premium": false,
+      "publishedAt": "2025-10-24T13:12:43Z"
+    },
+    {
+      "number": 26,
+      "title": "Advent #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/26",
+      "premium": false,
+      "publishedAt": "2025-11-04T06:16:50Z"
+    },
+    {
+      "number": 27,
+      "title": "Excavation #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/27",
+      "premium": false,
+      "publishedAt": "2025-11-04T06:16:48Z"
+    },
+    {
+      "number": 28,
+      "title": "Excavation #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/28",
+      "premium": false,
+      "publishedAt": "2025-11-04T18:33:44Z"
+    },
+    {
+      "number": 29,
+      "title": "Excavation #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/29",
+      "premium": false,
+      "publishedAt": "2025-11-09T12:16:46Z"
+    },
+    {
+      "number": 30,
+      "title": "Excavation #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/30",
+      "premium": false,
+      "publishedAt": "2025-11-15T16:27:51Z"
+    },
+    {
+      "number": 31,
+      "title": "Excavation #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/31",
+      "premium": false,
+      "publishedAt": "2025-11-15T16:28:14Z"
+    },
+    {
+      "number": 32,
+      "title": "Excavation #6",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/32",
+      "premium": false,
+      "publishedAt": "2025-11-18T19:12:25Z"
+    },
+    {
+      "number": 33,
+      "title": "Shock #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/33",
+      "premium": false,
+      "publishedAt": "2025-11-21T20:55:14Z"
+    },
+    {
+      "number": 34,
+      "title": "Shock #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/34",
+      "premium": false,
+      "publishedAt": "2025-11-25T16:42:58Z"
+    },
+    {
+      "number": 35,
+      "title": "Breakthrough #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/35",
+      "premium": false,
+      "publishedAt": "2025-12-02T14:38:54Z"
+    },
+    {
+      "number": 36,
+      "title": "Breakthrough #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/36",
+      "premium": false,
+      "publishedAt": "2025-12-04T14:29:14Z"
+    },
+    {
+      "number": 37,
+      "title": "Breakthrough #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/37",
+      "premium": false,
+      "publishedAt": "2025-12-07T21:56:19Z"
+    },
+    {
+      "number": 38,
+      "title": "Breakthrough #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/38",
+      "premium": false,
+      "publishedAt": "2025-12-12T18:37:24Z"
+    },
+    {
+      "number": 39,
+      "title": "Breakthrough #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/39",
+      "premium": false,
+      "publishedAt": "2025-12-12T18:40:50Z"
+    },
+    {
+      "number": 40,
+      "title": "Breakthrough #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/40",
+      "premium": false,
+      "publishedAt": "2025-12-17T20:57:03Z"
+    },
+    {
+      "number": 41,
+      "title": "Sword Lord #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/41",
+      "premium": false,
+      "publishedAt": "2025-12-21T19:21:53Z"
+    },
+    {
+      "number": 42,
+      "title": "Sword Lord #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/42",
+      "premium": false,
+      "publishedAt": "2025-12-23T16:52:03Z"
+    },
+    {
+      "number": 43,
+      "title": "Sword Lord #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/43",
+      "premium": false,
+      "publishedAt": "2025-12-27T00:33:47Z"
+    },
+    {
+      "number": 44,
+      "title": "Legend #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/44",
+      "premium": false,
+      "publishedAt": "2025-12-30T16:45:12Z"
+    },
+    {
+      "number": 45,
+      "title": "Legend #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/45",
+      "premium": false,
+      "publishedAt": "2026-01-05T14:57:19Z"
+    },
+    {
+      "number": 46,
+      "title": "Legend #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/46",
+      "premium": false,
+      "publishedAt": "2026-01-06T23:08:57Z"
+    },
+    {
+      "number": 47,
+      "title": "Legend #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/47",
+      "premium": false,
+      "publishedAt": "2026-01-10T14:48:43Z"
+    },
+    {
+      "number": 48,
+      "title": "Royal Capital #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/48",
+      "premium": false,
+      "publishedAt": "2026-01-13T15:44:16Z"
+    },
+    {
+      "number": 49,
+      "title": "Flames #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/49",
+      "premium": false,
+      "publishedAt": "2026-01-16T16:35:31Z"
+    },
+    {
+      "number": 50,
+      "title": "Flames #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/50",
+      "premium": false,
+      "publishedAt": "2026-01-30T20:41:17Z"
+    },
+    {
+      "number": 51,
+      "title": "Flames #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/51",
+      "premium": false,
+      "publishedAt": "2026-01-30T19:09:10Z"
+    },
+    {
+      "number": 52,
+      "title": "Flames #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/52",
+      "premium": false,
+      "publishedAt": "2026-01-30T19:48:42Z"
+    },
+    {
+      "number": 53,
+      "title": "Flames #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/53",
+      "premium": false,
+      "publishedAt": "2026-01-30T20:40:46Z"
+    },
+    {
+      "number": 54,
+      "title": "Flame #6",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/54",
+      "premium": false,
+      "publishedAt": "2026-02-04T22:10:31Z"
+    },
+    {
+      "number": 55,
+      "title": "Omen #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/55",
+      "premium": false,
+      "publishedAt": "2026-02-11T22:31:38Z"
+    },
+    {
+      "number": 56,
+      "title": "Omen #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/56",
+      "premium": false,
+      "publishedAt": "2026-02-21T00:25:53Z"
+    },
+    {
+      "number": 57,
+      "title": "Assembly #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/57",
+      "premium": false,
+      "publishedAt": "2026-02-17T12:46:54Z"
+    },
+    {
+      "number": 58,
+      "title": "Assembly #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/58",
+      "premium": false,
+      "publishedAt": "2026-02-17T15:23:43Z"
+    },
+    {
+      "number": 59,
+      "title": "Test #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/59",
+      "premium": false,
+      "publishedAt": "2026-02-22T21:15:35Z"
+    },
+    {
+      "number": 60,
+      "title": "Test #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/60",
+      "premium": false,
+      "publishedAt": "2026-02-24T22:19:41Z"
+    },
+    {
+      "number": 61,
+      "title": "Test #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/61",
+      "premium": false,
+      "publishedAt": "2026-02-27T17:07:00Z"
+    },
+    {
+      "number": 62,
+      "title": "Auction #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/62",
+      "premium": false,
+      "publishedAt": "2026-03-11T12:08:58Z"
+    },
+    {
+      "number": 63,
+      "title": "Auction #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/63",
+      "premium": false,
+      "publishedAt": "2026-03-11T13:02:21Z"
+    },
+    {
+      "number": 64,
+      "title": "Auction #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/64",
+      "premium": false,
+      "publishedAt": "2026-03-11T14:26:31Z"
+    },
+    {
+      "number": 65,
+      "title": "Auction #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/65",
+      "premium": false,
+      "publishedAt": "2026-03-31T15:16:46.535Z"
+    },
+    {
+      "number": 66,
+      "title": "Auction #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/66",
+      "premium": false,
+      "publishedAt": "2026-03-31T15:55:40.765Z"
+    },
+    {
+      "number": 67,
+      "title": "Auction #6",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/67",
+      "premium": false,
+      "publishedAt": "2026-03-31T17:16:56.872Z"
+    },
+    {
+      "number": 68,
+      "title": "Change #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/68",
+      "premium": false,
+      "publishedAt": "2026-04-01T19:29:58.36Z"
+    },
+    {
+      "number": 69,
+      "title": "Change #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/69",
+      "premium": false,
+      "publishedAt": "2026-04-01T20:20:54.765Z"
+    },
+    {
+      "number": 70,
+      "title": "All-out Strike #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/70",
+      "premium": false,
+      "publishedAt": "2026-04-09T14:16:04.469Z"
+    },
+    {
+      "number": 71,
+      "title": "Barbarian #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/71",
+      "premium": false,
+      "publishedAt": "2026-04-09T15:13:08.657Z"
+    },
+    {
+      "number": 72,
+      "title": "Barbarian #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/72",
+      "premium": false,
+      "publishedAt": "2026-04-09T16:29:58.11Z"
+    },
+    {
+      "number": 73,
+      "title": "Dragon Heart #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/73",
+      "premium": false,
+      "publishedAt": "2026-04-10T22:02:40.776Z"
+    },
+    {
+      "number": 74,
+      "title": "Dragon Heart #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/74",
+      "premium": false,
+      "publishedAt": "2026-04-25T11:59:45.663Z"
+    },
+    {
+      "number": 75,
+      "title": "Dragon Heart #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/75",
+      "premium": false,
+      "publishedAt": "2026-04-27T08:58:04.081Z"
+    },
+    {
+      "number": 76,
+      "title": "Dragon Heart #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/76",
+      "premium": false,
+      "publishedAt": "2026-04-27T09:33:13.783Z"
+    },
+    {
+      "number": 77,
+      "title": "Dragon's Heart #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/77",
+      "premium": false,
+      "publishedAt": "2026-05-05T13:06:12.08Z"
+    },
+    {
+      "number": 78,
+      "title": "Dragon Heart #6",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/78",
+      "premium": false,
+      "publishedAt": "2026-05-05T13:06:49.214Z"
+    },
+    {
+      "number": 79,
+      "title": "Intersection #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/79",
+      "premium": false,
+      "publishedAt": "2026-05-05T13:08:24.622Z"
+    },
+    {
+      "number": 80,
+      "title": "Intersection #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/80",
+      "premium": false,
+      "publishedAt": "2026-05-07T16:28:50.909Z"
+    },
+    {
+      "number": 81,
+      "title": "Intersection #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/81",
+      "premium": false,
+      "publishedAt": "2026-05-09T11:50:47.166Z"
+    },
+    {
+      "number": 82,
+      "title": "Intersection #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/82",
+      "premium": false,
+      "publishedAt": "2026-05-12T20:41:54.475Z"
+    },
+    {
+      "number": 83,
+      "title": "Torrent #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/83",
+      "premium": false,
+      "publishedAt": "2026-05-14T20:10:22.295Z"
+    },
+    {
+      "number": 84,
+      "title": "Torrent #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/84",
+      "premium": false,
+      "publishedAt": "2026-05-18T16:45:29.035Z"
+    },
+    {
+      "number": 85,
+      "title": "Awakening #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/85",
+      "premium": false,
+      "publishedAt": "2026-05-21T17:33:59.015Z"
+    },
+    {
+      "number": 86,
+      "title": "Awakening #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/86",
+      "premium": false,
+      "publishedAt": "2026-05-26T14:01:23.136Z"
+    },
+    {
+      "number": 87,
+      "title": "Conquest #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/87",
+      "premium": false,
+      "publishedAt": "2026-05-30T12:15:08.713Z"
+    },
+    {
+      "number": 88,
+      "title": "Conquest #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/88",
+      "premium": false,
+      "publishedAt": "2026-06-03T13:27:35.170061Z"
+    },
+    {
+      "number": 89,
+      "title": "Conquest #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/89",
+      "premium": false,
+      "publishedAt": "2026-06-19T20:54:29.195415Z"
+    },
+    {
+      "number": 90,
+      "title": " Conquest #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/90",
+      "premium": false,
+      "publishedAt": "2026-06-25T16:04:58.561362Z"
+    },
+    {
+      "number": 91,
+      "title": "The Queen #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/91",
+      "premium": false,
+      "publishedAt": "2026-06-29T20:08:12.515841Z"
+    },
+    {
+      "number": 92,
+      "title": "Demon King #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/92",
+      "premium": false,
+      "publishedAt": "2026-06-29T20:10:24.674789Z"
+    },
+    {
+      "number": 93,
+      "title": "Demon King #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/93",
+      "premium": false,
+      "publishedAt": "2026-07-07T13:17:12.154063Z"
+    },
+    {
+      "number": 94,
+      "title": "Prelude #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/94",
+      "premium": false,
+      "publishedAt": "2026-07-07T13:17:46.248095Z"
+    },
+    {
+      "number": 95,
+      "title": "Prelude #2 ",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/95",
+      "premium": false,
+      "publishedAt": "2026-07-14T12:35:51.220773Z"
+    },
+    {
+      "number": 96,
+      "title": " Prelude #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/96",
+      "premium": false,
+      "publishedAt": "2026-07-14T12:36:05.360947Z"
+    },
+    {
+      "number": 97,
+      "title": "Prelude #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/97",
+      "premium": false,
+      "publishedAt": "2026-07-17T11:22:25.308296Z"
+    },
+    {
+      "number": 98,
+      "title": "Prelude #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/98",
+      "premium": false,
+      "publishedAt": "2026-07-21T09:27:09.820107Z"
+    },
+    {
+      "number": 99,
+      "title": " Escalation #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/99",
+      "premium": false,
+      "publishedAt": "2026-07-24T09:39:19.929427Z"
+    },
+    {
+      "number": 100,
+      "title": " Escalation #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/100",
+      "premium": false,
+      "publishedAt": "2026-07-28T10:12:42.155421Z"
+    },
+    {
+      "number": 101,
+      "title": "Overwhelming #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/101",
+      "premium": false,
+      "publishedAt": "2026-07-31T02:41:38.767874Z"
+    },
+    {
+      "number": 102,
+      "title": "Overwhelming #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/102",
+      "premium": false,
+      "publishedAt": "2026-08-04T11:00:45.483868Z"
+    },
+    {
+      "number": 103,
+      "title": "Giant #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/103",
+      "premium": false,
+      "publishedAt": "2026-08-07T13:27:55.90483Z"
+    },
+    {
+      "number": 104,
+      "title": "Giant #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/104",
+      "premium": false,
+      "publishedAt": "2026-08-11T12:43:18.897189Z"
+    },
+    {
+      "number": 105,
+      "title": "Giant #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/105",
+      "premium": false,
+      "publishedAt": "2026-08-14T12:06:16.884299Z"
+    },
+    {
+      "number": 106,
+      "title": "Transmission #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/106",
+      "premium": false,
+      "publishedAt": "2026-08-18T16:08:43.588566Z"
+    },
+    {
+      "number": 107,
+      "title": "Transmission #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/107",
+      "premium": false,
+      "publishedAt": "2026-08-21T13:07:03.899951Z"
+    },
+    {
+      "number": 108,
+      "title": " Gathering #1 ",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/108",
+      "premium": false,
+      "publishedAt": "2026-08-25T11:48:37.263337Z"
+    },
+    {
+      "number": 109,
+      "title": "Showdown #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/109",
+      "premium": false,
+      "publishedAt": "2026-08-28T11:59:34.286833Z"
+    },
+    {
+      "number": 110,
+      "title": "Showdown #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/110",
+      "premium": false,
+      "publishedAt": "2026-09-01T15:37:30.855282Z"
+    },
+    {
+      "number": 111,
+      "title": "Showdown #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/111",
+      "premium": false,
+      "publishedAt": "2026-09-05T06:23:50.698494Z"
+    },
+    {
+      "number": 112,
+      "title": "Showdown #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/112",
+      "premium": false,
+      "publishedAt": "2026-09-08T21:07:21.057Z"
+    },
+    {
+      "number": 113,
+      "title": "Showdown #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/113",
+      "premium": false,
+      "publishedAt": "2026-09-11T13:40:34.492502Z"
+    },
+    {
+      "number": 114,
+      "title": "Sanctuary #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/114",
+      "premium": false,
+      "publishedAt": "2026-09-15T12:17:49.475135Z"
+    },
+    {
+      "number": 115,
+      "title": "Joining Up #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/115",
+      "premium": false,
+      "publishedAt": "2026-09-18T21:05:16.74337Z"
+    },
+    {
+      "number": 116,
+      "title": "Departure #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/116",
+      "premium": false,
+      "publishedAt": "2026-09-22T16:15:54.722869Z"
+    },
+    {
+      "number": 117,
+      "title": "Departure #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/117",
+      "premium": false,
+      "publishedAt": "2026-09-26T14:40:17.69379Z"
+    },
+    {
+      "number": 118,
+      "title": "Wraith #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/118",
+      "premium": false,
+      "publishedAt": "2026-09-29T06:15:43.809141Z"
+    },
+    {
+      "number": 119,
+      "title": "Wraith #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/119",
+      "premium": false,
+      "publishedAt": "2026-10-04T21:27:08.213102Z"
+    },
+    {
+      "number": 120,
+      "title": "Wraith #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/120",
+      "premium": false,
+      "publishedAt": "2026-10-11T11:47:03.883332Z"
+    },
+    {
+      "number": 121,
+      "title": "Wraith #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/121",
+      "premium": false,
+      "publishedAt": "2026-10-11T12:13:38.870569Z"
+    },
+    {
+      "number": 122,
+      "title": "Wraith #5",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/122",
+      "premium": false,
+      "publishedAt": "2026-10-14T04:58:15.801389Z"
+    },
+    {
+      "number": 123,
+      "title": "Northern Region #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/123",
+      "premium": false,
+      "publishedAt": "2026-10-16T18:04:53.719573Z"
+    },
+    {
+      "number": 124,
+      "title": "Northern Region #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/124",
+      "premium": false,
+      "publishedAt": "2026-10-20T18:33:08.920208Z"
+    },
+    {
+      "number": 125,
+      "title": "Discovery #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/125",
+      "premium": false,
+      "publishedAt": "2026-10-25T15:37:59.595418Z"
+    },
+    {
+      "number": 126,
+      "title": "Discovery #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/126",
+      "premium": false,
+      "publishedAt": "2026-10-27T22:15:33.664818Z"
+    },
+    {
+      "number": 127,
+      "title": "Discovery #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/127",
+      "premium": false,
+      "publishedAt": "2026-10-31T00:03:06.628282Z"
+    },
+    {
+      "number": 128,
+      "title": "Raid #1",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/128",
+      "premium": false,
+      "publishedAt": "2026-11-03T15:50:53.544371Z"
+    },
+    {
+      "number": 129,
+      "title": "Raid #2",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/129",
+      "premium": false,
+      "publishedAt": "2026-11-07T10:14:39.929686Z"
+    },
+    {
+      "number": 130,
+      "title": "Raid #3",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/130",
+      "premium": false,
+      "publishedAt": "2026-11-10T17:33:52.941Z"
+    },
+    {
+      "number": 131,
+      "title": "Raid #4",
+      "url": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/131",
+      "premium": false,
+      "publishedAt": "2026-11-15T00:09:06.661688Z"
+    }
+  ]
+}

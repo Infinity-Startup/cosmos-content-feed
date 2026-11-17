@@ -1,0 +1,90 @@
+{
+  "titleId": "asura-manhwa-dukedoms-legendary-prodigy",
+  "revision": 5,
+  "previews": {
+    "0": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/0",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/0/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/0-auto-v5-ce30f1b1debc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "87207d91e07f66c9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          152,
+          164,
+          433,
+          445
+        ],
+        "sourceSize": [
+          1200,
+          800
+        ],
+        "detectedFace": [
+          185.083,
+          204.712,
+          215.771,
+          199.951
+        ],
+        "outsideFaceWhiteFraction": 0.02013,
+        "largestWhiteRegion": 0.0065,
+        "sharpness": 2012.76,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/1/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/1-auto-v5-90a69d782c49.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "d8447dcaa7d99618",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          240,
+          1876,
+          496,
+          2132
+        ],
+        "sourceSize": [
+          800,
+          14080
+        ],
+        "detectedFace": [
+          291.309,
+          1933.35,
+          154.102,
+          140.723
+        ],
+        "outsideFaceWhiteFraction": 0.02342,
+        "largestWhiteRegion": 0.01271,
+        "sharpness": 2101.26,
+        "reviewed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-dukedoms-legendary-prodigy",
+  "seriesUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7",
+  "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+  "chapterCount": 69,
+  "chapters": [
+    {
+      "number": 0,
+      "title": "Promo",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/0",
+      "premium": false,
+      "publishedAt": "2025-10-24T20:22:00Z"
+    },
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2025-10-31T13:18:07Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2025-10-31T14:52:53Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2025-10-31T21:07:27Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2025-10-31T15:43:32Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2025-10-31T14:59:39Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2025-10-31T15:26:35Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2025-10-31T20:16:19Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2025-10-31T15:49:45Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2025-10-31T22:58:48Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2025-10-31T21:08:44Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2025-10-31T20:59:52Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/12",
+      "premium": false,
+      "publishedAt": "2025-10-31T16:38:27Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/13",
+      "premium": false,
+      "publishedAt": "2025-10-31T16:39:43Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/14",
+      "premium": false,
+      "publishedAt": "2025-10-31T16:50:28Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/15",
+      "premium": false,
+      "publishedAt": "2025-10-31T17:16:31Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/16",
+      "premium": false,
+      "publishedAt": "2025-10-31T17:27:17Z"
+    },
+    {
+      "number": 17,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/17",
+      "premium": false,
+      "publishedAt": "2025-10-31T18:09:29Z"
+    },
+    {
+      "number": 18,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/18",
+      "premium": false,
+      "publishedAt": "2025-10-31T21:10:15Z"
+    },
+    {
+      "number": 19,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/19",
+      "premium": false,
+      "publishedAt": "2025-10-31T20:14:14Z"
+    },
+    {
+      "number": 20,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/20",
+      "premium": false,
+      "publishedAt": "2025-11-01T08:06:15Z"
+    },
+    {
+      "number": 21,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/21",
+      "premium": false,
+      "publishedAt": "2025-11-08T20:35:40Z"
+    },
+    {
+      "number": 22,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/22",
+      "premium": false,
+      "publishedAt": "2025-11-15T15:30:07Z"
+    },
+    {
+      "number": 23,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/23",
+      "premium": false,
+      "publishedAt": "2025-11-22T22:25:13Z"
+    },
+    {
+      "number": 24,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/24",
+      "premium": false,
+      "publishedAt": "2025-11-29T20:50:14Z"
+    },
+    {
+      "number": 25,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/25",
+      "premium": false,
+      "publishedAt": "2025-12-08T01:13:24Z"
+    },
+    {
+      "number": 26,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/26",
+      "premium": false,
+      "publishedAt": "2025-12-14T13:42:34Z"
+    },
+    {
+      "number": 27,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/27",
+      "premium": false,
+      "publishedAt": "2025-12-20T14:30:15Z"
+    },
+    {
+      "number": 28,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/28",
+      "premium": false,
+      "publishedAt": "2025-12-27T19:26:13Z"
+    },
+    {
+      "number": 29,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/29",
+      "premium": false,
+      "publishedAt": "2026-01-03T23:28:20Z"
+    },
+    {
+      "number": 30,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/30",
+      "premium": false,
+      "publishedAt": "2026-01-10T15:06:55Z"
+    },
+    {
+      "number": 31,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/31",
+      "premium": false,
+      "publishedAt": "2026-01-17T14:22:14Z"
+    },
+    {
+      "number": 32,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/32",
+      "premium": false,
+      "publishedAt": "2026-01-24T14:09:12Z"
+    },
+    {
+      "number": 33,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/33",
+      "premium": false,
+      "publishedAt": "2026-01-31T17:17:13Z"
+    },
+    {
+      "number": 34,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/34",
+      "premium": false,
+      "publishedAt": "2026-02-07T15:31:15Z"
+    },
+    {
+      "number": 35,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/35",
+      "premium": false,
+      "publishedAt": "2026-02-14T15:34:22Z"
+    },
+    {
+      "number": 36,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/36",
+      "premium": false,
+      "publishedAt": "2026-02-21T17:00:37Z"
+    },
+    {
+      "number": 37,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/37",
+      "premium": false,
+      "publishedAt": "2026-02-28T18:33:15Z"
+    },
+    {
+      "number": 38,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/38",
+      "premium": false,
+      "publishedAt": "2026-03-07T14:20:19Z"
+    },
+    {
+      "number": 39,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/39",
+      "premium": false,
+      "publishedAt": "2026-03-16T02:37:21Z"
+    },
+    {
+      "number": 40,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/40",
+      "premium": false,
+      "publishedAt": "2026-03-21T13:59:13.862Z"
+    },
+    {
+      "number": 41,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/41",
+      "premium": false,
+      "publishedAt": "2026-03-28T15:03:34.543Z"
+    },
+    {
+      "number": 42,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/42",
+      "premium": false,
+      "publishedAt": "2026-04-04T16:19:49.087Z"
+    },
+    {
+      "number": 43,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/43",
+      "premium": false,
+      "publishedAt": "2026-04-11T16:22:14.902Z"
+    },
+    {
+      "number": 44,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/44",
+      "premium": false,
+      "publishedAt": "2026-04-18T21:18:24.367Z"
+    },
+    {
+      "number": 45,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/45",
+      "premium": false,
+      "publishedAt": "2026-04-26T00:30:48.116Z"
+    },
+    {
+      "number": 46,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/46",
+      "premium": false,
+      "publishedAt": "2026-05-02T15:00:33.542Z"
+    },
+    {
+      "number": 47,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/47",
+      "premium": false,
+      "publishedAt": "2026-05-09T17:26:23.64Z"
+    },
+    {
+      "number": 48,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/48",
+      "premium": false,
+      "publishedAt": "2026-05-16T14:24:32.587Z"
+    },
+    {
+      "number": 49,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/49",
+      "premium": false,
+      "publishedAt": "2026-05-23T14:51:11.267Z"
+    },
+    {
+      "number": 50,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/50",
+      "premium": false,
+      "publishedAt": "2026-05-31T19:13:22.428842Z"
+    },
+    {
+      "number": 51,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/51",
+      "premium": false,
+      "publishedAt": "2026-06-08T11:49:09.306409Z"
+    },
+    {
+      "number": 52,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/52",
+      "premium": false,
+      "publishedAt": "2026-06-14T11:52:19.97143Z"
+    },
+    {
+      "number": 53,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/53",
+      "premium": false,
+      "publishedAt": "2026-06-21T16:26:55.279822Z"
+    },
+    {
+      "number": 54,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/54",
+      "premium": false,
+      "publishedAt": "2026-06-28T11:35:26.539157Z"
+    },
+    {
+      "number": 55,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/55",
+      "premium": false,
+      "publishedAt": "2026-07-05T15:10:42.591081Z"
+    },
+    {
+      "number": 56,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/56",
+      "premium": false,
+      "publishedAt": "2026-07-13T04:39:23.154156Z"
+    },
+    {
+      "number": 57,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/57",
+      "premium": false,
+      "publishedAt": "2026-07-19T18:16:44.834359Z"
+    },
+    {
+      "number": 58,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/58",
+      "premium": false,
+      "publishedAt": "2026-07-27T02:03:50.378456Z"
+    },
+    {
+      "number": 59,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/59",
+      "premium": false,
+      "publishedAt": "2026-08-02T21:00:25.809311Z"
+    },
+    {
+      "number": 60,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/60",
+      "premium": false,
+      "publishedAt": "2026-08-09T22:03:49.723795Z"
+    },
+    {
+      "number": 61,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/61",
+      "premium": false,
+      "publishedAt": "2026-08-16T05:18:21.550246Z"
+    },
+    {
+      "number": 62,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/62",
+      "premium": false,
+      "publishedAt": "2026-08-23T20:08:20.03935Z"
+    },
+    {
+      "number": 63,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/63",
+      "premium": false,
+      "publishedAt": "2026-08-30T08:16:37.236517Z"
+    },
+    {
+      "number": 64,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/64",
+      "premium": false,
+      "publishedAt": "2026-09-13T04:41:48.088247Z"
+    },
+    {
+      "number": 65,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/65",
+      "premium": false,
+      "publishedAt": "2026-09-20T12:08:23.963439Z"
+    },
+    {
+      "number": 66,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/66",
+      "premium": false,
+      "publishedAt": "2026-11-01T12:57:04.734923Z"
+    },
+    {
+      "number": 67,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/67",
+      "premium": false,
+      "publishedAt": "2026-11-08T06:57:39.981997Z"
+    },
+    {
+      "number": 68,
+      "title": "",
+      "url": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/68",
+      "premium": false,
+      "publishedAt": "2026-11-15T18:13:43.038023Z"
+    }
+  ]
+}

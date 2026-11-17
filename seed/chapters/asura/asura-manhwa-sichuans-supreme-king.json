@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-sichuans-supreme-king",
+  "seriesUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7",
+  "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+  "chapterCount": 53,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Demonic Artisan",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-01-09T17:28:53Z"
+    },
+    {
+      "number": 2,
+      "title": "An Old Grudge",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-01-09T16:34:18Z"
+    },
+    {
+      "number": 3,
+      "title": "The Sword Emperor and the Divine Physician",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-01-09T17:39:36Z"
+    },
+    {
+      "number": 4,
+      "title": "The Sichuan Tang Clan (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-01-09T19:35:34Z"
+    },
+    {
+      "number": 5,
+      "title": "Chapter 5. The Tang Clan of Sichuan (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-01-09T19:28:18Z"
+    },
+    {
+      "number": 6,
+      "title": "Divine Artifact Creation",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-01-09T23:18:13Z"
+    },
+    {
+      "number": 7,
+      "title": "Heavenly Weave and Heavenly Net",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2026-01-09T23:20:12Z"
+    },
+    {
+      "number": 8,
+      "title": "Punishment",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2026-01-21T19:14:03Z"
+    },
+    {
+      "number": 9,
+      "title": "Family",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2026-01-24T19:28:32Z"
+    },
+    {
+      "number": 10,
+      "title": "Emei Sect",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2026-01-24T19:29:28Z"
+    },
+    {
+      "number": 11,
+      "title": "Misunderstandings Bring About Fighting",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2026-01-31T14:48:30Z"
+    },
+    {
+      "number": 12,
+      "title": "The Sweet Price of Sin",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/12",
+      "premium": false,
+      "publishedAt": "2026-02-08T17:37:18Z"
+    },
+    {
+      "number": 13,
+      "title": "Due Punishment (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/13",
+      "premium": false,
+      "publishedAt": "2026-02-17T04:12:16Z"
+    },
+    {
+      "number": 14,
+      "title": "Due Punishment (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/14",
+      "premium": false,
+      "publishedAt": "2026-02-17T17:19:18Z"
+    },
+    {
+      "number": 15,
+      "title": "Pursuit",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/15",
+      "premium": false,
+      "publishedAt": "2026-02-22T02:43:56Z"
+    },
+    {
+      "number": 16,
+      "title": "Poison Demon",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/16",
+      "premium": false,
+      "publishedAt": "2026-03-01T19:38:13Z"
+    },
+    {
+      "number": 17,
+      "title": "The Bond of Atonement (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/17",
+      "premium": false,
+      "publishedAt": "2026-03-07T19:33:18Z"
+    },
+    {
+      "number": 18,
+      "title": "The Bond of Atonement (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/18",
+      "premium": false,
+      "publishedAt": "2026-04-06T01:12:44.036Z"
+    },
+    {
+      "number": 19,
+      "title": "Divine Poison Energy",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/19",
+      "premium": false,
+      "publishedAt": "2026-04-07T21:51:22.087Z"
+    },
+    {
+      "number": 20,
+      "title": "The Emerald Dragon of the Tang Clan",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/20",
+      "premium": false,
+      "publishedAt": "2026-04-07T21:51:44.836Z"
+    },
+    {
+      "number": 21,
+      "title": "A New Phase",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/21",
+      "premium": false,
+      "publishedAt": "2026-04-07T21:52:35.943Z"
+    },
+    {
+      "number": 22,
+      "title": "Brother and Sister",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/22",
+      "premium": false,
+      "publishedAt": "2026-04-21T00:50:11.001Z"
+    },
+    {
+      "number": 23,
+      "title": "Advisor Yeo Seon",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/23",
+      "premium": false,
+      "publishedAt": "2026-04-21T22:48:02.557Z"
+    },
+    {
+      "number": 24,
+      "title": "Myriad Insight Instructor",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/24",
+      "premium": false,
+      "publishedAt": "2026-05-05T18:51:13.632Z"
+    },
+    {
+      "number": 25,
+      "title": "My People",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/25",
+      "premium": false,
+      "publishedAt": "2026-05-05T18:52:03.424Z"
+    },
+    {
+      "number": 26,
+      "title": "Friendly Duel (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/26",
+      "premium": false,
+      "publishedAt": "2026-05-10T01:18:34.23Z"
+    },
+    {
+      "number": 27,
+      "title": "Friendly Duel (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/27",
+      "premium": false,
+      "publishedAt": "2026-05-15T20:45:44.506Z"
+    },
+    {
+      "number": 28,
+      "title": "Immortal Crippler",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/28",
+      "premium": false,
+      "publishedAt": "2026-05-22T19:47:01.251Z"
+    },
+    {
+      "number": 29,
+      "title": "Assassin, Mu Myeong",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/29",
+      "premium": false,
+      "publishedAt": "2026-05-31T10:36:18.614553Z"
+    },
+    {
+      "number": 30,
+      "title": "Assassin, Mu Myeong (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/30",
+      "premium": false,
+      "publishedAt": "2026-06-07T19:13:49.2844Z"
+    },
+    {
+      "number": 31,
+      "title": "Blood Cult",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/31",
+      "premium": false,
+      "publishedAt": "2026-06-13T14:30:06.267555Z"
+    },
+    {
+      "number": 32,
+      "title": "A Talent that Stands Out",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/32",
+      "premium": false,
+      "publishedAt": "2026-06-20T07:25:16.91951Z"
+    },
+    {
+      "number": 33,
+      "title": "Murim Alliance",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/33",
+      "premium": false,
+      "publishedAt": "2026-06-27T20:53:26.42338Z"
+    },
+    {
+      "number": 34,
+      "title": "Beggars Sect",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/34",
+      "premium": false,
+      "publishedAt": "2026-07-04T15:32:43.038812Z"
+    },
+    {
+      "number": 35,
+      "title": "Friend",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/35",
+      "premium": false,
+      "publishedAt": "2026-07-12T00:00:25.109962Z"
+    },
+    {
+      "number": 36,
+      "title": "Murim Alliance Forge",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/36",
+      "premium": false,
+      "publishedAt": "2026-07-19T08:58:26.575731Z"
+    },
+    {
+      "number": 37,
+      "title": "Soaring",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/37",
+      "premium": false,
+      "publishedAt": "2026-07-26T04:16:25.636Z"
+    },
+    {
+      "number": 38,
+      "title": "A Late Introduction ",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/38",
+      "premium": false,
+      "publishedAt": "2026-07-31T19:18:07.780803Z"
+    },
+    {
+      "number": 39,
+      "title": "Crack",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/39",
+      "premium": false,
+      "publishedAt": "2026-08-08T15:08:39.985897Z"
+    },
+    {
+      "number": 40,
+      "title": "The Kaifeng Blood Disaster ",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/40",
+      "premium": false,
+      "publishedAt": "2026-08-16T01:37:07.135693Z"
+    },
+    {
+      "number": 41,
+      "title": "Enemy Attack",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/41",
+      "premium": false,
+      "publishedAt": "2026-08-22T19:47:40.292776Z"
+    },
+    {
+      "number": 42,
+      "title": "Nine Dragons and Four Phoenixes",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/42",
+      "premium": false,
+      "publishedAt": "2026-08-29T15:32:22.495616Z"
+    },
+    {
+      "number": 43,
+      "title": "Condemnation (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/43",
+      "premium": false,
+      "publishedAt": "2026-09-05T12:53:47.191273Z"
+    },
+    {
+      "number": 44,
+      "title": "Condemnation (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/44",
+      "premium": false,
+      "publishedAt": "2026-09-12T15:24:22.101658Z"
+    },
+    {
+      "number": 45,
+      "title": "Condemnation (3)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/45",
+      "premium": false,
+      "publishedAt": "2026-09-20T05:30:31.754319Z"
+    },
+    {
+      "number": 46,
+      "title": "Quad-Severing Wise Monarch",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/46",
+      "premium": false,
+      "publishedAt": "2026-09-26T16:04:26.389752Z"
+    },
+    {
+      "number": 47,
+      "title": "Divine Monk (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/47",
+      "premium": false,
+      "publishedAt": "2026-10-06T15:27:29.851642Z"
+    },
+    {
+      "number": 48,
+      "title": "Divine Monk (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/48",
+      "premium": false,
+      "publishedAt": "2026-10-11T03:43:08.363484Z"
+    },
+    {
+      "number": 49,
+      "title": "General Assembly (1)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/49",
+      "premium": false,
+      "publishedAt": "2026-10-17T17:47:54.91243Z"
+    },
+    {
+      "number": 50,
+      "title": "General Assembly (2)",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/50",
+      "premium": false,
+      "publishedAt": "2026-10-24T20:01:56.235629Z"
+    },
+    {
+      "number": 51,
+      "title": "Dialogue",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/51",
+      "premium": false,
+      "publishedAt": "2026-10-31T15:32:37.822161Z"
+    },
+    {
+      "number": 52,
+      "title": "Rebirth",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/52",
+      "premium": false,
+      "publishedAt": "2026-11-11T14:26:56.594897Z"
+    },
+    {
+      "number": 53,
+      "title": "Divine Artifact",
+      "url": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/53",
+      "premium": false,
+      "publishedAt": "2026-11-16T14:30:52.72573Z"
+    }
+  ]
+}
