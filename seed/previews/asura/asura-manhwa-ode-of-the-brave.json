@@ -85,6 +85,300 @@
         "sharpness": 4185.91,
         "reviewed": true
       }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/1/a877c7.webp?v=1789833794",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/1-portrait-v5-2daf9efef31d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "d475ebca991b4258",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          179,
+          13428,
+          505,
+          13754
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          229.724,
+          13465.283,
+          224.341,
+          250.488
+        ],
+        "outsideFaceWhiteFraction": 0.02058,
+        "largestWhiteRegion": 0.01018,
+        "sharpness": 2847.42,
+        "reviewed": true
+      }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/2/6e7c4d.webp?v=1792696410",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/2-portrait-v5-0e0fd72ed7cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "d1816ae782eb331e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          555,
+          6953,
+          811,
+          7209
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          586.89,
+          6988.623,
+          192.041,
+          185.449
+        ],
+        "outsideFaceWhiteFraction": 0.00212,
+        "largestWhiteRegion": 0.00056,
+        "sharpness": 2892.05,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/3/af79f1.webp?v=1792698696",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/3-portrait-v5-cf9be76f55d1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "90a70bb21fc66f19",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          123,
+          5578,
+          526,
+          5981
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          173.914,
+          5624.011,
+          302.124,
+          310.034
+        ],
+        "outsideFaceWhiteFraction": 0.00053,
+        "largestWhiteRegion": 0.00031,
+        "sharpness": 4424.27,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/4/7b62db.webp?v=1792698914",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/4-portrait-v5-9bd11e6a575f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "80392ce365db769c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          230,
+          12389,
+          684,
+          12843
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          282.239,
+          12448.828,
+          349.585,
+          333.984
+        ],
+        "outsideFaceWhiteFraction": 0.00029,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 3698.21,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/5/a28b8e.webp?v=1791319939",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/5-portrait-v5-d0a9a62ea203.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "97f177c2309ce415",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          381,
+          9766,
+          689,
+          10074
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          416.821,
+          9811.89,
+          236.865,
+          215.771
+        ],
+        "outsideFaceWhiteFraction": 0.01117,
+        "largestWhiteRegion": 0.01074,
+        "sharpness": 2691.9,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/6/4264cc.webp?v=1789836099",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/6-portrait-v5-b5ca95c89e54.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "c0952e8636cb636f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          341,
+          14058,
+          638,
+          14355
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          388.257,
+          14091.943,
+          203.467,
+          228.516
+        ],
+        "outsideFaceWhiteFraction": 0.0036,
+        "largestWhiteRegion": 0.00359,
+        "sharpness": 2436.4,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/ode-of-the-brave/7/4a8b8a.webp?v=1790572682",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-ode-of-the-brave/7-portrait-v5-6a87a8cb4571.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "dc22388fe1746778",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          242,
+          5025,
+          498,
+          5281
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          277.625,
+          5054.919,
+          184.79,
+          195.776
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1293.74,
+        "reviewed": true
+      }
     }
   }
 }

@@ -43,6 +43,132 @@
         "sharpness": 3007.79,
         "reviewed": true
       }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/im-gonna-annihilate-this-land/2/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-im-gonna-annihilate-this-land/2-portrait-v5-e97b0d8bf705.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "969d3ac49a5a691b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          158,
+          11671,
+          456,
+          11969
+        ],
+        "sourceSize": [
+          800,
+          13788
+        ],
+        "detectedFace": [
+          196.094,
+          11690.723,
+          222.656,
+          259.18
+        ],
+        "outsideFaceWhiteFraction": 0.04987,
+        "largestWhiteRegion": 0.01694,
+        "sharpness": 4329.35,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/im-gonna-annihilate-this-land/6/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-im-gonna-annihilate-this-land/6-portrait-v5-7172636efd7e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "db3668fac48d9314",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          425,
+          10899,
+          725,
+          11199
+        ],
+        "sourceSize": [
+          800,
+          11950
+        ],
+        "detectedFace": [
+          486.328,
+          10933.105,
+          215.625,
+          231.055
+        ],
+        "outsideFaceWhiteFraction": 0.0531,
+        "largestWhiteRegion": 0.00635,
+        "sharpness": 4634.28,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/im-gonna-annihilate-this-land/7/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-im-gonna-annihilate-this-land/7-portrait-v5-cee34a6a2356.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "84d62cdbb7a9b02c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          414,
+          10896,
+          670,
+          11152
+        ],
+        "sourceSize": [
+          800,
+          12605
+        ],
+        "detectedFace": [
+          458.008,
+          10945.117,
+          168.359,
+          184.375
+        ],
+        "outsideFaceWhiteFraction": 0.02496,
+        "largestWhiteRegion": 0.01495,
+        "sharpness": 4604.1,
+        "reviewed": true
+      }
     }
   }
 }

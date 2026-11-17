@@ -1,5 +1,48 @@
 {
   "titleId": "asura-manhwa-rebirth-of-the-divine-demon",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/1/014.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/1-portrait-v5-0ea2ac2f6541.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "83373cc3c14f339c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          124,
+          6582,
+          380,
+          6838
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          181.25,
+          6645.996,
+          142.188,
+          148.047
+        ],
+        "outsideFaceWhiteFraction": 0.01459,
+        "largestWhiteRegion": 0.0144,
+        "sharpness": 809.22,
+        "reviewed": true
+      }
+    }
+  }
 }

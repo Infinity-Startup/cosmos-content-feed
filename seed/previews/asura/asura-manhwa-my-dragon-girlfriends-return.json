@@ -1,5 +1,48 @@
 {
   "titleId": "asura-manhwa-my-dragon-girlfriends-return",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/1/b0a873.webp?v=1791551717",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/1-portrait-v5-b21f544220af.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "92296ba6d4998e37",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          104,
+          8122,
+          360,
+          8378
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          156.665,
+          8169.214,
+          151.611,
+          162.378
+        ],
+        "outsideFaceWhiteFraction": 0.00882,
+        "largestWhiteRegion": 0.00575,
+        "sharpness": 1828.16,
+        "reviewed": true
+      }
+    }
+  }
 }

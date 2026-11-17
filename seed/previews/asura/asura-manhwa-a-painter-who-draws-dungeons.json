@@ -1,5 +1,342 @@
 {
   "titleId": "asura-manhwa-a-painter-who-draws-dungeons",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/2/bf744f.webp?v=1783816036",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/2-portrait-v5-b210d22d39b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "aa423c87b10fe35b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          353,
+          3940,
+          633,
+          4220
+        ],
+        "sourceSize": [
+          1280,
+          10445
+        ],
+        "detectedFace": [
+          385.312,
+          3976.484,
+          215.625,
+          207.031
+        ],
+        "outsideFaceWhiteFraction": 0.0361,
+        "largestWhiteRegion": 0.00548,
+        "sharpness": 3350.73,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/1/bd4f7b.webp?v=1783776033",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/1-portrait-v5-f3531ba1d363.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "95602b8f0594f7f1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          219,
+          4105,
+          481,
+          4367
+        ],
+        "sourceSize": [
+          900,
+          13965
+        ],
+        "detectedFace": [
+          249.17,
+          4144.482,
+          201.27,
+          183.252
+        ],
+        "outsideFaceWhiteFraction": 0.00192,
+        "largestWhiteRegion": 0.00102,
+        "sharpness": 2522.89,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/3/ca245c.webp?v=1787540224",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/3-portrait-v5-c5274939b09b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "df1c0d8d4a5a78a9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          573,
+          5938,
+          917,
+          6282
+        ],
+        "sourceSize": [
+          1280,
+          9265
+        ],
+        "detectedFace": [
+          646.875,
+          5977.5,
+          196.25,
+          265.0
+        ],
+        "outsideFaceWhiteFraction": 0.00102,
+        "largestWhiteRegion": 0.00029,
+        "sharpness": 2765.43,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/4/4d7bd1.webp?v=1783932145",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/4-portrait-v5-cdd6ff63bfc1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "a9797cd8f5836103",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          211,
+          8157,
+          467,
+          8413
+        ],
+        "sourceSize": [
+          900,
+          13450
+        ],
+        "detectedFace": [
+          253.894,
+          8203.711,
+          169.849,
+          162.378
+        ],
+        "outsideFaceWhiteFraction": 0.02116,
+        "largestWhiteRegion": 0.0076,
+        "sharpness": 1967.31,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/5/419370.webp?v=1783877179",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/5-portrait-v5-04319bc7e1c3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "8a2e4cd87114abdf",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          256,
+          4758,
+          520,
+          5022
+        ],
+        "sourceSize": [
+          900,
+          14560
+        ],
+        "detectedFace": [
+          286.853,
+          4790.039,
+          202.808,
+          200.171
+        ],
+        "outsideFaceWhiteFraction": 0.01765,
+        "largestWhiteRegion": 0.00909,
+        "sharpness": 810.94,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/6/239fba.webp?v=1783795165",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/6-portrait-v5-15ebd223c58d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "8a4a68b73732627e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          252,
+          2960,
+          508,
+          3216
+        ],
+        "sourceSize": [
+          900,
+          14000
+        ],
+        "detectedFace": [
+          291.577,
+          3003.662,
+          149.854,
+          168.75
+        ],
+        "outsideFaceWhiteFraction": 0.04025,
+        "largestWhiteRegion": 0.01353,
+        "sharpness": 1050.83,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/7/9cd81f.webp?v=1783795188",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/7-portrait-v5-fd5a2381c546.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8643,
+        "faceHash": "c76e2987e20c7b1c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          348,
+          7652,
+          604,
+          7908
+        ],
+        "sourceSize": [
+          900,
+          14000
+        ],
+        "detectedFace": [
+          388.806,
+          7681.531,
+          174.243,
+          197.095
+        ],
+        "outsideFaceWhiteFraction": 0.0024,
+        "largestWhiteRegion": 0.00146,
+        "sharpness": 1599.75,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/8/afc927.webp?v=1783875297",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/8-portrait-v5-b57603496557.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "d20e6178cf2dac33",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          156,
+          196,
+          412,
+          452
+        ],
+        "sourceSize": [
+          900,
+          14000
+        ],
+        "detectedFace": [
+          177.155,
+          236.206,
+          213.464,
+          204.785
+        ],
+        "outsideFaceWhiteFraction": 0.01559,
+        "largestWhiteRegion": 0.01382,
+        "sharpness": 655.41,
+        "reviewed": true
+      }
+    }
+  }
 }

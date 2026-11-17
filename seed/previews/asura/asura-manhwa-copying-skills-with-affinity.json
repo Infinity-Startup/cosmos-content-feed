@@ -43,6 +43,216 @@
         "sharpness": 1816.11,
         "reviewed": true
       }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/2/3c5807.webp?v=1791707088",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/2-portrait-v5-042c8e5111ac.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8799,
+        "faceHash": "c653699bb41c66b1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          314,
+          7223,
+          573,
+          7482
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          347.498,
+          7252.734,
+          191.821,
+          199.512
+        ],
+        "outsideFaceWhiteFraction": 0.02225,
+        "largestWhiteRegion": 0.00641,
+        "sharpness": 1840.16,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/3/1bd855.webp?v=1791707099",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/3-portrait-v5-67058c376d8d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "cc3331c336cd19bc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          208,
+          15565,
+          530,
+          15887
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          272.461,
+          15601.855,
+          192.92,
+          247.852
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1024.38,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/4/46dc62.webp?v=1791707106",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/4-portrait-v5-bcd40402cd8b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "9fa57c8a339a32a8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          208,
+          820,
+          551,
+          1163
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          246.973,
+          868.909,
+          264.111,
+          245.435
+        ],
+        "outsideFaceWhiteFraction": 0.01103,
+        "largestWhiteRegion": 0.00653,
+        "sharpness": 3743.72,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/5/da15f9.webp?v=1791707113",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/5-portrait-v5-829b020b8e34.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "8a5571c3744cd3b6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          212,
+          12122,
+          468,
+          12378
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          250.378,
+          12159.558,
+          178.638,
+          180.725
+        ],
+        "outsideFaceWhiteFraction": 0.00909,
+        "largestWhiteRegion": 0.00694,
+        "sharpness": 1648.96,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/7/da1f71.webp?v=1791707127",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/7-portrait-v5-5f5f3638e2fa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "ca353f93606473a6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          170,
+          10206,
+          512,
+          10548
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          209.509,
+          10246.509,
+          263.452,
+          261.914
+        ],
+        "outsideFaceWhiteFraction": 0.02969,
+        "largestWhiteRegion": 0.01517,
+        "sharpness": 1610.1,
+        "reviewed": true
+      }
     }
   }
 }
