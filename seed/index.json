@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T04:34:28.190671+00:00",
+  "checkedAt": "2026-11-17T08:46:05.244952+00:00",
   "titles": {
     "asura-manhwa-the-regressor-and-the-blind-saint": {
       "seriesUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7",
@@ -239,27 +239,6 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-14T19:58:19.809857Z"
-    },
-    "asura-manhwa-estate-developer": {
-      "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
-      "chapterCount": 223,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-03-19T01:28:20Z"
-    },
-    "asura-manhwa-infinite-mage": {
-      "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
-      "chapterCount": 193,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T15:55:05.346Z"
-    },
-    "asura-manhwa-nano-machine": {
-      "seriesUrl": "https://asurascans.com/comics/nano-machine-bd5bdaf8",
-      "chapterCount": 337,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-05T04:42:20.425701Z"
     },
     "asura-manhwa-absolute-sword-sense": {
       "seriesUrl": "https://asurascans.com/comics/absolute-sword-sense-bd5bdaf8",
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-13T07:04:53.333793Z"
+    },
+    "asura-manhwa-estate-developer": {
+      "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
+      "chapterCount": 223,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-03-19T01:28:20Z"
+    },
+    "asura-manhwa-infinite-mage": {
+      "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
+      "chapterCount": 193,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T15:55:05.346Z"
+    },
+    "asura-manhwa-nano-machine": {
+      "seriesUrl": "https://asurascans.com/comics/nano-machine-bd5bdaf8",
+      "chapterCount": 337,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T04:42:20.425701Z"
     }
   }
 }
