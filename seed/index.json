@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T08:46:05.244952+00:00",
+  "checkedAt": "2026-11-17T08:50:44.897556+00:00",
   "titles": {
-    "asura-manhwa-the-regressor-and-the-blind-saint": {
-      "seriesUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7",
-      "chapterCount": 26,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-10T15:56:43.667Z"
-    },
-    "asura-manhwa-copying-skills-with-affinity": {
-      "seriesUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7",
-      "chapterCount": 14,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-13T20:41:44.435383Z"
-    },
-    "asura-manhwa-solo-swordmaster": {
-      "seriesUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7",
-      "chapterCount": 26,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T18:49:36.467Z"
-    },
     "asura-manhwa-my-dragon-girlfriends-return": {
       "seriesUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7",
       "chapterCount": 13,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-05T04:42:20.425701Z"
+    },
+    "asura-manhwa-the-regressor-and-the-blind-saint": {
+      "seriesUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7",
+      "chapterCount": 26,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-10T15:56:43.667Z"
+    },
+    "asura-manhwa-copying-skills-with-affinity": {
+      "seriesUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7",
+      "chapterCount": 14,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T20:41:44.435383Z"
+    },
+    "asura-manhwa-solo-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7",
+      "chapterCount": 26,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T18:49:36.467Z"
     }
   }
 }
