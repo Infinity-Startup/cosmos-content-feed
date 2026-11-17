@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-blade-of-the-discarded",
+  "seriesUrl": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7",
+  "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+  "chapterCount": 8,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-10-27T15:39:34.034229Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-10-27T15:39:54.496472Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-10-27T15:40:35.639852Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-10-27T16:33:40.700162Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-10-27T16:33:57.65793Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-10-27T16:57:30.738734Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2026-11-03T18:36:44.96889Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2026-11-12T11:27:21.041708Z"
+    }
+  ]
+}

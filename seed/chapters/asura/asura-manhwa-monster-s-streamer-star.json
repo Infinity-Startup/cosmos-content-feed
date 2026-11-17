@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-monster-s-streamer-star",
+  "seriesUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7",
+  "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+  "chapterCount": 11,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-10-19T18:55:55.011453Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-10-19T18:56:38.51052Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-10-19T18:57:25.537938Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-10-19T18:58:07.919434Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-10-19T18:58:51.399317Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-10-19T18:59:33.484649Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2026-10-19T19:00:16.060875Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2026-10-19T20:55:30.282847Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2026-10-27T00:25:20.419725Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2026-11-02T21:45:45.305769Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2026-11-10T12:46:21.69Z"
+    }
+  ]
+}

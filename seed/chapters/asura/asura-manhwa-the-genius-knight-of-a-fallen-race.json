@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-the-genius-knight-of-a-fallen-race",
+  "seriesUrl": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7",
+  "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+  "chapterCount": 8,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-10-24T15:20:33.867178Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-10-24T23:58:17.4361Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-10-25T00:54:28.315614Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-10-25T00:54:53.723974Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-10-25T01:07:50.809514Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-10-25T01:08:39.125211Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2026-11-01T07:11:29.643799Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2026-11-08T13:41:21.520574Z"
+    }
+  ]
+}

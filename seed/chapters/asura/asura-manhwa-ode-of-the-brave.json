@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "provider": "asura",
+  "titleId": "asura-manhwa-ode-of-the-brave",
+  "seriesUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7",
+  "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+  "chapterCount": 18,
+  "chapters": [
+    {
+      "number": 0,
+      "title": "(Promo Chapter)",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/0",
+      "premium": false,
+      "publishedAt": "2026-09-16T05:36:00.559125Z"
+    },
+    {
+      "number": 0.5,
+      "title": "{Must Read}",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/0.5",
+      "premium": false,
+      "publishedAt": "2026-09-19T15:59:37.963636Z"
+    },
+    {
+      "number": 1,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/1",
+      "premium": false,
+      "publishedAt": "2026-09-19T16:00:20.923925Z"
+    },
+    {
+      "number": 2,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/2",
+      "premium": false,
+      "publishedAt": "2026-09-19T16:01:07.916135Z"
+    },
+    {
+      "number": 3,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/3",
+      "premium": false,
+      "publishedAt": "2026-09-19T16:01:53.959563Z"
+    },
+    {
+      "number": 4,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/4",
+      "premium": false,
+      "publishedAt": "2026-09-19T16:02:32.928197Z"
+    },
+    {
+      "number": 5,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/5",
+      "premium": false,
+      "publishedAt": "2026-09-19T16:03:15.745969Z"
+    },
+    {
+      "number": 6,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/6",
+      "premium": false,
+      "publishedAt": "2026-09-19T16:39:28.311205Z"
+    },
+    {
+      "number": 7,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/7",
+      "premium": false,
+      "publishedAt": "2026-09-26T16:33:12.676291Z"
+    },
+    {
+      "number": 8,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/8",
+      "premium": false,
+      "publishedAt": "2026-09-26T17:28:22.659203Z"
+    },
+    {
+      "number": 9,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/9",
+      "premium": false,
+      "publishedAt": "2026-10-04T14:56:41.326853Z"
+    },
+    {
+      "number": 10,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/10",
+      "premium": false,
+      "publishedAt": "2026-10-04T15:08:50.867985Z"
+    },
+    {
+      "number": 11,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/11",
+      "premium": false,
+      "publishedAt": "2026-10-10T17:27:28.260677Z"
+    },
+    {
+      "number": 12,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/12",
+      "premium": false,
+      "publishedAt": "2026-10-18T12:34:19.314902Z"
+    },
+    {
+      "number": 13,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/13",
+      "premium": false,
+      "publishedAt": "2026-10-24T18:55:14.084382Z"
+    },
+    {
+      "number": 14,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/14",
+      "premium": false,
+      "publishedAt": "2026-11-01T15:19:47.722159Z"
+    },
+    {
+      "number": 15,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/15",
+      "premium": false,
+      "publishedAt": "2026-11-08T10:53:49.930169Z"
+    },
+    {
+      "number": 16,
+      "title": "",
+      "url": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7/chapter/16",
+      "premium": false,
+      "publishedAt": "2026-11-14T18:11:28.661004Z"
+    }
+  ]
+}
