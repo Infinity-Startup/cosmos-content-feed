@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T02:26:41.335992+00:00",
+  "checkedAt": "2026-11-17T02:30:18.449133+00:00",
   "titles": {
-    "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law": {
-      "seriesUrl": "https://asurascans.com/comics/the-grand-duke-of-the-norths-crazy-son-in-law-7ba78ec7",
-      "chapterCount": 10,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-16T22:16:39.725826Z"
-    },
-    "asura-manhwa-blade-of-the-discarded": {
-      "seriesUrl": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7",
-      "chapterCount": 8,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-12T11:27:21.041708Z"
-    },
-    "asura-manhwa-the-genius-knight-of-a-fallen-race": {
-      "seriesUrl": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7",
-      "chapterCount": 8,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T13:41:21.520574Z"
-    },
     "asura-manhwa-monster-s-streamer-star": {
       "seriesUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7",
       "chapterCount": 11,
@@ -141,6 +120,146 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-15T02:03:42.365596Z"
+    },
+    "asura-manhwa-magic-academys-genius-blinker": {
+      "seriesUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T16:38:50.550092Z"
+    },
+    "asura-manhwa-the-indomitable-martial-king": {
+      "seriesUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7",
+      "chapterCount": 160,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T23:43:33.126945Z"
+    },
+    "asura-manhwa-the-tutorial-is-too-hard": {
+      "seriesUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7",
+      "chapterCount": 298,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-16T19:27:57.113885Z"
+    },
+    "asura-manhwa-the-wandering-knights-survival-manual": {
+      "seriesUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7",
+      "chapterCount": 68,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T16:42:35.713703Z"
+    },
+    "asura-manhwa-limitless-predation": {
+      "seriesUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7",
+      "chapterCount": 32,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T16:36:16.762374Z"
+    },
+    "asura-manhwa-the-novels-extra-remake": {
+      "seriesUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7",
+      "chapterCount": 180,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T15:33:52.516901Z"
+    },
+    "asura-manhwa-sichuans-supreme-king": {
+      "seriesUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7",
+      "chapterCount": 53,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T14:30:52.72573Z"
+    },
+    "asura-manhwa-the-great-mage-returns-after-4000-years": {
+      "seriesUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7",
+      "chapterCount": 283,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T13:15:45.103301Z"
+    },
+    "asura-manhwa-player-who-cant-level-up": {
+      "seriesUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7",
+      "chapterCount": 252,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T13:14:45.634787Z"
+    },
+    "asura-manhwa-infinite-titles": {
+      "seriesUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7",
+      "chapterCount": 23,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T18:14:43.509185Z"
+    },
+    "asura-manhwa-dukedoms-legendary-prodigy": {
+      "seriesUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7",
+      "chapterCount": 69,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-15T18:13:43.038023Z"
+    },
+    "asura-manhwa-the-dark-mages-return-to-enlistment": {
+      "seriesUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7",
+      "chapterCount": 113,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T11:07:23.468353Z"
+    },
+    "asura-manhwa-genius-prismatic-mage": {
+      "seriesUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T10:00:58.330184Z"
+    },
+    "asura-manhwa-im-gonna-annihilate-this-land": {
+      "seriesUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T00:21:10.677712Z"
+    },
+    "asura-manhwa-breakers": {
+      "seriesUrl": "https://asurascans.com/comics/breakers-7ba78ec7",
+      "chapterCount": 131,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T00:09:06.661688Z"
+    },
+    "asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower": {
+      "seriesUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7",
+      "chapterCount": 55,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T23:45:46.388577Z"
+    },
+    "asura-manhwa-regression-of-the-yong-clan-heir": {
+      "seriesUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7",
+      "chapterCount": 69,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T23:40:58.458319Z"
+    },
+    "asura-manhwa-echoes-of-the-reverse-planet": {
+      "seriesUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7",
+      "chapterCount": 55,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-14T20:43:52.348127Z"
+    },
+    "asura-manhwa-reincarnators-stream": {
+      "seriesUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7",
+      "chapterCount": 73,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T20:35:15.107133Z"
+    },
+    "asura-manhwa-a-cadet-becomes-a-prophet": {
+      "seriesUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7",
+      "chapterCount": 69,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T19:58:19.809857Z"
     },
     "asura-manhwa-estate-developer": {
       "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
@@ -677,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-07T16:53:18.962207Z"
+    },
+    "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law": {
+      "seriesUrl": "https://asurascans.com/comics/the-grand-duke-of-the-norths-crazy-son-in-law-7ba78ec7",
+      "chapterCount": 10,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-16T22:16:39.725826Z"
+    },
+    "asura-manhwa-blade-of-the-discarded": {
+      "seriesUrl": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7",
+      "chapterCount": 8,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-12T11:27:21.041708Z"
+    },
+    "asura-manhwa-the-genius-knight-of-a-fallen-race": {
+      "seriesUrl": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7",
+      "chapterCount": 8,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T13:41:21.520574Z"
     }
   }
 }
