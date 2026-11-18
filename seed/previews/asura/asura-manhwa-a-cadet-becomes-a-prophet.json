@@ -715,6 +715,300 @@
         "sharpness": 2551.18,
         "reviewed": true
       }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/21/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/21-portrait-v5-46dca5205f73.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "d3642e88b9cf720d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          454,
+          7355,
+          786,
+          7687
+        ],
+        "sourceSize": [
+          800,
+          14780
+        ],
+        "detectedFace": [
+          508.203,
+          7393.652,
+          223.438,
+          255.273
+        ],
+        "outsideFaceWhiteFraction": 0.00198,
+        "largestWhiteRegion": 0.00072,
+        "sharpness": 2227.3,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/22/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/22-portrait-v5-55c5328697b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "95242e8ef9d97129",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          229,
+          676,
+          575,
+          1022
+        ],
+        "sourceSize": [
+          800,
+          14365
+        ],
+        "detectedFace": [
+          272.07,
+          715.918,
+          258.984,
+          265.82
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2579.24,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/25/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/25-portrait-v5-b4783ab4cc29.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "897b1a8693356d9a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          11,
+          11254,
+          267,
+          11510
+        ],
+        "sourceSize": [
+          800,
+          12245
+        ],
+        "detectedFace": [
+          53.467,
+          11307.812,
+          171.777,
+          147.656
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1173.11,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/26/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/26-portrait-v5-d2af8f92f943.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "97f03e8db0cc33c4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          467,
+          11629,
+          752,
+          11914
+        ],
+        "sourceSize": [
+          800,
+          12860
+        ],
+        "detectedFace": [
+          500.0,
+          11663.965,
+          219.531,
+          215.43
+        ],
+        "outsideFaceWhiteFraction": 0.00743,
+        "largestWhiteRegion": 0.00214,
+        "sharpness": 4973.72,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/27-portrait-v5-788f8dc326b0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "86f62ec5a08a17cf",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          322,
+          4005,
+          655,
+          4338
+        ],
+        "sourceSize": [
+          800,
+          13215
+        ],
+        "detectedFace": [
+          360.547,
+          4048.242,
+          256.25,
+          247.266
+        ],
+        "outsideFaceWhiteFraction": 0.00769,
+        "largestWhiteRegion": 0.00153,
+        "sharpness": 3910.51,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/28/e85e39.webp?v=1785106938",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/28-portrait-v5-7de5a3e29b39.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "d2036ccfe18c733c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          451,
+          10130,
+          707,
+          10386
+        ],
+        "sourceSize": [
+          800,
+          14380
+        ],
+        "detectedFace": [
+          495.703,
+          10147.656,
+          203.906,
+          220.312
+        ],
+        "outsideFaceWhiteFraction": 0.01025,
+        "largestWhiteRegion": 0.0016,
+        "sharpness": 4288.86,
+        "reviewed": true
+      }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/29/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/29-portrait-v5-2eacef0ffba6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "de7466c60bf12b18",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          521,
+          5568,
+          777,
+          5824
+        ],
+        "sourceSize": [
+          800,
+          14230
+        ],
+        "detectedFace": [
+          535.156,
+          5607.91,
+          193.75,
+          175.586
+        ],
+        "outsideFaceWhiteFraction": 0.0535,
+        "largestWhiteRegion": 0.01555,
+        "sharpness": 5242.08,
+        "reviewed": true
+      }
     }
   }
 }

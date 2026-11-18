@@ -715,6 +715,132 @@
         "sharpness": 2749.4,
         "reviewed": true
       }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-martial-genius-who-remembers-everything/18/612df7.webp?v=1784408023",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-martial-genius-who-remembers-everything/18-portrait-v5-ffb433438d5a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "d5d17ae2f48a248b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          591,
+          527,
+          893,
+          829
+        ],
+        "sourceSize": [
+          900,
+          3461
+        ],
+        "detectedFace": [
+          613.477,
+          562.061,
+          217.09,
+          232.031
+        ],
+        "outsideFaceWhiteFraction": 0.00586,
+        "largestWhiteRegion": 0.00116,
+        "sharpness": 3725.58,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-martial-genius-who-remembers-everything/19/fe7c80.webp?v=1785008290",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-martial-genius-who-remembers-everything/19-portrait-v5-3c6fdb49061d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "cbe7389be12c06d2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          366,
+          5466,
+          622,
+          5722
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          406.165,
+          5508.49,
+          176.44,
+          171.497
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 2784.82,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-martial-genius-who-remembers-everything/21/b1caf0.webp?v=1793525049",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-martial-genius-who-remembers-everything/21-portrait-v5-fd9d26ab6795.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "d7623d8fb24c9b20",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          501,
+          11459,
+          761,
+          11719
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          543.384,
+          11489.282,
+          176.221,
+          199.731
+        ],
+        "outsideFaceWhiteFraction": 0.00146,
+        "largestWhiteRegion": 0.00099,
+        "sharpness": 1769.74,
+        "reviewed": true
+      }
     }
   }
 }

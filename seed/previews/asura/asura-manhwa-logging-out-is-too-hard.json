@@ -715,6 +715,174 @@
         "sharpness": 5123.37,
         "reviewed": true
       }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-out-is-too-hard/18/d2b74e.webp?v=1794676177",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-out-is-too-hard/18-portrait-v5-def5b42d6947.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "8df03582227b67e5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          355,
+          15488,
+          624,
+          15757
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          395.728,
+          15519.727,
+          186.768,
+          206.543
+        ],
+        "outsideFaceWhiteFraction": 0.00058,
+        "largestWhiteRegion": 0.00058,
+        "sharpness": 3706.44,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-out-is-too-hard/19/468d63.webp?v=1794676326",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-out-is-too-hard/19-portrait-v5-f77515c59ec9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "86c66ccdb027f334",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          462,
+          328,
+          750,
+          616
+        ],
+        "sourceSize": [
+          900,
+          1698
+        ],
+        "detectedFace": [
+          505.811,
+          361.56,
+          200.391,
+          221.704
+        ],
+        "outsideFaceWhiteFraction": 0.00116,
+        "largestWhiteRegion": 0.00052,
+        "sharpness": 2147.8,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-out-is-too-hard/20/b51258.webp?v=1794676352",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-out-is-too-hard/20-portrait-v5-99dde0b1e96d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "d0c82fd63c1961f9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          187,
+          10087,
+          534,
+          10434
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          226.758,
+          10137.524,
+          266.748,
+          244.995
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3468.22,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-out-is-too-hard/21/36ad44.webp?v=1794847295",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-out-is-too-hard/21-portrait-v5-83049e1e935a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "9d243bc2351de29b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          287,
+          2457,
+          543,
+          2713
+        ],
+        "sourceSize": [
+          900,
+          12908
+        ],
+        "detectedFace": [
+          324.756,
+          2491.699,
+          180.176,
+          187.207
+        ],
+        "outsideFaceWhiteFraction": 0.01343,
+        "largestWhiteRegion": 0.00919,
+        "sharpness": 1475.23,
+        "reviewed": true
+      }
     }
   }
 }

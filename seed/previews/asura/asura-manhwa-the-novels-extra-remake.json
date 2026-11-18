@@ -757,6 +757,258 @@
         "sharpness": 6140.53,
         "reviewed": true
       }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/21/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/21-portrait-v5-85f235d5ec54.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "ca252ad7a5da625c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          235,
+          6083,
+          625,
+          6473
+        ],
+        "sourceSize": [
+          800,
+          13504
+        ],
+        "detectedFace": [
+          279.98,
+          6138.574,
+          300.195,
+          278.711
+        ],
+        "outsideFaceWhiteFraction": 0.00438,
+        "largestWhiteRegion": 0.00331,
+        "sharpness": 4024.65,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/22-portrait-v5-1ea3e323fdf8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "d5316a98e5a9332d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          171,
+          11668,
+          548,
+          12045
+        ],
+        "sourceSize": [
+          800,
+          13509
+        ],
+        "detectedFace": [
+          214.355,
+          11719.922,
+          289.648,
+          272.656
+        ],
+        "outsideFaceWhiteFraction": 0.02049,
+        "largestWhiteRegion": 0.01682,
+        "sharpness": 3642.62,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/23-portrait-v5-32180c5cfc5f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "d7300ddab49f3309",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          269,
+          7045,
+          581,
+          7357
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          304.688,
+          7089.844,
+          239.844,
+          222.656
+        ],
+        "outsideFaceWhiteFraction": 0.00366,
+        "largestWhiteRegion": 0.00293,
+        "sharpness": 2591.14,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/26/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/26-portrait-v5-078b1d687f7f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8799,
+        "faceHash": "82636aef21b0af87",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          156,
+          2406,
+          555,
+          2805
+        ],
+        "sourceSize": [
+          800,
+          13287
+        ],
+        "detectedFace": [
+          201.953,
+          2460.449,
+          306.641,
+          289.258
+        ],
+        "outsideFaceWhiteFraction": 0.0076,
+        "largestWhiteRegion": 0.00452,
+        "sharpness": 3899.12,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/27/002.webp?v=1773391721",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/27-portrait-v5-d3d134762182.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "82593f9bc52e32d4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          298,
+          7803,
+          581,
+          8086
+        ],
+        "sourceSize": [
+          800,
+          13666
+        ],
+        "detectedFace": [
+          338.965,
+          7824.902,
+          246.289,
+          238.867
+        ],
+        "outsideFaceWhiteFraction": 0.02878,
+        "largestWhiteRegion": 0.01242,
+        "sharpness": 4776.77,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/28/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/28-portrait-v5-e74438e1df38.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "c03d2982f59e6769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          148,
+          3589,
+          507,
+          3948
+        ],
+        "sourceSize": [
+          800,
+          11132
+        ],
+        "detectedFace": [
+          201.172,
+          3630.664,
+          252.734,
+          276.367
+        ],
+        "outsideFaceWhiteFraction": 0.01994,
+        "largestWhiteRegion": 0.01244,
+        "sharpness": 2607.88,
+        "reviewed": true
+      }
     }
   }
 }

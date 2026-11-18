@@ -757,6 +757,132 @@
         "sharpness": 2213.9,
         "reviewed": true
       }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-tale-of-cultivation-and-demon-extermination/20/ebe698.webp?v=1793187735",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-tale-of-cultivation-and-demon-extermination/20-portrait-v5-ac1468b0ef43.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "80e16c99e6cc3d4f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          467,
+          11780,
+          742,
+          12055
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          500.977,
+          11797.559,
+          206.543,
+          239.502
+        ],
+        "outsideFaceWhiteFraction": 0.05472,
+        "largestWhiteRegion": 0.01341,
+        "sharpness": 3424.82,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-tale-of-cultivation-and-demon-extermination/21/bdb7c0.webp?v=1793732752",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-tale-of-cultivation-and-demon-extermination/21-portrait-v5-c5ed06f4a6f7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "cb3630cae53c5789",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          328,
+          11691,
+          629,
+          11992
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          342.114,
+          11736.365,
+          231.592,
+          209.399
+        ],
+        "outsideFaceWhiteFraction": 0.00945,
+        "largestWhiteRegion": 0.00648,
+        "sharpness": 1721.13,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-tale-of-cultivation-and-demon-extermination/22/0ce549.webp?v=1794607757",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-tale-of-cultivation-and-demon-extermination/22-portrait-v5-5019c6dcdab2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8779,
+        "faceHash": "c2672f283adac7c1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          58,
+          303,
+          314,
+          559
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          92.889,
+          338.708,
+          185.339,
+          183.911
+        ],
+        "outsideFaceWhiteFraction": 0.01985,
+        "largestWhiteRegion": 0.01398,
+        "sharpness": 2584.38,
+        "reviewed": true
+      }
     }
   }
 }

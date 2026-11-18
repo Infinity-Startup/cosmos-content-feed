@@ -799,6 +799,90 @@
         "sharpness": 6618.2,
         "reviewed": true
       }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/my-slain-dragon-bride-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-slain-dragon-bride/21/63a377.webp?v=1793188288",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-slain-dragon-bride/21-portrait-v5-7307f4d6bbf0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "843d2f8ad1ff260c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          157,
+          15004,
+          571,
+          15418
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          205.554,
+          15051.709,
+          316.626,
+          318.164
+        ],
+        "outsideFaceWhiteFraction": 0.00154,
+        "largestWhiteRegion": 0.00101,
+        "sharpness": 3125.23,
+        "reviewed": true
+      }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/my-slain-dragon-bride-7ba78ec7/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-slain-dragon-bride/22/ac0807.webp?v=1793705434",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-slain-dragon-bride/22-portrait-v5-3bafa9e6c978.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "d4f02a57280af79d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          305,
+          12758,
+          603,
+          13056
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          330.359,
+          12741.724,
+          248.071,
+          289.6
+        ],
+        "outsideFaceWhiteFraction": 0.00055,
+        "largestWhiteRegion": 0.00043,
+        "sharpness": 2320.54,
+        "reviewed": true
+      }
     }
   }
 }
