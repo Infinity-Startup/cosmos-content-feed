@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T10:30:18.117803+00:00",
+  "checkedAt": "2026-11-18T21:06:40.539203+00:00",
   "titles": {
-    "asura-manhwa-regression-of-the-yong-clan-heir": {
-      "seriesUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7",
-      "chapterCount": 69,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T23:40:58.458319Z"
-    },
-    "asura-manhwa-echoes-of-the-reverse-planet": {
-      "seriesUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7",
-      "chapterCount": 55,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-14T20:43:52.348127Z"
-    },
-    "asura-manhwa-reincarnators-stream": {
-      "seriesUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7",
-      "chapterCount": 73,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T20:35:15.107133Z"
-    },
     "asura-manhwa-a-cadet-becomes-a-prophet": {
       "seriesUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7",
       "chapterCount": 69,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-14T23:45:46.388577Z"
+    },
+    "asura-manhwa-regression-of-the-yong-clan-heir": {
+      "seriesUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7",
+      "chapterCount": 69,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T23:40:58.458319Z"
+    },
+    "asura-manhwa-echoes-of-the-reverse-planet": {
+      "seriesUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7",
+      "chapterCount": 55,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-14T20:43:52.348127Z"
+    },
+    "asura-manhwa-reincarnators-stream": {
+      "seriesUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7",
+      "chapterCount": 73,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T20:35:15.107133Z"
     }
   }
 }
