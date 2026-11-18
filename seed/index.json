@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T10:07:09.625823+00:00",
+  "checkedAt": "2026-11-18T10:17:37.828832+00:00",
   "titles": {
-    "asura-manhwa-the-great-mage-returns-after-4000-years": {
-      "seriesUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7",
-      "chapterCount": 283,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T13:15:45.103301Z"
-    },
-    "asura-manhwa-player-who-cant-level-up": {
-      "seriesUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7",
-      "chapterCount": 252,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T13:14:45.634787Z"
-    },
-    "asura-manhwa-infinite-titles": {
-      "seriesUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7",
-      "chapterCount": 23,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T18:14:43.509185Z"
-    },
     "asura-manhwa-dukedoms-legendary-prodigy": {
       "seriesUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7",
       "chapterCount": 69,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-16T14:30:52.72573Z"
+    },
+    "asura-manhwa-the-great-mage-returns-after-4000-years": {
+      "seriesUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7",
+      "chapterCount": 283,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T13:15:45.103301Z"
+    },
+    "asura-manhwa-player-who-cant-level-up": {
+      "seriesUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7",
+      "chapterCount": 252,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T13:14:45.634787Z"
+    },
+    "asura-manhwa-infinite-titles": {
+      "seriesUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7",
+      "chapterCount": 23,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T18:14:43.509185Z"
     }
   }
 }
