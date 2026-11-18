@@ -43,6 +43,384 @@
         "sharpness": 863.35,
         "reviewed": true
       }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/2/3eeeed.webp?v=1792963208",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/2-portrait-v5-1ddacb90a034.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "84d47ad7e39a2619",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          534,
+          14321,
+          790,
+          14577
+        ],
+        "sourceSize": [
+          900,
+          15795
+        ],
+        "detectedFace": [
+          579.639,
+          14356.769,
+          164.355,
+          183.582
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1319.36,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/3/090423.webp?v=1792963203",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/3-portrait-v5-fe1027c84df6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "92752c8ff178268d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          252,
+          4892,
+          622,
+          5262
+        ],
+        "sourceSize": [
+          900,
+          15778
+        ],
+        "detectedFace": [
+          308.386,
+          4935.059,
+          257.739,
+          284.766
+        ],
+        "outsideFaceWhiteFraction": 0.00067,
+        "largestWhiteRegion": 0.00063,
+        "sharpness": 1288.46,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/4/f4d8f4.webp?v=1794353219",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/4-portrait-v5-1349dd23fafb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "d1612ec6978b339c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          396,
+          1477,
+          653,
+          1734
+        ],
+        "sourceSize": [
+          900,
+          12279
+        ],
+        "detectedFace": [
+          427.588,
+          1506.335,
+          193.359,
+          197.974
+        ],
+        "outsideFaceWhiteFraction": 0.00098,
+        "largestWhiteRegion": 0.00085,
+        "sharpness": 945.02,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/5/eeec1f.webp?v=1793180783",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/5-portrait-v5-d3ebeee8a3da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "90d52b1ba96b326d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          488,
+          12641,
+          770,
+          12923
+        ],
+        "sourceSize": [
+          900,
+          15373
+        ],
+        "detectedFace": [
+          558.984,
+          12674.048,
+          169.629,
+          216.65
+        ],
+        "outsideFaceWhiteFraction": 0.00266,
+        "largestWhiteRegion": 0.00241,
+        "sharpness": 1015.3,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/6/4e3cd9.webp?v=1792963171",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/6-portrait-v5-24226afb5888.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "d4c75ac3cb921d1a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          222,
+          13008,
+          653,
+          13439
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          280.261,
+          13057.91,
+          315.308,
+          331.348
+        ],
+        "outsideFaceWhiteFraction": 0.03726,
+        "largestWhiteRegion": 0.0168,
+        "sharpness": 3354.8,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/7/d79c1a.webp?v=1792963150",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/7-portrait-v5-a96a56038ed1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "9b2966c669985796",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          67,
+          4777,
+          323,
+          5033
+        ],
+        "sourceSize": [
+          900,
+          15294
+        ],
+        "detectedFace": [
+          106.348,
+          4810.474,
+          177.759,
+          188.086
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2572.12,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/8/8de96f.webp?v=1792972641",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/8-portrait-v5-8f7d454b10c9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "c27d689da47a329c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          340,
+          2763,
+          596,
+          3019
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          383.313,
+          2793.823,
+          169.409,
+          193.579
+        ],
+        "outsideFaceWhiteFraction": 0.01306,
+        "largestWhiteRegion": 0.00871,
+        "sharpness": 1083.55,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/9/ea2db1.webp?v=1792972646",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/9-portrait-v5-c4e109ea1e16.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.876,
+        "faceHash": "80d578d3a58f374c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          474,
+          7876,
+          730,
+          8132
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          520.972,
+          7921.143,
+          162.158,
+          166.113
+        ],
+        "outsideFaceWhiteFraction": 0.0128,
+        "largestWhiteRegion": 0.00896,
+        "sharpness": 3914.96,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/10/3a2f88.webp?v=1792974466",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/10-portrait-v5-08a8fabc6b6c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "9c2b698d3dd23e42",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          95,
+          6148,
+          413,
+          6466
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          132.056,
+          6195.52,
+          244.336,
+          223.462
+        ],
+        "outsideFaceWhiteFraction": 0.00092,
+        "largestWhiteRegion": 0.00044,
+        "sharpness": 929.56,
+        "reviewed": true
+      }
     }
   }
 }

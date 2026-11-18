@@ -43,6 +43,342 @@
         "sharpness": 4818.82,
         "reviewed": true
       }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/2/e3a2b2.webp?v=1792467674",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/2-portrait-v5-321364bed674.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "c6e56ac79116e598",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          316,
+          2295,
+          683,
+          2662
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          339.587,
+          2324.487,
+          319.263,
+          308.936
+        ],
+        "outsideFaceWhiteFraction": 0.04153,
+        "largestWhiteRegion": 0.01292,
+        "sharpness": 5828.08,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/3/61db61.webp?v=1792467657",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/3-portrait-v5-71b415f8340f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.877,
+        "faceHash": "8e5a649fe4cd3648",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          377,
+          11472,
+          633,
+          11728
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          424.622,
+          11521.088,
+          160.62,
+          158.533
+        ],
+        "outsideFaceWhiteFraction": 0.03445,
+        "largestWhiteRegion": 0.00902,
+        "sharpness": 6526.57,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/4/1e7893.webp?v=1792436645",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/4-portrait-v5-2d96e235953c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "fdaa348760cd613c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          360,
+          1191,
+          651,
+          1482
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          396.167,
+          1224.316,
+          218.408,
+          224.121
+        ],
+        "outsideFaceWhiteFraction": 0.0134,
+        "largestWhiteRegion": 0.00308,
+        "sharpness": 5642.63,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/5/ca02ff.webp?v=1792436674",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/5-portrait-v5-1671d5d71664.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8896,
+        "faceHash": "97ea7497c42d330c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          606,
+          2240,
+          900,
+          2534
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          656.982,
+          2274.17,
+          218.848,
+          226.318
+        ],
+        "outsideFaceWhiteFraction": 0.02293,
+        "largestWhiteRegion": 0.01035,
+        "sharpness": 7155.1,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/7/2ef26c.webp?v=1792436802",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/7-portrait-v5-c028040767a2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "c6f86cc6850d66cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          253,
+          15534,
+          604,
+          15885
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          299.268,
+          15575.049,
+          258.398,
+          269.824
+        ],
+        "outsideFaceWhiteFraction": 0.00737,
+        "largestWhiteRegion": 0.00281,
+        "sharpness": 4006.41,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/8/3d3377.webp?v=1792572849",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/8-portrait-v5-2d7cedd80ed7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "d78a6aa3e49b33a0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          370,
+          10965,
+          734,
+          11329
+        ],
+        "sourceSize": [
+          900,
+          12945
+        ],
+        "detectedFace": [
+          411.658,
+          11017.859,
+          279.712,
+          258.179
+        ],
+        "outsideFaceWhiteFraction": 0.02362,
+        "largestWhiteRegion": 0.00859,
+        "sharpness": 5086.11,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/9/9b0296.webp?v=1793102771",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/9-portrait-v5-4b4f46a59e33.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "9b7b62c583991f60",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          182,
+          14693,
+          556,
+          15067
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          239.832,
+          14736.621,
+          258.179,
+          287.402
+        ],
+        "outsideFaceWhiteFraction": 0.02206,
+        "largestWhiteRegion": 0.0118,
+        "sharpness": 4093.4,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/monster-s-streamer-star/10/977fc5.webp?v=1793704875",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-monster-s-streamer-star/10-portrait-v5-00b8a9458cc1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "8c0a6a1f39be672c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          230,
+          11854,
+          532,
+          12156
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          234.558,
+          11880.066,
+          292.896,
+          290.259
+        ],
+        "outsideFaceWhiteFraction": 0.01857,
+        "largestWhiteRegion": 0.01131,
+        "sharpness": 2287.25,
+        "reviewed": true
+      }
     }
   }
 }

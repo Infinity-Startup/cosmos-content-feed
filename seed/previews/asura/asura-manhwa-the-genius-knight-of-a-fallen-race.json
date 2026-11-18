@@ -295,6 +295,48 @@
         "sharpness": 2209.09,
         "reviewed": true
       }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-genius-knight-of-a-fallen-race/8/20b210.webp?v=1794230520",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-genius-knight-of-a-fallen-race/8-portrait-v5-fcab16b31cfd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "d9913b3af4c1c82d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          152,
+          10375,
+          417,
+          10640
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          192.865,
+          10405.701,
+          182.922,
+          204.126
+        ],
+        "outsideFaceWhiteFraction": 0.00601,
+        "largestWhiteRegion": 0.00153,
+        "sharpness": 2270.12,
+        "reviewed": true
+      }
     }
   }
 }

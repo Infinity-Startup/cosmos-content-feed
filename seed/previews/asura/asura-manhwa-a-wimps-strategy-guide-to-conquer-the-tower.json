@@ -253,6 +253,174 @@
         "sharpness": 1624.98,
         "reviewed": true
       }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-wimps-strategy-guide-to-conquer-the-tower/8/005.webp?v=1791776984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower/8-portrait-v5-c6b5559b97b5.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "8b207f95e19ace38",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          179,
+          4513,
+          460,
+          4794
+        ],
+        "sourceSize": [
+          800,
+          9095
+        ],
+        "detectedFace": [
+          222.949,
+          4545.703,
+          193.945,
+          216.406
+        ],
+        "outsideFaceWhiteFraction": 0.00128,
+        "largestWhiteRegion": 0.00034,
+        "sharpness": 1027.79,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-wimps-strategy-guide-to-conquer-the-tower/9/005.webp?v=1791776984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower/9-portrait-v5-6229cb12f430.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.856,
+        "faceHash": "d5122a57a7d8b478",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          38,
+          6124,
+          319,
+          6405
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          83.496,
+          6142.09,
+          231.641,
+          243.945
+        ],
+        "outsideFaceWhiteFraction": 0.00789,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 1720.75,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-wimps-strategy-guide-to-conquer-the-tower/10/004.webp?v=1791776984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower/10-portrait-v5-ada19c679522.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "83643b97bcd9e04c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          294,
+          11376,
+          552,
+          11634
+        ],
+        "sourceSize": [
+          800,
+          12817
+        ],
+        "detectedFace": [
+          323.926,
+          11408.74,
+          198.242,
+          191.699
+        ],
+        "outsideFaceWhiteFraction": 0.00568,
+        "largestWhiteRegion": 0.00282,
+        "sharpness": 2248.2,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-wimps-strategy-guide-to-conquer-the-tower/11/004.webp?v=1791776984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower/11-portrait-v5-7a83c13590f8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "d5cd4e87611e645c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          411,
+          3023,
+          759,
+          3371
+        ],
+        "sourceSize": [
+          800,
+          13385
+        ],
+        "detectedFace": [
+          460.742,
+          3045.508,
+          248.047,
+          302.539
+        ],
+        "outsideFaceWhiteFraction": 0.00613,
+        "largestWhiteRegion": 0.00493,
+        "sharpness": 1697.76,
+        "reviewed": true
+      }
     }
   }
 }

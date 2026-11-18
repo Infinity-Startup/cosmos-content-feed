@@ -337,6 +337,90 @@
         "sharpness": 2769.7,
         "reviewed": true
       }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-out-is-too-hard/9/b60df1.webp?v=1794674670",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-out-is-too-hard/9-portrait-v5-9764b3d914df.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8809,
+        "faceHash": "90e07bde1735e0b1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          260,
+          760,
+          522,
+          1022
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          290.369,
+          802.606,
+          201.489,
+          177.209
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2225.62,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/logging-out-is-too-hard/10/9701ae.webp?v=1794674674",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-logging-out-is-too-hard/10-portrait-v5-2abb80a1718c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "d0216bd31f1c6cf8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          302,
+          10752,
+          577,
+          11027
+        ],
+        "sourceSize": [
+          900,
+          15430
+        ],
+        "detectedFace": [
+          333.435,
+          10791.431,
+          211.597,
+          195.557
+        ],
+        "outsideFaceWhiteFraction": 0.00032,
+        "largestWhiteRegion": 0.00024,
+        "sharpness": 2758.49,
+        "reviewed": true
+      }
     }
   }
 }

@@ -253,6 +253,174 @@
         "sharpness": 2482.96,
         "reviewed": true
       }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/genius-prismatic-mage/9/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-genius-prismatic-mage/9-portrait-v5-6edc3b6fe1b4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "85f8bc82e168772d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          343,
+          11232,
+          599,
+          11488
+        ],
+        "sourceSize": [
+          800,
+          14602
+        ],
+        "detectedFace": [
+          365.137,
+          11241.406,
+          212.695,
+          207.812
+        ],
+        "outsideFaceWhiteFraction": 0.0293,
+        "largestWhiteRegion": 0.00514,
+        "sharpness": 3987.34,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/genius-prismatic-mage/10/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-genius-prismatic-mage/10-portrait-v5-2fa80e67e763.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "c2a22d9ae6cd1e99",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          342,
+          10907,
+          741,
+          11306
+        ],
+        "sourceSize": [
+          800,
+          14275
+        ],
+        "detectedFace": [
+          388.477,
+          10958.594,
+          306.641,
+          294.922
+        ],
+        "outsideFaceWhiteFraction": 0.04077,
+        "largestWhiteRegion": 0.01369,
+        "sharpness": 4980.46,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/genius-prismatic-mage/11/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-genius-prismatic-mage/11-portrait-v5-6f18327436ea.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8672,
+        "faceHash": "de71c087dcb6a245",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          120,
+          9014,
+          379,
+          9273
+        ],
+        "sourceSize": [
+          800,
+          13866
+        ],
+        "detectedFace": [
+          150.439,
+          9052.295,
+          199.121,
+          181.934
+        ],
+        "outsideFaceWhiteFraction": 0.0126,
+        "largestWhiteRegion": 0.00597,
+        "sharpness": 1666.43,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/genius-prismatic-mage/12/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-genius-prismatic-mage/12-portrait-v5-55e1264a911f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "c5058f32cdde7603",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          170,
+          9773,
+          426,
+          10029
+        ],
+        "sourceSize": [
+          800,
+          14568
+        ],
+        "detectedFace": [
+          204.199,
+          9807.715,
+          187.695,
+          217.773
+        ],
+        "outsideFaceWhiteFraction": 0.00401,
+        "largestWhiteRegion": 0.0033,
+        "sharpness": 4205.9,
+        "reviewed": true
+      }
     }
   }
 }

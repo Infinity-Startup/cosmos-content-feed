@@ -43,6 +43,426 @@
         "sharpness": 1540.07,
         "reviewed": true
       }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/3/ef4efe.webp?v=1791209354",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/3-portrait-v5-c37ddd16f0cb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "cab45993ec0c6f8c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          157,
+          7312,
+          489,
+          7644
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          172.595,
+          7358.862,
+          255.103,
+          238.623
+        ],
+        "outsideFaceWhiteFraction": 0.01639,
+        "largestWhiteRegion": 0.01282,
+        "sharpness": 3506.78,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/4/387a00.webp?v=1789154603",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/4-portrait-v5-95268fc1f476.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "989bb4876d3817a5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          326,
+          4241,
+          742,
+          4657
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          402.979,
+          4300.928,
+          319.922,
+          296.191
+        ],
+        "outsideFaceWhiteFraction": 0.02736,
+        "largestWhiteRegion": 0.00624,
+        "sharpness": 8022.2,
+        "reviewed": true
+      }
+    },
+    "1": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/1",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-demonhood-s-genesis/1/144f76.webp?v=1789148500",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/1-portrait-v5-db9f668f1784.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "c6e62c9bf0783319",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          293,
+          12884,
+          663,
+          13254
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          335.522,
+          12935.193,
+          284.326,
+          268.286
+        ],
+        "outsideFaceWhiteFraction": 0.00294,
+        "largestWhiteRegion": 0.00162,
+        "sharpness": 1497.28,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/5/d25b5d.webp?v=1789158998",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/5-portrait-v5-a75a7dadb34d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "cc693bc53d4ec039",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          356,
+          3079,
+          645,
+          3368
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          389.905,
+          3118.25,
+          222.144,
+          210.278
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 942.38,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/6/a3797d.webp?v=1789865692",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/6-portrait-v5-f83656b779f4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "ceca7cca342862dd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          240,
+          2192,
+          620,
+          2572
+        ],
+        "sourceSize": [
+          900,
+          3520
+        ],
+        "detectedFace": [
+          283.887,
+          2245.056,
+          292.236,
+          273.12
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 931.91,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/7/17dcf6.webp?v=1789778856",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/7-portrait-v5-8f671a93a7ff.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "cfef20d234786299",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          360,
+          1884,
+          716,
+          2240
+        ],
+        "sourceSize": [
+          900,
+          3565
+        ],
+        "detectedFace": [
+          401.111,
+          1935.571,
+          273.56,
+          252.686
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 4451.65,
+        "reviewed": true
+      }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/8/5df7a4.webp?v=1790360268",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/8-portrait-v5-aacb4f99c8e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "d7a62896615ae19d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          388,
+          4967,
+          754,
+          5333
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          404.956,
+          5009.326,
+          280.811,
+          281.689
+        ],
+        "outsideFaceWhiteFraction": 0.0038,
+        "largestWhiteRegion": 0.00304,
+        "sharpness": 4463.95,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/9/3c0414.webp?v=1791049489",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/9-portrait-v5-e3aff4625ee3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "cfa46e923a49714d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          446,
+          6258,
+          702,
+          6514
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          492.847,
+          6306.592,
+          162.158,
+          159.521
+        ],
+        "outsideFaceWhiteFraction": 0.01688,
+        "largestWhiteRegion": 0.0121,
+        "sharpness": 2718.19,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/10/115dbb.webp?v=1791651577",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/10-portrait-v5-6b592ca9f493.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8628,
+        "faceHash": "d6cd2a8ac0b63daa",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          200,
+          10477,
+          482,
+          10759
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          232.471,
+          10521.167,
+          217.09,
+          193.799
+        ],
+        "outsideFaceWhiteFraction": 0.00035,
+        "largestWhiteRegion": 8e-05,
+        "sharpness": 1706.95,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/whispers-of-a-scheming-demon/11/0db63d.webp?v=1792182155",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-whispers-of-a-scheming-demon/11-portrait-v5-bc7e7d851dec.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "ddb81991e59b1827",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          56,
+          14704,
+          342,
+          14990
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          103.217,
+          14737.5,
+          190.833,
+          219.727
+        ],
+        "outsideFaceWhiteFraction": 0.01419,
+        "largestWhiteRegion": 0.00487,
+        "sharpness": 3453.21,
+        "reviewed": true
+      }
     }
   }
 }

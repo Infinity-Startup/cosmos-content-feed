@@ -295,6 +295,90 @@
         "sharpness": 2598.41,
         "reviewed": true
       }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-newbie-civil-servant-hunts-villains-before-goi/8/c63e02.webp?v=1793640419",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi/8-portrait-v5-6825bf97d5da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "d9192e8fb46c6626",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          367,
+          10851,
+          629,
+          11113
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          403.748,
+          10881.024,
+          189.185,
+          201.599
+        ],
+        "outsideFaceWhiteFraction": 0.01567,
+        "largestWhiteRegion": 0.00615,
+        "sharpness": 1315.4,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-newbie-civil-servant-hunts-villains-before-goi/10/47da0c.webp?v=1794343261",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi/10-portrait-v5-e1de0ad1bafd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "d6236edea8d8270c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          490,
+          3770,
+          855,
+          4135
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          550.195,
+          3812.146,
+          244.336,
+          280.591
+        ],
+        "outsideFaceWhiteFraction": 0.02333,
+        "largestWhiteRegion": 0.01129,
+        "sharpness": 1654.42,
+        "reviewed": true
+      }
     }
   }
 }

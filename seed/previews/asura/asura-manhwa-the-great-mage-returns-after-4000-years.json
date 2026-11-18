@@ -1,5 +1,258 @@
 {
   "titleId": "asura-manhwa-the-great-mage-returns-after-4000-years",
   "revision": 5,
-  "previews": {}
+  "previews": {
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-great-mage-returns-after-4000-years/6/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/6-portrait-v5-97f1567cecd4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "81b93e93748ff20c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          61,
+          327,
+          374,
+          640
+        ],
+        "sourceSize": [
+          800,
+          3750
+        ],
+        "detectedFace": [
+          97.656,
+          362.793,
+          240.234,
+          240.82
+        ],
+        "outsideFaceWhiteFraction": 0.00351,
+        "largestWhiteRegion": 0.00346,
+        "sharpness": 1006.38,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters-merged/the-great-mage-returns-after-4000-years/163418/002.webp?v=1791412460",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/9-portrait-v5-eaf98c716862.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8765,
+        "faceHash": "82252f8fa6cd3719",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          6184,
+          522,
+          6440
+        ],
+        "sourceSize": [
+          800,
+          7724
+        ],
+        "detectedFace": [
+          314.453,
+          6225.879,
+          159.766,
+          172.461
+        ],
+        "outsideFaceWhiteFraction": 0.00987,
+        "largestWhiteRegion": 0.00987,
+        "sharpness": 1780.08,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-great-mage-returns-after-4000-years/13/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/13-portrait-v5-cff63718f3fd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "84d42f9bb2c9a26d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          252,
+          3495,
+          530,
+          3773
+        ],
+        "sourceSize": [
+          800,
+          5080
+        ],
+        "detectedFace": [
+          301.953,
+          3527.539,
+          177.344,
+          213.672
+        ],
+        "outsideFaceWhiteFraction": 0.03067,
+        "largestWhiteRegion": 0.01764,
+        "sharpness": 1200.83,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters-merged/the-great-mage-returns-after-4000-years/163423/002.webp?v=1791412460",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/14-portrait-v5-f5171f893644.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8833,
+        "faceHash": "82e13f89d1cd372c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          416,
+          1669,
+          680,
+          1933
+        ],
+        "sourceSize": [
+          800,
+          8991
+        ],
+        "detectedFace": [
+          460.352,
+          1699.219,
+          176.172,
+          203.125
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 922.86,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters-merged/the-great-mage-returns-after-4000-years/163427/006.webp?v=1791412460",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/18-portrait-v5-8d4143311ab2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "c21578ea948ff38c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          90,
+          2684,
+          346,
+          2940
+        ],
+        "sourceSize": [
+          800,
+          5167
+        ],
+        "detectedFace": [
+          124.023,
+          2715.137,
+          187.109,
+          193.945
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 955.18,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters-merged/the-great-mage-returns-after-4000-years/163428/003.webp?v=1791412460",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/19-portrait-v5-2fe28b5732db.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "957d6a95a1d1344d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          135,
+          1803,
+          391,
+          2059
+        ],
+        "sourceSize": [
+          800,
+          9207
+        ],
+        "detectedFace": [
+          181.738,
+          1863.916,
+          163.477,
+          134.082
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 885.69,
+        "reviewed": true
+      }
+    }
+  }
 }

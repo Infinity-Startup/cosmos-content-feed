@@ -337,6 +337,90 @@
         "sharpness": 1788.93,
         "reviewed": true
       }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/9/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/9-portrait-v5-dc0d39072e75.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "aab57896345ae2d2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          257,
+          3083,
+          513,
+          3339
+        ],
+        "sourceSize": [
+          800,
+          14260
+        ],
+        "detectedFace": [
+          281.934,
+          3091.406,
+          206.836,
+          210.352
+        ],
+        "outsideFaceWhiteFraction": 0.04547,
+        "largestWhiteRegion": 0.01678,
+        "sharpness": 1409.9,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/10/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/10-portrait-v5-5a909c3690c8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "aabd7bd0604c30bd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          544,
+          9618,
+          800,
+          9874
+        ],
+        "sourceSize": [
+          800,
+          14845
+        ],
+        "detectedFace": [
+          597.656,
+          9655.225,
+          164.844,
+          182.129
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 3e-05,
+        "sharpness": 1547.23,
+        "reviewed": true
+      }
     }
   }
 }

@@ -43,6 +43,342 @@
         "sharpness": 1828.16,
         "reviewed": true
       }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/2/ced2a5.webp?v=1791551723",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/2-portrait-v5-8261d3b25660.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "c9fc2e90a0cb399e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          566,
+          7530,
+          874,
+          7838
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          578.101,
+          7550.793,
+          240.381,
+          267.407
+        ],
+        "outsideFaceWhiteFraction": 0.01422,
+        "largestWhiteRegion": 0.01323,
+        "sharpness": 1820.35,
+        "reviewed": true
+      }
+    },
+    "3": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/3",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/3/d4539b.webp?v=1791551727",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/3-portrait-v5-9f9cbbfd2c18.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "d6247b63649e30ec",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          312,
+          835,
+          739,
+          1262
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          363.318,
+          883.74,
+          323.657,
+          328.711
+        ],
+        "outsideFaceWhiteFraction": 0.02654,
+        "largestWhiteRegion": 0.015,
+        "sharpness": 2434.35,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/4/2e810e.webp?v=1791551732",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/4-portrait-v5-a17abd60ff68.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "8c737ec39d0966c2",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          262,
+          8664,
+          558,
+          8960
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          281.689,
+          8690.405,
+          257.08,
+          243.018
+        ],
+        "outsideFaceWhiteFraction": 0.03831,
+        "largestWhiteRegion": 0.0127,
+        "sharpness": 3076.19,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/5/e97586.webp?v=1791551741",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/5-portrait-v5-a632bf99b68c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "909d7bd263496783",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          115,
+          9385,
+          392,
+          9662
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          153.149,
+          9370.02,
+          243.896,
+          268.945
+        ],
+        "outsideFaceWhiteFraction": 0.00671,
+        "largestWhiteRegion": 0.00465,
+        "sharpness": 1727.34,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/7/7d8525.webp?v=1791551754",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/7-portrait-v5-92a7d4db5edc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "97103dd27178696b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          231,
+          14067,
+          532,
+          14368
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          274.109,
+          14101.831,
+          215.552,
+          231.592
+        ],
+        "outsideFaceWhiteFraction": 0.01151,
+        "largestWhiteRegion": 0.00899,
+        "sharpness": 1910.39,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/9/86e755.webp?v=1791911404",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/9-portrait-v5-f327afd89efe.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "97046a6fc59986d5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          462,
+          12499,
+          760,
+          12797
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          470.654,
+          12518.701,
+          238.184,
+          259.277
+        ],
+        "outsideFaceWhiteFraction": 0.01952,
+        "largestWhiteRegion": 0.01385,
+        "sharpness": 2475.36,
+        "reviewed": true
+      }
+    },
+    "10": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/10",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/10/89c30b.webp?v=1792522987",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/10-portrait-v5-c0b59b02a267.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "9f2079dee1992463",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          301,
+          15380,
+          695,
+          15774
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          350.574,
+          15425.085,
+          294.653,
+          303.442
+        ],
+        "outsideFaceWhiteFraction": 0.01901,
+        "largestWhiteRegion": 0.01018,
+        "sharpness": 2146.24,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-dragon-girlfriends-return/11/7f6a93.webp?v=1793186517",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-dragon-girlfriends-return/11-portrait-v5-9496d38b00a0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "d6343ce768cb42c6",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          419,
+          11946,
+          745,
+          12272
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          456.372,
+          11995.093,
+          250.928,
+          228.076
+        ],
+        "outsideFaceWhiteFraction": 0.02901,
+        "largestWhiteRegion": 0.01216,
+        "sharpness": 2014.86,
+        "reviewed": true
+      }
     }
   }
 }

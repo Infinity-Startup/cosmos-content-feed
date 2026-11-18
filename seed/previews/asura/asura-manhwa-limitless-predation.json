@@ -169,6 +169,300 @@
         "sharpness": 757.36,
         "reviewed": true
       }
+    },
+    "8": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/8",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/8/8c48fc.webp?v=1788268151",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/8-portrait-v5-826de9544569.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "c5456c97b4de6348",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          257,
+          9082,
+          528,
+          9353
+        ],
+        "sourceSize": [
+          900,
+          16009
+        ],
+        "detectedFace": [
+          294.763,
+          9113.818,
+          196.216,
+          208.301
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 578.39,
+        "reviewed": true
+      }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/9/eb69ca.webp?v=1788287550",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/9-portrait-v5-390962972992.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8701,
+        "faceHash": "9de13bc6f08e6318",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          125,
+          13220,
+          381,
+          13476
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          165.784,
+          13256.543,
+          173.804,
+          182.812
+        ],
+        "outsideFaceWhiteFraction": 0.01974,
+        "largestWhiteRegion": 0.0058,
+        "sharpness": 1973.21,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/11/536b75.webp?v=1788203209",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/11-portrait-v5-6d335a925afa.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "c60a4a2f2d996df1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          556,
+          10798,
+          856,
+          11098
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          601.611,
+          10832.52,
+          208.301,
+          231.152
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 707.42,
+        "reviewed": true
+      }
+    },
+    "12": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/12",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/12/a2a538.webp?v=1788268027",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/12-portrait-v5-c7d509191190.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "8ae02dc2f39d374c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          213,
+          12718,
+          515,
+          13020
+        ],
+        "sourceSize": [
+          900,
+          16071
+        ],
+        "detectedFace": [
+          258.728,
+          12752.93,
+          209.839,
+          232.031
+        ],
+        "outsideFaceWhiteFraction": 0.04259,
+        "largestWhiteRegion": 0.00891,
+        "sharpness": 1068.21,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/13/77abee.webp?v=1791650781",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/13-portrait-v5-0517dad6f26b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "f8cfe7c0cdc83700",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          598,
+          7536,
+          854,
+          7792
+        ],
+        "sourceSize": [
+          900,
+          14884
+        ],
+        "detectedFace": [
+          631.934,
+          7565.57,
+          188.086,
+          196.985
+        ],
+        "outsideFaceWhiteFraction": 0.05096,
+        "largestWhiteRegion": 0.0162,
+        "sharpness": 484.89,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/14/0c8803.webp?v=1788268277",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/14-portrait-v5-600f40a97a00.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "c3e16d93e0581e9e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          340,
+          1852,
+          596,
+          2108
+        ],
+        "sourceSize": [
+          900,
+          16009
+        ],
+        "detectedFace": [
+          384.741,
+          1889.868,
+          167.432,
+          180.615
+        ],
+        "outsideFaceWhiteFraction": 0.0007,
+        "largestWhiteRegion": 0.0005,
+        "sharpness": 396.22,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/15/9c15b7.webp?v=1788203891",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/15-portrait-v5-828d56fb2b6d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "c5672f9395cf300c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          497,
+          3857,
+          824,
+          4184
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          547.998,
+          3894.434,
+          225.0,
+          251.367
+        ],
+        "outsideFaceWhiteFraction": 0.00677,
+        "largestWhiteRegion": 0.00459,
+        "sharpness": 821.88,
+        "reviewed": true
+      }
     }
   }
 }
