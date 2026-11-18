@@ -421,6 +421,216 @@
         "sharpness": 2419.75,
         "reviewed": true
       }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/shadow-slave/13/9d19dd.webp?v=1792091544",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-shadow-slave/13-portrait-v5-8b28d7484c1a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "c03f2fba38c9d035",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          453,
+          13983,
+          738,
+          14268
+        ],
+        "sourceSize": [
+          900,
+          14790
+        ],
+        "detectedFace": [
+          486.255,
+          14024.253,
+          219.287,
+          203.467
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 429.73,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/shadow-slave/14/7f54fa.webp?v=1792689765",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-shadow-slave/14-portrait-v5-6011f374a974.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "de0d39e0f09f6708",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          116,
+          4447,
+          407,
+          4738
+        ],
+        "sourceSize": [
+          900,
+          14000
+        ],
+        "detectedFace": [
+          149.579,
+          4484.18,
+          223.792,
+          216.211
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1990.33,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/shadow-slave/15/6a8df6.webp?v=1793461653",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-shadow-slave/15-portrait-v5-7da048c45829.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "97c86bd22d9a2d1c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          211,
+          50,
+          601,
+          440
+        ],
+        "sourceSize": [
+          900,
+          13705
+        ],
+        "detectedFace": [
+          263.123,
+          94.702,
+          285.864,
+          299.707
+        ],
+        "outsideFaceWhiteFraction": 0.02812,
+        "largestWhiteRegion": 0.01085,
+        "sharpness": 2585.21,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/shadow-slave/16/2d07d4.webp?v=1793902621",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-shadow-slave/16-portrait-v5-2fab78361d64.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8647,
+        "faceHash": "d3146cdfe10932dc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          313,
+          6548,
+          638,
+          6873
+        ],
+        "sourceSize": [
+          900,
+          14000
+        ],
+        "detectedFace": [
+          350.903,
+          6586.523,
+          250.049,
+          248.73
+        ],
+        "outsideFaceWhiteFraction": 0.00186,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 3284.44,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/shadow-slave/17/0cd7a2.webp?v=1794503615",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-shadow-slave/17-portrait-v5-4b7ab8c4b9b3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.877,
+        "faceHash": "966538cf92ec331c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          336,
+          11585,
+          592,
+          11841
+        ],
+        "sourceSize": [
+          900,
+          13955
+        ],
+        "detectedFace": [
+          365.955,
+          11616.01,
+          195.337,
+          194.348
+        ],
+        "outsideFaceWhiteFraction": 0.00366,
+        "largestWhiteRegion": 0.00079,
+        "sharpness": 2950.47,
+        "reviewed": true
+      }
     }
   }
 }

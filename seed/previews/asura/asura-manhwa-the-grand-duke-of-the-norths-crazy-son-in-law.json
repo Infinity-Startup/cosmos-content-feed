@@ -337,6 +337,48 @@
         "sharpness": 1076.94,
         "reviewed": true
       }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/the-grand-duke-of-the-norths-crazy-son-in-law-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-grand-duke-of-the-norths-crazy-son-in-law/7/1f57e7.webp?v=1794333002",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law/7-portrait-v5-a124b9a7aa09.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "810c7ff6e194459e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          27,
+          7496,
+          312,
+          7781
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          59.93,
+          7536.346,
+          219.177,
+          204.236
+        ],
+        "outsideFaceWhiteFraction": 0.01225,
+        "largestWhiteRegion": 0.0083,
+        "sharpness": 1826.17,
+        "reviewed": true
+      }
     }
   }
 }

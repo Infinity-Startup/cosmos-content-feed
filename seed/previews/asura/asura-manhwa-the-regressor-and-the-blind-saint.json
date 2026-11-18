@@ -463,6 +463,258 @@
         "sharpness": 3654.48,
         "reviewed": true
       }
+    },
+    "0": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7/chapter/0",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressor-and-the-blind-saint/0/b191a8.webp?v=1791348278",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-regressor-and-the-blind-saint/0-portrait-v5-9d317d340f6a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8701,
+        "faceHash": "84d02fcb9acf382e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          542,
+          1388,
+          798,
+          1644
+        ],
+        "sourceSize": [
+          900,
+          16169
+        ],
+        "detectedFace": [
+          592.822,
+          1431.738,
+          153.809,
+          167.871
+        ],
+        "outsideFaceWhiteFraction": 0.00024,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 2148.62,
+        "reviewed": true
+      }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressor-and-the-blind-saint/11/472fee.webp?v=1791377852",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-regressor-and-the-blind-saint/11-portrait-v5-47aa0350b054.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "823d3c87a5dd3a2a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          296,
+          13496,
+          613,
+          13813
+        ],
+        "sourceSize": [
+          900,
+          15988
+        ],
+        "detectedFace": [
+          332.556,
+          13540.1,
+          243.677,
+          228.955
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2156.05,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressor-and-the-blind-saint/14/6d24f2.webp?v=1792516963",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-regressor-and-the-blind-saint/14-portrait-v5-bb4812413844.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "d4b7299b484c73e4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          535,
+          11370,
+          875,
+          11710
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          588.428,
+          11409.082,
+          232.91,
+          261.914
+        ],
+        "outsideFaceWhiteFraction": 0.00507,
+        "largestWhiteRegion": 0.00362,
+        "sharpness": 2658.45,
+        "reviewed": true
+      }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressor-and-the-blind-saint/15/168902.webp?v=1791466686",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-regressor-and-the-blind-saint/15-portrait-v5-90f58f791d89.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8789,
+        "faceHash": "d8e4299735497695",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          456,
+          8232,
+          734,
+          8510
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          473.95,
+          8264.465,
+          242.139,
+          213.794
+        ],
+        "outsideFaceWhiteFraction": 0.04163,
+        "largestWhiteRegion": 0.00674,
+        "sharpness": 4116.15,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressor-and-the-blind-saint/16/bffe73.webp?v=1793185309",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-regressor-and-the-blind-saint/16-portrait-v5-c92ebcd5c999.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "923a36c6b5495f94",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          242,
+          11748,
+          537,
+          12043
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          276.416,
+          11792.725,
+          226.758,
+          206.543
+        ],
+        "outsideFaceWhiteFraction": 0.04286,
+        "largestWhiteRegion": 0.01392,
+        "sharpness": 4346.76,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-regressor-and-the-blind-saint/17/b30c1e.webp?v=1794621297",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-regressor-and-the-blind-saint/17-portrait-v5-c41e084fd096.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "87607a8f90cc796e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          509,
+          3098,
+          780,
+          3369
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          540.527,
+          3132.092,
+          208.301,
+          203.687
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 1749.06,
+        "reviewed": true
+      }
     }
   }
 }

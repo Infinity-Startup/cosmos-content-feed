@@ -463,6 +463,132 @@
         "sharpness": 1886.82,
         "reviewed": true
       }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/6/4453d7.webp?v=1791707120",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/6-portrait-v5-45abfb729960.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8701,
+        "faceHash": "d3a06f97a598661a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          517,
+          89,
+          857,
+          429
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          566.675,
+          128.32,
+          240.381,
+          261.475
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1410.6,
+        "reviewed": true
+      }
+    },
+    "13": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/13",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/13/adbe11.webp?v=1794012760",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/13-portrait-v5-6eb18bff49b1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "c0947d8f6e2927a9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          173,
+          13372,
+          472,
+          13671
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          216.431,
+          13406.396,
+          211.816,
+          230.273
+        ],
+        "outsideFaceWhiteFraction": 0.04485,
+        "largestWhiteRegion": 0.01227,
+        "sharpness": 3578.59,
+        "reviewed": true
+      }
+    },
+    "14": {
+      "chapterUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7/chapter/14",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/copying-skills-with-affinity/14/f2ec5a.webp?v=1794602656",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-copying-skills-with-affinity/14-portrait-v5-38c5bfc8ba94.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "94606bde3578c49b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          1,
+          1936,
+          294,
+          2229
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          38.013,
+          1969.409,
+          218.188,
+          225.439
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 300.52,
+        "reviewed": true
+      }
     }
   }
 }

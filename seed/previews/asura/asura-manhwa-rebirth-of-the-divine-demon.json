@@ -421,6 +421,384 @@
         "sharpness": 1907.76,
         "reviewed": true
       }
+    },
+    "2": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/2",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/2/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/2-portrait-v5-744418fb574f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "c6c62e8b719c665c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          391,
+          4977,
+          743,
+          5329
+        ],
+        "sourceSize": [
+          800,
+          14318
+        ],
+        "detectedFace": [
+          456.445,
+          5017.48,
+          220.703,
+          270.508
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 629.0,
+        "reviewed": true
+      }
+    },
+    "4": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/4",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/4/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/4-portrait-v5-7f1923cc104e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "d66439fa69c5c198",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          109,
+          8445,
+          365,
+          8701
+        ],
+        "sourceSize": [
+          800,
+          15072
+        ],
+        "detectedFace": [
+          156.641,
+          8514.844,
+          160.547,
+          116.016
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2670.2,
+        "reviewed": true
+      }
+    },
+    "6": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/6",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/6/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/6-portrait-v5-422ec4a056cf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "82376bcab59f2449",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          403,
+          10348,
+          659,
+          10604
+        ],
+        "sourceSize": [
+          800,
+          13547
+        ],
+        "detectedFace": [
+          451.953,
+          10398.291,
+          157.812,
+          155.371
+        ],
+        "outsideFaceWhiteFraction": 0.0031,
+        "largestWhiteRegion": 0.00105,
+        "sharpness": 2775.33,
+        "reviewed": true
+      }
+    },
+    "7": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/7",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/7/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/7-portrait-v5-085afabf90bb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "906a3e2699dd23cd",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          83,
+          6737,
+          459,
+          7113
+        ],
+        "sourceSize": [
+          800,
+          13715
+        ],
+        "detectedFace": [
+          117.773,
+          6779.98,
+          259.375,
+          289.258
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2662.61,
+        "reviewed": true
+      }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/16/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/16-portrait-v5-7f3db3c5a892.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "d83668e3250dbb3c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          257,
+          2054,
+          545,
+          2342
+        ],
+        "sourceSize": [
+          800,
+          13120
+        ],
+        "detectedFace": [
+          308.105,
+          2087.793,
+          185.352,
+          221.289
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1220.7,
+        "reviewed": true
+      }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/17/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/17-portrait-v5-efc4d850db68.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "8b673d9630986769",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          315,
+          698,
+          607,
+          990
+        ],
+        "sourceSize": [
+          800,
+          14490
+        ],
+        "detectedFace": [
+          354.98,
+          731.055,
+          212.695,
+          225.0
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 0.00015,
+        "sharpness": 1391.59,
+        "reviewed": true
+      }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/18/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/18-portrait-v5-ac283bcd4c58.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "82423f4f2d0d6f2d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          119,
+          11495,
+          385,
+          11761
+        ],
+        "sourceSize": [
+          800,
+          14950
+        ],
+        "detectedFace": [
+          161.133,
+          11525.684,
+          181.25,
+          204.492
+        ],
+        "outsideFaceWhiteFraction": 0.03957,
+        "largestWhiteRegion": 0.01413,
+        "sharpness": 1526.47,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/20/011.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/20-portrait-v5-2de1c48d3494.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "d72269dfe4c42499",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          203,
+          6735,
+          459,
+          6991
+        ],
+        "sourceSize": [
+          800,
+          14075
+        ],
+        "detectedFace": [
+          244.043,
+          6775.293,
+          174.023,
+          175.195
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 3463.72,
+        "reviewed": true
+      }
+    },
+    "21": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/21",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/21/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/21-portrait-v5-27cfea25c044.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.855,
+        "faceHash": "ad7a7c214ab4cf60",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          51,
+          6466,
+          307,
+          6722
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          106.836,
+          6501.562,
+          144.727,
+          184.375
+        ],
+        "outsideFaceWhiteFraction": 0.00389,
+        "largestWhiteRegion": 0.00374,
+        "sharpness": 750.8,
+        "reviewed": true
+      }
     }
   }
 }

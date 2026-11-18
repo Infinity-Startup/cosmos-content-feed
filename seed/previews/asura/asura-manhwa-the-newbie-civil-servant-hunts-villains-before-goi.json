@@ -379,6 +379,48 @@
         "sharpness": 1654.42,
         "reviewed": true
       }
+    },
+    "9": {
+      "chapterUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7/chapter/9",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-newbie-civil-servant-hunts-villains-before-goi/9/df2969.webp?v=1793645857",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi/9-portrait-v5-e2930eea0a94.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.854,
+        "faceHash": "8bc3749f604d26dc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          461,
+          10528,
+          869,
+          10936
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          538.55,
+          10575.0,
+          252.686,
+          313.77
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2575.66,
+        "reviewed": true
+      }
     }
   }
 }
