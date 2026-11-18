@@ -883,6 +883,90 @@
         "sharpness": 6681.06,
         "reviewed": true
       }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/magic-academys-genius-blinker/24/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-magic-academys-genius-blinker/24-portrait-v5-56513db951f7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8613,
+        "faceHash": "98596ac53587673c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          239,
+          9810,
+          539,
+          10110
+        ],
+        "sourceSize": [
+          800,
+          12252
+        ],
+        "detectedFace": [
+          281.934,
+          9844.824,
+          214.648,
+          230.664
+        ],
+        "outsideFaceWhiteFraction": 0.03314,
+        "largestWhiteRegion": 0.00929,
+        "sharpness": 4292.77,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/magic-academys-genius-blinker/25/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-magic-academys-genius-blinker/25-portrait-v5-3b10b7aafe3f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "91683b87351f63d8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          193,
+          2981,
+          535,
+          3323
+        ],
+        "sourceSize": [
+          800,
+          14180
+        ],
+        "detectedFace": [
+          237.012,
+          3020.605,
+          253.711,
+          262.891
+        ],
+        "outsideFaceWhiteFraction": 0.01233,
+        "largestWhiteRegion": 0.00261,
+        "sharpness": 2911.33,
+        "reviewed": true
+      }
     }
   }
 }
