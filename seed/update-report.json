@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T04:28:33.513618+00:00",
+  "checkedAt": "2026-11-18T06:10:55.324292+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-logging-out-is-too-hard",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-rebirth-of-the-divine-demon",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-magic-academys-genius-blinker",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-the-indomitable-martial-king",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-tutorial-is-too-hard",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-wandering-knights-survival-manual",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-limitless-predation",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-logging-out-is-too-hard",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-rebirth-of-the-divine-demon",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-magic-academys-genius-blinker",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1144,12 +1144,15 @@
       "status": "retained"
     },
     "asura-manhwa-the-indomitable-martial-king": {
+      "lastAttemptAt": "2026-11-18T06:10:55.324292+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-tutorial-is-too-hard": {
+      "lastAttemptAt": "2026-11-18T06:10:55.324292+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-wandering-knights-survival-manual": {
+      "lastAttemptAt": "2026-11-18T06:10:55.324292+00:00",
       "status": "retained"
     },
     "asura-manhwa-limitless-predation": {
@@ -1204,5 +1207,5 @@
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
   "newChapters": [],
-  "portraitsAwaitingReview": 2581
+  "portraitsAwaitingReview": 2344
 }
