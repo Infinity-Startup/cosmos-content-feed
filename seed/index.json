@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T10:22:03.813720+00:00",
+  "checkedAt": "2026-11-18T10:30:18.117803+00:00",
   "titles": {
-    "asura-manhwa-im-gonna-annihilate-this-land": {
-      "seriesUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7",
-      "chapterCount": 102,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T00:21:10.677712Z"
-    },
-    "asura-manhwa-breakers": {
-      "seriesUrl": "https://asurascans.com/comics/breakers-7ba78ec7",
-      "chapterCount": 131,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T00:09:06.661688Z"
-    },
-    "asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower": {
-      "seriesUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7",
-      "chapterCount": 55,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T23:45:46.388577Z"
-    },
     "asura-manhwa-regression-of-the-yong-clan-heir": {
       "seriesUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7",
       "chapterCount": 69,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-15T10:00:58.330184Z"
+    },
+    "asura-manhwa-im-gonna-annihilate-this-land": {
+      "seriesUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T00:21:10.677712Z"
+    },
+    "asura-manhwa-breakers": {
+      "seriesUrl": "https://asurascans.com/comics/breakers-7ba78ec7",
+      "chapterCount": 131,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T00:09:06.661688Z"
+    },
+    "asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower": {
+      "seriesUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7",
+      "chapterCount": 55,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T23:45:46.388577Z"
     }
   }
 }
