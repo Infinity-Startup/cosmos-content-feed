@@ -715,6 +715,90 @@
         "sharpness": 4567.63,
         "reviewed": true
       }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/genius-prismatic-mage/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-genius-prismatic-mage/22-portrait-v5-221b64739174.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8618,
+        "faceHash": "81c07acf0f836d1f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          197,
+          6163,
+          453,
+          6419
+        ],
+        "sourceSize": [
+          800,
+          13370
+        ],
+        "detectedFace": [
+          242.578,
+          6206.543,
+          164.453,
+          168.945
+        ],
+        "outsideFaceWhiteFraction": 0.00441,
+        "largestWhiteRegion": 0.00406,
+        "sharpness": 2706.78,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/genius-prismatic-mage/23/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-genius-prismatic-mage/23-portrait-v5-49c53524cb39.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.873,
+        "faceHash": "d6ae7c9390ac720d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          445,
+          4541,
+          701,
+          4797
+        ],
+        "sourceSize": [
+          800,
+          14069
+        ],
+        "detectedFace": [
+          446.875,
+          4550.977,
+          214.062,
+          207.422
+        ],
+        "outsideFaceWhiteFraction": 0.03418,
+        "largestWhiteRegion": 0.00989,
+        "sharpness": 4656.76,
+        "reviewed": true
+      }
     }
   }
 }

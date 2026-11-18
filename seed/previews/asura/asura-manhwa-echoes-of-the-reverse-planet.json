@@ -1051,6 +1051,90 @@
         "sharpness": 2983.73,
         "reviewed": true
       }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/30/2157cb.webp?v=1775599106",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/30-portrait-v5-00d3ec1b1540.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "933279c7a03d2f49",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          84,
+          473,
+          352,
+          741
+        ],
+        "sourceSize": [
+          800,
+          13905
+        ],
+        "detectedFace": [
+          116.211,
+          503.516,
+          204.297,
+          206.25
+        ],
+        "outsideFaceWhiteFraction": 8e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1757.68,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/31/aa8107.webp?v=1775761154",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/31-portrait-v5-9f419206b904.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "b7895e9295d32ac8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          440,
+          4283,
+          702,
+          4545
+        ],
+        "sourceSize": [
+          800,
+          12985
+        ],
+        "detectedFace": [
+          488.867,
+          4313.184,
+          200.391,
+          201.758
+        ],
+        "outsideFaceWhiteFraction": 0.02684,
+        "largestWhiteRegion": 0.0065,
+        "sharpness": 1949.85,
+        "reviewed": true
+      }
     }
   }
 }

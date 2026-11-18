@@ -799,6 +799,48 @@
         "sharpness": 1853.52,
         "reviewed": true
       }
+    },
+    "22": {
+      "chapterUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7/chapter/22",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regression-of-the-yong-clan-heir/22/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regression-of-the-yong-clan-heir/22-portrait-v5-6ee6484ae7e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "aa027a8f399b3599",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          188,
+          7126,
+          478,
+          7416
+        ],
+        "sourceSize": [
+          800,
+          12545
+        ],
+        "detectedFace": [
+          225.684,
+          7159.375,
+          215.039,
+          223.438
+        ],
+        "outsideFaceWhiteFraction": 0.00496,
+        "largestWhiteRegion": 0.0031,
+        "sharpness": 2953.25,
+        "reviewed": true
+      }
     }
   }
 }
