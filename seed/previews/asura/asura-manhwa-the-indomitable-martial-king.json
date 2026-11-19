@@ -925,6 +925,90 @@
         "sharpness": 1807.73,
         "reviewed": true
       }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-indomitable-martial-king/33/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-indomitable-martial-king/33-portrait-v5-6425052b9006.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8774,
+        "faceHash": "c2cd7d1737382433",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          217,
+          3472,
+          473,
+          3728
+        ],
+        "sourceSize": [
+          800,
+          12788
+        ],
+        "detectedFace": [
+          248.34,
+          3504.492,
+          193.164,
+          191.797
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2197.3,
+        "reviewed": true
+      }
+    },
+    "5": {
+      "chapterUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7/chapter/5",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-indomitable-martial-king/5/012.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-indomitable-martial-king/5-portrait-v5-68d6f980fbcf.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8735,
+        "faceHash": "93133ad6e44d6b45",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          293,
+          7884,
+          550,
+          8141
+        ],
+        "sourceSize": [
+          800,
+          14142
+        ],
+        "detectedFace": [
+          344.141,
+          7900.781,
+          187.5,
+          223.828
+        ],
+        "outsideFaceWhiteFraction": 0.01984,
+        "largestWhiteRegion": 0.01088,
+        "sharpness": 2773.2,
+        "reviewed": true
+      }
     }
   }
 }

@@ -967,6 +967,132 @@
         "sharpness": 2333.56,
         "reviewed": true
       }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/26/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/26-portrait-v5-6e7d04fd2a9f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "960737df304c7a8c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          358,
+          598,
+          718,
+          958
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          399.414,
+          641.406,
+          276.953,
+          272.266
+        ],
+        "outsideFaceWhiteFraction": 0.0351,
+        "largestWhiteRegion": 0.01299,
+        "sharpness": 1341.77,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/27/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/27-portrait-v5-fed568f9d346.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.877,
+        "faceHash": "d7073eda6949304e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          523,
+          13404,
+          779,
+          13660
+        ],
+        "sourceSize": [
+          800,
+          14630
+        ],
+        "detectedFace": [
+          573.438,
+          13457.324,
+          155.469,
+          149.805
+        ],
+        "outsideFaceWhiteFraction": 0.00629,
+        "largestWhiteRegion": 0.00172,
+        "sharpness": 2011.67,
+        "reviewed": true
+      }
+    },
+    "28": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/28",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/28/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/28-portrait-v5-41a71202272d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "874f6cce529a70b8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          77,
+          2845,
+          458,
+          3226
+        ],
+        "sourceSize": [
+          800,
+          13465
+        ],
+        "detectedFace": [
+          121.387,
+          2890.43,
+          293.164,
+          289.453
+        ],
+        "outsideFaceWhiteFraction": 0.00038,
+        "largestWhiteRegion": 0.0002,
+        "sharpness": 2158.01,
+        "reviewed": true
+      }
     }
   }
 }

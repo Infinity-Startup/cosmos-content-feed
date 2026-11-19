@@ -841,6 +841,90 @@
         "sharpness": 2172.31,
         "reviewed": true
       }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/solo-swordmaster/25/8b2bdc.webp?v=1793964266",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-solo-swordmaster/25-portrait-v5-f0b0189aa83f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "956b78cbc3983631",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          273,
+          3636,
+          551,
+          3914
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          277.625,
+          3624.939,
+          269.604,
+          262.573
+        ],
+        "outsideFaceWhiteFraction": 0.00043,
+        "largestWhiteRegion": 0.00043,
+        "sharpness": 2638.02,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/solo-swordmaster/26/b5978e.webp?v=1794336790",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-solo-swordmaster/26-portrait-v5-638b04cd6eee.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8657,
+        "faceHash": "d2a51e9591ce7364",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          443,
+          9095,
+          708,
+          9360
+        ],
+        "sourceSize": [
+          900,
+          13000
+        ],
+        "detectedFace": [
+          447.034,
+          9089.539,
+          257.3,
+          242.358
+        ],
+        "outsideFaceWhiteFraction": 0.00912,
+        "largestWhiteRegion": 0.00706,
+        "sharpness": 2023.44,
+        "reviewed": true
+      }
     }
   }
 }
