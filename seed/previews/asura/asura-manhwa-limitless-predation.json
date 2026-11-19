@@ -925,6 +925,90 @@
         "sharpness": 1892.47,
         "reviewed": true
       }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/30/a3a9bc.webp?v=1794243035",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/30-portrait-v5-0a06b0b41ace.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "d57c7ae0088d4f96",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          17,
+          3116,
+          419,
+          3518
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          63.501,
+          3168.237,
+          309.595,
+          296.631
+        ],
+        "outsideFaceWhiteFraction": 0.02563,
+        "largestWhiteRegion": 0.01131,
+        "sharpness": 3355.83,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/31/cef9a9.webp?v=1794842325",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/31-portrait-v5-1c11a5b23c72.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8765,
+        "faceHash": "951519729bda62d9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          56,
+          3073,
+          343,
+          3360
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          102.557,
+          3105.945,
+          193.25,
+          220.825
+        ],
+        "outsideFaceWhiteFraction": 0.01791,
+        "largestWhiteRegion": 0.0163,
+        "sharpness": 2298.8,
+        "reviewed": true
+      }
     }
   }
 }

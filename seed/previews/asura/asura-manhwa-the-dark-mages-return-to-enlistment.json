@@ -1135,6 +1135,174 @@
         "sharpness": 3650.85,
         "reviewed": true
       }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-dark-mages-return-to-enlistment/24/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-dark-mages-return-to-enlistment/24-portrait-v5-3b14bf4edda6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8813,
+        "faceHash": "9fa06ea27b18781e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          118,
+          2409,
+          374,
+          2665
+        ],
+        "sourceSize": [
+          800,
+          12249
+        ],
+        "detectedFace": [
+          158.057,
+          2439.062,
+          175.293,
+          196.484
+        ],
+        "outsideFaceWhiteFraction": 0.02148,
+        "largestWhiteRegion": 0.0179,
+        "sharpness": 7237.15,
+        "reviewed": true
+      }
+    },
+    "25": {
+      "chapterUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7/chapter/25",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-dark-mages-return-to-enlistment/25/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-dark-mages-return-to-enlistment/25-portrait-v5-9afadb342a99.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "95081fc3029e3f7e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          544,
+          1356,
+          800,
+          1612
+        ],
+        "sourceSize": [
+          800,
+          12133
+        ],
+        "detectedFace": [
+          552.148,
+          1349.219,
+          216.797,
+          236.328
+        ],
+        "outsideFaceWhiteFraction": 0.0446,
+        "largestWhiteRegion": 0.01572,
+        "sharpness": 4895.47,
+        "reviewed": true
+      }
+    },
+    "26": {
+      "chapterUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7/chapter/26",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-dark-mages-return-to-enlistment/26/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-dark-mages-return-to-enlistment/26-portrait-v5-59b3c4cc263f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8521,
+        "faceHash": "866647cad3417675",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          228,
+          1886,
+          605,
+          2263
+        ],
+        "sourceSize": [
+          800,
+          14540
+        ],
+        "detectedFace": [
+          276.367,
+          1928.906,
+          280.078,
+          290.234
+        ],
+        "outsideFaceWhiteFraction": 0.01381,
+        "largestWhiteRegion": 0.00732,
+        "sharpness": 3888.64,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-dark-mages-return-to-enlistment/31/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-dark-mages-return-to-enlistment/31-portrait-v5-cad0b8fe1e5b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "b5255c9521d565da",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          210,
+          6880,
+          602,
+          7272
+        ],
+        "sourceSize": [
+          800,
+          12394
+        ],
+        "detectedFace": [
+          282.812,
+          6925.488,
+          246.875,
+          301.367
+        ],
+        "outsideFaceWhiteFraction": 0.00525,
+        "largestWhiteRegion": 0.00128,
+        "sharpness": 2822.17,
+        "reviewed": true
+      }
     }
   }
 }

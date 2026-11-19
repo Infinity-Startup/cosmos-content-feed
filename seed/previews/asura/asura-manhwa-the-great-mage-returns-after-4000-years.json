@@ -757,6 +757,90 @@
         "sharpness": 631.17,
         "reviewed": true
       }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-great-mage-returns-after-4000-years/31/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/31-portrait-v5-3dfd0fc7ce0c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "80687e76e1d8e78c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          511,
+          763,
+          767,
+          1019
+        ],
+        "sourceSize": [
+          800,
+          5530
+        ],
+        "detectedFace": [
+          555.078,
+          798.877,
+          168.75,
+          185.059
+        ],
+        "outsideFaceWhiteFraction": 0.00645,
+        "largestWhiteRegion": 0.00417,
+        "sharpness": 832.25,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-great-mage-returns-after-4000-years/35/010.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-great-mage-returns-after-4000-years/35-portrait-v5-4daac55de361.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "973769d654983619",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          261,
+          4092,
+          530,
+          4361
+        ],
+        "sourceSize": [
+          800,
+          6151
+        ],
+        "detectedFace": [
+          294.922,
+          4122.656,
+          201.953,
+          207.031
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 858.53,
+        "reviewed": true
+      }
     }
   }
 }

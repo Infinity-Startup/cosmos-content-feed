@@ -1093,6 +1093,90 @@
         "sharpness": 2803.19,
         "reviewed": true
       }
+    },
+    "29": {
+      "chapterUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/29",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-martial-genius-who-remembers-everything/29/b6ce0a.webp?v=1793579015",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-martial-genius-who-remembers-everything/29-portrait-v5-923b45e48adb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "885e8f1ad759c09d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          372,
+          2465,
+          732,
+          2825
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          413.306,
+          2512.134,
+          277.295,
+          265.869
+        ],
+        "outsideFaceWhiteFraction": 0.00436,
+        "largestWhiteRegion": 0.0015,
+        "sharpness": 3750.35,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/the-martial-genius-who-remembers-everything-7ba78ec7/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-martial-genius-who-remembers-everything/30/5c8186.webp?v=1791654729",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-martial-genius-who-remembers-everything/30-portrait-v5-98c7f7bc1546.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "d6256c572d8b33c1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          252,
+          4048,
+          675,
+          4471
+        ],
+        "sourceSize": [
+          900,
+          15985
+        ],
+        "detectedFace": [
+          307.507,
+          4096.362,
+          311.353,
+          325.415
+        ],
+        "outsideFaceWhiteFraction": 0.006,
+        "largestWhiteRegion": 0.00235,
+        "sharpness": 3874.48,
+        "reviewed": true
+      }
     }
   }
 }
