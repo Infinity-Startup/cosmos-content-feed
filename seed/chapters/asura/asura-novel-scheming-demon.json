@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-scheming-demon",
   "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
-  "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-  "chapterCount": 206,
+  "checkedAt": "2026-11-19T08:38:19.505410+00:00",
+  "chapterCount": 216,
   "chapters": [
     {
       "number": 0,
@@ -1445,6 +1445,76 @@
       "number": 205,
       "title": "Attack (2)",
       "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/205",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 206,
+      "title": "Attack (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/206",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 207,
+      "title": "Counterattack (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/207",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 208,
+      "title": "Counterattack (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/208",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 209,
+      "title": "Counterattack (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/209",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 210,
+      "title": "Counterattack (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/210",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 211,
+      "title": "Counterattack (5)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/211",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 212,
+      "title": "Counterattack (6)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/212",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 213,
+      "title": "Counterattack (7)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/213",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 214,
+      "title": "Counterattack (8)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/214",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 215,
+      "title": "Tying Up Loose Ends (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/215",
       "premium": false,
       "publishedAt": null
     }

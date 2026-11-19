@@ -1,95 +1,41 @@
 {
-  "checkedAt": "2026-11-19T03:36:10.707688+00:00",
+  "checkedAt": "2026-11-19T08:38:19.505410+00:00",
   "titlesTotal": 121,
-  "titlesChecked": 9,
+  "titlesChecked": 10,
   "titlesUpdated": 5,
   "titlesAlreadyFresh": 0,
   "titlesRetained": 116,
   "status": "partial",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-helmut",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-childhood-zenith",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-star-swordmaster",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-extras-academy",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-returned-player",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-steel-eating",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-scheming-demon",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-13T20:20:36.063461+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-limitless-predation",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-13T20:20:36.063461+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-gallery-wild",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-13T20:20:36.063461+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-dungeon-painter",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-13T20:20:36.063461+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-roleplayer",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-13T20:20:36.063461+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-murim-login",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-absolute-regression",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-reincarnation-of-the-fist-king",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-return-of-the-unrivaled-spear-knight",
@@ -702,6 +648,60 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-helmut",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-childhood-zenith",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-star-swordmaster",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-extras-academy",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -811,23 +811,23 @@
     },
     "asura-novel-grimoire": {
       "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-novel-cultivation-demon-extermination": {
       "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-novel-martial-genius": {
       "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-novel-girlfriend-dragon": {
       "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-novel-newbie-civil-servant": {
       "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "updated"
+      "status": "retained"
     },
     "asura-manhwa-childhood-zenith": {
       "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
@@ -842,43 +842,43 @@
       "status": "retained"
     },
     "asura-manhwa-returned-player": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
       "status": "retained"
     },
     "asura-manhwa-steel-eating": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
       "status": "retained"
     },
     "asura-novel-scheming-demon": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
+      "status": "updated"
     },
     "asura-novel-limitless-predation": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
+      "status": "updated"
     },
     "asura-novel-gallery-wild": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
+      "status": "updated"
     },
     "asura-novel-dungeon-painter": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
+      "status": "updated"
     },
     "asura-novel-roleplayer": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
+      "status": "updated"
     },
     "asura-manhwa-murim-login": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
       "status": "retained"
     },
     "asura-manhwa-absolute-regression": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
       "status": "retained"
     },
     "asura-manhwa-reincarnation-of-the-fist-king": {
-      "lastAttemptAt": "2026-11-13T20:20:36.063461+00:00",
+      "lastAttemptAt": "2026-11-19T08:38:19.505410+00:00",
       "status": "retained"
     },
     "asura-manhwa-return-of-the-unrivaled-spear-knight": {
@@ -1194,383 +1194,545 @@
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
   "newChapters": [
     {
-      "titleId": "asura-novel-grimoire",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 137,
-      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/137"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 206,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/206"
     },
     {
-      "titleId": "asura-novel-grimoire",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 138,
-      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/138"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 207,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/207"
     },
     {
-      "titleId": "asura-novel-grimoire",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 139,
-      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/139"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 208,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/208"
     },
     {
-      "titleId": "asura-novel-grimoire",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 140,
-      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/140"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 209,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/209"
     },
     {
-      "titleId": "asura-novel-grimoire",
-      "title": "Pick Up a Grimoire, Become a Mage",
-      "number": 141,
-      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/141"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 210,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/210"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 186,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/186"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 211,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/211"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 187,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/187"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 212,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/212"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 188,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/188"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 213,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/213"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 189,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/189"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 214,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/214"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 190,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/190"
+      "titleId": "asura-novel-scheming-demon",
+      "title": "Whispers of a Scheming Demon",
+      "number": 215,
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/215"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 191,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/191"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 218,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/218"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 192,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/192"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 219,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/219"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 193,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/193"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 220,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/220"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 194,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/194"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 221,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/221"
     },
     {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "title": "The Tale of Cultivation and Demon Extermination",
-      "number": 195,
-      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/195"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 222,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/222"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 380,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/380"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 223,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/223"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 381,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/381"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 224,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/224"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 382,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/382"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 225,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/225"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 383,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/383"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 226,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/226"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 384,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/384"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 227,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/227"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 385,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/385"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 228,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/228"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 386,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/386"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 229,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/229"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 387,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/387"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 230,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/230"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 388,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/388"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 231,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/231"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 389,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/389"
+      "titleId": "asura-novel-limitless-predation",
+      "title": "Limitless Predation",
+      "number": 232,
+      "url": "https://asurascans.com/novels/limitless-predation/chapter/232"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 390,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/390"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 220,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/220"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 391,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/391"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 221,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/221"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 392,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/392"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 222,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/222"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 393,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/393"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 223,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/223"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 394,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/394"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 224,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/224"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 395,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/395"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 225,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/225"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 396,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/396"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 226,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/226"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 397,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/397"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 227,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/227"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 398,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/398"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 228,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/228"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 399,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/399"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 229,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/229"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 400,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/400"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 230,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/230"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 401,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/401"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 231,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/231"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 402,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/402"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 232,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/232"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 403,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/403"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 233,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/233"
     },
     {
-      "titleId": "asura-novel-martial-genius",
-      "title": "The Martial Genius Who Remembers Everything",
-      "number": 404,
-      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/404"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 234,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/234"
     },
     {
-      "titleId": "asura-novel-girlfriend-dragon",
-      "title": "My Girlfriend Returned as a Dragon",
-      "number": 146,
-      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/146"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 235,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/235"
     },
     {
-      "titleId": "asura-novel-girlfriend-dragon",
-      "title": "My Girlfriend Returned as a Dragon",
-      "number": 147,
-      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/147"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 236,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/236"
     },
     {
-      "titleId": "asura-novel-girlfriend-dragon",
-      "title": "My Girlfriend Returned as a Dragon",
-      "number": 148,
-      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/148"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 237,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/237"
     },
     {
-      "titleId": "asura-novel-girlfriend-dragon",
-      "title": "My Girlfriend Returned as a Dragon",
-      "number": 149,
-      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/149"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 238,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/238"
     },
     {
-      "titleId": "asura-novel-girlfriend-dragon",
-      "title": "My Girlfriend Returned as a Dragon",
-      "number": 150,
-      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/150"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 239,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/239"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 180,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/180"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 240,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/240"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 181,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/181"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 241,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/241"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 182,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/182"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 242,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/242"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 183,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/183"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 243,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/243"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 184,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/184"
+      "titleId": "asura-novel-gallery-wild",
+      "title": "Got a Gallery in the Wild",
+      "number": 244,
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/244"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 185,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/185"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 323,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/323"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 186,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/186"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 324,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/324"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 187,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/187"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 325,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/325"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 188,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/188"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 326,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/326"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 189,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/189"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 327,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/327"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 190,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/190"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 328,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/328"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 191,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/191"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 329,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/329"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 192,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/192"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 330,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/330"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 193,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/193"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 331,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/331"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 194,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/194"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 332,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/332"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 195,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/195"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 333,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/333"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 196,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/196"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 334,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/334"
     },
     {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
-      "number": 197,
-      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/197"
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 335,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/335"
+    },
+    {
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 336,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/336"
+    },
+    {
+      "titleId": "asura-novel-dungeon-painter",
+      "title": "A Painter Who Draws Dungeons",
+      "number": 337,
+      "url": "https://asurascans.com/novels/a-painter-who-draws-dungeons/chapter/337"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 316,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/316"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 317,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/317"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 318,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/318"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 319,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/319"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 320,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/320"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 321,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/321"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 322,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/322"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 323,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/323"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 324,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/324"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 325,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/325"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 326,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/326"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 327,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/327"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 328,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/328"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 329,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/329"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 330,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/330"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 331,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/331"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 332,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/332"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 333,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/333"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 334,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/334"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 335,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/335"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 336,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/336"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 337,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/337"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 338,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/338"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 339,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/339"
+    },
+    {
+      "titleId": "asura-novel-roleplayer",
+      "title": "Is It Bad That the Main Character’s a Roleplayer?",
+      "number": 340,
+      "url": "https://asurascans.com/novels/is-it-bad-that-the-main-character-s-a-roleplayer/chapter/340"
     }
   ],
-  "portraitsAwaitingReview": 2005
+  "portraitsAwaitingReview": 1945
 }

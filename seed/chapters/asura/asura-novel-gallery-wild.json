@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-gallery-wild",
   "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
-  "checkedAt": "2026-11-13T20:20:36.063461+00:00",
-  "chapterCount": 219,
+  "checkedAt": "2026-11-19T08:38:19.505410+00:00",
+  "chapterCount": 244,
   "chapters": [
     {
       "number": 1,
@@ -1536,6 +1536,181 @@
       "number": 219,
       "title": "Return to Normal (4)",
       "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/219",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 220,
+      "title": "Dragon (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/220",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 221,
+      "title": "Dragon (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/221",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 222,
+      "title": "Dragon (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/222",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 223,
+      "title": "Elves (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/223",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 224,
+      "title": "Elves (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/224",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 225,
+      "title": "Elves (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/225",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 226,
+      "title": "The Waiting Game (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/226",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 227,
+      "title": "The Waiting Game (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/227",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 228,
+      "title": "The Waiting Game (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/228",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 229,
+      "title": "Exploration (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/229",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 230,
+      "title": "Exploration (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/230",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 231,
+      "title": "Exploration (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/231",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 232,
+      "title": "Quest (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/232",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 233,
+      "title": "Quest (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/233",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 234,
+      "title": "Quest (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/234",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 235,
+      "title": "Quest (4)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/235",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 236,
+      "title": "Quest (5)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/236",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 237,
+      "title": "Harmless Animals (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/237",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 238,
+      "title": "Harmless Animals (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/238",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 239,
+      "title": "Harmless Animals (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/239",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 240,
+      "title": "Can't Resist (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/240",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 241,
+      "title": "Can't Resist (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/241",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 242,
+      "title": "Growing Pains (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/242",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 243,
+      "title": "Growing Pains (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/243",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 244,
+      "title": "Growing Pains (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/244",
       "premium": false,
       "publishedAt": null
     }
