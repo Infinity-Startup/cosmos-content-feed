@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-reincarnated-sword-demon",
   "seriesUrl": "https://asurascans.com/novels/reincarnated-sword-demon",
-  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
-  "chapterCount": 120,
+  "checkedAt": "2026-11-19T08:49:17.327873+00:00",
+  "chapterCount": 128,
   "chapters": [
     {
       "number": 1,
@@ -843,6 +843,62 @@
       "number": 120,
       "title": "Cut",
       "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/120",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 121,
+      "title": "A Favor",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "What am I?",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "Taking Responsibility",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/123",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 124,
+      "title": "A Hospital Visit",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "You've Changed",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "No Sense of Style",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "I'm Starting to Get Scared",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "Who Raised You, Anyway?",
+      "url": "https://asurascans.com/novels/reincarnated-sword-demon/chapter/128",
       "premium": false,
       "publishedAt": null
     }

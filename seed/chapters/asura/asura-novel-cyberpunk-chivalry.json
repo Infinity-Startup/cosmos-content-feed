@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-cyberpunk-chivalry",
   "seriesUrl": "https://asurascans.com/novels/cyberpunk-chivalry",
-  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
-  "chapterCount": 124,
+  "checkedAt": "2026-11-19T08:49:17.327873+00:00",
+  "chapterCount": 136,
   "chapters": [
     {
       "number": 1,
@@ -871,6 +871,90 @@
       "number": 124,
       "title": "EP5. The Finishing Touch 14",
       "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/124",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 125,
+      "title": "EP5. The Finishing Touch 15",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/125",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 126,
+      "title": "EP5. The Finishing Touch 16",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/126",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 127,
+      "title": "EP5. The Finishing Touch 17",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/127",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 128,
+      "title": "EP5. The Finishing Touch 18",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/128",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 129,
+      "title": "EP5. The Finishing Touch 19",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/129",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 130,
+      "title": "EP5. The Finishing Touch 20",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/130",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 131,
+      "title": "EP5. The Finishing Touch 21",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/131",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 132,
+      "title": "EP5. The Finishing Touch 22",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/132",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 133,
+      "title": "EP5. The Finishing Touch 23",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/133",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 134,
+      "title": "EP5. The Finishing Touch 24",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/134",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 135,
+      "title": "EP5. The Finishing Touch 25",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/135",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 136,
+      "title": "EP5. The Finishing Touch 26",
+      "url": "https://asurascans.com/novels/cyberpunk-chivalry/chapter/136",
       "premium": false,
       "publishedAt": null
     }

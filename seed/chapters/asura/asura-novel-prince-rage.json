@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-prince-rage",
   "seriesUrl": "https://asurascans.com/novels/prince-rage",
-  "checkedAt": "2026-11-14T18:12:17.179418+00:00",
-  "chapterCount": 120,
+  "checkedAt": "2026-11-19T08:49:17.327873+00:00",
+  "chapterCount": 124,
   "chapters": [
     {
       "number": 0,
@@ -843,6 +843,34 @@
       "number": 119,
       "title": "",
       "url": "https://asurascans.com/novels/prince-rage/chapter/119",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 120,
+      "title": "",
+      "url": "https://asurascans.com/novels/prince-rage/chapter/120",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 121,
+      "title": "",
+      "url": "https://asurascans.com/novels/prince-rage/chapter/121",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 122,
+      "title": "",
+      "url": "https://asurascans.com/novels/prince-rage/chapter/122",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 123,
+      "title": "",
+      "url": "https://asurascans.com/novels/prince-rage/chapter/123",
       "premium": false,
       "publishedAt": null
     }
