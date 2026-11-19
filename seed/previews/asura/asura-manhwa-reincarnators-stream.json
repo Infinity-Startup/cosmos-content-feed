@@ -1303,6 +1303,48 @@
         "sharpness": 1968.06,
         "reviewed": true
       }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnators-stream/37/003.webp?v=1784170791",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnators-stream/37-portrait-v5-d977f5c852e0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "80bd69bcb1cf3234",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          120,
+          3367,
+          376,
+          3623
+        ],
+        "sourceSize": [
+          800,
+          13450
+        ],
+        "detectedFace": [
+          163.037,
+          3400.586,
+          170.41,
+          189.453
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 2596.72,
+        "reviewed": true
+      }
     }
   }
 }

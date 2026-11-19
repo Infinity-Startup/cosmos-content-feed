@@ -1135,6 +1135,90 @@
         "sharpness": 3213.43,
         "reviewed": true
       }
+    },
+    "40": {
+      "chapterUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7/chapter/40",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-wimps-strategy-guide-to-conquer-the-tower/40/e7d88b.webp?v=1791776984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower/40-portrait-v5-eb1bdff1ad5c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "d22f2574e2f8980f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          560,
+          12405,
+          816,
+          12661
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          617.212,
+          12434.656,
+          141.943,
+          195.776
+        ],
+        "outsideFaceWhiteFraction": 0.00761,
+        "largestWhiteRegion": 0.00327,
+        "sharpness": 2022.18,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/a-wimps-strategy-guide-to-conquer-the-tower-7ba78ec7/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-wimps-strategy-guide-to-conquer-the-tower/41/ffc956.webp?v=1791776984",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-wimps-strategy-guide-to-conquer-the-tower/41-portrait-v5-e4f9592f9ef8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "da2c4b2a1d3732f4",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          246,
+          10644,
+          502,
+          10900
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          308.057,
+          10700.903,
+          131.836,
+          142.822
+        ],
+        "outsideFaceWhiteFraction": 0.02422,
+        "largestWhiteRegion": 0.01125,
+        "sharpness": 2515.12,
+        "reviewed": true
+      }
     }
   }
 }

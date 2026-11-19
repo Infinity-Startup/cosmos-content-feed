@@ -1261,6 +1261,90 @@
         "sharpness": 1285.25,
         "reviewed": true
       }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/37/007.webp?v=1772303487",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/37-portrait-v5-9850bb54aeb6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "c2756a97f408f22d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          207,
+          5911,
+          509,
+          6213
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          258.105,
+          5945.703,
+          199.023,
+          232.031
+        ],
+        "outsideFaceWhiteFraction": 0.00566,
+        "largestWhiteRegion": 0.00272,
+        "sharpness": 1858.49,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/dukedoms-legendary-prodigy-7ba78ec7/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/dukedoms-legendary-prodigy/38/004.webp?v=1772893338",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-dukedoms-legendary-prodigy/38-portrait-v5-7949aac21cba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "94522dcde4ad9395",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          237,
+          13567,
+          503,
+          13833
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          267.578,
+          13605.664,
+          204.297,
+          189.453
+        ],
+        "outsideFaceWhiteFraction": 0.00446,
+        "largestWhiteRegion": 0.00351,
+        "sharpness": 1137.85,
+        "reviewed": true
+      }
     }
   }
 }
