@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T21:06:40.539203+00:00",
+  "checkedAt": "2026-11-19T03:36:10.707688+00:00",
   "titles": {
-    "asura-manhwa-a-cadet-becomes-a-prophet": {
-      "seriesUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7",
-      "chapterCount": 69,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T19:58:19.809857Z"
-    },
-    "asura-manhwa-absolute-sword-sense": {
-      "seriesUrl": "https://asurascans.com/comics/absolute-sword-sense-bd5bdaf8",
-      "chapterCount": 209,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T16:00:12.585Z"
-    },
-    "asura-manhwa-iron-blooded-sword-hound": {
-      "seriesUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-bd5bdaf8",
-      "chapterCount": 188,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T15:54:34.874825Z"
-    },
     "asura-manhwa-helmut": {
       "seriesUrl": "https://asurascans.com/comics/helmut-the-forsaken-child-bd5bdaf8",
       "chapterCount": 140,
@@ -32,32 +11,32 @@
     },
     "asura-novel-grimoire": {
       "seriesUrl": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard",
-      "chapterCount": 136,
-      "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+      "chapterCount": 141,
+      "checkedAt": "2026-11-19T03:36:10.707688+00:00",
       "firstChapter": 1
     },
     "asura-novel-cultivation-demon-extermination": {
       "seriesUrl": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination",
-      "chapterCount": 185,
-      "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+      "chapterCount": 195,
+      "checkedAt": "2026-11-19T03:36:10.707688+00:00",
       "firstChapter": 1
     },
     "asura-novel-martial-genius": {
       "seriesUrl": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything",
-      "chapterCount": 379,
-      "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+      "chapterCount": 404,
+      "checkedAt": "2026-11-19T03:36:10.707688+00:00",
       "firstChapter": 1
     },
     "asura-novel-girlfriend-dragon": {
       "seriesUrl": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon",
-      "chapterCount": 145,
-      "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+      "chapterCount": 150,
+      "checkedAt": "2026-11-19T03:36:10.707688+00:00",
       "firstChapter": 1
     },
     "asura-novel-newbie-civil-servant": {
       "seriesUrl": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home",
-      "chapterCount": 179,
-      "checkedAt": "2026-11-13T16:40:04.418956+00:00",
+      "chapterCount": 197,
+      "checkedAt": "2026-11-19T03:36:10.707688+00:00",
       "firstChapter": 1
     },
     "asura-manhwa-childhood-zenith": {
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-14T20:35:15.107133Z"
+    },
+    "asura-manhwa-absolute-sword-sense": {
+      "seriesUrl": "https://asurascans.com/comics/absolute-sword-sense-bd5bdaf8",
+      "chapterCount": 209,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T16:00:12.585Z"
+    },
+    "asura-manhwa-iron-blooded-sword-hound": {
+      "seriesUrl": "https://asurascans.com/comics/revenge-of-the-iron-blooded-sword-hound-bd5bdaf8",
+      "chapterCount": 188,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T15:54:34.874825Z"
+    },
+    "asura-manhwa-a-cadet-becomes-a-prophet": {
+      "seriesUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7",
+      "chapterCount": 69,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T19:58:19.809857Z"
     }
   }
 }

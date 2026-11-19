@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-girlfriend-dragon",
   "seriesUrl": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon",
-  "checkedAt": "2026-11-13T16:40:04.418956+00:00",
-  "chapterCount": 145,
+  "checkedAt": "2026-11-19T03:36:10.707688+00:00",
+  "chapterCount": 150,
   "chapters": [
     {
       "number": 1,
@@ -1018,6 +1018,41 @@
       "number": 145,
       "title": "You've Got Some Nerve",
       "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/145",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 146,
+      "title": "Sixth Sense",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/146",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 147,
+      "title": "There's Something You Need to Know",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/147",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 148,
+      "title": "A Mother-in-Law’s Favorite Is Her Son-in-Law, After All",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/148",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 149,
+      "title": "A Son-in-Law’s Biggest Fan Is His Mother-in-Law, After All",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/149",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 150,
+      "title": "You Still Haven’t Remembered",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/150",
       "premium": false,
       "publishedAt": null
     }
