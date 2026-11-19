@@ -1009,6 +1009,48 @@
         "sharpness": 2298.8,
         "reviewed": true
       }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/limitless-predation/32/a55b00.webp?v=1794847130",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-limitless-predation/32-portrait-v5-6002f8ced409.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "86457b3b6564b2ca",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          392,
+          814,
+          667,
+          1089
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          451.538,
+          845.343,
+          191.162,
+          211.707
+        ],
+        "outsideFaceWhiteFraction": 0.04048,
+        "largestWhiteRegion": 0.01378,
+        "sharpness": 2590.01,
+        "reviewed": true
+      }
     }
   }
 }

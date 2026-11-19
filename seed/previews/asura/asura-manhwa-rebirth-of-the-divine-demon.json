@@ -1345,6 +1345,90 @@
         "sharpness": 1775.63,
         "reviewed": true
       }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/36/691198.webp?v=1775176402",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/36-portrait-v5-d85ac02e985c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "85513ceb5a4ac9ad",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          511,
+          6520,
+          767,
+          6776
+        ],
+        "sourceSize": [
+          800,
+          13230
+        ],
+        "detectedFace": [
+          569.141,
+          6576.367,
+          140.625,
+          143.359
+        ],
+        "outsideFaceWhiteFraction": 0.00035,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 2132.43,
+        "reviewed": true
+      }
+    },
+    "37": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/37",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/37/928c00.webp?v=1775754690",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/37-portrait-v5-0d4a5d829dba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "8f5429b2369646e7",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          211,
+          11173,
+          540,
+          11502
+        ],
+        "sourceSize": [
+          800,
+          12255
+        ],
+        "detectedFace": [
+          258.203,
+          11211.523,
+          234.766,
+          252.734
+        ],
+        "outsideFaceWhiteFraction": 0.00171,
+        "largestWhiteRegion": 0.00084,
+        "sharpness": 1716.67,
+        "reviewed": true
+      }
     }
   }
 }

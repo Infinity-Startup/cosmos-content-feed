@@ -1093,6 +1093,48 @@
         "sharpness": 1414.73,
         "reviewed": true
       }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/33/b2040c.webp?v=1794682173",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/33-portrait-v5-305d906a539b.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "c3fa29c925d47629",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          314,
+          7104,
+          589,
+          7379
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          358.154,
+          7135.95,
+          187.207,
+          211.597
+        ],
+        "outsideFaceWhiteFraction": 0.00404,
+        "largestWhiteRegion": 0.00404,
+        "sharpness": 1662.0,
+        "reviewed": true
+      }
     }
   }
 }
