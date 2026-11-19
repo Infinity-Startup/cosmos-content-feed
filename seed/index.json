@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T08:53:01.759419+00:00",
+  "checkedAt": "2026-11-19T13:20:55.799021+00:00",
   "titles": {
-    "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group": {
-      "seriesUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582",
-      "chapterCount": 84,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-09T03:25:53.35679Z"
-    },
-    "asura-manhwa-got-a-gallery-in-the-wild": {
-      "seriesUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582",
-      "chapterCount": 14,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 0.5,
-      "latestPublishedAt": "2026-11-09T03:19:26.849249Z"
-    },
-    "asura-manhwa-30-years-since-the-prologue": {
-      "seriesUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582",
-      "chapterCount": 24,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-09T03:12:00.485979Z"
-    },
     "asura-manhwa-sword-devouring-swordmaster": {
       "seriesUrl": "https://asurascans.com/comics/sword-devouring-swordmaster-f212c582",
       "chapterCount": 54,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-09T05:05:17.866511Z"
+    },
+    "asura-manhwa-the-youngest-son-of-the-eunhae-merchant-group": {
+      "seriesUrl": "https://asurascans.com/comics/the-youngest-son-of-the-eunhae-merchant-group-f212c582",
+      "chapterCount": 84,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T03:25:53.35679Z"
+    },
+    "asura-manhwa-got-a-gallery-in-the-wild": {
+      "seriesUrl": "https://asurascans.com/comics/got-a-gallery-in-the-wild-f212c582",
+      "chapterCount": 14,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 0.5,
+      "latestPublishedAt": "2026-11-09T03:19:26.849249Z"
+    },
+    "asura-manhwa-30-years-since-the-prologue": {
+      "seriesUrl": "https://asurascans.com/comics/30-years-since-the-prologue-f212c582",
+      "chapterCount": 24,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-09T03:12:00.485979Z"
     }
   }
 }
