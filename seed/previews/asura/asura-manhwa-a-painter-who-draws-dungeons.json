@@ -883,6 +883,90 @@
         "sharpness": 762.49,
         "reviewed": true
       }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/18/a2afc9.webp?v=1785702149",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/18-portrait-v5-d06d1d6eaeed.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "9fb508c1e8427ece",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          201,
+          9562,
+          503,
+          9864
+        ],
+        "sourceSize": [
+          900,
+          15986
+        ],
+        "detectedFace": [
+          220.605,
+          9583.813,
+          262.793,
+          257.52
+        ],
+        "outsideFaceWhiteFraction": 0.03854,
+        "largestWhiteRegion": 0.0173,
+        "sharpness": 2399.81,
+        "reviewed": true
+      }
+    },
+    "20": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/20",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/20/5549d8.webp?v=1787148194",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/20-portrait-v5-bd4d439592da.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "885b14dde0f92793",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          285,
+          6696,
+          541,
+          6952
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          316.846,
+          6731.763,
+          192.92,
+          185.01
+        ],
+        "outsideFaceWhiteFraction": 0.00264,
+        "largestWhiteRegion": 0.00157,
+        "sharpness": 835.38,
+        "reviewed": true
+      }
     }
   }
 }

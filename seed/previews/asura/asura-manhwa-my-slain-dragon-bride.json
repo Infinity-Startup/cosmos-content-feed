@@ -883,6 +883,48 @@
         "sharpness": 2320.54,
         "reviewed": true
       }
+    },
+    "11": {
+      "chapterUrl": "https://asurascans.com/comics/my-slain-dragon-bride-7ba78ec7/chapter/11",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/my-slain-dragon-bride/11/263304.webp?v=1787405603",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-my-slain-dragon-bride/11-portrait-v5-edb3d11676ba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8823,
+        "faceHash": "c6fc2c92d0497ba5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          579,
+          13172,
+          842,
+          13435
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          620.288,
+          13202.051,
+          179.736,
+          202.148
+        ],
+        "outsideFaceWhiteFraction": 0.0018,
+        "largestWhiteRegion": 0.0018,
+        "sharpness": 2720.14,
+        "reviewed": true
+      }
     }
   }
 }

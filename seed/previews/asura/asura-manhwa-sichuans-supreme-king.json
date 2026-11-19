@@ -1051,6 +1051,48 @@
         "sharpness": 1744.42,
         "reviewed": true
       }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/18/b19154.webp?v=1775437963",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/18-portrait-v5-e153191ef91d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "8f6a6ee51c387e20",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          142,
+          469,
+          408,
+          735
+        ],
+        "sourceSize": [
+          800,
+          13955
+        ],
+        "detectedFace": [
+          179.053,
+          499.414,
+          191.895,
+          204.297
+        ],
+        "outsideFaceWhiteFraction": 0.01498,
+        "largestWhiteRegion": 0.01382,
+        "sharpness": 2365.61,
+        "reviewed": true
+      }
     }
   }
 }

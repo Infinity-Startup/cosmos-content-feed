@@ -925,6 +925,48 @@
         "sharpness": 1022.23,
         "reviewed": true
       }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/infinite-titles-7ba78ec7/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/infinite-titles/23/cc3e71.webp?v=1794766729",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-infinite-titles/23-portrait-v5-f17d968b661d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "f80778f517813a3c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          0,
+          3476,
+          373,
+          3849
+        ],
+        "sourceSize": [
+          900,
+          15789
+        ],
+        "detectedFace": [
+          -0.439,
+          3520.129,
+          286.743,
+          284.546
+        ],
+        "outsideFaceWhiteFraction": 0.0192,
+        "largestWhiteRegion": 0.00618,
+        "sharpness": 530.64,
+        "reviewed": true
+      }
     }
   }
 }

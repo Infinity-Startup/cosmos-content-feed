@@ -1009,6 +1009,90 @@
         "sharpness": 2766.36,
         "reviewed": true
       }
+    },
+    "18": {
+      "chapterUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7/chapter/18",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regression-of-the-yong-clan-heir/18/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regression-of-the-yong-clan-heir/18-portrait-v5-e720c8a7f8f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "df0c3cdbe1c03570",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          505,
+          5882,
+          791,
+          6168
+        ],
+        "sourceSize": [
+          800,
+          14870
+        ],
+        "detectedFace": [
+          567.383,
+          5915.039,
+          160.547,
+          219.922
+        ],
+        "outsideFaceWhiteFraction": 0.0166,
+        "largestWhiteRegion": 0.00703,
+        "sharpness": 1504.06,
+        "reviewed": true
+      }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/regression-of-the-yong-clan-heir-7ba78ec7/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/regression-of-the-yong-clan-heir/19/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-regression-of-the-yong-clan-heir/19-portrait-v5-06a6a3634674.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "979431cb72ce6326",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          255,
+          9618,
+          511,
+          9874
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          313.281,
+          9661.328,
+          139.453,
+          168.359
+        ],
+        "outsideFaceWhiteFraction": 0.00496,
+        "largestWhiteRegion": 0.00478,
+        "sharpness": 1032.89,
+        "reviewed": true
+      }
     }
   }
 }
