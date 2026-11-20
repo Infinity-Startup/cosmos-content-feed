@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T21:11:54.408021+00:00",
+  "checkedAt": "2026-11-20T03:26:57.053842+00:00",
   "titles": {
-    "asura-manhwa-the-dark-swordsman-returns": {
-      "seriesUrl": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582",
-      "chapterCount": 73,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T22:48:52.923726Z"
-    },
-    "asura-manhwa-solo-max-level-newbie": {
-      "seriesUrl": "https://asurascans.com/comics/solo-max-level-newbie-f212c582",
-      "chapterCount": 285,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-06T18:36:41.631861Z"
-    },
-    "asura-manhwa-trash-of-the-counts-family": {
-      "seriesUrl": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582",
-      "chapterCount": 195,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-06T12:49:45.9807Z"
-    },
     "asura-manhwa-dungeon-odyssey": {
       "seriesUrl": "https://asurascans.com/comics/dungeon-odyssey-f212c582",
       "chapterCount": 176,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-08T23:12:15.537932Z"
+    },
+    "asura-manhwa-the-dark-swordsman-returns": {
+      "seriesUrl": "https://asurascans.com/comics/the-dark-swordsman-returns-f212c582",
+      "chapterCount": 73,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:48:52.923726Z"
+    },
+    "asura-manhwa-solo-max-level-newbie": {
+      "seriesUrl": "https://asurascans.com/comics/solo-max-level-newbie-f212c582",
+      "chapterCount": 285,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T18:36:41.631861Z"
+    },
+    "asura-manhwa-trash-of-the-counts-family": {
+      "seriesUrl": "https://asurascans.com/comics/trash-of-the-counts-family-f212c582",
+      "chapterCount": 195,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T12:49:45.9807Z"
     }
   }
 }

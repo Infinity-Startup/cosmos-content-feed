@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-19T21:11:54.408021+00:00",
+  "checkedAt": "2026-11-20T03:26:57.053842+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-the-dark-swordsman-returns",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-solo-max-level-newbie",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-trash-of-the-counts-family",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-dungeon-odyssey",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-player-hides-his-past",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-ultimate-shut-in",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-academys-genius-swordmaster",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-dark-swordsman-returns",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-solo-max-level-newbie",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-trash-of-the-counts-family",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1028,15 +1028,15 @@
       "status": "retained"
     },
     "asura-manhwa-dungeon-odyssey": {
-      "lastAttemptAt": "2026-11-15T17:46:50.727661+00:00",
+      "lastAttemptAt": "2026-11-20T03:26:57.053842+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-player-hides-his-past": {
-      "lastAttemptAt": "2026-11-15T17:46:50.727661+00:00",
+      "lastAttemptAt": "2026-11-20T03:26:57.053842+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-ultimate-shut-in": {
-      "lastAttemptAt": "2026-11-15T17:46:50.727661+00:00",
+      "lastAttemptAt": "2026-11-20T03:26:57.053842+00:00",
       "status": "retained"
     },
     "asura-manhwa-academys-genius-swordmaster": {
