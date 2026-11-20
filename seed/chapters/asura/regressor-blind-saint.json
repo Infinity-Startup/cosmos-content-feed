@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "regressor-blind-saint",
   "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
-  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
-  "chapterCount": 171,
+  "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+  "chapterCount": 185,
   "chapters": [
     {
       "number": 0,
@@ -1200,6 +1200,104 @@
       "number": 170,
       "title": "Obsession",
       "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/170",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 171,
+      "title": "Obsession - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/171",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 172,
+      "title": "Obsession - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/172",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 173,
+      "title": "Breakthrough",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/173",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 174,
+      "title": "Breakthrough - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/174",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 175,
+      "title": "Return",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/175",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 176,
+      "title": "Deliberation",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/176",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 177,
+      "title": "Deliberation - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/177",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 178,
+      "title": "Mood",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/178",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 179,
+      "title": "Mood - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/179",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 180,
+      "title": "Confession",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/180",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 181,
+      "title": "Moments",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/181",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 182,
+      "title": "Hegrion",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/182",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 183,
+      "title": "Hegrion - 2",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/183",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 184,
+      "title": "Hegrion - 3",
+      "url": "https://asurascans.com/novels/the-regressor-and-the-blind-saint/chapter/184",
       "premium": false,
       "publishedAt": null
     }

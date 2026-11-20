@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-star-swordmaster",
   "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
-  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
-  "chapterCount": 275,
+  "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+  "chapterCount": 280,
   "chapters": [
     {
       "number": 1,
@@ -1928,6 +1928,41 @@
       "number": 275,
       "title": "The Black-Haired Man (2)",
       "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/275",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 276,
+      "title": "The Black-Haired Man (3)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/276",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 277,
+      "title": "The Founding King's Last Knight",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/277",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 278,
+      "title": "Vlad of Soara? (1)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/278",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 279,
+      "title": "Vlad of Soara? (2)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/279",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 280,
+      "title": "The Crimson Lady",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/280",
       "premium": false,
       "publishedAt": null
     }

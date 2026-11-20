@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-ode-brave",
   "seriesUrl": "https://asurascans.com/novels/ode-of-the-brave",
-  "checkedAt": "2026-11-16T02:48:33.209912+00:00",
-  "chapterCount": 203,
+  "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+  "chapterCount": 218,
   "chapters": [
     {
       "number": 1,
@@ -1424,6 +1424,111 @@
       "number": 203,
       "title": "",
       "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/203",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 204,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/204",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 205,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/205",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 206,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/206",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 207,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/207",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 208,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/208",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 209,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/209",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 210,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/210",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 211,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/211",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 212,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/212",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 213,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/213",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 214,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/214",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 215,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/215",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 216,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/216",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 217,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/217",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 218,
+      "title": "",
+      "url": "https://asurascans.com/novels/ode-of-the-brave/chapter/218",
       "premium": false,
       "publishedAt": null
     }
