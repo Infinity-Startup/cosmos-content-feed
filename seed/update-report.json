@@ -1,47 +1,29 @@
 {
-  "checkedAt": "2026-11-21T02:24:24.169763+00:00",
+  "checkedAt": "2026-11-21T05:27:22.652955+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
-  "titlesAlreadyFresh": 11,
-  "titlesRetained": 110,
+  "titlesAlreadyFresh": 0,
+  "titlesRetained": 121,
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-the-s-classes-that-i-raised",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-return-of-the-disaster-class-hero",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-overgeared",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-suicide-hunter",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-myst-might-mayhem",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-mount-hua",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "reason": "HTTP Error 403: Forbidden",
+      "lastSuccessfulCheckAt": "2026-11-21T05:23:58.251948+00:00",
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-deadbeat-noble",
@@ -650,6 +632,72 @@
       "deferred": true
     },
     {
+      "titleId": "regressor-blind-saint",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-first-prince",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-raising-villains",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-black-badger",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-demon-king",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-copying-skills",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-ode-brave",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-solo-swordmaster",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-star-swordmaster",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-regressing-knight",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-novel-shepherd-wizard",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-20T20:55:55.766429+00:00",
+      "deferred": true
+    },
+    {
       "titleId": "asura-manhwa-barbarian",
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
@@ -666,52 +714,70 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-overgeared",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-s-classes-that-i-raised",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-return-of-the-disaster-class-hero",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
     "regressor-blind-saint": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-first-prince": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-raising-villains": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-black-badger": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-demon-king": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-copying-skills": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-ode-brave": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-solo-swordmaster": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-star-swordmaster": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-regressing-knight": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-novel-shepherd-wizard": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
-      "status": "fresh_today"
+      "status": "retained"
     },
     "asura-manhwa-barbarian": {
       "lastAttemptAt": "2026-11-20T20:55:55.766429+00:00",
@@ -730,15 +796,15 @@
       "status": "retained"
     },
     "asura-manhwa-suicide-hunter": {
-      "lastAttemptAt": "2026-11-16T11:33:35.350256+00:00",
+      "lastAttemptAt": "2026-11-21T05:27:22.652955+00:00",
       "status": "retained"
     },
     "asura-manhwa-myst-might-mayhem": {
-      "lastAttemptAt": "2026-11-16T11:33:35.350256+00:00",
+      "lastAttemptAt": "2026-11-21T05:27:22.652955+00:00",
       "status": "retained"
     },
     "asura-manhwa-mount-hua": {
-      "lastAttemptAt": "2026-11-16T22:12:55.785818+00:00",
+      "lastAttemptAt": "2026-11-21T05:27:22.652955+00:00",
       "status": "retained"
     },
     "asura-manhwa-deadbeat-noble": {

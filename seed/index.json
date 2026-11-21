@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T02:24:24.169763+00:00",
+  "checkedAt": "2026-11-21T05:27:22.652955+00:00",
   "titles": {
-    "asura-manhwa-the-s-classes-that-i-raised": {
-      "seriesUrl": "https://asurascans.com/comics/the-s-classes-that-i-raised-f212c582",
-      "chapterCount": 188,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-05T07:54:57.386595Z"
-    },
-    "asura-manhwa-return-of-the-disaster-class-hero": {
-      "seriesUrl": "https://asurascans.com/comics/return-of-the-disaster-class-hero-f212c582",
-      "chapterCount": 196,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-04T17:08:07.227679Z"
-    },
-    "asura-manhwa-overgeared": {
-      "seriesUrl": "https://asurascans.com/comics/overgeared-bd5bdaf8",
-      "chapterCount": 348,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-06T21:29:48.144822Z"
-    },
     "asura-manhwa-suicide-hunter": {
       "seriesUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8",
       "chapterCount": 158,
@@ -39,10 +18,10 @@
     },
     "asura-manhwa-mount-hua": {
       "seriesUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8",
-      "chapterCount": 192,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "chapterCount": 194,
+      "checkedAt": "2026-11-21T05:23:58.251948+00:00",
       "firstChapter": 1,
-      "latestPublishedAt": "2026-11-03T17:33:48.488671Z"
+      "latestPublishedAt": "2026-11-18T13:59:01.27207Z"
     },
     "asura-manhwa-deadbeat-noble": {
       "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-04T14:50:27.409485Z"
+    },
+    "asura-manhwa-overgeared": {
+      "seriesUrl": "https://asurascans.com/comics/overgeared-bd5bdaf8",
+      "chapterCount": 348,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-06T21:29:48.144822Z"
+    },
+    "asura-manhwa-the-s-classes-that-i-raised": {
+      "seriesUrl": "https://asurascans.com/comics/the-s-classes-that-i-raised-f212c582",
+      "chapterCount": 188,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T07:54:57.386595Z"
+    },
+    "asura-manhwa-return-of-the-disaster-class-hero": {
+      "seriesUrl": "https://asurascans.com/comics/return-of-the-disaster-class-hero-f212c582",
+      "chapterCount": 196,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-04T17:08:07.227679Z"
     }
   }
 }
