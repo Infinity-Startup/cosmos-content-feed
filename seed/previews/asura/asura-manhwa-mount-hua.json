@@ -7410,10 +7410,10 @@
       }
     },
     "184": {
-      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-f212c582/chapter/184",
-      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/184/e02256.webp?v=1791990339",
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-7ba78ec7/chapter/184",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/184/eb579c.webp?v=1791990339",
       "image": {
-        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/184-auto-v5-4746aee9fa5d.webp"
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/184-portrait-v5-473bb6ef1584.webp"
       },
       "quality": {
         "version": 5,
@@ -7421,8 +7421,8 @@
         "height": 384,
         "textRegions": 0,
         "textScreening": "multilingual-context-and-regions",
-        "faceConfidence": 0.8514,
-        "faceHash": "85f05ac7e0d6639c",
+        "faceConfidence": 0.8628,
+        "faceHash": "805639abf5c8c36d",
         "recognitionLanguages": [
           "ko-KR",
           "en-US",
@@ -7430,78 +7430,74 @@
           "zh-Hans"
         ],
         "sourceCrop": [
-          63,
-          342,
-          447,
-          726
-        ],
-        "sourceSize": [
-          900,
-          2117
-        ],
-        "detectedFace": [
-          137.981,
-          404.043,
-          235.013,
-          260.578
-        ],
-        "outsideFaceWhiteFraction": 0.00093,
-        "largestWhiteRegion": 0.0005,
-        "sharpness": 1489.98,
-        "reviewed": false,
-        "automated": true,
-        "screeningVersion": 1
-      }
-    },
-    "185": {
-      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-f212c582/chapter/185",
-      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/185/c29fbe.webp?v=1793195549",
-      "image": {
-        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/185-auto-v5-a9c98ae80dc0.webp"
-      },
-      "quality": {
-        "version": 5,
-        "width": 384,
-        "height": 384,
-        "textRegions": 0,
-        "textScreening": "multilingual-context-and-regions",
-        "faceConfidence": 0.8649,
-        "faceHash": "90e03a5fc8d6e3d2",
-        "recognitionLanguages": [
-          "ko-KR",
-          "en-US",
-          "ja-JP",
-          "zh-Hans"
-        ],
-        "sourceCrop": [
-          186,
-          11465,
-          619,
-          11898
+          462,
+          2731,
+          718,
+          2987
         ],
         "sourceSize": [
           900,
           16000
         ],
         "detectedFace": [
-          255.297,
-          11515.337,
-          293.543,
-          332.741
+          504.932,
+          2769.159,
+          169.629,
+          178.748
         ],
-        "outsideFaceWhiteFraction": 0.0038,
-        "largestWhiteRegion": 0.00134,
-        "sharpness": 1194.53,
-        "reviewed": false,
-        "automated": true,
-        "screeningVersion": 1
+        "outsideFaceWhiteFraction": 0.03021,
+        "largestWhiteRegion": 0.01523,
+        "sharpness": 1472.64,
+        "reviewed": true
+      }
+    },
+    "185": {
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-7ba78ec7/chapter/185",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/185/385bfd.webp?v=1793195549",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/185-portrait-v5-ff9153270726.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8716,
+        "faceHash": "82e91a8fb38da19d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          340,
+          3748,
+          596,
+          4004
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          384.851,
+          3778.638,
+          166.333,
+          195.557
+        ],
+        "outsideFaceWhiteFraction": 0.00017,
+        "largestWhiteRegion": 5e-05,
+        "sharpness": 750.09,
+        "reviewed": true
       }
     },
     "186": {
       "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-f212c582/chapter/186",
       "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/186/df4ad1.webp?v=1793825269",
       "image": {
-        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/186-auto-v5-5b1d72123bb6.webp"
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/186-portrait-v5-5b1d72123bb6.webp"
       },
       "quality": {
         "version": 5,
@@ -7536,9 +7532,91 @@
         "outsideFaceWhiteFraction": 0.01584,
         "largestWhiteRegion": 0.01317,
         "sharpness": 1211.0,
-        "reviewed": false,
-        "automated": true,
-        "screeningVersion": 1
+        "reviewed": true
+      }
+    },
+    "187": {
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-7ba78ec7/chapter/187",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/187/c30cfc.webp?v=1794501765",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/187-portrait-v5-39cae0dcac0f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "82c85b4f3b182dbb",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          532,
+          10464,
+          841,
+          10773
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          585.791,
+          10499.304,
+          202.148,
+          237.524
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 916.47,
+        "reviewed": true
+      }
+    },
+    "188": {
+      "chapterUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-7ba78ec7/chapter/188",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/return-of-the-mount-hua-sect/188/68767b.webp?v=1795010520",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-mount-hua/188-portrait-v5-24e51908e303.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8721,
+        "faceHash": "c2636f05ab1e7439",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          308,
+          164,
+          593,
+          449
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          340.466,
+          200.665,
+          219.067,
+          212.146
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 799.22,
+        "reviewed": true
       }
     }
   }
