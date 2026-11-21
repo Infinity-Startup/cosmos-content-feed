@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-21T18:04:43.978830+00:00",
+  "checkedAt": "2026-11-21T23:24:57.611063+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-deadbeat-noble",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-swordmaster-son",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-blade-of-the-discarded",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-genius-knight-of-a-fallen-race",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-monster-s-streamer-star",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-21T05:23:58.251948+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-deadbeat-noble",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-swordmaster-son",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1064,15 +1064,15 @@
       "status": "retained"
     },
     "asura-manhwa-blade-of-the-discarded": {
-      "lastAttemptAt": "2026-11-17T02:26:41.335992+00:00",
+      "lastAttemptAt": "2026-11-21T23:24:57.611063+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-genius-knight-of-a-fallen-race": {
-      "lastAttemptAt": "2026-11-17T02:26:41.335992+00:00",
+      "lastAttemptAt": "2026-11-21T23:24:57.611063+00:00",
       "status": "retained"
     },
     "asura-manhwa-monster-s-streamer-star": {
-      "lastAttemptAt": "2026-11-17T02:30:18.449133+00:00",
+      "lastAttemptAt": "2026-11-21T23:24:57.611063+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {

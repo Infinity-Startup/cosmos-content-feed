@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T18:04:43.978830+00:00",
+  "checkedAt": "2026-11-21T23:24:57.611063+00:00",
   "titles": {
-    "asura-manhwa-deadbeat-noble": {
-      "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
-      "chapterCount": 167,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-07T00:45:16.166481Z"
-    },
-    "asura-manhwa-swordmaster-son": {
-      "seriesUrl": "https://asurascans.com/comics/swordmasters-youngest-son-bd5bdaf8",
-      "chapterCount": 220,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-07T16:53:18.962207Z"
-    },
-    "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law": {
-      "seriesUrl": "https://asurascans.com/comics/the-grand-duke-of-the-norths-crazy-son-in-law-7ba78ec7",
-      "chapterCount": 10,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-16T22:16:39.725826Z"
-    },
     "asura-manhwa-blade-of-the-discarded": {
       "seriesUrl": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7",
       "chapterCount": 8,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-21T05:23:58.251948+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-18T13:59:01.27207Z"
+    },
+    "asura-manhwa-deadbeat-noble": {
+      "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
+      "chapterCount": 167,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T00:45:16.166481Z"
+    },
+    "asura-manhwa-swordmaster-son": {
+      "seriesUrl": "https://asurascans.com/comics/swordmasters-youngest-son-bd5bdaf8",
+      "chapterCount": 220,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T16:53:18.962207Z"
+    },
+    "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law": {
+      "seriesUrl": "https://asurascans.com/comics/the-grand-duke-of-the-norths-crazy-son-in-law-7ba78ec7",
+      "chapterCount": 10,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-16T22:16:39.725826Z"
     }
   }
 }
