@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T05:27:22.652955+00:00",
+  "checkedAt": "2026-11-21T18:04:43.978830+00:00",
   "titles": {
-    "asura-manhwa-suicide-hunter": {
-      "seriesUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8",
-      "chapterCount": 158,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-05T15:59:37.608297Z"
-    },
-    "asura-manhwa-myst-might-mayhem": {
-      "seriesUrl": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8",
-      "chapterCount": 124,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T19:47:45.347Z"
-    },
-    "asura-manhwa-mount-hua": {
-      "seriesUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8",
-      "chapterCount": 194,
-      "checkedAt": "2026-11-21T05:23:58.251948+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-18T13:59:01.27207Z"
-    },
     "asura-manhwa-deadbeat-noble": {
       "seriesUrl": "https://asurascans.com/comics/reformation-of-the-deadbeat-noble-bd5bdaf8",
       "chapterCount": 167,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-04T17:08:07.227679Z"
+    },
+    "asura-manhwa-suicide-hunter": {
+      "seriesUrl": "https://asurascans.com/comics/sss-class-suicide-hunter-bd5bdaf8",
+      "chapterCount": 158,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T15:59:37.608297Z"
+    },
+    "asura-manhwa-myst-might-mayhem": {
+      "seriesUrl": "https://asurascans.com/comics/myst-might-mayhem-bd5bdaf8",
+      "chapterCount": 124,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T19:47:45.347Z"
+    },
+    "asura-manhwa-mount-hua": {
+      "seriesUrl": "https://asurascans.com/comics/return-of-the-mount-hua-sect-bd5bdaf8",
+      "chapterCount": 194,
+      "checkedAt": "2026-11-21T05:23:58.251948+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-18T13:59:01.27207Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-21T05:27:22.652955+00:00",
+  "checkedAt": "2026-11-21T18:04:43.978830+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-suicide-hunter",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-myst-might-mayhem",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-mount-hua",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-21T05:23:58.251948+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-deadbeat-noble",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-swordmaster-son",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-blade-of-the-discarded",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-suicide-hunter",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-myst-might-mayhem",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-mount-hua",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-21T05:23:58.251948+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -808,11 +808,11 @@
       "status": "retained"
     },
     "asura-manhwa-deadbeat-noble": {
-      "lastAttemptAt": "2026-11-16T22:12:55.785818+00:00",
+      "lastAttemptAt": "2026-11-21T18:04:43.978830+00:00",
       "status": "retained"
     },
     "asura-manhwa-swordmaster-son": {
-      "lastAttemptAt": "2026-11-16T22:12:55.785818+00:00",
+      "lastAttemptAt": "2026-11-21T18:04:43.978830+00:00",
       "status": "retained"
     },
     "asura-manhwa-estate-developer": {
@@ -1060,7 +1060,7 @@
       "status": "retained"
     },
     "asura-manhwa-the-grand-duke-of-the-norths-crazy-son-in-law": {
-      "lastAttemptAt": "2026-11-17T02:26:41.335992+00:00",
+      "lastAttemptAt": "2026-11-21T18:04:43.978830+00:00",
       "status": "retained"
     },
     "asura-manhwa-blade-of-the-discarded": {
