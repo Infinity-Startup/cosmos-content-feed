@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-22T06:58:20.685845+00:00",
+  "checkedAt": "2026-11-22T15:25:29.274852+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-estate-developer",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-infinite-mage",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-nano-machine",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-regressor-and-the-blind-saint",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-copying-skills-with-affinity",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-estate-developer",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-pick-up-a-grimoire-become-a-mage",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:22:28.715096+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -820,11 +820,11 @@
       "status": "retained"
     },
     "asura-manhwa-infinite-mage": {
-      "lastAttemptAt": "2026-11-17T04:34:28.190671+00:00",
+      "lastAttemptAt": "2026-11-22T15:25:29.274852+00:00",
       "status": "retained"
     },
     "asura-manhwa-nano-machine": {
-      "lastAttemptAt": "2026-11-17T04:34:28.190671+00:00",
+      "lastAttemptAt": "2026-11-22T15:25:29.274852+00:00",
       "status": "retained"
     },
     "asura-manhwa-absolute-sword-sense": {
@@ -1084,7 +1084,7 @@
       "status": "retained"
     },
     "asura-manhwa-the-regressor-and-the-blind-saint": {
-      "lastAttemptAt": "2026-11-17T08:46:05.244952+00:00",
+      "lastAttemptAt": "2026-11-22T15:25:29.274852+00:00",
       "status": "retained"
     },
     "asura-manhwa-copying-skills-with-affinity": {

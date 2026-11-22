@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T06:58:20.685845+00:00",
+  "checkedAt": "2026-11-22T15:25:29.274852+00:00",
   "titles": {
-    "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {
-      "seriesUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7",
-      "chapterCount": 10,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T20:38:19.625768Z"
-    },
-    "asura-manhwa-pick-up-a-grimoire-become-a-mage": {
-      "seriesUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7",
-      "chapterCount": 12,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-13T07:04:53.333793Z"
-    },
-    "asura-manhwa-estate-developer": {
-      "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
-      "chapterCount": 223,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-03-19T01:28:20Z"
-    },
     "asura-manhwa-infinite-mage": {
       "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
       "chapterCount": 193,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-10T12:46:21.69Z"
+    },
+    "asura-manhwa-estate-developer": {
+      "seriesUrl": "https://asurascans.com/comics/the-greatest-estate-developer-bd5bdaf8",
+      "chapterCount": 223,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-03-19T01:28:20Z"
+    },
+    "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {
+      "seriesUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7",
+      "chapterCount": 10,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T20:38:19.625768Z"
+    },
+    "asura-manhwa-pick-up-a-grimoire-become-a-mage": {
+      "seriesUrl": "https://asurascans.com/comics/pick-up-a-grimoire-become-a-mage-7ba78ec7",
+      "chapterCount": 12,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T07:04:53.333793Z"
     }
   }
 }
