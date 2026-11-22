@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T15:25:29.274852+00:00",
+  "checkedAt": "2026-11-22T20:09:21.014048+00:00",
   "titles": {
-    "asura-manhwa-infinite-mage": {
-      "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
-      "chapterCount": 193,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T15:55:05.346Z"
-    },
-    "asura-manhwa-nano-machine": {
-      "seriesUrl": "https://asurascans.com/comics/nano-machine-bd5bdaf8",
-      "chapterCount": 337,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-05T04:42:20.425701Z"
-    },
-    "asura-manhwa-the-regressor-and-the-blind-saint": {
-      "seriesUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7",
-      "chapterCount": 26,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-10T15:56:43.667Z"
-    },
     "asura-manhwa-copying-skills-with-affinity": {
       "seriesUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7",
       "chapterCount": 14,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-13T07:04:53.333793Z"
+    },
+    "asura-manhwa-infinite-mage": {
+      "seriesUrl": "https://asurascans.com/comics/infinite-mage-bd5bdaf8",
+      "chapterCount": 193,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T15:55:05.346Z"
+    },
+    "asura-manhwa-nano-machine": {
+      "seriesUrl": "https://asurascans.com/comics/nano-machine-bd5bdaf8",
+      "chapterCount": 337,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-05T04:42:20.425701Z"
+    },
+    "asura-manhwa-the-regressor-and-the-blind-saint": {
+      "seriesUrl": "https://asurascans.com/comics/the-regressor-and-the-blind-saint-7ba78ec7",
+      "chapterCount": 26,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-10T15:56:43.667Z"
     }
   }
 }
