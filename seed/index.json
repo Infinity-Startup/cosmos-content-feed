@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T23:24:57.611063+00:00",
+  "checkedAt": "2026-11-22T06:58:20.685845+00:00",
   "titles": {
-    "asura-manhwa-blade-of-the-discarded": {
-      "seriesUrl": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7",
-      "chapterCount": 8,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-12T11:27:21.041708Z"
-    },
-    "asura-manhwa-the-genius-knight-of-a-fallen-race": {
-      "seriesUrl": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7",
-      "chapterCount": 8,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T13:41:21.520574Z"
-    },
-    "asura-manhwa-monster-s-streamer-star": {
-      "seriesUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7",
-      "chapterCount": 11,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T12:46:21.69Z"
-    },
     "asura-manhwa-the-newbie-civil-servant-hunts-villains-before-goi": {
       "seriesUrl": "https://asurascans.com/comics/the-newbie-civil-servant-hunts-villains-before-goi-7ba78ec7",
       "chapterCount": 10,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-16T22:16:39.725826Z"
+    },
+    "asura-manhwa-blade-of-the-discarded": {
+      "seriesUrl": "https://asurascans.com/comics/blade-of-the-discarded-7ba78ec7",
+      "chapterCount": 8,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-12T11:27:21.041708Z"
+    },
+    "asura-manhwa-the-genius-knight-of-a-fallen-race": {
+      "seriesUrl": "https://asurascans.com/comics/the-genius-knight-of-a-fallen-race-7ba78ec7",
+      "chapterCount": 8,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T13:41:21.520574Z"
+    },
+    "asura-manhwa-monster-s-streamer-star": {
+      "seriesUrl": "https://asurascans.com/comics/monster-s-streamer-star-7ba78ec7",
+      "chapterCount": 11,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T12:46:21.69Z"
     }
   }
 }
