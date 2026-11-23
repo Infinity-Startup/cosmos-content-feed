@@ -1387,6 +1387,132 @@
         "sharpness": 3638.19,
         "reviewed": true
       }
+    },
+    "34": {
+      "chapterUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7/chapter/34",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/magic-academys-genius-blinker/34/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-magic-academys-genius-blinker/34-portrait-v5-4fc6b0e392fb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8828,
+        "faceHash": "90697a85bc4e277a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          459,
+          8318,
+          715,
+          8574
+        ],
+        "sourceSize": [
+          800,
+          12552
+        ],
+        "detectedFace": [
+          511.719,
+          8365.039,
+          150.0,
+          162.891
+        ],
+        "outsideFaceWhiteFraction": 3e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 4403.02,
+        "reviewed": true
+      }
+    },
+    "35": {
+      "chapterUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7/chapter/35",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/magic-academys-genius-blinker/35/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-magic-academys-genius-blinker/35-portrait-v5-4d8f64d666fc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "de817897b58866e1",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          230,
+          12313,
+          565,
+          12648
+        ],
+        "sourceSize": [
+          800,
+          15789
+        ],
+        "detectedFace": [
+          245.215,
+          12363.574,
+          257.617,
+          233.008
+        ],
+        "outsideFaceWhiteFraction": 0.02496,
+        "largestWhiteRegion": 0.01685,
+        "sharpness": 4589.85,
+        "reviewed": true
+      }
+    },
+    "38": {
+      "chapterUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7/chapter/38",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/magic-academys-genius-blinker/38/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-magic-academys-genius-blinker/38-portrait-v5-c331b9c58937.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8799,
+        "faceHash": "867739c2d06ec378",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          196,
+          8689,
+          460,
+          8953
+        ],
+        "sourceSize": [
+          800,
+          10273
+        ],
+        "detectedFace": [
+          244.531,
+          8724.512,
+          202.734,
+          193.164
+        ],
+        "outsideFaceWhiteFraction": 0.02682,
+        "largestWhiteRegion": 0.011,
+        "sharpness": 4799.17,
+        "reviewed": true
+      }
     }
   }
 }
