@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T02:52:01.853219+00:00",
+  "checkedAt": "2026-11-23T08:59:50.842939+00:00",
   "titles": {
-    "asura-manhwa-ode-of-the-brave": {
-      "seriesUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7",
-      "chapterCount": 18,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-14T18:11:28.661004Z"
-    },
-    "asura-manhwa-whispers-of-a-scheming-demon": {
-      "seriesUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7",
-      "chapterCount": 15,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T02:18:41.527299Z"
-    },
-    "asura-manhwa-shadow-slave": {
-      "seriesUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7",
-      "chapterCount": 17,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-12T17:14:02.374Z"
-    },
     "asura-manhwa-the-tale-of-cultivation-and-demon-extermination": {
       "seriesUrl": "https://asurascans.com/comics/the-tale-of-cultivation-and-demon-extermination-7ba78ec7",
       "chapterCount": 22,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-12T10:26:40.378378Z"
+    },
+    "asura-manhwa-ode-of-the-brave": {
+      "seriesUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7",
+      "chapterCount": 18,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-14T18:11:28.661004Z"
+    },
+    "asura-manhwa-whispers-of-a-scheming-demon": {
+      "seriesUrl": "https://asurascans.com/comics/whispers-of-a-scheming-demon-7ba78ec7",
+      "chapterCount": 15,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T02:18:41.527299Z"
+    },
+    "asura-manhwa-shadow-slave": {
+      "seriesUrl": "https://asurascans.com/comics/shadow-slave-7ba78ec7",
+      "chapterCount": 17,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-12T17:14:02.374Z"
     }
   }
 }
