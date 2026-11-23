@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T20:09:21.014048+00:00",
+  "checkedAt": "2026-11-23T02:52:01.853219+00:00",
   "titles": {
-    "asura-manhwa-copying-skills-with-affinity": {
-      "seriesUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7",
-      "chapterCount": 14,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-13T20:41:44.435383Z"
-    },
-    "asura-manhwa-solo-swordmaster": {
-      "seriesUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7",
-      "chapterCount": 26,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-10T18:49:36.467Z"
-    },
-    "asura-manhwa-my-dragon-girlfriends-return": {
-      "seriesUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7",
-      "chapterCount": 13,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-12T10:26:40.378378Z"
-    },
     "asura-manhwa-ode-of-the-brave": {
       "seriesUrl": "https://asurascans.com/comics/ode-of-the-brave-7ba78ec7",
       "chapterCount": 18,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-10T15:56:43.667Z"
+    },
+    "asura-manhwa-copying-skills-with-affinity": {
+      "seriesUrl": "https://asurascans.com/comics/copying-skills-with-affinity-7ba78ec7",
+      "chapterCount": 14,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T20:41:44.435383Z"
+    },
+    "asura-manhwa-solo-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7",
+      "chapterCount": 26,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-10T18:49:36.467Z"
+    },
+    "asura-manhwa-my-dragon-girlfriends-return": {
+      "seriesUrl": "https://asurascans.com/comics/my-dragon-girlfriends-return-7ba78ec7",
+      "chapterCount": 13,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-12T10:26:40.378378Z"
     }
   }
 }
