@@ -1723,6 +1723,90 @@
         "sharpness": 1392.57,
         "reviewed": true
       }
+    },
+    "36": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/36",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/36/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/36-portrait-v5-e9a15d54f551.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "c6bc79c3918f6618",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          56,
+          7789,
+          312,
+          8045
+        ],
+        "sourceSize": [
+          800,
+          11300
+        ],
+        "detectedFace": [
+          117.969,
+          7833.008,
+          131.445,
+          167.383
+        ],
+        "outsideFaceWhiteFraction": 0.0432,
+        "largestWhiteRegion": 0.01738,
+        "sharpness": 1440.26,
+        "reviewed": true
+      }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/a-cadet-becomes-a-prophet-7ba78ec7/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-cadet-becomes-a-prophet/39/013.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-cadet-becomes-a-prophet/39-portrait-v5-4e4b18ff1705.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8589,
+        "faceHash": "926a6b9fb148669c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          275,
+          2834,
+          531,
+          3090
+        ],
+        "sourceSize": [
+          800,
+          6721
+        ],
+        "detectedFace": [
+          331.543,
+          2889.258,
+          142.383,
+          146.484
+        ],
+        "outsideFaceWhiteFraction": 0.00433,
+        "largestWhiteRegion": 0.00282,
+        "sharpness": 1133.98,
+        "reviewed": true
+      }
     }
   }
 }

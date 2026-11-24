@@ -1765,6 +1765,90 @@
         "sharpness": 3669.54,
         "reviewed": true
       }
+    },
+    "39": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/39",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/39/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/39-portrait-v5-090e5031d255.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8506,
+        "faceHash": "c6472fbb99d86284",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          442,
+          5265,
+          767,
+          5590
+        ],
+        "sourceSize": [
+          800,
+          12615
+        ],
+        "detectedFace": [
+          465.82,
+          5285.938,
+          276.953,
+          282.812
+        ],
+        "outsideFaceWhiteFraction": 0.04092,
+        "largestWhiteRegion": 0.00706,
+        "sharpness": 3309.42,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-novels-extra-remake/43/005.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-novels-extra-remake/43-portrait-v5-7cc5a630d312.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "c04569faa58c6e3d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          223,
+          7948,
+          479,
+          8204
+        ],
+        "sourceSize": [
+          800,
+          11568
+        ],
+        "detectedFace": [
+          234.375,
+          7940.332,
+          232.422,
+          238.867
+        ],
+        "outsideFaceWhiteFraction": 0.01945,
+        "largestWhiteRegion": 0.01512,
+        "sharpness": 7721.23,
+        "reviewed": true
+      }
     }
   }
 }

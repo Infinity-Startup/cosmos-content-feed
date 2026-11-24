@@ -1849,6 +1849,48 @@
         "sharpness": 1955.46,
         "reviewed": true
       }
+    },
+    "33": {
+      "chapterUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7/chapter/33",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/damn-reincarnation/33/003.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-damn-reincarnation/33-portrait-v5-0e9c24c0a0fb.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "9632389991db2f69",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          10,
+          250,
+          266,
+          506
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          71.24,
+          303.906,
+          133.105,
+          148.828
+        ],
+        "outsideFaceWhiteFraction": 0.00452,
+        "largestWhiteRegion": 0.0025,
+        "sharpness": 1600.17,
+        "reviewed": true
+      }
     }
   }
 }
