@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T00:36:24.164877+00:00",
+  "checkedAt": "2026-11-24T11:02:18.641624+00:00",
   "titles": {
-    "asura-manhwa-a-painter-who-draws-dungeons": {
-      "seriesUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7",
-      "chapterCount": 33,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T18:46:46.096408Z"
-    },
-    "asura-manhwa-damn-reincarnation": {
-      "seriesUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7",
-      "chapterCount": 83,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-14T01:39:51.525605Z"
-    },
-    "asura-manhwa-logging-out-is-too-hard": {
-      "seriesUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7",
-      "chapterCount": 22,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-16T16:39:05.991911Z"
-    },
     "asura-manhwa-rebirth-of-the-divine-demon": {
       "seriesUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7",
       "chapterCount": 61,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-10T17:35:30.892Z"
+    },
+    "asura-manhwa-a-painter-who-draws-dungeons": {
+      "seriesUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7",
+      "chapterCount": 33,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T18:46:46.096408Z"
+    },
+    "asura-manhwa-damn-reincarnation": {
+      "seriesUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7",
+      "chapterCount": 83,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-14T01:39:51.525605Z"
+    },
+    "asura-manhwa-logging-out-is-too-hard": {
+      "seriesUrl": "https://asurascans.com/comics/logging-out-is-too-hard-7ba78ec7",
+      "chapterCount": 22,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-16T16:39:05.991911Z"
     }
   }
 }
