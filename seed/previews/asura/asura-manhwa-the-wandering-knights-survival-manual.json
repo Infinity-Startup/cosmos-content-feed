@@ -1513,6 +1513,132 @@
         "sharpness": 2452.94,
         "reviewed": true
       }
+    },
+    "16": {
+      "chapterUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/16",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-wandering-knights-survival-manual/16/007.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-wandering-knights-survival-manual/16-portrait-v5-26f6b25f4ce6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "d5d89e21d8d6611e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          306,
+          5050,
+          668,
+          5412
+        ],
+        "sourceSize": [
+          800,
+          13750
+        ],
+        "detectedFace": [
+          375.977,
+          5091.797,
+          223.047,
+          278.125
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 3319.37,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-wandering-knights-survival-manual/44/b64595.webp?v=1780340607",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-wandering-knights-survival-manual/44-portrait-v5-835e84ea77d8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "867629d9e1db234c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          332,
+          8897,
+          589,
+          9154
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          375.293,
+          8926.392,
+          170.508,
+          197.754
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1146.54,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-wandering-knights-survival-manual/45/0c3a0a.webp?v=1780937482",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-wandering-knights-survival-manual/45-portrait-v5-3c52bca9cfef.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8525,
+        "faceHash": "d332685fc569272c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          509,
+          12489,
+          765,
+          12745
+        ],
+        "sourceSize": [
+          900,
+          13850
+        ],
+        "detectedFace": [
+          571.948,
+          12539.465,
+          130.518,
+          155.347
+        ],
+        "outsideFaceWhiteFraction": 6e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1864.77,
+        "reviewed": true
+      }
     }
   }
 }

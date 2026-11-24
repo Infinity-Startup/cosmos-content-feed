@@ -967,6 +967,48 @@
         "sharpness": 1680.85,
         "reviewed": true
       }
+    },
+    "24": {
+      "chapterUrl": "https://asurascans.com/comics/solo-swordmaster-7ba78ec7/chapter/24",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/solo-swordmaster/24/e263c7.webp?v=1793111655",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-solo-swordmaster/24-portrait-v5-aebda515ee83.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8638,
+        "faceHash": "d1702ed7b049f94c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          307,
+          6794,
+          563,
+          7050
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          324.207,
+          6822.729,
+          220.825,
+          230.054
+        ],
+        "outsideFaceWhiteFraction": 0.02576,
+        "largestWhiteRegion": 0.0168,
+        "sharpness": 2051.88,
+        "reviewed": true
+      }
     }
   }
 }

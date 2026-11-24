@@ -1555,6 +1555,90 @@
         "sharpness": 1094.4,
         "reviewed": true
       }
+    },
+    "15": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/15",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/15/005.webp?v=1771703774",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/15-portrait-v5-b57b13b5f275.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "da1239a9b2d96369",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          258,
+          7108,
+          535,
+          7385
+        ],
+        "sourceSize": [
+          800,
+          14065
+        ],
+        "detectedFace": [
+          290.137,
+          7141.602,
+          213.086,
+          209.766
+        ],
+        "outsideFaceWhiteFraction": 0.00227,
+        "largestWhiteRegion": 0.00122,
+        "sharpness": 1292.37,
+        "reviewed": true
+      }
+    },
+    "30": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/30",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/30/bbaaee.webp?v=1780859773",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/30-portrait-v5-7fe1ba3fcde0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.874,
+        "faceHash": "c23768fac49173a9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          300,
+          7329,
+          592,
+          7621
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          357.605,
+          7362.817,
+          177.319,
+          224.561
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1518.07,
+        "reviewed": true
+      }
     }
   }
 }

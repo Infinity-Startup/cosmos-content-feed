@@ -1639,6 +1639,216 @@
         "sharpness": 3521.79,
         "reviewed": true
       }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/damn-reincarnation/42/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-damn-reincarnation/42-portrait-v5-3f1354399bcd.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8579,
+        "faceHash": "81603fc793ce5f09",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          448,
+          5144,
+          770,
+          5466
+        ],
+        "sourceSize": [
+          800,
+          14411
+        ],
+        "detectedFace": [
+          508.594,
+          5180.762,
+          246.094,
+          247.852
+        ],
+        "outsideFaceWhiteFraction": 0.02837,
+        "largestWhiteRegion": 0.01366,
+        "sharpness": 2630.19,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/damn-reincarnation/43/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-damn-reincarnation/43-portrait-v5-bbeb3c430310.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "9aea2bc6b71a3489",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          445,
+          5984,
+          701,
+          6240
+        ],
+        "sourceSize": [
+          800,
+          13684
+        ],
+        "detectedFace": [
+          494.727,
+          6011.523,
+          191.797,
+          200.977
+        ],
+        "outsideFaceWhiteFraction": 0.0545,
+        "largestWhiteRegion": 0.00917,
+        "sharpness": 3277.09,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/damn-reincarnation/44/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-damn-reincarnation/44-portrait-v5-10be9e0b5506.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8608,
+        "faceHash": "866c47a6a35b21ee",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          69,
+          1012,
+          338,
+          1281
+        ],
+        "sourceSize": [
+          800,
+          12711
+        ],
+        "detectedFace": [
+          107.91,
+          1043.359,
+          191.211,
+          207.031
+        ],
+        "outsideFaceWhiteFraction": 0.00377,
+        "largestWhiteRegion": 0.0013,
+        "sharpness": 1140.94,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/damn-reincarnation/45/006.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-damn-reincarnation/45-portrait-v5-0076e2a235c3.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8691,
+        "faceHash": "d6213ac2a555e65e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          22,
+          766,
+          307,
+          1051
+        ],
+        "sourceSize": [
+          800,
+          11995
+        ],
+        "detectedFace": [
+          54.688,
+          804.59,
+          218.945,
+          208.398
+        ],
+        "outsideFaceWhiteFraction": 0.00107,
+        "largestWhiteRegion": 0.00017,
+        "sharpness": 1034.12,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/damn-reincarnation-7ba78ec7/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/damn-reincarnation/46/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-damn-reincarnation/46-portrait-v5-fc946dc07c22.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8667,
+        "faceHash": "d7606fc6951fe00c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          431,
+          1864,
+          701,
+          2134
+        ],
+        "sourceSize": [
+          800,
+          14540
+        ],
+        "detectedFace": [
+          461.914,
+          1909.326,
+          207.422,
+          180.176
+        ],
+        "outsideFaceWhiteFraction": 0.00079,
+        "largestWhiteRegion": 0.00072,
+        "sharpness": 1955.46,
+        "reviewed": true
+      }
     }
   }
 }

@@ -1513,6 +1513,258 @@
         "sharpness": 1534.78,
         "reviewed": true
       }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/42/f885b8.webp?v=1787422407",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/42-portrait-v5-7cff7fc7e822.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8599,
+        "faceHash": "943c6bc0e53e26f8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          136,
+          680,
+          392,
+          936
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          177.045,
+          711.859,
+          174.133,
+          192.81
+        ],
+        "outsideFaceWhiteFraction": 0.00404,
+        "largestWhiteRegion": 0.0015,
+        "sharpness": 1865.63,
+        "reviewed": true
+      }
+    },
+    "43": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/43",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/43/f37753.webp?v=1787422412",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/43-portrait-v5-b3fe98d6459a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8677,
+        "faceHash": "977868cacd9ba191",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          84,
+          13667,
+          368,
+          13951
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          116.84,
+          13700.006,
+          218.079,
+          218.298
+        ],
+        "outsideFaceWhiteFraction": 0.03426,
+        "largestWhiteRegion": 0.0088,
+        "sharpness": 3126.28,
+        "reviewed": true
+      }
+    },
+    "27": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/27",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/27/009.webp?v=1772924670",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/27-portrait-v5-ffeaa1a9b4a9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "85dc3ce363333718",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          157,
+          1198,
+          442,
+          1483
+        ],
+        "sourceSize": [
+          800,
+          9820
+        ],
+        "detectedFace": [
+          189.453,
+          1236.328,
+          219.141,
+          209.18
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 641.44,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/45/fc5a31.webp?v=1788441779",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/45-portrait-v5-0407707bdd66.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "8b752852a5c9f35a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          508,
+          10339,
+          835,
+          10666
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          568.213,
+          10377.686,
+          251.367,
+          250.049
+        ],
+        "outsideFaceWhiteFraction": 0.01567,
+        "largestWhiteRegion": 0.00563,
+        "sharpness": 2240.27,
+        "reviewed": true
+      }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/46/7d178d.webp?v=1789052099",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/46-portrait-v5-265f1b631652.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8813,
+        "faceHash": "9ee87ca6c1990759",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          559,
+          8921,
+          815,
+          9177
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          603.369,
+          8952.704,
+          167.871,
+          192.151
+        ],
+        "outsideFaceWhiteFraction": 0.00592,
+        "largestWhiteRegion": 0.00357,
+        "sharpness": 3026.61,
+        "reviewed": true
+      }
+    },
+    "32": {
+      "chapterUrl": "https://asurascans.com/comics/echoes-of-the-reverse-planet-7ba78ec7/chapter/32",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/echoes-of-the-reverse-planet/32/d1d396.webp?v=1776030104",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-echoes-of-the-reverse-planet/32-portrait-v5-37e9bf6d0e6d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "c44d41cbc78d371d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          286,
+          514,
+          568,
+          796
+        ],
+        "sourceSize": [
+          800,
+          14179
+        ],
+        "detectedFace": [
+          311.328,
+          532.812,
+          231.25,
+          245.312
+        ],
+        "outsideFaceWhiteFraction": 0.0354,
+        "largestWhiteRegion": 0.01671,
+        "sharpness": 3774.67,
+        "reviewed": true
+      }
     }
   }
 }

@@ -1555,6 +1555,216 @@
         "sharpness": 1750.25,
         "reviewed": true
       }
+    },
+    "19": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/19",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/19/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/19-portrait-v5-f0e44a241833.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8555,
+        "faceHash": "85257bcaf03c25cb",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          142,
+          10989,
+          458,
+          11305
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          195.215,
+          11025.684,
+          209.57,
+          243.164
+        ],
+        "outsideFaceWhiteFraction": 0.00011,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1465.34,
+        "reviewed": true
+      }
+    },
+    "41": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/41",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/41/7a1e21.webp?v=1777916655",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/41-portrait-v5-1662ac4c7e9f.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "c56c6ad321d3312f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          63,
+          370,
+          499,
+          806
+        ],
+        "sourceSize": [
+          900,
+          14045
+        ],
+        "detectedFace": [
+          113.599,
+          447.913,
+          335.303,
+          281.03
+        ],
+        "outsideFaceWhiteFraction": 0.00043,
+        "largestWhiteRegion": 0.00014,
+        "sharpness": 1770.27,
+        "reviewed": true
+      }
+    },
+    "42": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/42",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/42/5a1b8a.webp?v=1778231469",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/42-portrait-v5-ff274ab5e0ab.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8662,
+        "faceHash": "95786acb358b7095",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          507,
+          11840,
+          900,
+          12233
+        ],
+        "sourceSize": [
+          900,
+          15000
+        ],
+        "detectedFace": [
+          597.656,
+          11899.731,
+          302.344,
+          272.9
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 1817.48,
+        "reviewed": true
+      }
+    },
+    "44": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/44",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/44/16eef2.webp?v=1778822179",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/44-portrait-v5-ef453e49d174.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "d4096ad5a132cf6b",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          13,
+          12811,
+          317,
+          13115
+        ],
+        "sourceSize": [
+          800,
+          14360
+        ],
+        "detectedFace": [
+          47.949,
+          12872.949,
+          233.789,
+          179.492
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1598.2,
+        "reviewed": true
+      }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/rebirth-of-the-divine-demon/45/a42309.webp?v=1779403081",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-rebirth-of-the-divine-demon/45-portrait-v5-c74d9d54603d.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8784,
+        "faceHash": "c5776ae0b8609dc3",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          55,
+          14654,
+          348,
+          14947
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          89.209,
+          14694.434,
+          225.22,
+          211.816
+        ],
+        "outsideFaceWhiteFraction": 0.00015,
+        "largestWhiteRegion": 9e-05,
+        "sharpness": 1611.81,
+        "reviewed": true
+      }
     }
   }
 }

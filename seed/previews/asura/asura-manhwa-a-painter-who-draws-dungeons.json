@@ -1135,6 +1135,90 @@
         "sharpness": 1662.0,
         "reviewed": true
       }
+    },
+    "17": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/17",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/17/b9759d.webp?v=1785009258",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/17-portrait-v5-21c0bce0976c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "d6e25d8bf81c22b8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          460,
+          3852,
+          749,
+          4141
+        ],
+        "sourceSize": [
+          900,
+          15311
+        ],
+        "detectedFace": [
+          493.286,
+          3888.94,
+          221.924,
+          214.893
+        ],
+        "outsideFaceWhiteFraction": 0.04794,
+        "largestWhiteRegion": 0.01004,
+        "sharpness": 2030.0,
+        "reviewed": true
+      }
+    },
+    "23": {
+      "chapterUrl": "https://asurascans.com/comics/a-painter-who-draws-dungeons-7ba78ec7/chapter/23",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/a-painter-who-draws-dungeons/23/426351.webp?v=1788623240",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-a-painter-who-draws-dungeons/23-portrait-v5-6bfaa3ea5f4e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8594,
+        "faceHash": "c7961d83fa846acc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          257,
+          3872,
+          513,
+          4128
+        ],
+        "sourceSize": [
+          900,
+          16065
+        ],
+        "detectedFace": [
+          296.521,
+          3915.308,
+          176.88,
+          170.068
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1390.75,
+        "reviewed": true
+      }
     }
   }
 }

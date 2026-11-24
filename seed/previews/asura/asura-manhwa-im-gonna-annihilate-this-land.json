@@ -1513,6 +1513,90 @@
         "sharpness": 3561.96,
         "reviewed": true
       }
+    },
+    "45": {
+      "chapterUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/45",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/im-gonna-annihilate-this-land/45/001.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-im-gonna-annihilate-this-land/45-portrait-v5-edae626b5a32.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8711,
+        "faceHash": "ac5ff896d41d7088",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          132,
+          3282,
+          388,
+          3538
+        ],
+        "sourceSize": [
+          800,
+          11890
+        ],
+        "detectedFace": [
+          142.383,
+          3313.77,
+          235.156,
+          223.242
+        ],
+        "outsideFaceWhiteFraction": 0.02151,
+        "largestWhiteRegion": 0.00464,
+        "sharpness": 2624.09,
+        "reviewed": true
+      }
+    },
+    "31": {
+      "chapterUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7/chapter/31",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/im-gonna-annihilate-this-land/31/003.webp?v=1786676822",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-im-gonna-annihilate-this-land/31-portrait-v5-33a028914a87.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "967563ce79184d19",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          502,
+          12779,
+          800,
+          13077
+        ],
+        "sourceSize": [
+          800,
+          13880
+        ],
+        "detectedFace": [
+          567.578,
+          12813.672,
+          228.906,
+          227.734
+        ],
+        "outsideFaceWhiteFraction": 0.01299,
+        "largestWhiteRegion": 0.005,
+        "sharpness": 4169.28,
+        "reviewed": true
+      }
     }
   }
 }
