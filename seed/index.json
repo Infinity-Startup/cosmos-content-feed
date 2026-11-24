@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T11:25:00.501436+00:00",
+  "checkedAt": "2026-11-24T11:27:29.048598+00:00",
   "titles": {
-    "asura-manhwa-the-tutorial-is-too-hard": {
-      "seriesUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7",
-      "chapterCount": 298,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 0,
-      "latestPublishedAt": "2026-11-16T19:27:57.113885Z"
-    },
-    "asura-manhwa-the-wandering-knights-survival-manual": {
-      "seriesUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7",
-      "chapterCount": 68,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T16:42:35.713703Z"
-    },
-    "asura-manhwa-limitless-predation": {
-      "seriesUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7",
-      "chapterCount": 32,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T16:36:16.762374Z"
-    },
     "asura-manhwa-the-novels-extra-remake": {
       "seriesUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7",
       "chapterCount": 180,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-16T23:43:33.126945Z"
+    },
+    "asura-manhwa-the-tutorial-is-too-hard": {
+      "seriesUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7",
+      "chapterCount": 298,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 0,
+      "latestPublishedAt": "2026-11-16T19:27:57.113885Z"
+    },
+    "asura-manhwa-the-wandering-knights-survival-manual": {
+      "seriesUrl": "https://asurascans.com/comics/the-wandering-knights-survival-manual-7ba78ec7",
+      "chapterCount": 68,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T16:42:35.713703Z"
+    },
+    "asura-manhwa-limitless-predation": {
+      "seriesUrl": "https://asurascans.com/comics/limitless-predation-7ba78ec7",
+      "chapterCount": 32,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T16:36:16.762374Z"
     }
   }
 }
