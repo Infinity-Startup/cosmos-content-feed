@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T11:02:18.641624+00:00",
+  "checkedAt": "2026-11-24T11:25:00.501436+00:00",
   "titles": {
-    "asura-manhwa-rebirth-of-the-divine-demon": {
-      "seriesUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7",
-      "chapterCount": 61,
-      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T02:03:42.365596Z"
-    },
-    "asura-manhwa-magic-academys-genius-blinker": {
-      "seriesUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7",
-      "chapterCount": 102,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-13T16:38:50.550092Z"
-    },
-    "asura-manhwa-the-indomitable-martial-king": {
-      "seriesUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7",
-      "chapterCount": 160,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T23:43:33.126945Z"
-    },
     "asura-manhwa-the-tutorial-is-too-hard": {
       "seriesUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7",
       "chapterCount": 298,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:22:28.715096+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-16T16:39:05.991911Z"
+    },
+    "asura-manhwa-rebirth-of-the-divine-demon": {
+      "seriesUrl": "https://asurascans.com/comics/rebirth-of-the-divine-demon-7ba78ec7",
+      "chapterCount": 61,
+      "checkedAt": "2026-11-17T02:22:28.715096+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T02:03:42.365596Z"
+    },
+    "asura-manhwa-magic-academys-genius-blinker": {
+      "seriesUrl": "https://asurascans.com/comics/magic-academys-genius-blinker-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-13T16:38:50.550092Z"
+    },
+    "asura-manhwa-the-indomitable-martial-king": {
+      "seriesUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7",
+      "chapterCount": 160,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T23:43:33.126945Z"
     }
   }
 }
