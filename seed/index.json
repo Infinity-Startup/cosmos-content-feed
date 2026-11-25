@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T03:20:13.064717+00:00",
+  "checkedAt": "2026-11-25T03:30:01.955220+00:00",
   "titles": {
-    "asura-manhwa-the-dark-mages-return-to-enlistment": {
-      "seriesUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7",
-      "chapterCount": 113,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T11:07:23.468353Z"
-    },
-    "asura-manhwa-genius-prismatic-mage": {
-      "seriesUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7",
-      "chapterCount": 102,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T10:00:58.330184Z"
-    },
-    "asura-manhwa-im-gonna-annihilate-this-land": {
-      "seriesUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7",
-      "chapterCount": 102,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-15T00:21:10.677712Z"
-    },
     "asura-manhwa-breakers": {
       "seriesUrl": "https://asurascans.com/comics/breakers-7ba78ec7",
       "chapterCount": 131,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-15T18:13:43.038023Z"
+    },
+    "asura-manhwa-the-dark-mages-return-to-enlistment": {
+      "seriesUrl": "https://asurascans.com/comics/the-dark-mages-return-to-enlistment-7ba78ec7",
+      "chapterCount": 113,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T11:07:23.468353Z"
+    },
+    "asura-manhwa-genius-prismatic-mage": {
+      "seriesUrl": "https://asurascans.com/comics/genius-prismatic-mage-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T10:00:58.330184Z"
+    },
+    "asura-manhwa-im-gonna-annihilate-this-land": {
+      "seriesUrl": "https://asurascans.com/comics/im-gonna-annihilate-this-land-7ba78ec7",
+      "chapterCount": 102,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-15T00:21:10.677712Z"
     }
   }
 }
