@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T11:27:29.048598+00:00",
+  "checkedAt": "2026-11-25T03:01:23.860606+00:00",
   "titles": {
-    "asura-manhwa-the-novels-extra-remake": {
-      "seriesUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7",
-      "chapterCount": 180,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T15:33:52.516901Z"
-    },
-    "asura-manhwa-sichuans-supreme-king": {
-      "seriesUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7",
-      "chapterCount": 53,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T14:30:52.72573Z"
-    },
-    "asura-manhwa-the-great-mage-returns-after-4000-years": {
-      "seriesUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7",
-      "chapterCount": 283,
-      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-16T13:15:45.103301Z"
-    },
     "asura-manhwa-player-who-cant-level-up": {
       "seriesUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7",
       "chapterCount": 252,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-17T02:25:34.261851+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-16T16:36:16.762374Z"
+    },
+    "asura-manhwa-the-novels-extra-remake": {
+      "seriesUrl": "https://asurascans.com/comics/the-novels-extra-remake-7ba78ec7",
+      "chapterCount": 180,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T15:33:52.516901Z"
+    },
+    "asura-manhwa-sichuans-supreme-king": {
+      "seriesUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7",
+      "chapterCount": 53,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T14:30:52.72573Z"
+    },
+    "asura-manhwa-the-great-mage-returns-after-4000-years": {
+      "seriesUrl": "https://asurascans.com/comics/the-great-mage-returns-after-4000-years-7ba78ec7",
+      "chapterCount": 283,
+      "checkedAt": "2026-11-17T02:25:34.261851+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-16T13:15:45.103301Z"
     }
   }
 }

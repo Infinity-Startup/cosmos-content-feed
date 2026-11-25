@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T11:27:29.048598+00:00",
+  "checkedAt": "2026-11-25T03:01:23.860606+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-the-novels-extra-remake",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-sichuans-supreme-king",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-the-great-mage-returns-after-4000-years",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-player-who-cant-level-up",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-infinite-titles",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-dukedoms-legendary-prodigy",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-the-dark-mages-return-to-enlistment",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-novels-extra-remake",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-sichuans-supreme-king",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-the-great-mage-returns-after-4000-years",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1172,15 +1172,15 @@
       "status": "retained"
     },
     "asura-manhwa-player-who-cant-level-up": {
-      "lastAttemptAt": "2026-11-18T10:07:09.625823+00:00",
+      "lastAttemptAt": "2026-11-25T03:01:23.860606+00:00",
       "status": "retained"
     },
     "asura-manhwa-infinite-titles": {
-      "lastAttemptAt": "2026-11-18T10:07:09.625823+00:00",
+      "lastAttemptAt": "2026-11-25T03:01:23.860606+00:00",
       "status": "retained"
     },
     "asura-manhwa-dukedoms-legendary-prodigy": {
-      "lastAttemptAt": "2026-11-18T10:17:37.828832+00:00",
+      "lastAttemptAt": "2026-11-25T03:01:23.860606+00:00",
       "status": "retained"
     },
     "asura-manhwa-the-dark-mages-return-to-enlistment": {
