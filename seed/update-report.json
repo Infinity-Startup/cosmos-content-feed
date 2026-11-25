@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T03:01:23.860606+00:00",
+  "checkedAt": "2026-11-25T03:20:13.064717+00:00",
   "titlesTotal": 121,
   "titlesChecked": 3,
   "titlesUpdated": 0,
@@ -8,40 +8,22 @@
   "status": "blocked",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-player-who-cant-level-up",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-infinite-titles",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-dukedoms-legendary-prodigy",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
       "titleId": "asura-manhwa-the-dark-mages-return-to-enlistment",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-genius-prismatic-mage",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-im-gonna-annihilate-this-land",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-breakers",
@@ -732,6 +714,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-player-who-cant-level-up",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-infinite-titles",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-dukedoms-legendary-prodigy",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -1184,15 +1184,15 @@
       "status": "retained"
     },
     "asura-manhwa-the-dark-mages-return-to-enlistment": {
-      "lastAttemptAt": "2026-11-18T10:17:37.828832+00:00",
+      "lastAttemptAt": "2026-11-25T03:20:13.064717+00:00",
       "status": "retained"
     },
     "asura-manhwa-genius-prismatic-mage": {
-      "lastAttemptAt": "2026-11-18T10:17:37.828832+00:00",
+      "lastAttemptAt": "2026-11-25T03:20:13.064717+00:00",
       "status": "retained"
     },
     "asura-manhwa-im-gonna-annihilate-this-land": {
-      "lastAttemptAt": "2026-11-18T10:22:03.813720+00:00",
+      "lastAttemptAt": "2026-11-25T03:20:13.064717+00:00",
       "status": "retained"
     },
     "asura-manhwa-breakers": {
@@ -1223,5 +1223,5 @@
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
   "newChapters": [],
-  "portraitsAwaitingReview": 1552
+  "portraitsAwaitingReview": 1503
 }
