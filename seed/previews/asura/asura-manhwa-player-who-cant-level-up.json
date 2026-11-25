@@ -1765,6 +1765,174 @@
         "sharpness": 1206.98,
         "reviewed": true
       }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-cant-level-up/46/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-player-who-cant-level-up/46-portrait-v5-80d46a5d947c.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "c4847e87713bf09a",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          210,
+          4269,
+          531,
+          4590
+        ],
+        "sourceSize": [
+          900,
+          12308
+        ],
+        "detectedFace": [
+          265.43,
+          4306.091,
+          209.619,
+          247.192
+        ],
+        "outsideFaceWhiteFraction": 0.00305,
+        "largestWhiteRegion": 0.00305,
+        "sharpness": 2437.95,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-cant-level-up/47/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-player-who-cant-level-up/47-portrait-v5-e22205d5029e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8726,
+        "faceHash": "84716bd3b58cb28e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          268,
+          14077,
+          558,
+          14367
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          308.826,
+          14110.181,
+          208.96,
+          222.803
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1218.85,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-cant-level-up/48/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-player-who-cant-level-up/48-portrait-v5-319b18592fb4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.877,
+        "faceHash": "d7c17883b51d270d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          211,
+          6276,
+          480,
+          6545
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          215.387,
+          6293.408,
+          220.056,
+          233.789
+        ],
+        "outsideFaceWhiteFraction": 0.02769,
+        "largestWhiteRegion": 0.01292,
+        "sharpness": 1911.17,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/player-who-cant-level-up-7ba78ec7/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/player-who-cant-level-up/49/003_p2.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-player-who-cant-level-up/49-portrait-v5-cbdfc7728222.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8511,
+        "faceHash": "d0946bda33393665",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          161,
+          2395,
+          492,
+          2726
+        ],
+        "sourceSize": [
+          900,
+          8575
+        ],
+        "detectedFace": [
+          228.845,
+          2433.032,
+          196.216,
+          254.443
+        ],
+        "outsideFaceWhiteFraction": 2e-05,
+        "largestWhiteRegion": 2e-05,
+        "sharpness": 1703.85,
+        "reviewed": true
+      }
     }
   }
 }

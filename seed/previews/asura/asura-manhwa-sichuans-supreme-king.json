@@ -1891,6 +1891,174 @@
         "sharpness": 1243.8,
         "reviewed": true
       }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/46/8b105a.webp?v=1790438808",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/46-portrait-v5-4e9b89f73bf9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8564,
+        "faceHash": "c4446ddebd8c3274",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          316,
+          2946,
+          705,
+          3335
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          382.434,
+          2990.479,
+          255.542,
+          299.268
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1002.95,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/47/1a8663.webp?v=1791300674",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/47-portrait-v5-e1bc399dbc74.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8535,
+        "faceHash": "a25e4baad8d632a5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          179,
+          1496,
+          550,
+          1867
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          228.406,
+          1538.965,
+          272.241,
+          285.645
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1125.41,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/48/cd82fa.webp?v=1791690321",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/48-portrait-v5-d546ada7873a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8687,
+        "faceHash": "f4780fef414c4be0",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          393,
+          15288,
+          649,
+          15544
+        ],
+        "sourceSize": [
+          900,
+          16000
+        ],
+        "detectedFace": [
+          444.507,
+          15334.058,
+          152.49,
+          163.037
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1005.16,
+        "reviewed": true
+      }
+    },
+    "49": {
+      "chapterUrl": "https://asurascans.com/comics/sichuans-supreme-king-7ba78ec7/chapter/49",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/sichuans-supreme-king/49/668968.webp?v=1792259440",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-sichuans-supreme-king/49-portrait-v5-7c6ddf7a0f1a.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8569,
+        "faceHash": "935232f682fc6669",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          145,
+          153,
+          683,
+          691
+        ],
+        "sourceSize": [
+          900,
+          2743
+        ],
+        "detectedFace": [
+          228.516,
+          248.291,
+          313.77,
+          347.168
+        ],
+        "outsideFaceWhiteFraction": 0.04907,
+        "largestWhiteRegion": 0.01642,
+        "sharpness": 1570.73,
+        "reviewed": true
+      }
     }
   }
 }

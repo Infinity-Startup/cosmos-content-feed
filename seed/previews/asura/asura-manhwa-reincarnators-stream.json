@@ -1807,6 +1807,132 @@
         "sharpness": 2313.37,
         "reviewed": true
       }
+    },
+    "46": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7/chapter/46",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnators-stream/46/8bd2c7.webp?v=1776547036",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnators-stream/46-portrait-v5-5d48d28826b9.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8682,
+        "faceHash": "dcb52f9e81cb60c8",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          11102,
+          554,
+          11390
+        ],
+        "sourceSize": [
+          800,
+          13000
+        ],
+        "detectedFace": [
+          300.488,
+          11135.742,
+          219.336,
+          221.484
+        ],
+        "outsideFaceWhiteFraction": 0.00069,
+        "largestWhiteRegion": 0.00032,
+        "sharpness": 2721.19,
+        "reviewed": true
+      }
+    },
+    "47": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7/chapter/47",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnators-stream/47/d34806.webp?v=1777163451",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnators-stream/47-portrait-v5-edb01f3c25f7.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "96b76ece7049522c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          426,
+          2754,
+          682,
+          3010
+        ],
+        "sourceSize": [
+          800,
+          14000
+        ],
+        "detectedFace": [
+          490.625,
+          2811.133,
+          125.781,
+          141.797
+        ],
+        "outsideFaceWhiteFraction": 0.00363,
+        "largestWhiteRegion": 0.00214,
+        "sharpness": 1708.81,
+        "reviewed": true
+      }
+    },
+    "48": {
+      "chapterUrl": "https://asurascans.com/comics/reincarnators-stream-7ba78ec7/chapter/48",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/reincarnators-stream/48/dc01b8.webp?v=1777751049",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-reincarnators-stream/48-portrait-v5-a6219e1e8cb0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "8ad6289ee5d91399",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          315,
+          10183,
+          647,
+          10515
+        ],
+        "sourceSize": [
+          900,
+          15000
+        ],
+        "detectedFace": [
+          344.092,
+          10204.761,
+          273.34,
+          288.721
+        ],
+        "outsideFaceWhiteFraction": 0.04665,
+        "largestWhiteRegion": 0.01161,
+        "sharpness": 3086.55,
+        "reviewed": true
+      }
     }
   }
 }
