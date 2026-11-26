@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-grimoire",
   "seriesUrl": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard",
-  "checkedAt": "2026-11-19T03:36:10.707688+00:00",
-  "chapterCount": 141,
+  "checkedAt": "2026-11-26T00:28:16.236451+00:00",
+  "chapterCount": 148,
   "chapters": [
     {
       "number": 1,
@@ -990,6 +990,55 @@
       "number": 141,
       "title": "Grimoire Harem (12)",
       "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/141",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 142,
+      "title": "Grimoire Harem (13)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/142",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 143,
+      "title": "Grimoire Harem (14)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/143",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 144,
+      "title": "Kim Yohan, the Scumbag Magician (1)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/144",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 145,
+      "title": "Kim Yohan, the Scumbag Magician (2)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/145",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 146,
+      "title": "Kim Yohan, the Scumbag Magician (3)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/146",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 147,
+      "title": "Kim Yohan, the Scumbag Magician (4)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/147",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 148,
+      "title": "Kim Yohan, the Scumbag Magician (5)",
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/148",
       "premium": false,
       "publishedAt": null
     }

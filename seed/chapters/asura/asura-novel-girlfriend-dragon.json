@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-girlfriend-dragon",
   "seriesUrl": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon",
-  "checkedAt": "2026-11-19T03:36:10.707688+00:00",
-  "chapterCount": 150,
+  "checkedAt": "2026-11-26T00:28:16.236451+00:00",
+  "chapterCount": 157,
   "chapters": [
     {
       "number": 1,
@@ -1053,6 +1053,55 @@
       "number": 150,
       "title": "You Still Haven’t Remembered",
       "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/150",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 151,
+      "title": "Eyes Opened",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/151",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 152,
+      "title": "Oppa, What Did He Say?",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/152",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 153,
+      "title": "Oppa, That Felt So Good",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/153",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 154,
+      "title": "Oppa, I Guess We Really Are Made for Each Other",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/154",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 155,
+      "title": "Oppa, It’s Been So Hard on You, Hasn’t It?",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/155",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 156,
+      "title": "Oppa, You Don’t Need to Worry",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/156",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 157,
+      "title": "Truly, a Mere Human",
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/157",
       "premium": false,
       "publishedAt": null
     }

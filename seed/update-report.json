@@ -1,77 +1,29 @@
 {
-  "checkedAt": "2026-11-25T22:10:01.532651+00:00",
+  "checkedAt": "2026-11-26T00:28:16.236451+00:00",
   "titlesTotal": 121,
-  "titlesChecked": 3,
-  "titlesUpdated": 0,
+  "titlesChecked": 8,
+  "titlesUpdated": 5,
   "titlesAlreadyFresh": 0,
-  "titlesRetained": 121,
-  "status": "blocked",
+  "titlesRetained": 116,
+  "status": "partial",
   "titleFailures": [
     {
-      "titleId": "asura-manhwa-iron-blooded-sword-hound",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-a-cadet-becomes-a-prophet",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-manhwa-helmut",
-      "reason": "HTTP Error 403: Forbidden",
-      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": false
-    },
-    {
-      "titleId": "asura-novel-grimoire",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-cultivation-demon-extermination",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-martial-genius",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-girlfriend-dragon",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
-      "deferred": true
-    },
-    {
-      "titleId": "asura-novel-newbie-civil-servant",
-      "reason": "Deferred after source rate limit or repeated verification requests",
-      "lastSuccessfulCheckAt": "2026-11-19T03:36:10.707688+00:00",
-      "deferred": true
-    },
-    {
       "titleId": "asura-manhwa-childhood-zenith",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-star-swordmaster",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-extras-academy",
-      "reason": "Deferred after source rate limit or repeated verification requests",
+      "reason": "HTTP Error 403: Forbidden",
       "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
-      "deferred": true
+      "deferred": false
     },
     {
       "titleId": "asura-manhwa-returned-player",
@@ -732,6 +684,24 @@
       "reason": "Deferred after source rate limit or repeated verification requests",
       "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
       "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-iron-blooded-sword-hound",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-helmut",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-11T14:30:33.237369+00:00",
+      "deferred": true
+    },
+    {
+      "titleId": "asura-manhwa-a-cadet-becomes-a-prophet",
+      "reason": "Deferred after source rate limit or repeated verification requests",
+      "lastSuccessfulCheckAt": "2026-11-17T02:25:34.261851+00:00",
+      "deferred": true
     }
   ],
   "titleChecks": {
@@ -840,35 +810,35 @@
       "status": "retained"
     },
     "asura-novel-grimoire": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
+      "status": "updated"
     },
     "asura-novel-cultivation-demon-extermination": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
+      "status": "updated"
     },
     "asura-novel-martial-genius": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
+      "status": "updated"
     },
     "asura-novel-girlfriend-dragon": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
+      "status": "updated"
     },
     "asura-novel-newbie-civil-servant": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
-      "status": "retained"
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
+      "status": "updated"
     },
     "asura-manhwa-childhood-zenith": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
       "status": "retained"
     },
     "asura-manhwa-star-swordmaster": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
       "status": "retained"
     },
     "asura-manhwa-extras-academy": {
-      "lastAttemptAt": "2026-11-19T03:36:10.707688+00:00",
+      "lastAttemptAt": "2026-11-26T00:28:16.236451+00:00",
       "status": "retained"
     },
     "asura-manhwa-returned-player": {
@@ -1222,6 +1192,511 @@
   },
   "sourceRequestsStopped": true,
   "lastCompleteCheckAt": "2026-11-12T05:31:09.996423+00:00",
-  "newChapters": [],
+  "newChapters": [
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 142,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/142"
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 143,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/143"
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 144,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/144"
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 145,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/145"
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 146,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/146"
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 147,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/147"
+    },
+    {
+      "titleId": "asura-novel-grimoire",
+      "title": "Pick Up a Grimoire, Become a Mage",
+      "number": 148,
+      "url": "https://asurascans.com/novels/i-picked-up-a-grimoire-and-became-a-wizard/chapter/148"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 196,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/196"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 197,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/197"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 198,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/198"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 199,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/199"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 200,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/200"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 201,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/201"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 202,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/202"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 203,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/203"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 204,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/204"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 205,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/205"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 206,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/206"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 207,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/207"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 208,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/208"
+    },
+    {
+      "titleId": "asura-novel-cultivation-demon-extermination",
+      "title": "The Tale of Cultivation and Demon Extermination",
+      "number": 209,
+      "url": "https://asurascans.com/novels/the-tale-of-cultivation-and-demon-extermination/chapter/209"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 405,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/405"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 406,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/406"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 407,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/407"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 408,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/408"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 409,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/409"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 410,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/410"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 411,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/411"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 412,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/412"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 413,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/413"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 414,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/414"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 415,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/415"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 416,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/416"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 417,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/417"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 418,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/418"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 419,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/419"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 420,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/420"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 421,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/421"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 422,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/422"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 423,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/423"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 424,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/424"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 425,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/425"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 426,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/426"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 427,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/427"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 428,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/428"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 429,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/429"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 430,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/430"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 431,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/431"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 432,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/432"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 433,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/433"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 434,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/434"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 435,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/435"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 436,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/436"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 437,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/437"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 438,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/438"
+    },
+    {
+      "titleId": "asura-novel-martial-genius",
+      "title": "The Martial Genius Who Remembers Everything",
+      "number": 439,
+      "url": "https://asurascans.com/novels/the-martial-genius-who-remembers-everything/chapter/439"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 151,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/151"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 152,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/152"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 153,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/153"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 154,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/154"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 155,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/155"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 156,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/156"
+    },
+    {
+      "titleId": "asura-novel-girlfriend-dragon",
+      "title": "My Girlfriend Returned as a Dragon",
+      "number": 157,
+      "url": "https://asurascans.com/novels/my-girlfriend-returned-as-a-dragon/chapter/157"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 198,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/198"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 199,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/199"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 200,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/200"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 201,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/201"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 202,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/202"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 203,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/203"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 204,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/204"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 205,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/205"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 206,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/206"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 207,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/207"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 208,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/208"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 209,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/209"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 210,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/210"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 211,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/211"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 212,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/212"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 213,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/213"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 214,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/214"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 215,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/215"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 216,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/216"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 217,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/217"
+    },
+    {
+      "titleId": "asura-novel-newbie-civil-servant",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "number": 218,
+      "url": "https://asurascans.com/novels/the-newbie-civil-servant-hunts-villains-before-going-home/chapter/218"
+    }
+  ],
   "portraitsAwaitingReview": 1418
 }
