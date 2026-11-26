@@ -2059,6 +2059,258 @@
         "sharpness": 905.56,
         "reviewed": true
       }
+    },
+    "77": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/77",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/77/86129c.webp?v=1777986374",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/77-portrait-v5-1b7e535fc5a1.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8755,
+        "faceHash": "91f23dc6644ba23d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          171,
+          5008,
+          444,
+          5281
+        ],
+        "sourceSize": [
+          900,
+          14608
+        ],
+        "detectedFace": [
+          202.808,
+          5041.296,
+          210.059,
+          205.884
+        ],
+        "outsideFaceWhiteFraction": 0.0002,
+        "largestWhiteRegion": 0.00012,
+        "sharpness": 711.64,
+        "reviewed": true
+      }
+    },
+    "79": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/79",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/79/46e2b9.webp?v=1777986505",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/79-portrait-v5-280c97ec74f4.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8696,
+        "faceHash": "d4e16bca299a26b5",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          634,
+          2006,
+          900,
+          2272
+        ],
+        "sourceSize": [
+          900,
+          14073
+        ],
+        "detectedFace": [
+          671.484,
+          2041.26,
+          204.785,
+          196.436
+        ],
+        "outsideFaceWhiteFraction": 0.00372,
+        "largestWhiteRegion": 0.00305,
+        "sharpness": 530.61,
+        "reviewed": true
+      }
+    },
+    "80": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/80",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/80/489fbb.webp?v=1778171319",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/80-portrait-v5-083693ed1cfc.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.875,
+        "faceHash": "82743cc878c373ed",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          226,
+          598,
+          503,
+          875
+        ],
+        "sourceSize": [
+          900,
+          13526
+        ],
+        "detectedFace": [
+          257.959,
+          633.911,
+          212.695,
+          204.346
+        ],
+        "outsideFaceWhiteFraction": 0.00278,
+        "largestWhiteRegion": 0.00275,
+        "sharpness": 817.9,
+        "reviewed": true
+      }
+    },
+    "81": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/81",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/81/bb1c53.webp?v=1778327448",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/81-portrait-v5-7f5ae0a7a848.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "c5e76a99389e6590",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          507,
+          1786,
+          789,
+          2068
+        ],
+        "sourceSize": [
+          900,
+          13500
+        ],
+        "detectedFace": [
+          542.285,
+          1819.116,
+          211.816,
+          216.65
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 771.62,
+        "reviewed": true
+      }
+    },
+    "82": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/82",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/82/73d627.webp?v=1778618515",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/82-portrait-v5-48929f52f96e.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "bec032c5db8e621d",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          357,
+          5478,
+          643,
+          5764
+        ],
+        "sourceSize": [
+          900,
+          14889
+        ],
+        "detectedFace": [
+          397.925,
+          5497.449,
+          248.291,
+          248.071
+        ],
+        "outsideFaceWhiteFraction": 0.02843,
+        "largestWhiteRegion": 0.00464,
+        "sharpness": 1092.13,
+        "reviewed": true
+      }
+    },
+    "83": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/83",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/83/e41937.webp?v=1778789424",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/83-portrait-v5-8c4312c0c350.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8706,
+        "faceHash": "e8bf7f91f0c03860",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          517,
+          2538,
+          783,
+          2804
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          547.852,
+          2568.555,
+          204.297,
+          203.906
+        ],
+        "outsideFaceWhiteFraction": 0.02647,
+        "largestWhiteRegion": 0.01486,
+        "sharpness": 733.89,
+        "reviewed": true
+      }
     }
   }
 }
