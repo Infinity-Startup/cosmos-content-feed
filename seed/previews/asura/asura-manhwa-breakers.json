@@ -1849,6 +1849,216 @@
         "sharpness": 1529.67,
         "reviewed": true
       }
+    },
+    "68": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/68",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/68/6a4b09.webp?v=1775071799",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/68-portrait-v5-76c365a5b3f0.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8574,
+        "faceHash": "d6e06a996dd9c198",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          444,
+          4520,
+          700,
+          4776
+        ],
+        "sourceSize": [
+          800,
+          13022
+        ],
+        "detectedFace": [
+          448.633,
+          4531.641,
+          209.766,
+          203.906
+        ],
+        "outsideFaceWhiteFraction": 0.028,
+        "largestWhiteRegion": 0.01607,
+        "sharpness": 1281.94,
+        "reviewed": true
+      }
+    },
+    "70": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/70",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/70/c0f4dd.webp?v=1775744167",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/70-portrait-v5-837eae9d8a67.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8604,
+        "faceHash": "dcf42acaee08b2a9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          242,
+          6168,
+          532,
+          6458
+        ],
+        "sourceSize": [
+          800,
+          13959
+        ],
+        "detectedFace": [
+          275.781,
+          6228.418,
+          223.047,
+          170.117
+        ],
+        "outsideFaceWhiteFraction": 0.02562,
+        "largestWhiteRegion": 0.00739,
+        "sharpness": 1143.37,
+        "reviewed": true
+      }
+    },
+    "71": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/71",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/71/99d4eb.webp?v=1775747591",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/71-portrait-v5-51ab64561ed2.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "81a71fd83892699f",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          190,
+          551,
+          446,
+          807
+        ],
+        "sourceSize": [
+          800,
+          14492
+        ],
+        "detectedFace": [
+          208.203,
+          555.469,
+          220.312,
+          217.188
+        ],
+        "outsideFaceWhiteFraction": 0.04448,
+        "largestWhiteRegion": 0.01564,
+        "sharpness": 1333.85,
+        "reviewed": true
+      }
+    },
+    "73": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/73",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/73/4e92c2.webp?v=1775858562",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/73-portrait-v5-f256675cc9d8.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.853,
+        "faceHash": "d7fa688309993ccc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          196,
+          2932,
+          465,
+          3201
+        ],
+        "sourceSize": [
+          800,
+          11866
+        ],
+        "detectedFace": [
+          192.969,
+          2950.195,
+          233.594,
+          231.641
+        ],
+        "outsideFaceWhiteFraction": 0.0451,
+        "largestWhiteRegion": 0.01611,
+        "sharpness": 649.36,
+        "reviewed": true
+      }
+    },
+    "74": {
+      "chapterUrl": "https://asurascans.com/comics/breakers-7ba78ec7/chapter/74",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/breakers/74/224b24.webp?v=1777118386",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-breakers/74-portrait-v5-f76c7f4efc26.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8633,
+        "faceHash": "d5e46bc2311ce6cc",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          266,
+          4502,
+          572,
+          4808
+        ],
+        "sourceSize": [
+          800,
+          12811
+        ],
+        "detectedFace": [
+          279.59,
+          4556.641,
+          235.742,
+          197.656
+        ],
+        "outsideFaceWhiteFraction": 0.04803,
+        "largestWhiteRegion": 0.01744,
+        "sharpness": 905.56,
+        "reviewed": true
+      }
     }
   }
 }

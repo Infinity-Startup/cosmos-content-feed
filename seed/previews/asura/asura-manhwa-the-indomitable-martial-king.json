@@ -1933,6 +1933,132 @@
         "sharpness": 3587.89,
         "reviewed": true
       }
+    },
+    "55": {
+      "chapterUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7/chapter/55",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-indomitable-martial-king/55/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-indomitable-martial-king/55-portrait-v5-3ff155bcbeba.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8623,
+        "faceHash": "d1727ee16e962189",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          146,
+          4670,
+          402,
+          4926
+        ],
+        "sourceSize": [
+          800,
+          14045
+        ],
+        "detectedFace": [
+          193.506,
+          4701.172,
+          161.426,
+          192.969
+        ],
+        "outsideFaceWhiteFraction": 0.0,
+        "largestWhiteRegion": 0,
+        "sharpness": 1844.98,
+        "reviewed": true
+      }
+    },
+    "57": {
+      "chapterUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7/chapter/57",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-indomitable-martial-king/57/004.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-indomitable-martial-king/57-portrait-v5-75d4b41781f6.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8584,
+        "faceHash": "97165caad24b876c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          53,
+          2870,
+          359,
+          3176
+        ],
+        "sourceSize": [
+          800,
+          12980
+        ],
+        "detectedFace": [
+          102.832,
+          2905.664,
+          205.664,
+          235.547
+        ],
+        "outsideFaceWhiteFraction": 0.0067,
+        "largestWhiteRegion": 0.002,
+        "sharpness": 1841.69,
+        "reviewed": true
+      }
+    },
+    "59": {
+      "chapterUrl": "https://asurascans.com/comics/the-indomitable-martial-king-7ba78ec7/chapter/59",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-indomitable-martial-king/59/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-indomitable-martial-king/59-portrait-v5-4d881afa3e48.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8652,
+        "faceHash": "d107699b35183ee9",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          171,
+          13207,
+          452,
+          13488
+        ],
+        "sourceSize": [
+          800,
+          14928
+        ],
+        "detectedFace": [
+          207.715,
+          13239.648,
+          206.836,
+          216.211
+        ],
+        "outsideFaceWhiteFraction": 9e-05,
+        "largestWhiteRegion": 6e-05,
+        "sharpness": 1807.83,
+        "reviewed": true
+      }
     }
   }
 }
