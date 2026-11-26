@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-scheming-demon",
   "seriesUrl": "https://asurascans.com/novels/whispers-of-a-scheming-demon",
-  "checkedAt": "2026-11-19T08:38:19.505410+00:00",
-  "chapterCount": 216,
+  "checkedAt": "2026-11-26T02:51:19.101559+00:00",
+  "chapterCount": 230,
   "chapters": [
     {
       "number": 0,
@@ -1515,6 +1515,104 @@
       "number": 215,
       "title": "Tying Up Loose Ends (1)",
       "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/215",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 216,
+      "title": "Tying Up Loose Ends (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/216",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 217,
+      "title": "Emotions (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/217",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 218,
+      "title": "Emotions (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/218",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 219,
+      "title": "Questions",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/219",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 220,
+      "title": "Questions (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/220",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 221,
+      "title": "Dreams",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/221",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 222,
+      "title": "Dreams (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/222",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 223,
+      "title": "Dreams (3)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/223",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 224,
+      "title": "Dreams (4)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/224",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 225,
+      "title": "Dreams (5)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/225",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 226,
+      "title": "Ballroom of the Depths (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/226",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 227,
+      "title": "Ballroom of the Depths (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/227",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 228,
+      "title": "Sinking into Bliss (1)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/228",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 229,
+      "title": "Sinking into Bliss (2)",
+      "url": "https://asurascans.com/novels/whispers-of-a-scheming-demon/chapter/229",
       "premium": false,
       "publishedAt": null
     }

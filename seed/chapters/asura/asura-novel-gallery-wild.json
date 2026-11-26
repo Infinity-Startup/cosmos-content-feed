@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-gallery-wild",
   "seriesUrl": "https://asurascans.com/novels/got-a-gallery-in-the-wild",
-  "checkedAt": "2026-11-19T08:38:19.505410+00:00",
-  "chapterCount": 244,
+  "checkedAt": "2026-11-26T02:51:19.101559+00:00",
+  "chapterCount": 279,
   "chapters": [
     {
       "number": 1,
@@ -1711,6 +1711,251 @@
       "number": 244,
       "title": "Growing Pains (3)",
       "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/244",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 245,
+      "title": "Growing Pains (4)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/245",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 246,
+      "title": "Class Change (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/246",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 247,
+      "title": "Class Change (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/247",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 248,
+      "title": "Meteorite (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/248",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 249,
+      "title": "Meteorite (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/249",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 250,
+      "title": "Meteorite (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/250",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 251,
+      "title": "Illegal Dumping (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/251",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 252,
+      "title": "Illegal Dumping (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/252",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 253,
+      "title": "Illegal Dumping (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/253",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 254,
+      "title": "Illegal Dumping (4)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/254",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 255,
+      "title": "Luck (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/255",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 256,
+      "title": "Luck (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/256",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 257,
+      "title": "Luck (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/257",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 258,
+      "title": "Literature (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/258",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 259,
+      "title": "Literature (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/259",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 260,
+      "title": "Literature (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/260",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 261,
+      "title": "A Craftsman and His Tools (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/261",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 262,
+      "title": "A Craftsman and His Tools (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/262",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 263,
+      "title": "A Craftsman and His Tools (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/263",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 264,
+      "title": "Finders Keepers (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/264",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 265,
+      "title": "Finders Keepers (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/265",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 266,
+      "title": "Finders Keepers (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/266",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 267,
+      "title": "Finders Keepers (4)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/267",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 268,
+      "title": "Broken Arrow (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/268",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 269,
+      "title": "Broken Arrow (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/269",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 270,
+      "title": "Broken Arrow (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/270",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 271,
+      "title": "Goblin (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/271",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 272,
+      "title": "Goblin (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/272",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 273,
+      "title": "Goblin (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/273",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 274,
+      "title": "Invitation (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/274",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 275,
+      "title": "Invitation (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/275",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 276,
+      "title": "Invitation (3)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/276",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 277,
+      "title": "The Value of Death (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/277",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 278,
+      "title": "The Value of Death (2)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/278",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 279,
+      "title": "Raw Physical Might (1)",
+      "url": "https://asurascans.com/novels/got-a-gallery-in-the-wild/chapter/279",
       "premium": false,
       "publishedAt": null
     }
