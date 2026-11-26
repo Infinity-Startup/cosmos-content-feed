@@ -2185,6 +2185,132 @@
         "sharpness": 1788.09,
         "reviewed": true
       }
+    },
+    "60": {
+      "chapterUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7/chapter/60",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-tutorial-is-too-hard/60/002_p1.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-tutorial-is-too-hard/60-portrait-v5-6421b6d1a378.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8501,
+        "faceHash": "82ed7ed394cc330c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          350,
+          11823,
+          706,
+          12179
+        ],
+        "sourceSize": [
+          800,
+          16000
+        ],
+        "detectedFace": [
+          397.754,
+          11864.258,
+          259.961,
+          273.828
+        ],
+        "outsideFaceWhiteFraction": 0.02354,
+        "largestWhiteRegion": 0.00595,
+        "sharpness": 8720.89,
+        "reviewed": true
+      }
+    },
+    "63": {
+      "chapterUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7/chapter/63",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-tutorial-is-too-hard/63/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-tutorial-is-too-hard/63-portrait-v5-1bd7f320a723.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8545,
+        "faceHash": "80583e47758df31e",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          248,
+          12141,
+          619,
+          12512
+        ],
+        "sourceSize": [
+          800,
+          15000
+        ],
+        "detectedFace": [
+          291.699,
+          12184.277,
+          283.008,
+          285.352
+        ],
+        "outsideFaceWhiteFraction": 0.01189,
+        "largestWhiteRegion": 0.00369,
+        "sharpness": 3182.79,
+        "reviewed": true
+      }
+    },
+    "66": {
+      "chapterUrl": "https://asurascans.com/comics/the-tutorial-is-too-hard-7ba78ec7/chapter/66",
+      "sourceImageUrl": "https://cdn.asurascans.com/asura-images/chapters/the-tutorial-is-too-hard/66/002.webp?v=1770499638",
+      "image": {
+        "uri": "https://infinity-startup.github.io/cosmos-content-feed/portraits/asura-manhwa-the-tutorial-is-too-hard/66-portrait-v5-1ba9fe9baa09.webp"
+      },
+      "quality": {
+        "version": 5,
+        "width": 384,
+        "height": 384,
+        "textRegions": 0,
+        "textScreening": "multilingual-context-and-regions",
+        "faceConfidence": 0.8516,
+        "faceHash": "871d7e9961987b0c",
+        "recognitionLanguages": [
+          "ko-KR",
+          "en-US",
+          "ja-JP",
+          "zh-Hans"
+        ],
+        "sourceCrop": [
+          292,
+          7073,
+          611,
+          7392
+        ],
+        "sourceSize": [
+          720,
+          12125
+        ],
+        "detectedFace": [
+          337.412,
+          7109.648,
+          227.988,
+          245.742
+        ],
+        "outsideFaceWhiteFraction": 0.00281,
+        "largestWhiteRegion": 0.00049,
+        "sharpness": 3322.75,
+        "reviewed": true
+      }
     }
   }
 }
