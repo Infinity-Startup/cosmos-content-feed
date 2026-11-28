@@ -1,28 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-27T21:49:45.797349+00:00",
+  "checkedAt": "2026-11-28T03:57:40.934322+00:00",
   "titles": {
-    "asura-manhwa-dungeon-odyssey": {
-      "seriesUrl": "https://asurascans.com/comics/dungeon-odyssey-f212c582",
-      "chapterCount": 176,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-06T15:41:47.769747Z"
-    },
-    "asura-manhwa-the-player-hides-his-past": {
-      "seriesUrl": "https://asurascans.com/comics/the-player-hides-his-past-f212c582",
-      "chapterCount": 146,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T22:01:09.017741Z"
-    },
-    "asura-manhwa-the-ultimate-shut-in": {
-      "seriesUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582",
-      "chapterCount": 104,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T22:37:38.13992Z"
-    },
     "asura-manhwa-academys-genius-swordmaster": {
       "seriesUrl": "https://asurascans.com/comics/academys-genius-swordmaster-f212c582",
       "chapterCount": 162,
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 0,
       "latestPublishedAt": "2026-11-06T12:49:45.9807Z"
+    },
+    "asura-manhwa-dungeon-odyssey": {
+      "seriesUrl": "https://asurascans.com/comics/dungeon-odyssey-f212c582",
+      "chapterCount": 176,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T15:41:47.769747Z"
+    },
+    "asura-manhwa-the-player-hides-his-past": {
+      "seriesUrl": "https://asurascans.com/comics/the-player-hides-his-past-f212c582",
+      "chapterCount": 146,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:01:09.017741Z"
+    },
+    "asura-manhwa-the-ultimate-shut-in": {
+      "seriesUrl": "https://asurascans.com/comics/the-ultimate-shut-in-f212c582",
+      "chapterCount": 104,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:37:38.13992Z"
     }
   }
 }
