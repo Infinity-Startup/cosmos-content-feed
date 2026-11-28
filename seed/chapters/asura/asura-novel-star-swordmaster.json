@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-star-swordmaster",
   "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
-  "checkedAt": "2026-11-20T20:55:55.766429+00:00",
-  "chapterCount": 280,
+  "checkedAt": "2026-11-28T13:08:21.230091+00:00",
+  "chapterCount": 288,
   "chapters": [
     {
       "number": 1,
@@ -1963,6 +1963,62 @@
       "number": 280,
       "title": "The Crimson Lady",
       "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/280",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 281,
+      "title": "Father's City (1)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/281",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 282,
+      "title": "Father's City (2)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/282",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 283,
+      "title": "Father's City (3)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/283",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 284,
+      "title": "Father's City (4)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/284",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 285,
+      "title": "Young Dragons Seeking Somewhere to Go (1)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/285",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 286,
+      "title": "Young Dragons Seeking Somewhere to Go (2)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/286",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 287,
+      "title": "Young Dragons Seeking Somewhere to Go (3)",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/287",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 288,
+      "title": "Soaking the Land of Tears",
+      "url": "https://asurascans.com/novels/star-embracing-swordmaster/chapter/288",
       "premium": false,
       "publishedAt": null
     }

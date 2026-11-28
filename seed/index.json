@@ -1,92 +1,71 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-28T03:57:40.934322+00:00",
+  "checkedAt": "2026-11-28T13:08:21.230091+00:00",
   "titles": {
-    "asura-manhwa-academys-genius-swordmaster": {
-      "seriesUrl": "https://asurascans.com/comics/academys-genius-swordmaster-f212c582",
-      "chapterCount": 162,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-08T22:01:02.677003Z"
-    },
-    "asura-manhwa-bad-born-blood": {
-      "seriesUrl": "https://asurascans.com/comics/bad-born-blood-f212c582",
-      "chapterCount": 108,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-07T12:10:43.282065Z"
-    },
-    "asura-manhwa-the-reincarnated-assassin-is-a-genius-swordsman": {
-      "seriesUrl": "https://asurascans.com/comics/the-reincarnated-assassin-is-a-genius-swordsman-f212c582",
-      "chapterCount": 100,
-      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
-      "firstChapter": 1,
-      "latestPublishedAt": "2026-11-06T07:45:39.174341Z"
-    },
     "regressor-blind-saint": {
       "seriesUrl": "https://asurascans.com/novels/the-regressor-and-the-blind-saint",
-      "chapterCount": 185,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 209,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 0
     },
     "asura-novel-first-prince": {
       "seriesUrl": "https://asurascans.com/novels/i-became-the-first-prince-legend-of-swords-song",
-      "chapterCount": 319,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 335,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-raising-villains": {
       "seriesUrl": "https://asurascans.com/novels/raising-villains-the-right-way",
-      "chapterCount": 284,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 324,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-black-badger": {
       "seriesUrl": "https://asurascans.com/novels/black-badger",
-      "chapterCount": 207,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 231,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-demon-king": {
       "seriesUrl": "https://asurascans.com/novels/the-demon-king-overrun-by-heroes",
       "chapterCount": 301,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-copying-skills": {
       "seriesUrl": "https://asurascans.com/novels/copying-skills-with-affinity",
-      "chapterCount": 198,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 211,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-ode-brave": {
       "seriesUrl": "https://asurascans.com/novels/ode-of-the-brave",
-      "chapterCount": 218,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 242,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-solo-swordmaster": {
       "seriesUrl": "https://asurascans.com/novels/solo-swordmaster",
-      "chapterCount": 339,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 379,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-star-swordmaster": {
       "seriesUrl": "https://asurascans.com/novels/star-embracing-swordmaster",
-      "chapterCount": 280,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 288,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-regressing-knight": {
       "seriesUrl": "https://asurascans.com/novels/eternally-regressing-knight",
-      "chapterCount": 664,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 704,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 1
     },
     "asura-novel-shepherd-wizard": {
       "seriesUrl": "https://asurascans.com/novels/the-shepherd-wizard",
-      "chapterCount": 236,
-      "checkedAt": "2026-11-20T20:55:55.766429+00:00",
+      "chapterCount": 260,
+      "checkedAt": "2026-11-28T13:08:21.230091+00:00",
       "firstChapter": 0
     },
     "asura-manhwa-barbarian": {
@@ -817,6 +796,27 @@
       "checkedAt": "2026-11-11T14:30:33.237369+00:00",
       "firstChapter": 1,
       "latestPublishedAt": "2026-11-08T22:37:38.13992Z"
+    },
+    "asura-manhwa-academys-genius-swordmaster": {
+      "seriesUrl": "https://asurascans.com/comics/academys-genius-swordmaster-f212c582",
+      "chapterCount": 162,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-08T22:01:02.677003Z"
+    },
+    "asura-manhwa-bad-born-blood": {
+      "seriesUrl": "https://asurascans.com/comics/bad-born-blood-f212c582",
+      "chapterCount": 108,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-07T12:10:43.282065Z"
+    },
+    "asura-manhwa-the-reincarnated-assassin-is-a-genius-swordsman": {
+      "seriesUrl": "https://asurascans.com/comics/the-reincarnated-assassin-is-a-genius-swordsman-f212c582",
+      "chapterCount": 100,
+      "checkedAt": "2026-11-11T14:30:33.237369+00:00",
+      "firstChapter": 1,
+      "latestPublishedAt": "2026-11-06T07:45:39.174341Z"
     }
   }
 }

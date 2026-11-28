@@ -3,8 +3,8 @@
   "provider": "asura",
   "titleId": "asura-novel-copying-skills",
   "seriesUrl": "https://asurascans.com/novels/copying-skills-with-affinity",
-  "checkedAt": "2026-11-20T20:55:55.766429+00:00",
-  "chapterCount": 198,
+  "checkedAt": "2026-11-28T13:08:21.230091+00:00",
+  "chapterCount": 211,
   "chapters": [
     {
       "number": 1,
@@ -1389,6 +1389,97 @@
       "number": 198,
       "title": "Marriage",
       "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/198",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 199,
+      "title": "Entry",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/199",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 200,
+      "title": "Entry (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/200",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 201,
+      "title": "Entry (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/201",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 202,
+      "title": "Breakthrough",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/202",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 203,
+      "title": "Breakthrough (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/203",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 204,
+      "title": "Breakthrough (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/204",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 205,
+      "title": "Recollection",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/205",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 206,
+      "title": "The Showdown",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/206",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 207,
+      "title": "The Showdown (2)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/207",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 208,
+      "title": "The Showdown (3)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/208",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 209,
+      "title": "The Showdown (4)",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/209",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 210,
+      "title": "The End",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/210",
+      "premium": false,
+      "publishedAt": null
+    },
+    {
+      "number": 211,
+      "title": "Side Story 1 — The Path",
+      "url": "https://asurascans.com/novels/copying-skills-with-affinity/chapter/211",
       "premium": false,
       "publishedAt": null
     }
